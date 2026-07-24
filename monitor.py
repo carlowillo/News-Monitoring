@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 """
 Christian Concern News Monitor - self-contained edition.
-
-Everything lives in this one file: feeds, keywords, and logic.
-No config files, no pip installs, no dependencies beyond Python itself.
-
+Only reports articles published within the last MAX_AGE_HOURS (default 24).
 To change what it monitors, edit the FEEDS and ISSUES lists below.
 """
 
@@ -14,8 +11,15 @@ import json
 import hashlib
 import urllib.request
 import urllib.parse
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from xml.etree import ElementTree as ET
+
+# ---------------------------------------------------------------------------
+# EDIT THIS: how far back to look
+# ---------------------------------------------------------------------------
+
+MAX_AGE_HOURS = 24
 
 # ---------------------------------------------------------------------------
 # EDIT THIS: news sources
@@ -33,7 +37,6 @@ FEEDS = [
     ("The Guardian (UK)", "https://www.theguardian.com/uk/rss"),
     ("Christian Today", "https://www.christiantoday.com/rss-feeds"),
     ("Church Times", "https://www.churchtimes.co.uk/rss/news"),
-    # Google News searches - these reach paywalled titles' headlines too.
     ("Google News: assisted dying",
      "https://news.google.com/rss/search?q=assisted+dying+UK&hl=en-GB&gl=GB&ceid=GB:en"),
     ("Google News: abortion UK",
@@ -72,9 +75,53 @@ LOG_FILE = "digest_log.md"
 MAX_LOG_ENTRIES = 150
 USER_AGENT = "Mozilla/5.0 (compatible; NewsMonitor/1.0)"
 
+NS_ATOM = {"a": "http://www.w3.org/2005/Atom"}
+NS_DC = {"dc": "http://purl.org/dc/elements/1.1/"}
+
+
+def parse_date(raw):
+    """Turn a feed's date string into a timezone-aware UTC datetime."""
+    if not raw:
+        return None
+    raw = raw.strip()
+    if not raw:
+        return None
+
+    try:
+        dt = parsedate_to_datetime(raw)
+        if dt is not None:
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc)
+    except (TypeError, ValueError):
+        pass
+
+    iso = raw.replace("Z", "+00:00")
+    try:
+        dt = datetime.fromisoformat(iso)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except ValueError:
+        pass
+
+    for fmt in ("%Y-%m-%d %H:%M:%S", "%Y-%m-%d", "%d/%m/%Y"):
+        try:
+            dt = datetime.strptime(raw, fmt)
+            return dt.replace(tzinfo=timezone.utc)
+        except ValueError:
+            continue
+
+    return None
+
+
+def is_recent(published, cutoff):
+    if published is None:
+        return False
+    return published >= cutoff
+
 
 def load_seen():
-    """Load previously-seen article IDs. Survives a missing, empty or corrupt file."""
     try:
         with open(STATE_FILE, encoding="utf-8") as f:
             content = f.read().strip()
@@ -86,7 +133,6 @@ def load_seen():
 
 
 def save_seen(seen):
-    # Keep only the most recent 5000 so the file doesn't grow forever.
     trimmed = sorted(seen)[-5000:]
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(trimmed, f)
@@ -113,22 +159,46 @@ def parse_feed(xml_bytes, source_name):
         title = strip_html(node.findtext("title"))
         link = (node.findtext("link") or "").strip()
         summary = strip_html(node.findtext("description"))
-        if title and link:
-            items.append({"title": title, "link": link,
-                          "summary": summary, "source": source_name})
 
-    ns = {"a": "http://www.w3.org/2005/Atom"}
-    for node in root.findall(".//a:entry", ns):
-        title = strip_html(node.findtext("a:title", namespaces=ns))
-        link_el = node.find("a:link", ns)
+        raw_date = node.findtext("pubDate")
+        if not raw_date:
+            raw_date = node.findtext("date")
+        if not raw_date:
+            dc_node = node.find("dc:date", NS_DC)
+            if dc_node is not None:
+                raw_date = dc_node.text
+
+        if title and link:
+            items.append({
+                "title": title,
+                "link": link,
+                "summary": summary,
+                "source": source_name,
+                "published": parse_date(raw_date),
+            })
+
+    for node in root.findall(".//a:entry", NS_ATOM):
+        title = strip_html(node.findtext("a:title", namespaces=NS_ATOM))
+        link_el = node.find("a:link", NS_ATOM)
         link = link_el.get("href") if link_el is not None else ""
         summary = strip_html(
-            node.findtext("a:summary", namespaces=ns)
-            or node.findtext("a:content", namespaces=ns)
+            node.findtext("a:summary", namespaces=NS_ATOM)
+            or node.findtext("a:content", namespaces=NS_ATOM)
         )
+
+        raw_date = (
+            node.findtext("a:published", namespaces=NS_ATOM)
+            or node.findtext("a:updated", namespaces=NS_ATOM)
+        )
+
         if title and link:
-            items.append({"title": title, "link": link,
-                          "summary": summary, "source": source_name})
+            items.append({
+                "title": title,
+                "link": link,
+                "summary": summary,
+                "source": source_name,
+                "published": parse_date(raw_date),
+            })
 
     return items
 
@@ -144,16 +214,19 @@ def classify(item):
 
 def build_digest(by_issue):
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    lines = [f"# Digest - {stamp}", ""]
+    lines = [f"# Digest - {stamp}",
+             f"*Articles published in the last {MAX_AGE_HOURS} hours*", ""]
     if not any(by_issue.values()):
         lines.append("No new relevant articles this run.")
         return "\n".join(lines)
     for issue, articles in by_issue.items():
         if not articles:
             continue
+        articles.sort(key=lambda a: a["published"], reverse=True)
         lines.append(f"## {issue} ({len(articles)})")
         for a in articles:
-            lines.append(f"- [{a['title']}]({a['link']}) - *{a['source']}*")
+            when = a["published"].strftime("%d %b %H:%M")
+            lines.append(f"- [{a['title']}]({a['link']}) - *{a['source']}*, {when} UTC")
         lines.append("")
     return "\n".join(lines)
 
@@ -186,6 +259,11 @@ def post_slack(text):
 
 
 def main():
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(hours=MAX_AGE_HOURS)
+    print(f"Only reporting articles published after "
+          f"{cutoff.strftime('%Y-%m-%d %H:%M UTC')}")
+
     seen = load_seen()
     print(f"Previously seen: {len(seen)} articles")
 
@@ -193,8 +271,11 @@ def main():
     for name, url in FEEDS:
         try:
             items = parse_feed(fetch(url), name)
-            print(f"  {name}: {len(items)}")
-            all_items.extend(items)
+            fresh = [i for i in items if is_recent(i["published"], cutoff)]
+            undated = sum(1 for i in items if i["published"] is None)
+            note = f" ({undated} undated, skipped)" if undated else ""
+            print(f"  {name}: {len(items)} fetched, {len(fresh)} recent{note}")
+            all_items.extend(fresh)
         except Exception as e:
             print(f"  ! {name} failed: {e}")
 
@@ -205,7 +286,7 @@ def main():
             new_items.append(it)
             seen.add(aid)
 
-    print(f"\n{len(new_items)} new of {len(all_items)} fetched")
+    print(f"\n{len(new_items)} new and recent, out of {len(all_items)} recent")
 
     by_issue = {name: [] for name in ISSUES}
     for it in new_items:
