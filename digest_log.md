@@ -1,3 +1,11 @@
+# Digest - 2026-07-24 10:44 UTC
+*Articles published in the last 24 hours*
+
+## Assisted Suicide / Assisted Dying (1)
+- [Assisted suicide Bill published – email your MP now - Right To Life UK](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ1ZHRTgwV1lmSlZoUnY1TnJXVWdrOHJCejJHS1lFdEVuTVJMR2lfakdPSm45cldQeUtYbmtJQmVpWEhzSzNESUhna2NyWFFWYTZ1cU5EMTBVWUNBVzVrTjJKRkNXZ2xSZnNzTWhCcUlBQkt5OHhZV0k2ZHFWVlhBaEVPY0FRNGRM?oc=5) - *Google News: assisted dying*, 24 Jul 08:12 UTC
+
+---
+
 # Digest - 2026-07-24 10:29 UTC
 
 ## Assisted Suicide / Assisted Dying (99)
@@ -211,3 +219,4 @@
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
