@@ -120,6 +120,17 @@ BATCH_SIZE = 20          # articles per AI call
 MODEL = "gpt-5.5"        # or "gpt-5.5-mini" / "gpt-5.4-mini" to cut cost
 OPENAI_URL = "https://api.openai.com/v1/chat/completions"
 
+# How hard the model thinks before answering.
+# gpt-5.5 accepts: none, low, medium, high, xhigh  (xhigh = maximum)
+# Higher = better judgement, but slower and more expensive, because
+# thinking tokens are billed at the output rate.
+CLASSIFY_EFFORT = "high"     # sorting articles - a more mechanical task
+RECOMMEND_EFFORT = "xhigh"   # picking + justifying the top 5 - real judgement
+
+# Reasoning tokens count towards this, so it must be generous at high effort
+# or the model can think until it runs out and return nothing.
+MAX_OUTPUT_TOKENS = 32000
+
 NS_ATOM = {"a": "http://www.w3.org/2005/Atom"}
 NS_DC = {"dc": "http://purl.org/dc/elements/1.1/"}
 
@@ -251,6 +262,92 @@ def parse_feed(xml_bytes, source_name, is_google=False):
 
 
 # ---------------------------------------------------------------------------
+# Deduplication
+# ---------------------------------------------------------------------------
+
+def normalise_url(url):
+    """Strip tracking parameters so the same article isn't counted twice."""
+    try:
+        parts = urllib.parse.urlsplit(url)
+        query = urllib.parse.parse_qsl(parts.query)
+        keep = [(k, v) for k, v in query
+                if not k.lower().startswith(("utm_", "fbclid", "gclid", "ito",
+                                             "ref", "share", "cmp"))]
+        return urllib.parse.urlunsplit(
+            (parts.scheme, parts.netloc.lower().replace("www.", ""),
+             parts.path.rstrip("/"), urllib.parse.urlencode(keep), "")) or url
+    except Exception:
+        return url
+
+
+STOPWORDS = {
+    "a", "an", "the", "and", "or", "but", "of", "to", "in", "on", "for",
+    "with", "as", "at", "by", "from", "is", "are", "was", "were", "be",
+    "been", "it", "its", "this", "that", "these", "those", "over", "after",
+    "says", "say", "said", "new", "uk", "britain", "british", "amid", "could",
+}
+
+
+def title_tokens(title):
+    """Normalise a headline to a set of meaningful words for comparison."""
+    text = re.sub(r"[^a-z0-9\s]", " ", title.lower())
+    return {w for w in text.split() if w not in STOPWORDS and len(w) > 2}
+
+
+def titles_match(tokens_a, tokens_b, threshold=0.55):
+    """Are these two headlines telling the same story?"""
+    if not tokens_a or not tokens_b:
+        return False
+    overlap = len(tokens_a & tokens_b)
+    union = len(tokens_a | tokens_b)
+    if union == 0:
+        return False
+    smaller = min(len(tokens_a), len(tokens_b))
+    containment = overlap / smaller if smaller else 0
+    # Jaccard catches reworded headlines; containment catches one headline
+    # being a longer version of another.
+    return (overlap / union) >= threshold or containment >= 0.85
+
+
+def deduplicate(items):
+    """
+    Two passes: identical URL, then near-identical headline (same story
+    carried by several outlets). Records which other outlets ran it, which
+    is itself a useful signal of how big a story is.
+    """
+    by_url = {}
+    for it in items:
+        key = normalise_url(it["link"])
+        if key not in by_url:
+            by_url[key] = it
+    staged = list(by_url.values())
+
+    kept = []
+    for it in staged:
+        tokens = title_tokens(it["title"])
+        match = None
+        for existing in kept:
+            if titles_match(tokens, existing["_tokens"]):
+                match = existing
+                break
+        if match:
+            others = match.setdefault("also_in", [])
+            if it["source"] != match["source"] and it["source"] not in others:
+                others.append(it["source"])
+            if it["published"] and match["published"] and \
+               it["published"] < match["published"]:
+                match["published"] = it["published"]
+        else:
+            it["_tokens"] = tokens
+            it.setdefault("also_in", [])
+            kept.append(it)
+
+    for it in kept:
+        it.pop("_tokens", None)
+    return kept
+
+
+# ---------------------------------------------------------------------------
 # Classification
 # ---------------------------------------------------------------------------
 
@@ -279,7 +376,7 @@ def extract_json(text):
     return None
 
 
-def _openai_request(api_key, prompt, token_param, max_tokens):
+def _openai_request(api_key, prompt, token_param, max_tokens, effort):
     """Build and send one OpenAI request. Returns (text, error_message)."""
     payload = {
         "model": MODEL,
@@ -287,6 +384,8 @@ def _openai_request(api_key, prompt, token_param, max_tokens):
     }
     if token_param:
         payload[token_param] = max_tokens
+    if effort:
+        payload["reasoning_effort"] = effort
 
     req = urllib.request.Request(
         OPENAI_URL,
@@ -295,16 +394,20 @@ def _openai_request(api_key, prompt, token_param, max_tokens):
                  "Authorization": f"Bearer {api_key}"},
     )
     try:
-        with urllib.request.urlopen(req, timeout=180) as resp:
+        with urllib.request.urlopen(req, timeout=900) as resp:
             data = json.loads(resp.read())
         choices = data.get("choices") or []
         if not choices:
             return None, "no choices in response"
         content = (choices[0].get("message") or {}).get("content")
         if not content:
-            # Reasoning models can spend the whole budget on reasoning
             finish = choices[0].get("finish_reason", "")
-            return None, f"empty content (finish_reason={finish})"
+            usage = data.get("usage", {})
+            detail = usage.get("completion_tokens_details", {})
+            reasoning_used = detail.get("reasoning_tokens", "?")
+            return None, (f"empty content (finish_reason={finish}, "
+                          f"reasoning_tokens={reasoning_used}) - "
+                          f"try raising MAX_OUTPUT_TOKENS or lowering effort")
         return content, None
     except urllib.error.HTTPError as e:
         try:
@@ -316,26 +419,77 @@ def _openai_request(api_key, prompt, token_param, max_tokens):
         return None, str(e)
 
 
-def call_openai(api_key, prompt, max_tokens=8000, retries=3):
+def _param_unknown(err, names):
+    """The parameter itself isn't recognised - no point trying other values."""
+    if not err:
+        return False
+    low = err.lower()
+    unknown = ("unrecognized request argument" in low
+               or "unknown parameter" in low
+               or "unsupported parameter" in low
+               or "is not supported with this model" in low)
+    return unknown and any(n.lower() in low for n in names)
+
+
+def _value_rejected(err, names):
+    """The parameter exists but this value isn't allowed - try a lower one."""
+    if not err:
+        return False
+    low = err.lower()
+    bad_value = ("unsupported value" in low or "invalid value" in low
+                 or "does not support" in low)
+    return bad_value and any(n.lower() in low for n in names)
+
+
+def call_openai(api_key, prompt, effort=None, max_tokens=None, retries=3):
     """
-    Call OpenAI, coping with the fact that newer reasoning models require
-    'max_completion_tokens' while older ones use 'max_tokens'.
-    Tries each in turn, then no token limit at all, before giving up.
+    Call OpenAI, coping with two moving targets:
+      - newer reasoning models want 'max_completion_tokens', older 'max_tokens'
+      - not every model accepts every reasoning_effort value
+    Falls back through both rather than failing outright.
     """
-    param_options = ["max_completion_tokens", "max_tokens", None]
+    max_tokens = max_tokens or MAX_OUTPUT_TOKENS
+
+    ladder = ["xhigh", "high", "medium", "low", "none"]
+    if effort in ladder:
+        effort_options = ladder[ladder.index(effort):] + [None]
+    elif effort:
+        effort_options = [effort, "high", "medium", None]
+    else:
+        effort_options = [None]
+
+    token_options = ["max_completion_tokens", "max_tokens", None]
+    effort_names = ["reasoning_effort", "effort"]
+    token_names = ["max_tokens", "max_completion_tokens"]
+    err = None
 
     for attempt in range(retries):
-        for token_param in param_options:
-            text, err = _openai_request(api_key, prompt, token_param, max_tokens)
-            if text is not None:
-                return text
-            # If the parameter itself was rejected, try the next form quietly
-            if err and ("max_tokens" in err or "max_completion_tokens" in err
-                        or "Unsupported parameter" in err
-                        or "unsupported_parameter" in err):
+        idx = 0
+        while idx < len(effort_options):
+            eff = effort_options[idx]
+
+            for token_param in token_options:
+                text, err = _openai_request(api_key, prompt, token_param,
+                                            max_tokens, eff)
+                if text is not None:
+                    return text
+                if _param_unknown(err, token_names) or \
+                   _value_rejected(err, token_names):
+                    continue        # try the other token parameter
+                break               # not a token-param problem
+
+            if _param_unknown(err, effort_names):
+                # Model doesn't know this parameter at all - drop it entirely
+                # rather than wasting calls stepping through values.
+                print("    (model does not accept reasoning_effort, omitting)")
+                effort_options = [None]
+                idx = 0
                 continue
-            # Any other error: stop trying parameter variants, back off instead
-            break
+            if _value_rejected(err, effort_names):
+                print(f"    (reasoning_effort '{eff}' rejected, stepping down)")
+                idx += 1
+                continue
+            break                   # not an effort problem either
 
         wait = 2 ** attempt
         print(f"    ! OpenAI call failed ({err}), retry in {wait}s")
@@ -344,33 +498,83 @@ def call_openai(api_key, prompt, max_tokens=8000, retries=3):
     return None
 
 
+CC_PERSPECTIVE = """Christian Concern is a conservative evangelical advocacy organisation
+founded by Andrea Minichiello Williams, working closely with the Christian Legal Centre,
+which litigates on behalf of Christians. It campaigns to see the UK return to Christian
+foundations, and generally OPPOSES the secular direction of law and culture.
+
+Its settled positions:
+- Assisted dying / assisted suicide: strongly opposed. Frames it as a "culture of death",
+  warns of pressure on the vulnerable, disabled and elderly, and argues for palliative
+  care instead. Interested in hospice funding, safeguarding failures, evidence from
+  Canada/Netherlands/Oregon, and campaigners changing their minds.
+- Abortion: pro-life. Opposes decriminalisation, buffer zones (as a free-speech issue,
+  including silent prayer arrests), late-term abortion, and abortion pills by post.
+- Gender and sexuality: upholds biological sex and the Supreme Court judgment on the
+  meaning of sex. Opposes gender self-ID, puberty blockers, trans ideology in schools,
+  and single-sex space breaches (e.g. the Darlington Nurses case). Supports marriage as
+  a lifelong union of one man and one woman; critical of no-fault divorce.
+- Conversion therapy bans: opposed, on the grounds that they criminalise consensual
+  conversation, prayer and ordinary pastoral care.
+- Islam: concerned about Islamisation of Britain, sharia, grooming gangs, blasphemy
+  codes, and definitions of "anti-Muslim hostility" that suppress legitimate criticism.
+- Religious liberty and free speech: defends Christians disciplined, sacked, arrested or
+  prosecuted for their beliefs - street preachers, teachers, nurses, doctors, chaplains,
+  foster carers, employees. Very interested in employment tribunals and court rulings.
+- Extremism definitions, Charity Commission powers, Prevent, and hate-speech law
+  in so far as they stigmatise or threaten Christians and pro-lifers.
+- Critical of BBC and mainstream media bias against Christian views.
+- Critical of the Church of England for compromise on doctrine and safeguarding failures.
+- Concerned about dechristianisation of Britain, and defends Britain's Christian heritage
+  against the claim that it is merely ethno-nationalism.
+- Sceptical of the ECHR and Human Rights Act where they obstruct these aims."""
+
+
 def ai_classify_batch(api_key, batch, issue_names):
     """Ask the AI to judge a batch of articles. Returns list of dicts or None."""
     listing = "\n".join(
         f"{i}. {a['title']}"
         + (f" [{a['source']}]" if a['source'] else "")
-        + (f" — {a['summary'][:150]}" if a['summary'] else "")
+        + (f" — {a['summary'][:200]}" if a['summary'] else "")
         for i, a in enumerate(batch)
     )
     prompt = f"""You are a media monitor for Christian Concern, a UK Christian public policy organisation.
 
-Our issues:
+{CC_PERSPECTIVE}
+
+Our issue categories:
 {chr(10).join('- ' + n for n in issue_names)}
 
-Judge each headline below. Include an article if it is genuinely relevant to our work, even if it does not use obvious keywords — for example an employment tribunal about a Christian's beliefs is Religious Liberty; a story about a hospice funding crisis may be relevant to Assisted Dying.
+TASK: judge each headline below. Include an article ONLY if Christian Concern would
+plausibly want to comment on it publicly, from the perspective above.
 
-Exclude routine news with no bearing on our issues.
+Include:
+- Stories that give us a hook to argue our case, even without obvious keywords
+  (e.g. a hospice funding crisis is relevant to assisted dying; an employment
+  tribunal about a Christian's beliefs is religious liberty).
+- Stories where the secular direction of travel is advancing and should be challenged.
+- Stories where a Christian is being penalised, silenced or prosecuted.
+- Evidence from other countries that supports our arguments.
+- Church news where doctrinal compromise or safeguarding failure is at issue.
+
+Exclude:
+- Routine news with no bearing on our concerns.
+- Stories that merely mention a keyword in passing with no angle for us.
+- General religious-interest stories with no public policy dimension.
 
 Articles:
 {listing}
 
 Reply with ONLY a JSON array, no other text. One object per RELEVANT article:
-[{{"i": 0, "issues": ["Religious Liberty"], "why": "one short sentence on why this matters to us", "urgent": false}}]
+[{{"i": 0,
+   "issues": ["Religious Liberty"],
+   "what": "2-3 sentences explaining what actually happened, with specifics - who, what, where, any numbers, ruling or decision. Enough that a reader understands the story without clicking.",
+   "angle": "1-2 sentences on the specific line Christian Concern could take, and why this matters to our cause.",
+   "urgent": false}}]
 
-Set "urgent" true only if it needs a response today — a campaigner changing position, a vote or ruling imminent, a story going viral, or a Christian publicly attacked for their faith.
 Use only issue names from the list above. If nothing is relevant, reply []."""
 
-    reply = call_openai(api_key, prompt)
+    reply = call_openai(api_key, prompt, effort=CLASSIFY_EFFORT)
     if reply is None:
         return None
     parsed = extract_json(reply)
@@ -413,7 +617,8 @@ def classify_all(items, api_key, issue_names):
             if not 0 <= idx < len(batch):
                 continue
             item = dict(batch[idx])
-            item["why"] = str(r.get("why", "")).strip()
+            item["what"] = str(r.get("what", "")).strip()
+            item["angle"] = str(r.get("angle", "")).strip()
             matched = False
             for iss in r.get("issues", []):
                 if iss in by_issue:
@@ -425,11 +630,121 @@ def classify_all(items, api_key, issue_names):
     return by_issue, urgent
 
 
+def recommend_top5(api_key, by_issue):
+    """Second AI pass: pick the 5 best articles to comment on, with reasoning."""
+    # Collect unique articles across issues
+    pool, seen_links = [], set()
+    for issue, articles in by_issue.items():
+        for a in articles:
+            if a["link"] in seen_links:
+                continue
+            seen_links.add(a["link"])
+            pool.append((issue, a))
+
+    if not pool:
+        return None
+    if not api_key:
+        return None
+
+    listing = "\n".join(
+        f"{i}. [{issue}] {a['title']} ({a['source']}"
+        + (f", also carried by {', '.join(a['also_in'][:4])}" if a.get("also_in") else "")
+        + ")"
+        + (f"\n   What: {a.get('what','')}" if a.get("what") else "")
+        + (f"\n   Angle: {a.get('angle','')}" if a.get("angle") else "")
+        for i, (issue, a) in enumerate(pool)
+    )
+
+    prompt = f"""You are advising Christian Concern's communications team.
+
+{CC_PERSPECTIVE}
+
+Below are today's relevant articles. Choose the FIVE best for Christian Concern to
+publish comment on, and rank them 1-5 (1 = highest priority).
+
+Weigh these factors:
+- REACH: how big is the story, how many outlets are carrying it, is it trending?
+- TIMELINESS: is there a narrow window to be part of the conversation?
+- DISTINCTIVENESS: can Christian Concern say something others are not saying?
+  A crowded take adds little; an underexplored Christian angle adds a lot.
+- PICKUP POTENTIAL: how likely are journalists, MPs, or sympathetic accounts to
+  quote, share or cite Christian Concern on this?
+- STRATEGIC FIT: does it advance a campaign we are already running, or connect to
+  a Christian Legal Centre case?
+- AUDIENCE RESPONSE: would our supporters share it, act on it, or donate?
+
+Articles:
+{listing}
+
+Reply with ONLY a JSON array of exactly five objects (or fewer if there aren't five),
+ranked best first, no other text:
+[{{"i": 0,
+   "title": "copy the headline exactly as shown above, so we can verify the match",
+   "rank": 1,
+   "reason": "2-3 sentences: why this one, covering reach, angle and what makes it
+              winnable for us specifically",
+   "suggested_angle": "one sentence naming the argument or headline we could run with"}}]"""
+
+    reply = call_openai(api_key, prompt, effort=RECOMMEND_EFFORT)
+    if reply is None:
+        return None
+    parsed = extract_json(reply)
+    if not isinstance(parsed, list):
+        return None
+
+    picks = []
+    used = set()
+    for r in parsed:
+        idx = None
+        try:
+            idx = int(r.get("i", -1))
+        except (TypeError, ValueError):
+            idx = None
+
+        echoed = str(r.get("title", "")).strip()
+
+        # Verify the index actually points at the headline the AI described.
+        # If not, find the article by title instead - protects against the
+        # reasoning being attached to the wrong story.
+        valid = idx is not None and 0 <= idx < len(pool)
+        if valid and echoed:
+            if not titles_match(title_tokens(echoed),
+                                title_tokens(pool[idx][1]["title"]),
+                                threshold=0.5):
+                valid = False
+
+        if not valid and echoed:
+            echo_tokens = title_tokens(echoed)
+            for j, (_, cand) in enumerate(pool):
+                if titles_match(echo_tokens, title_tokens(cand["title"]),
+                                threshold=0.5):
+                    idx = j
+                    valid = True
+                    print(f"    (corrected a mismatched index to #{j})")
+                    break
+
+        if not valid or idx in used:
+            continue
+        used.add(idx)
+
+        issue, article = pool[idx]
+        picks.append({
+            "article": article,
+            "issue": issue,
+            "rank": r.get("rank", len(picks) + 1),
+            "reason": str(r.get("reason", "")).strip(),
+            "suggested_angle": str(r.get("suggested_angle", "")).strip(),
+        })
+
+    picks.sort(key=lambda p: p["rank"] if isinstance(p["rank"], int) else 99)
+    return picks[:5] or None
+
+
 # ---------------------------------------------------------------------------
 # Output
 # ---------------------------------------------------------------------------
 
-def build_digest(by_issue, urgent, used_ai):
+def build_digest(by_issue, urgent, used_ai, top5=None):
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     mode = "AI-classified" if used_ai else "keyword-matched"
     lines = [f"# Digest - {stamp}",
@@ -439,25 +754,53 @@ def build_digest(by_issue, urgent, used_ai):
         lines.append("No new relevant articles this run.")
         return "\n".join(lines)
 
+    def render(a, indent=""):
+        when = a["published"].strftime("%d %b %H:%M")
+        src = a["source"]
+        if a.get("also_in"):
+            extra = len(a["also_in"])
+            src += f" (+{extra} other outlet{'s' if extra > 1 else ''})"
+        out = [f"{indent}- **[{a['title']}]({a['link']})**",
+               f"{indent}  {src} · {when} UTC"]
+        if a.get("what"):
+            out.append(f"{indent}  {a['what']}")
+        if a.get("angle"):
+            out.append(f"{indent}  **Our angle:** {a['angle']}")
+        return out
+
     if urgent:
-        lines.append("## RESPOND NOW")
-        for a in urgent:
-            lines.append(f"- **[{a['title']}]({a['link']})** - *{a['source']}*")
-            if a.get("why"):
-                lines.append(f"  {a['why']}")
+        lines.append("## ⚡ RESPOND NOW")
         lines.append("")
+        for a in urgent:
+            lines.extend(render(a))
+            lines.append("")
 
     for issue, articles in by_issue.items():
         if not articles:
             continue
         articles.sort(key=lambda a: a["published"], reverse=True)
         lines.append(f"## {issue} ({len(articles)})")
-        for a in articles:
-            when = a["published"].strftime("%d %b %H:%M")
-            lines.append(f"- [{a['title']}]({a['link']}) - *{a['source']}*, {when} UTC")
-            if a.get("why"):
-                lines.append(f"  {a['why']}")
         lines.append("")
+        for a in articles:
+            lines.extend(render(a))
+            lines.append("")
+
+    if top5:
+        lines.append("---")
+        lines.append("")
+        lines.append("# 🎯 Top 5 to comment on")
+        lines.append("")
+        for p in top5:
+            a = p["article"]
+            lines.append(f"### {p['rank']}. [{a['title']}]({a['link']})")
+            lines.append(f"*{p['issue']} · {a['source']}*")
+            lines.append("")
+            if p.get("reason"):
+                lines.append(f"**Why this one:** {p['reason']}")
+                lines.append("")
+            if p.get("suggested_angle"):
+                lines.append(f"**Suggested line:** {p['suggested_angle']}")
+                lines.append("")
 
     return "\n".join(lines)
 
@@ -497,7 +840,11 @@ def main():
     api_key = os.environ.get("OPENAI_API_KEY", "").strip()
 
     print(f"Cutoff: {cutoff.strftime('%Y-%m-%d %H:%M UTC')}")
-    print(f"AI classification: {'ON' if api_key else 'OFF (keyword fallback)'}")
+    if api_key:
+        print(f"AI: {MODEL}, classify={CLASSIFY_EFFORT}, "
+              f"recommend={RECOMMEND_EFFORT}")
+    else:
+        print("AI: OFF (keyword fallback)")
 
     seen = load_seen()
     print(f"Previously seen: {len(seen)}\n")
@@ -525,28 +872,35 @@ def main():
         except Exception as e:
             print(f"  ! {name} failed: {e}")
 
-    # Deduplicate within this run, then against previous runs
-    by_link = {}
-    for it in all_items:
-        key = hashlib.sha256(it["link"].encode()).hexdigest()
-        if key not in by_link:
-            by_link[key] = it
+    # Deduplicate: identical URLs, then same story across different outlets
+    deduped = deduplicate(all_items)
+    merged = sum(len(i.get("also_in", [])) for i in deduped)
+    print(f"\n{len(all_items)} fetched -> {len(deduped)} unique "
+          f"({merged} duplicate outlet copies merged)")
 
     new_items = []
-    for key, it in by_link.items():
+    for it in deduped:
+        key = hashlib.sha256(normalise_url(it["link"]).encode()).hexdigest()
         if key not in seen:
             new_items.append(it)
             seen.add(key)
 
-    print(f"\n{len(all_items)} fetched -> {len(by_link)} unique -> "
-          f"{len(new_items)} new\n")
+    print(f"{len(new_items)} new since last run\n")
 
     if new_items:
         by_issue, urgent = classify_all(new_items, api_key, list(ISSUES))
     else:
         by_issue, urgent = {n: [] for n in ISSUES}, []
 
-    digest = build_digest(by_issue, urgent, bool(api_key))
+    top5 = None
+    if api_key and any(by_issue.values()):
+        print(f"\nPicking top 5 to comment on "
+              f"(effort={RECOMMEND_EFFORT}, this can take a few minutes)...")
+        top5 = recommend_top5(api_key, by_issue)
+        if top5:
+            print(f"  selected {len(top5)}")
+
+    digest = build_digest(by_issue, urgent, bool(api_key), top5)
     print("\n" + digest)
 
     if any(by_issue.values()):
@@ -557,9 +911,15 @@ def main():
 
     if api_key and new_items:
         batches = (len(new_items) + BATCH_SIZE - 1) // BATCH_SIZE
+        calls = batches + (1 if top5 else 0)
         # GPT-5.5 is ~$5/M input, ~$30/M output; reasoning tokens bill as output.
-        print(f"\n(~{batches} AI calls this run, very roughly "
-              f"{batches * 0.07:.2f} USD at gpt-5.5 rates)")
+        # Thinking tokens bill at the output rate, so high effort costs more.
+        per_call = {"xhigh": 0.30, "high": 0.15, "medium": 0.07,
+                    "low": 0.04, "none": 0.02}
+        est = (batches * per_call.get(CLASSIFY_EFFORT, 0.15)
+               + (per_call.get(RECOMMEND_EFFORT, 0.30) if top5 else 0))
+        print(f"\n(~{calls} AI calls, very roughly {est:.2f} USD this run - "
+              f"check your OpenAI usage dashboard for the real figure)")
     print("Done.")
 
 
