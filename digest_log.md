@@ -1,3 +1,36 @@
+# Digest - 2026-07-24 18:15 UTC
+*Last 24 hours, AI-classified*
+
+## Religious Liberty (1)
+- [Finnish politician takes battle over ‘hate speech’ to European Court of Human Rights](https://news.google.com/rss/articles/CBMiugFBVV95cUxORXQ2dnhKUXlWRlBHQUVnLUZlcUNDYVItQ0E1U3o2T0VfcTloZ0ZlSGlGSWNpYU94R2VrLUV1ZUpKN3U3dW1ZQm5OdVZlUW80ZXhMOWU1eTlJZ0hfdnlFbzhvZm1nY0xvVkE3RkN5aVBjYzZfQlFua3pVaENVSFg3eDc4VEFDeEVkR3FBc2F0dEJRNG5XcXZRMEZheW42cWpldXp1UmZyZnlodk9MYU9GeUZ5ampsZm5XR0E?oc=5) — *www.christiandaily.com*, 17:52
+
+## Marriage & Family (1)
+- [‘We’re angry’: Campaigners protest trans guidance as scrutiny period ends](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjBFelQyalZqN21xaXpuOTVzVzhmdkpsSm82c0MxMnBKTjZjUHc3cXg0eHFrazZTYXdZR2x4XzkwTDVwVkNvR2lKb3RvNENUVlN2YmZZUUtNNHRfbGtoN2xzMXRMMk1Nc3JkWjdZR2JWSzNYWDEyOTQzMWFkM2ctajQxaVQ0QmM5cUQw?oc=5) — *AOL.ca*, 05:23
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [‘We’re angry’: Campaigners protest trans guidance as scrutiny period ends](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjBFelQyalZqN21xaXpuOTVzVzhmdkpsSm82c0MxMnBKTjZjUHc3cXg0eHFrazZTYXdZR2x4XzkwTDVwVkNvR2lKb3RvNENUVlN2YmZZUUtNNHRfbGtoN2xzMXRMMk1Nc3JkWjdZR2JWSzNYWDEyOTQzMWFkM2ctajQxaVQ0QmM5cUQw?oc=5)
+*Marriage & Family · AOL.ca*
+
+Campaigners protested as the formal scrutiny period closed on official trans guidance affecting schools, gender-questioning children and parental involvement. The row centres on whether institutions should prioritise gender identity claims or safeguarding, biological reality and parents’ rights.
+
+**Angle:** We should say ministers must not be bounced by activist anger into weakening protections for children, parents and single-sex spaces. This is highly timely because the scrutiny window is closing, and it connects directly to our campaigns on trans ideology in schools, safeguarding and the Supreme Court judgment on the meaning of sex.
+
+**Possible headline:** *Ministers must stand firm: children need truth, not trans ideology*
+
+### 2. [Finnish politician takes battle over ‘hate speech’ to European Court of Human Rights](https://news.google.com/rss/articles/CBMiugFBVV95cUxORXQ2dnhKUXlWRlBHQUVnLUZlcUNDYVItQ0E1U3o2T0VfcTloZ0ZlSGlGSWNpYU94R2VrLUV1ZUpKN3U3dW1ZQm5OdVZlUW80ZXhMOWU1eTlJZ0hfdnlFbzhvZm1nY0xvVkE3RkN5aVBjYzZfQlFua3pVaENVSFg3eDc4VEFDeEVkR3FBc2F0dEJRNG5XcXZRMEZheW42cWpldXp1UmZyZnlodk9MYU9GeUZ5ampsZm5XR0E?oc=5)
+*Religious Liberty · www.christiandaily.com*
+
+Finnish politician Päivi Räsänen is taking her long-running hate-speech case to the European Court of Human Rights after facing years of criminal proceedings over expressing biblical beliefs on marriage and sexuality. Her case has become a landmark test of whether quoting or explaining Christian teaching can be treated as a crime.
+
+**Angle:** We can frame this as a warning to Britain: vague hate-speech laws, conversion therapy bans and ‘anti-extremism’ definitions can quickly become tools to punish orthodox Christianity. The distinctive line is that this is not just a Finnish story but a preview of what happens when the state treats biblical sexual ethics as inherently hateful.
+
+**Possible headline:** *If the Bible becomes ‘hate speech’, every Christian is at risk*
+
+---
+
 # Digest - 2026-07-24 16:19 UTC
 *Last 24 hours, AI-classified*
 
@@ -1484,6 +1517,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
