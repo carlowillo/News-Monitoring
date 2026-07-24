@@ -1,3 +1,38 @@
+# Digest - 2026-07-24 14:49 UTC
+*Last 24 hours, AI-classified*
+
+## Assisted Suicide / Assisted Dying (2)
+- [Medics push for ‘death by organ donation’](https://news.google.com/rss/articles/CBMif0FVX3lxTE4xQm1qaVpOdk4yWmR5bmtIczFtWFlsVEx5WFdSZGsyTkNJcy01aS1Odnh6MW5kNEFRLThZSkJSSzlUa0s2TFJFZ0lZWkE5SHBUTjk2NVdfbXg0NVdIMzJhSHJUcWlCNkxCRVpXZHkwdERCdlM5QkQxVV9NTGVaWms?oc=5) - *The Christian Institute*, 24 Jul 14:09 UTC
+  Reports on proposals linking death and organ donation, relevant to end-of-life ethics and assisted dying concerns.
+- [Catholic nuns sue New York over physician-assisted suicide law, say it forces them to violate faith](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IWWpFMzAxRGxLcnpVcjlGR1drWEp6bWZGUGYzRWVVb2JwZFZRWUV5djFIRzBTOVBVb2dwVkx0ZjgzOERYRy1PRzFvZXMzRjZFc0RKYVRR?oc=5) - *Fox News*, 23 Jul 21:31 UTC
+  Catholic nuns are challenging an assisted suicide law on grounds that it violates their faith and conscience.
+
+## Abortion (1)
+- [Details in Murder of Pro-Life Champion Released; Potential Terrorism](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWUF3RVBsMW1yNU5hYjdncXppVHZWbmk5dUFUdDdsaU5CWEptUmVJU3lIUjN1MEtXRW1NMlkzQlZBbnloRzN2TTl2cVhzVE5LdnNRLWZ2QXBIZ1Jhb3NEMWlLa0otRGRJbTVUanBIdE10SlRDdWZ6MEJfNnhMTjZBbTljNURTN21XYTJ2aEtZaDk2STJJbEVIRVlTSUI5TVdmVUNZUU45eXhSTlJZSFZDQW1vM2R3WTJrN3c?oc=5) - *Billy Graham Evangelistic Association*, 24 Jul 13:12 UTC
+  Concerns the killing of a pro-life campaigner and possible terrorism linked to abortion activism.
+
+## Islam (1)
+- [Ottawa Trafficking Arrests Sound Alarm over Muslim Grooming Gangs in Canada](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWG5tRl9ESVBuanc2V3lfM2VFbXo1S2NudDZyNFpDUERuem5NeXBMd2FzZjhvZ1Z6bm9CUU1EdVpwSl9UMDU4RkVWdUhoTlZNQ1VRcU9hcjJGNFAyZHFoWFF4RERIQ2pYU3NvZlhrSlZsdFB5RUhaSHE4ZkF6MjQxUE0wUW5QREV1TVl4SW1HRVZ6RkR5bHlrcnpoRkhXN1RjQmx3cVN3Zkc?oc=5) - *Hungarian Conservative*, 24 Jul 14:04 UTC
+  Raises concerns about Muslim grooming gangs and child sexual exploitation.
+
+## Religious Liberty (2)
+- [Catholic nuns sue New York over physician-assisted suicide law, say it forces them to violate faith](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IWWpFMzAxRGxLcnpVcjlGR1drWEp6bWZGUGYzRWVVb2JwZFZRWUV5djFIRzBTOVBVb2dwVkx0ZjgzOERYRy1PRzFvZXMzRjZFc0RKYVRR?oc=5) - *Fox News*, 23 Jul 21:31 UTC
+  Catholic nuns are challenging an assisted suicide law on grounds that it violates their faith and conscience.
+- [Sen. Mike Lee Files Bill to Defund Schools that Ban Religious Vaccine Exemptions: ‘We Don’t Worship Fauci’](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSTFhZ1NLUndoeF84YjVkaG85QnhDdGp1ZUhpR0pabmp6clJ1UjlGeHg3d1BFLVJlRHJsR3Jid2UxVlZUMUVUMjkxM1BCbkZtR2hndXpFRi1PVlhmR0d3am5KUDdxaU5falg3N3hwaVlQcVBHMFdHZzNrZHdBa19kM1lCU2gxc3RMVThUclZRY0tLVUE0RmVzd0ZjZmsxTzF4S3BBOE5sdm00dVRidFdRZGlfQ2lBVkQ2OXpqOTFiNXU1M2lIRUMyQy1NbDBBRkE0NmV4OEdGQXZPbERJZ0NHQy15a9IB6AFBVV95cUxQb1dCeTFMTmhKazBoYlhiYWh4cUxYV2lQaGpDMm9PZ0swZ09hRFNfaW5BVFlwNmI0cFpxOUgzcThhMzZuZnBKekhJVVktUTI3OHpLU2ZEektzSVFTRHFKZ3FEdlU1V05vNDg3ZnFQcldFeVJOVlRpc0lNU25Wem1NUFRxd29vWlBsNkZUbVY2S05aXzQ5UVZkM0JmUENvbnlnUHJKbk5ZWDBKeVNTVkNZYi1sWG9rMTB6b0NQZmxOS1gtREVQSHpKX1BuZDgxR2V0Tkt4RmZ6djdmaHJydUJSRVRSaDd3dVlD?oc=5) - *breitbart.com*, 23 Jul 17:53 UTC
+  A proposed bill addresses whether schools may penalise families for claiming religious vaccine exemptions.
+
+## Marriage & Family (4)
+- [Luxembourg surrogacy stance has been in limbo for over a decade](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbnBNcElrODBhSVlGNUFtZTZoY013MzhQa3BHNi1iem1MbGV6ZHVfaWRIM1pxaTJRZ0Q3Z0d5U194WjhlUW9XVEhBc0pzUWpwc3lqLXlONy1ab3phVE9PbUpZYXktVXU1Yl96MlVYUEh1TmV0Smx3LXRtcGVQa3NwTXZBd2R2SkFiLWNKejdOZE5OV3B3ckZreUM5Wk0xb1NBRk82elZubGFHZUJBUEVDb2lhbw?oc=5) - *Luxembourg Times*, 24 Jul 14:19 UTC
+  Surrogacy law and policy directly affect family, parenthood and bioethics concerns.
+- [Wedding gift registries are great – but divorce registries would be a lifesaver | Nick Dothée](https://www.theguardian.com/commentisfree/2026/jul/24/wedding-divorce-gift-registries) - *The Guardian (UK)*, 24 Jul 14:00 UTC
+  Commentary on divorce and marriage culture is relevant to debates about the social meaning and support of marriage and family life.
+- [A surrogacy scandal throws Germany’s conservatives into turmoil | World News](https://news.google.com/rss/articles/CBMiygFBVV95cUxQd3I0YlJ1UGhBalVURGFnTnM4RjhVYUFfR2tIRXN4WHJFZnVva3BfRDBVVHFBdnAyRnd1dG9vUzVtMnhsQk1rVy1tbkhVUkFsMmQ1MWFpTWRkOWNpcGMxaGY3LWJLejVvRnBQSnAyZFVVeW1hQmVVNU5SWTFXZHJ6SUcwMHhMaUdlX0JlRHJDTVItdjdkTlBXWDJSUndyQlZ1MkNUUkM2UV9zTF9vZFZkNVdEclQxMTBjZ0RkMFhwRXdtY002UkRCOVZR0gHKAUFVX3lxTFB3cjRiUnVQaEFqVVREYWdOczhGOFVhQV9Ha0hFc3hYckVmdW9rcF9EMFVUcUF2cDJGd3V0b29TNW0yeGxCTWtXLW1uSFVSQWwyZDUxYWlNZGQ5Y2lwYzFoZjctYkt6NW9GcFBKcDJkVVV5bWFCZVU1TlJZMVdkcnpJRzAweExpR2VfQmVEckNNUi12N2ROUFdYMlJSd3JCVnUyQ1RSQzZRX3NMX29kVmQ1V0RyVDExMGNnRGQwWHBFd21jTTZSREI5VlE?oc=5) - *Hindustan Times*, 24 Jul 12:00 UTC
+  A political scandal involving surrogacy raises issues around family, parenthood and reproductive ethics.
+- [Grandma Who Was Surrogate for Her Own Grandchild, Now 5, Says Their Bond Will Always Be ‘a Little Special’ (Exclusive)](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb0dPRFpIMHlYRG1XaEZWa1FSUlNOMnRNYk1FUGsyOFh6UWhSNzN5bkxwcVdyTjkwanlWOXdQMlVRWmM1ZGNTYWljbTBBekE0Yk1jVER2RDQxdXFyNHVGMC04bnAwMHBuVXpyWV92WTBid1duajJXQVBzU2hualNxOE5YYUE?oc=5) - *Yahoo Life UK*, 23 Jul 20:45 UTC
+  A personal surrogacy story is relevant to debates about family relationships and reproductive ethics.
+
+---
+
 # Digest - 2026-07-24 12:39 UTC
 *Last 24 hours, AI-classified*
 
@@ -362,5 +397,6 @@
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
