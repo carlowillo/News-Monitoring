@@ -44,32 +44,63 @@ SEARCH_TERMS = [
     "assisted dying UK",
     "assisted suicide UK",
     "Terminally Ill Adults Bill",
-    "euthanasia UK",
+    "euthanasia",
+    "right to die",
+    "palliative care UK",
+    "hospice funding",
+    "end of life care UK",
     # Abortion
     "abortion UK",
     "abortion buffer zones",
-    "abortion decriminalisation UK",
+    "abortion decriminalisation",
     "pro-life UK",
+    "abortion clinic protest",
+    "abortion pills post",
+    "foetal viability",
     # Islam
     "sharia UK",
     "Islamism UK",
     "grooming gangs",
     "blasphemy UK",
+    "Islamophobia definition",
+    "mosque planning UK",
+    "halal schools UK",
     # Religious liberty
     "Christian freedom of speech UK",
-    "religious discrimination tribunal UK",
+    "religious discrimination tribunal",
     "conversion therapy ban UK",
     "street preacher arrested",
     "Christian sacked belief",
     "prayer vigil arrest",
+    "employment tribunal religion belief",
+    "Christian persecution UK",
+    "free speech arrest UK",
+    "chaplain sacked",
+    "foster carers religion",
     # Marriage, family, gender
     "gender identity schools UK",
     "puberty blockers UK",
     "Cass Review",
     "surrogacy UK",
+    "single sex spaces ruling",
+    "transgender prisoners UK",
+    "relationships education parents",
+    "marriage family policy UK",
+    "no-fault divorce",
     # Church and public life
     "Church of England safeguarding",
     "faith schools UK",
+    "Church of England doctrine",
+    "bishops House of Lords",
+    "Christianity Britain decline",
+    "religious education curriculum",
+    # Law, rights and civil liberties touching our issues
+    "extremism definition UK",
+    "Charity Commission investigation",
+    "ECHR reform UK",
+    "hate speech law UK",
+    "Prevent referral",
+    "parental rights UK",
 ]
 
 # ---------------------------------------------------------------------------
@@ -136,8 +167,13 @@ NS_DC = {"dc": "http://purl.org/dc/elements/1.1/"}
 
 
 def google_news_url(term):
-    """Build a Google News RSS search URL, limited to the last day."""
-    q = urllib.parse.quote_plus(f"{term} when:1d")
+    """
+    Build a Google News RSS search URL.
+    We ask Google for 2 days and let our own MAX_AGE_HOURS filter do the
+    real trimming - 'when:1d' was cutting off stories that our 24-hour
+    window would happily accept, because Google's day boundary is its own.
+    """
+    q = urllib.parse.quote_plus(f"{term} when:2d")
     return f"https://news.google.com/rss/search?q={q}&hl=en-GB&gl=GB&ceid=GB:en"
 
 
@@ -294,7 +330,7 @@ def title_tokens(title):
     return {w for w in text.split() if w not in STOPWORDS and len(w) > 2}
 
 
-def titles_match(tokens_a, tokens_b, threshold=0.55):
+def titles_match(tokens_a, tokens_b, threshold=0.62):
     """Are these two headlines telling the same story?"""
     if not tokens_a or not tokens_b:
         return False
@@ -545,34 +581,59 @@ def ai_classify_batch(api_key, batch, issue_names):
 Our issue categories:
 {chr(10).join('- ' + n for n in issue_names)}
 
-TASK: judge each headline below. Include an article ONLY if Christian Concern would
-plausibly want to comment on it publicly, from the perspective above.
+TASK: judge each headline below and include everything that touches our world.
 
-Include:
-- Stories that give us a hook to argue our case, even without obvious keywords
-  (e.g. a hospice funding crisis is relevant to assisted dying; an employment
-  tribunal about a Christian's beliefs is religious liberty).
-- Stories where the secular direction of travel is advancing and should be challenged.
-- Stories where a Christian is being penalised, silenced or prosecuted.
-- Evidence from other countries that supports our arguments.
-- Church news where doctrinal compromise or safeguarding failure is at issue.
+BE GENEROUS. A wide net is far more useful to us than a narrow one - we would
+much rather skim past a few marginal items than miss something. If you are
+hesitating over whether something qualifies, INCLUDE IT and mark it "low".
 
-Exclude:
-- Routine news with no bearing on our concerns.
-- Stories that merely mention a keyword in passing with no angle for us.
-- General religious-interest stories with no public policy dimension.
+Mark each included article with a relevance level:
+
+  "high"   - squarely our territory. We would very likely want to comment.
+             A bill, ruling, case, campaign or statement directly on one of
+             our issues, or a Christian penalised for their beliefs.
+
+  "medium" - clearly connected. Useful background, a related policy shift, a
+             story we could reasonably build a comment on, evidence from
+             abroad, or coverage revealing how our issues are being framed.
+
+  "low"    - loosely relevant. Adjacent territory, an interesting angle, a
+             story that might develop into something, or context worth
+             being aware of even if we never write about it.
+
+Include, at minimum:
+- Anything on our named issues, however it is framed.
+- Family, marriage, parenting, education and children's welfare stories.
+- Ethics in medicine and healthcare - conscience, safeguarding, care of the
+  vulnerable, palliative care, disability.
+- Free speech, protest, policing of speech, censorship, and academic freedom.
+- Religion in public life, any faith, including church news and religious
+  freedom abroad.
+- Law, courts, tribunals, human rights and constitutional questions where
+  belief, conscience, family or life is at stake.
+- Cultural and moral debates where a Christian perspective differs from the
+  secular consensus.
+- Immigration, integration and cohesion where religion or values are in play.
+
+Exclude ONLY:
+- Sport, celebrity, entertainment and consumer news with no moral or policy angle.
+- Business, markets and technology with no bearing on belief, life or family.
+- Weather, traffic, and routine local administration.
+- Stories with no discernible connection to any of the above.
 
 Articles:
 {listing}
 
-Reply with ONLY a JSON array, no other text. One object per RELEVANT article:
+Reply with ONLY a JSON array, no other text. One object per included article:
 [{{"i": 0,
    "issues": ["Religious Liberty"],
+   "relevance": "high",
    "what": "2-3 sentences explaining what actually happened, with specifics - who, what, where, any numbers, ruling or decision. Enough that a reader understands the story without clicking.",
-   "angle": "1-2 sentences on the specific line Christian Concern could take, and why this matters to our cause.",
+   "angle": "1-2 sentences on the specific line Christian Concern could take, and why this matters to our cause. For 'low' items a brief note on why it might matter is fine.",
    "urgent": false}}]
 
-Use only issue names from the list above. If nothing is relevant, reply []."""
+Use only issue names from the list above. If an article fits no category well
+but is still worth seeing, put it under the closest one and mark it "low"."""
 
     reply = call_openai(api_key, prompt, effort=CLASSIFY_EFFORT)
     if reply is None:
@@ -619,6 +680,8 @@ def classify_all(items, api_key, issue_names):
             item = dict(batch[idx])
             item["what"] = str(r.get("what", "")).strip()
             item["angle"] = str(r.get("angle", "")).strip()
+            rel = str(r.get("relevance", "medium")).strip().lower()
+            item["relevance"] = rel if rel in ("high", "medium", "low") else "medium"
             matched = False
             for iss in r.get("issues", []):
                 if iss in by_issue:
@@ -647,7 +710,7 @@ def recommend_top5(api_key, by_issue):
         return None
 
     listing = "\n".join(
-        f"{i}. [{issue}] {a['title']} ({a['source']}"
+        f"{i}. [{issue}] ({a.get('relevance','medium')} relevance) {a['title']} ({a['source']}"
         + (f", also carried by {', '.join(a['also_in'][:4])}" if a.get("also_in") else "")
         + ")"
         + (f"\n   What: {a.get('what','')}" if a.get("what") else "")
@@ -659,8 +722,15 @@ def recommend_top5(api_key, by_issue):
 
 {CC_PERSPECTIVE}
 
-Below are today's relevant articles. Choose the FIVE best for Christian Concern to
-publish comment on, and rank them 1-5 (1 = highest priority).
+Below are today's articles, each marked with a relevance level. Choose the FIVE
+best for Christian Concern to publish comment on, and rank them 1-5
+(1 = highest priority).
+
+The list is deliberately inclusive, so it contains marginal items. Be much more
+selective than the list is - usually your five will come from the "high"
+relevance items. Only reach into "medium" or "low" if something there is
+genuinely a better opportunity than a "high" one, for instance because it is an
+angle nobody else has spotted.
 
 Weigh these factors:
 - REACH: how big is the story, how many outlets are carrying it, is it trending?
@@ -754,14 +824,18 @@ def build_digest(by_issue, urgent, used_ai, top5=None):
         lines.append("No new relevant articles this run.")
         return "\n".join(lines)
 
+    RANK = {"high": 0, "medium": 1, "low": 2}
+    BADGE = {"high": "", "medium": " · related", "low": " · loosely relevant"}
+
     def render(a, indent=""):
         when = a["published"].strftime("%d %b %H:%M")
         src = a["source"]
         if a.get("also_in"):
             extra = len(a["also_in"])
             src += f" (+{extra} other outlet{'s' if extra > 1 else ''})"
+        badge = BADGE.get(a.get("relevance", "medium"), "")
         out = [f"{indent}- **[{a['title']}]({a['link']})**",
-               f"{indent}  {src} · {when} UTC"]
+               f"{indent}  {src} · {when} UTC{badge}"]
         if a.get("what"):
             out.append(f"{indent}  {a['what']}")
         if a.get("angle"):
@@ -778,8 +852,17 @@ def build_digest(by_issue, urgent, used_ai, top5=None):
     for issue, articles in by_issue.items():
         if not articles:
             continue
-        articles.sort(key=lambda a: a["published"], reverse=True)
-        lines.append(f"## {issue} ({len(articles)})")
+        # Strongest first, then newest, so the good stuff leads and the
+        # loosely-relevant items sit below without being lost.
+        articles.sort(key=lambda a: (RANK.get(a.get("relevance", "medium"), 1),
+                                     -a["published"].timestamp()))
+        counts = {}
+        for a in articles:
+            counts[a.get("relevance", "medium")] = \
+                counts.get(a.get("relevance", "medium"), 0) + 1
+        summary = ", ".join(f"{counts[k]} {k}" for k in ("high", "medium", "low")
+                            if k in counts)
+        lines.append(f"## {issue} ({len(articles)} - {summary})")
         lines.append("")
         for a in articles:
             lines.extend(render(a))
