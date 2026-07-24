@@ -1,3 +1,36 @@
+# Digest - 2026-07-24 20:15 UTC
+*Last 24 hours, AI-classified*
+
+## Assisted Suicide / Assisted Dying (1)
+- [French MPs Approve Assisted Dying Bill Amid Strict Conditions After Years Of Debate](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbE1oTk52YmtBandWSGdRSEJkSUNVd3FmOEtPZWNGVVJnZDY0d3RQbnBDTGJZQ2NubjJrYW10SGlaalQ3bVZfeDRlRURGbVJER3otMGFJWVRwWG03YzdOVlMwQnRQUGVNMzFqSnhXS285X3dFRDZ4OFhVZjlSY2ZRVG0tb3g1THlCUU92VHZva0RpX1R3WUdxVXcyNERxX3lQWnVzSzB1alk1UQ?oc=5) — *LEADERSHIP Newspapers*, 19:39
+
+## Islam (1)
+- [Burnham under pressure to block early release of rape gangs](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1ZxRzZqbWxtS1k3RHExbzNnY1hqRDJGbVpVdW55ekJKdDVWVDc3d3lja2tiNnMzN04xYmljNVpmNXhBNDB1ZFZTVmhJSHBETDhHamZfVnNKMDZVbWVrLWZYSHlNMFhZUjVzZHNpZmpUN09BZDhab3J3ZFZSQ1pkcmlHWnZyUk1XdjVHeUJrd0JWd2lMcU1JdExtWWJEV3lhOTZ0MS16cw?oc=5) — *The Telegraph*, 18:56
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [French MPs Approve Assisted Dying Bill Amid Strict Conditions After Years Of Debate](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbE1oTk52YmtBandWSGdRSEJkSUNVd3FmOEtPZWNGVVJnZDY0d3RQbnBDTGJZQ2NubjJrYW10SGlaalQ3bVZfeDRlRURGbVJER3otMGFJWVRwWG03YzdOVlMwQnRQUGVNMzFqSnhXS285X3dFRDZ4OFhVZjlSY2ZRVG0tb3g1THlCUU92VHZva0RpX1R3WUdxVXcyNERxX3lQWnVzSzB1alk1UQ?oc=5)
+*Assisted Suicide / Assisted Dying · LEADERSHIP Newspapers*
+
+French MPs have approved an assisted dying bill after years of national debate, presenting it as tightly controlled and limited by strict conditions. The vote moves France closer to legalising assisted suicide/euthanasia-style practices despite continuing opposition over safeguarding and pressure on the vulnerable.
+
+**Angle:** Use France as a live warning for the UK: every country starts with promises of strict safeguards, but the moral and legal direction is always towards normalising death as a solution to suffering. We can argue that Britain should invest in palliative care and hospices, not copy another European step into a culture of death.
+
+**Possible headline:** *France’s assisted dying vote is a warning Britain must not ignore*
+
+### 2. [Burnham under pressure to block early release of rape gangs](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1ZxRzZqbWxtS1k3RHExbzNnY1hqRDJGbVpVdW55ekJKdDVWVDc3d3lja2tiNnMzN04xYmljNVpmNXhBNDB1ZFZTVmhJSHBETDhHamZfVnNKMDZVbWVrLWZYSHlNMFhZUjVzZHNpZmpUN09BZDhab3J3ZFZSQ1pkcmlHWnZyUk1XdjVHeUJrd0JWd2lMcU1JdExtWWJEV3lhOTZ0MS16cw?oc=5)
+*Islam · The Telegraph*
+
+Andy Burnham is facing pressure to prevent the early release of men convicted in rape gang cases, with victims and campaigners warning that release decisions risk compounding the failures that allowed the abuse to happen. The story centres on justice, safeguarding and the state’s duty to protect girls who were betrayed by authorities.
+
+**Angle:** This gives us a strong domestic safeguarding and justice angle: victims must not be failed again by a system too eager to move on. We should focus on accountability, the silencing of uncomfortable truths, and the danger that official sensitivities around race, religion or ‘community cohesion’ can override protection for vulnerable girls.
+
+**Possible headline:** *Rape gang victims must not be betrayed a second time*
+
+---
+
 # Digest - 2026-07-24 18:15 UTC
 *Last 24 hours, AI-classified*
 
@@ -1517,6 +1550,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
