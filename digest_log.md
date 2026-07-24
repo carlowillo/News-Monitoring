@@ -1,3 +1,85 @@
+# Digest - 2026-07-24 15:10 UTC
+*Last 24 hours, AI-classified*
+
+## ⚡ RESPOND NOW
+
+- **[PSNI won’t rule out possibility of hospital bible offence](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPV1BzSGwyQzRHTmN1TTVNaDUyY3RtNDJJRTB3bEQ3T0Q2c3NDdk8tSWF1cTNiWkRkRGdKVUJ4dkxNbVV0S2NFaS1GYm5TVk0xNTQ0M1BNNUpqWThaS0pUVEZNS2tvWktDQXBCNmNSeGZGZjdaalRCUzdxTEl6M1hTcDJ1YmZPM0ptNHd1MVIyNE5MWmVQT3BPeFZjU0VtQ25XQXQwY2w5bDd4OHJuVG1kMlhNdUtiQWhGV29TYnJKR2RGZkhzVm15eW85azlzOHc3NjlUV0Q1bXBaMVl6TURFejUzclNRMHZYemVTMjZRV1JvWFU?oc=5)**
+  Belfast News Letter · 24 Jul 14:57 UTC
+  The Belfast News Letter reports that the Police Service of Northern Ireland has not ruled out the possibility that conduct involving a Bible in a hospital could amount to an offence. The story concerns police handling of religious expression in a public healthcare setting in Northern Ireland; no court ruling is indicated in the headline.
+  **Our angle:** Christian Concern could argue that police should be unequivocal that ordinary Christian expression, possession or use of Scripture is not criminal. This is a religious-liberty and free-speech concern, especially if vague public-order, hate-speech or institutional policies are chilling Christian witness in public settings.
+
+## Islam (1)
+
+- **[Multiculturalism is a crisis of self](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qaXdLTi1LTThnYlMzMm51Wkw0MW8zOUpjbjI3MUxJcVlHTzdmZnppdWdvdmtWcFBXUTdWZkt3X1I0SG9DXzRTa0hyaHMzeFNwdG9DRjhBbFhRYWRYeDdWVlBmN3lyakFKSFJYM0xvSjlyR3hDaklKWTRBSmVhOUk?oc=5)**
+  The Spectator Australia · 24 Jul 14:58 UTC
+  The Spectator Australia has published a commentary arguing that multiculturalism has created a crisis of national self-understanding and cultural confidence. It appears to be an opinion piece rather than a specific court case or policy announcement.
+  **Our angle:** Christian Concern could use this as a hook to argue that Western nations, including Britain, cannot remain culturally neutral and should recover their Christian foundations. It also supports the line that defending Christian heritage is not the same as ethno-nationalism, and that multicultural orthodoxies can make honest debate about Islam and national identity harder.
+
+## Religious Liberty (1)
+
+- **[PSNI won’t rule out possibility of hospital bible offence](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPV1BzSGwyQzRHTmN1TTVNaDUyY3RtNDJJRTB3bEQ3T0Q2c3NDdk8tSWF1cTNiWkRkRGdKVUJ4dkxNbVV0S2NFaS1GYm5TVk0xNTQ0M1BNNUpqWThaS0pUVEZNS2tvWktDQXBCNmNSeGZGZjdaalRCUzdxTEl6M1hTcDJ1YmZPM0ptNHd1MVIyNE5MWmVQT3BPeFZjU0VtQ25XQXQwY2w5bDd4OHJuVG1kMlhNdUtiQWhGV29TYnJKR2RGZkhzVm15eW85azlzOHc3NjlUV0Q1bXBaMVl6TURFejUzclNRMHZYemVTMjZRV1JvWFU?oc=5)**
+  Belfast News Letter · 24 Jul 14:57 UTC
+  The Belfast News Letter reports that the Police Service of Northern Ireland has not ruled out the possibility that conduct involving a Bible in a hospital could amount to an offence. The story concerns police handling of religious expression in a public healthcare setting in Northern Ireland; no court ruling is indicated in the headline.
+  **Our angle:** Christian Concern could argue that police should be unequivocal that ordinary Christian expression, possession or use of Scripture is not criminal. This is a religious-liberty and free-speech concern, especially if vague public-order, hate-speech or institutional policies are chilling Christian witness in public settings.
+
+## Marriage & Family (3)
+
+- **[Wedding gift registries are great – but divorce registries would be a lifesaver | Nick Dothée](https://www.theguardian.com/commentisfree/2026/jul/24/wedding-divorce-gift-registries)**
+  The Guardian (UK) · 24 Jul 14:00 UTC
+  The Guardian published an opinion piece by Nick Dothée arguing that, just as couples receive help setting up a home through wedding gift registries, people going through divorce should be able to use “divorce registries” to rebuild a household. The writer frames this through his own pending divorce and presents practical support after marital breakdown as an unmet social need.
+  **Our angle:** Christian Concern could respond that treating divorce as another life-stage to be normalised risks further weakening the lifelong nature of marriage. The better public message is to support marriage, reconciliation and stable families rather than making family breakdown easier to accept culturally.
+
+- **[Fifty women tell BBC they were pressured into having sex with strangers](https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss)**
+  BBC News (UK) · 24 Jul 05:01 UTC
+  BBC News reports that 50 women say their partners pressured or coerced them into having sex with strangers through swinging. The women described being pushed into sexual situations they did not freely want, presenting the issue as a pattern of coercion within intimate relationships.
+  **Our angle:** Christian Concern could argue that this exposes the harm caused when sex is detached from faithful marriage and treated as recreational or transactional. The story offers a family-and-sexual-ethics hook: women need protection from coercion, not a culture that normalises increasingly exploitative sexual arrangements.
+
+- **[The Guardian view on Europe’s demographic crisis: the young must not be left to deal with the consequences | Editorial](https://www.theguardian.com/commentisfree/2026/jul/23/the-guardian-view-on-europes-demographic-crisis-the-young-must-not-be-left-to-deal-with-the-consequences)**
+  The Guardian (UK) · 23 Jul 17:22 UTC
+  A Guardian editorial discusses a new Brussels study warning that Europe is ageing rapidly as birthrates fall and people live longer. It says the demographic consequences must be debated more openly so that younger generations are not left carrying the economic and social burden.
+  **Our angle:** This gives Christian Concern a hook to argue that demographic decline is linked to the weakening of marriage, family formation and a culture open to children. Policy should strengthen stable families and value both children and the elderly, rather than treating ageing primarily as a technocratic burden.
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [PSNI won’t rule out possibility of hospital bible offence](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPV1BzSGwyQzRHTmN1TTVNaDUyY3RtNDJJRTB3bEQ3T0Q2c3NDdk8tSWF1cTNiWkRkRGdKVUJ4dkxNbVV0S2NFaS1GYm5TVk0xNTQ0M1BNNUpqWThaS0pUVEZNS2tvWktDQXBCNmNSeGZGZjdaalRCUzdxTEl6M1hTcDJ1YmZPM0ptNHd1MVIyNE5MWmVQT3BPeFZjU0VtQ25XQXQwY2w5bDd4OHJuVG1kMlhNdUtiQWhGV29TYnJKR2RGZkhzVm15eW85azlzOHc3NjlUV0Q1bXBaMVl6TURFejUzclNRMHZYemVTMjZRV1JvWFU?oc=5)
+*Religious Liberty · Belfast News Letter*
+
+**Why this one:** This is the strongest strategic fit: police ambiguity over whether use or possession of a Bible in a hospital could be criminal goes directly to Christian Concern’s religious liberty and free speech priorities. It is winnable because Christian Concern can demand a clear public assurance that ordinary Christian expression is not an offence, an angle likely to resonate with supporters and sympathetic journalists.
+
+**Suggested line:** Police must state plainly that the Bible is not contraband and Christian witness in hospitals is not a crime.
+
+### 2. [Fifty women tell BBC they were pressured into having sex with strangers](https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss)
+*Marriage & Family · BBC News (UK)*
+
+**Why this one:** BBC reach is high, and the story offers a timely opening to challenge the cultural normalisation of sexual arrangements that leave women vulnerable to coercion. Christian Concern can say something distinctive by connecting the harm described to the rejection of faithful marriage and the commodification of sex, while making clear that victims deserve protection and compassion.
+
+**Suggested line:** When sex is detached from faithful marriage, women are too often left exposed to coercion, exploitation and abuse.
+
+### 3. [The Guardian view on Europe’s demographic crisis: the young must not be left to deal with the consequences | Editorial](https://www.theguardian.com/commentisfree/2026/jul/23/the-guardian-view-on-europes-demographic-crisis-the-young-must-not-be-left-to-deal-with-the-consequences)
+*Marriage & Family · The Guardian (UK)*
+
+**Why this one:** A Guardian editorial on demographic decline gives the issue reach and policy relevance beyond Christian circles. Christian Concern can offer a distinctive pro-family response: Europe’s birthrate crisis is not just economic but moral and cultural, linked to weakened marriage, delayed family formation, abortion and a loss of confidence in children as a blessing.
+
+**Suggested line:** Europe’s demographic crisis will not be solved by technocracy but by rebuilding a culture that honours marriage, children and the elderly.
+
+### 4. [Multiculturalism is a crisis of self](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qaXdLTi1LTThnYlMzMm51Wkw0MW8zOUpjbjI3MUxJcVlHTzdmZnppdWdvdmtWcFBXUTdWZkt3X1I0SG9DXzRTa0hyaHMzeFNwdG9DRjhBbFhRYWRYeDdWVlBmN3lyakFKSFJYM0xvSjlyR3hDaklKWTRBSmVhOUk?oc=5)
+*Islam · The Spectator Australia*
+
+**Why this one:** This fits Christian Concern’s long-running argument that Britain and the West cannot be culturally neutral and must recover Christian foundations. Its weakness is that it is an Australian opinion piece rather than a UK policy or legal development, but it still provides a useful hook for distinguishing Christian heritage from ethno-nationalism and for challenging enforced multicultural orthodoxies.
+
+**Suggested line:** A nation that forgets its Christian foundations loses the confidence to defend freedom, truth and social cohesion.
+
+### 5. [Wedding gift registries are great – but divorce registries would be a lifesaver | Nick Dothée](https://www.theguardian.com/commentisfree/2026/jul/24/wedding-divorce-gift-registries)
+*Marriage & Family · The Guardian (UK)*
+
+**Why this one:** This is a lower-priority Guardian opinion piece, but it does connect with Christian Concern’s critique of no-fault divorce and the cultural normalisation of family breakdown. The angle is clear, though pickup potential is limited: compassion for those in crisis should not become a public celebration of divorce as just another lifestyle transition.
+
+**Suggested line:** People suffering marital breakdown need real support, but society should not normalise divorce as a routine life milestone.
+
+---
+
 # Digest - 2026-07-24 14:49 UTC
 *Last 24 hours, AI-classified*
 
@@ -397,6 +479,7 @@
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
