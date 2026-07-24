@@ -1,3 +1,37 @@
+# Digest - 2026-07-24 16:19 UTC
+*Last 24 hours, AI-classified*
+
+## Religious Liberty (2)
+- [Christians raise concerns at government wedding proposals](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFFRZUZ3WkVhSGdOZkZSZktGNkMyQ29sRTItUVFScS12NjYzcktXSVVKck84X3RjdFZxVWVLMlpQR3V3RzZHbUd4X21TM214RWRnNDdOREktYkFtSzdSc3I5QWNGSXMxMVVmZlNGSEhJcEphWHkwMU43WE5Ka1BkY3RzSDU1TGZrekhSYWxwOWpYdGFaZEVMYQ?oc=5) — *www.christiantoday.com*, 06:23
+- [Free speech row rages on as politician convicted under 'hate speech' law appeals to ECHR](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmxtdWhCbFZEZm5FN2NqUHE4YXpuRF9hWWFfQ2dWMmVVMjAtSWhyX2NPSGRjTlVXY0t2Nm0yTkZodjNaY2g3bUFGWEM2ZkxXN0hZMFh2VWxxSzltXzBvOFl3bGZMS0xWTm9nTTVOZnVTajBLVlRBMGFjNWQ1SXI3MXI2b013YWx0WnZSM1h3?oc=5) — *GB News*, 15:52
+
+## Marriage & Family (1)
+- [Christians raise concerns at government wedding proposals](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFFRZUZ3WkVhSGdOZkZSZktGNkMyQ29sRTItUVFScS12NjYzcktXSVVKck84X3RjdFZxVWVLMlpQR3V3RzZHbUd4X21TM214RWRnNDdOREktYkFtSzdSc3I5QWNGSXMxMVVmZlNGSEhJcEphWHkwMU43WE5Ka1BkY3RzSDU1TGZrekhSYWxwOWpYdGFaZEVMYQ?oc=5) — *www.christiantoday.com*, 06:23
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Christians raise concerns at government wedding proposals](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFFRZUZ3WkVhSGdOZkZSZktGNkMyQ29sRTItUVFScS12NjYzcktXSVVKck84X3RjdFZxVWVLMlpQR3V3RzZHbUd4X21TM214RWRnNDdOREktYkFtSzdSc3I5QWNGSXMxMVVmZlNGSEhJcEphWHkwMU43WE5Ka1BkY3RzSDU1TGZrekhSYWxwOWpYdGFaZEVMYQ?oc=5)
+*Religious Liberty · www.christiantoday.com*
+
+Christian groups have raised concerns about government proposals to reform wedding law, warning that changes could weaken the Christian understanding of marriage and create new pressures around religious ceremonies and conscience protections.
+
+**Angle:** This is a strong fit because it lets us defend marriage as a God-given institution, not merely a state-regulated lifestyle ceremony. We can argue that any reform must protect Christian doctrine, church autonomy and freedom of conscience, while warning against further desacralising marriage in law.
+
+**Possible headline:** *Do not rewrite marriage in the name of modernisation*
+
+### 2. [Free speech row rages on as politician convicted under 'hate speech' law appeals to ECHR](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmxtdWhCbFZEZm5FN2NqUHE4YXpuRF9hWWFfQ2dWMmVVMjAtSWhyX2NPSGRjTlVXY0t2Nm0yTkZodjNaY2g3bUFGWEM2ZkxXN0hZMFh2VWxxSzltXzBvOFl3bGZMS0xWTm9nTTVOZnVTajBLVlRBMGFjNWQ1SXI3MXI2b013YWx0WnZSM1h3?oc=5)
+*Religious Liberty · GB News*
+
+A politician convicted under a hate-speech law is appealing to the European Court of Human Rights, keeping the debate alive over whether broad speech offences are being used to punish controversial political or moral views.
+
+**Angle:** We can use this to warn that hate-speech laws inevitably expand from tackling genuine threats into policing dissent, including Christian teaching on Islam, sexuality and morality. The distinctive angle is to connect an international case to UK proposals on extremism, conversion therapy and anti-Muslim hostility definitions.
+
+**Possible headline:** *Hate-speech laws are becoming tools to punish dissent*
+
+---
+
 # Digest - 2026-07-24 15:42 UTC
 *Last 24 hours, AI-classified*
 
@@ -1450,6 +1484,7 @@
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
