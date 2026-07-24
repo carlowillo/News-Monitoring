@@ -41,65 +41,53 @@ MAX_AGE_HOURS = 24
 
 SEARCH_TERMS = [
     # Assisted dying
-    "assisted dying UK",
+    "assisted dying bill UK",
     "assisted suicide UK",
     "Terminally Ill Adults Bill",
-    "euthanasia",
-    "right to die",
-    "palliative care UK",
-    "hospice funding",
-    "end of life care UK",
+    "euthanasia UK law",
+    "right to die case UK",
     # Abortion
-    "abortion UK",
+    "abortion law UK",
     "abortion buffer zones",
     "abortion decriminalisation",
     "pro-life UK",
-    "abortion clinic protest",
-    "abortion pills post",
-    "foetal viability",
+    "abortion clinic protest UK",
+    "abortion pills post UK",
     # Islam
     "sharia UK",
     "Islamism UK",
     "grooming gangs",
     "blasphemy UK",
-    "Islamophobia definition",
-    "mosque planning UK",
-    "halal schools UK",
+    "Islamophobia definition UK",
     # Religious liberty
-    "Christian freedom of speech UK",
-    "religious discrimination tribunal",
+    "Christian free speech UK",
+    "religious discrimination tribunal UK",
     "conversion therapy ban UK",
-    "street preacher arrested",
-    "Christian sacked belief",
-    "prayer vigil arrest",
-    "employment tribunal religion belief",
-    "Christian persecution UK",
-    "free speech arrest UK",
-    "chaplain sacked",
-    "foster carers religion",
+    "street preacher arrested UK",
+    "Christian sacked belief UK",
+    "prayer arrest UK",
+    "employment tribunal religion belief UK",
+    "chaplain sacked UK",
+    "foster carers religion UK",
     # Marriage, family, gender
     "gender identity schools UK",
     "puberty blockers UK",
     "Cass Review",
-    "surrogacy UK",
-    "single sex spaces ruling",
+    "single sex spaces ruling UK",
     "transgender prisoners UK",
-    "relationships education parents",
-    "marriage family policy UK",
-    "no-fault divorce",
+    "sex education parents UK",
+    "no-fault divorce UK",
+    "surrogacy law UK",
     # Church and public life
-    "Church of England safeguarding",
+    "Church of England",
     "faith schools UK",
-    "Church of England doctrine",
     "bishops House of Lords",
-    "Christianity Britain decline",
-    "religious education curriculum",
-    # Law, rights and civil liberties touching our issues
+    "religious education UK schools",
+    # Law, rights, civil liberties
     "extremism definition UK",
-    "Charity Commission investigation",
+    "Charity Commission Christian",
     "ECHR reform UK",
-    "hate speech law UK",
-    "Prevent referral",
+    "free speech arrest UK",
     "parental rights UK",
 ]
 
@@ -581,45 +569,44 @@ def ai_classify_batch(api_key, batch, issue_names):
 Our issue categories:
 {chr(10).join('- ' + n for n in issue_names)}
 
-TASK: judge each headline below and include everything that touches our world.
+TASK: decide which headlines below are worth Christian Concern seeing today.
 
-BE GENEROUS. A wide net is far more useful to us than a narrow one - we would
-much rather skim past a few marginal items than miss something. If you are
-hesitating over whether something qualifies, INCLUDE IT and mark it "low".
+This list is read quickly by a busy team. A weak item costs them more than a
+missed one, so apply all three of these tests. An article must pass ALL THREE.
 
-Mark each included article with a relevance level:
+TEST 1 - IS IT UK?
+Include only UK stories: UK law, UK courts, UK politics, UK institutions,
+UK people, or something happening in the UK.
+The ONLY exception is a major international story with obvious UK relevance -
+a landmark foreign ruling or law that will shape the UK debate, or a
+significant development in a comparable country (Canada, Ireland, Australia,
+US federal). A hospital opening in India, a conference abroad, or routine
+foreign news is NOT relevant however well it fits our issues.
 
-  "high"   - squarely our territory. We would very likely want to comment.
-             A bill, ruling, case, campaign or statement directly on one of
-             our issues, or a Christian penalised for their beliefs.
+TEST 2 - IS IT ACTUALLY NEWS?
+Include reporting of events: rulings, votes, bills, cases, arrests, official
+figures, investigations, resignations, campaigns launched, significant
+statements by public figures.
+EXCLUDE: conference and event announcements, service or facility launches,
+fundraising appeals, awareness days, charity press releases, trade-magazine
+features, sponsored content, listicles, and general opinion columns with no
+news peg. If the headline could have run in any week of any year, exclude it.
 
-  "medium" - clearly connected. Useful background, a related policy shift, a
-             story we could reasonably build a comment on, evidence from
-             abroad, or coverage revealing how our issues are being framed.
+TEST 3 - DOES IT MATTER TO US?
+It must have real public-policy or cultural significance for our issues -
+something that changes the picture, sets a precedent, moves a debate, or that
+our supporters would want to know about.
+EXCLUDE local matters of no national significance, minor administrative news,
+and stories that merely touch a topic we care about without adding anything.
 
-  "low"    - loosely relevant. Adjacent territory, an interesting angle, a
-             story that might develop into something, or context worth
-             being aware of even if we never write about it.
+Then mark what survives:
+  "high"   - directly on one of our issues, or a Christian penalised for
+             their beliefs. We would very likely want to comment.
+  "medium" - genuinely significant and connected, worth knowing about, but
+             not something we would necessarily write about today.
 
-Include, at minimum:
-- Anything on our named issues, however it is framed.
-- Family, marriage, parenting, education and children's welfare stories.
-- Ethics in medicine and healthcare - conscience, safeguarding, care of the
-  vulnerable, palliative care, disability.
-- Free speech, protest, policing of speech, censorship, and academic freedom.
-- Religion in public life, any faith, including church news and religious
-  freedom abroad.
-- Law, courts, tribunals, human rights and constitutional questions where
-  belief, conscience, family or life is at stake.
-- Cultural and moral debates where a Christian perspective differs from the
-  secular consensus.
-- Immigration, integration and cohesion where religion or values are in play.
-
-Exclude ONLY:
-- Sport, celebrity, entertainment and consumer news with no moral or policy angle.
-- Business, markets and technology with no bearing on belief, life or family.
-- Weather, traffic, and routine local administration.
-- Stories with no discernible connection to any of the above.
+Do not include anything weaker than "medium". If in doubt, leave it out -
+a shorter, sharper list is worth far more to us than a long one.
 
 Articles:
 {listing}
@@ -628,12 +615,12 @@ Reply with ONLY a JSON array, no other text. One object per included article:
 [{{"i": 0,
    "issues": ["Religious Liberty"],
    "relevance": "high",
-   "what": "2-3 sentences explaining what actually happened, with specifics - who, what, where, any numbers, ruling or decision. Enough that a reader understands the story without clicking.",
-   "angle": "1-2 sentences on the specific line Christian Concern could take, and why this matters to our cause. For 'low' items a brief note on why it might matter is fine.",
    "urgent": false}}]
 
-Use only issue names from the list above. If an article fits no category well
-but is still worth seeing, put it under the closest one and mark it "low"."""
+Set "urgent" true only if it needs a response today - a vote or ruling
+imminent, a campaigner changing position, a story going viral, or a Christian
+publicly attacked for their faith.
+Use only issue names from the list above. If nothing qualifies, reply []."""
 
     reply = call_openai(api_key, prompt, effort=CLASSIFY_EFFORT)
     if reply is None:
@@ -678,10 +665,13 @@ def classify_all(items, api_key, issue_names):
             if not 0 <= idx < len(batch):
                 continue
             item = dict(batch[idx])
-            item["what"] = str(r.get("what", "")).strip()
-            item["angle"] = str(r.get("angle", "")).strip()
             rel = str(r.get("relevance", "medium")).strip().lower()
-            item["relevance"] = rel if rel in ("high", "medium", "low") else "medium"
+            if rel not in ("high", "medium"):
+                # Anything weaker is dropped - the list stays sharp.
+                if rel == "low":
+                    continue
+                rel = "medium"
+            item["relevance"] = rel
             matched = False
             for iss in r.get("issues", []):
                 if iss in by_issue:
@@ -710,11 +700,10 @@ def recommend_top5(api_key, by_issue):
         return None
 
     listing = "\n".join(
-        f"{i}. [{issue}] ({a.get('relevance','medium')} relevance) {a['title']} ({a['source']}"
-        + (f", also carried by {', '.join(a['also_in'][:4])}" if a.get("also_in") else "")
-        + ")"
-        + (f"\n   What: {a.get('what','')}" if a.get("what") else "")
-        + (f"\n   Angle: {a.get('angle','')}" if a.get("angle") else "")
+        f"{i}. [{issue}] ({a.get('relevance','medium')}) {a['title']}"
+        f"  — {a['source']}"
+        + (f", also in {', '.join(a['also_in'][:4])}" if a.get("also_in") else "")
+        + (f"\n   {a['summary'][:200]}" if a.get("summary") else "")
         for i, (issue, a) in enumerate(pool)
     )
 
@@ -722,38 +711,34 @@ def recommend_top5(api_key, by_issue):
 
 {CC_PERSPECTIVE}
 
-Below are today's articles, each marked with a relevance level. Choose the FIVE
-best for Christian Concern to publish comment on, and rank them 1-5
-(1 = highest priority).
+Below are today's stories. Choose the FIVE best for Christian Concern to comment
+on publicly, ranked 1-5 (1 = highest priority).
 
-The list is deliberately inclusive, so it contains marginal items. Be much more
-selective than the list is - usually your five will come from the "high"
-relevance items. Only reach into "medium" or "low" if something there is
-genuinely a better opportunity than a "high" one, for instance because it is an
-angle nobody else has spotted.
-
-Weigh these factors:
-- REACH: how big is the story, how many outlets are carrying it, is it trending?
+Weigh:
+- REACH: how big is the story, how many outlets are carrying it?
 - TIMELINESS: is there a narrow window to be part of the conversation?
-- DISTINCTIVENESS: can Christian Concern say something others are not saying?
-  A crowded take adds little; an underexplored Christian angle adds a lot.
-- PICKUP POTENTIAL: how likely are journalists, MPs, or sympathetic accounts to
-  quote, share or cite Christian Concern on this?
-- STRATEGIC FIT: does it advance a campaign we are already running, or connect to
-  a Christian Legal Centre case?
-- AUDIENCE RESPONSE: would our supporters share it, act on it, or donate?
+- DISTINCTIVENESS: can we say something others are not saying? A crowded take
+  adds little; an underexplored Christian angle adds a lot.
+- PICKUP: how likely are journalists, MPs or sympathetic accounts to quote,
+  share or cite us on this?
+- STRATEGIC FIT: does it advance a campaign we are running, or connect to a
+  Christian Legal Centre case?
+- SUPPORTERS: would our audience share it, act on it, or donate?
 
-Articles:
+Favour "high" relevance items. Only pick a "medium" if it is genuinely a better
+opportunity - for instance an angle nobody else has spotted.
+
+Stories:
 {listing}
 
-Reply with ONLY a JSON array of exactly five objects (or fewer if there aren't five),
-ranked best first, no other text:
+Reply with ONLY a JSON array, ranked best first, no other text:
 [{{"i": 0,
-   "title": "copy the headline exactly as shown above, so we can verify the match",
+   "title": "copy the headline exactly as shown, so we can verify the match",
    "rank": 1,
-   "reason": "2-3 sentences: why this one, covering reach, angle and what makes it
-              winnable for us specifically",
-   "suggested_angle": "one sentence naming the argument or headline we could run with"}}]"""
+   "what": "1-2 sentences on what actually happened, with specifics.",
+   "angle": "2-3 sentences: the specific line we could take, and why it works
+             for us - what makes it distinctive, timely or winnable.",
+   "headline": "a punchy suggested headline for our comment piece"}}]"""
 
     reply = call_openai(api_key, prompt, effort=RECOMMEND_EFFORT)
     if reply is None:
@@ -802,8 +787,9 @@ ranked best first, no other text:
             "article": article,
             "issue": issue,
             "rank": r.get("rank", len(picks) + 1),
-            "reason": str(r.get("reason", "")).strip(),
-            "suggested_angle": str(r.get("suggested_angle", "")).strip(),
+            "what": str(r.get("what", "")).strip(),
+            "angle": str(r.get("angle", "")).strip(),
+            "headline": str(r.get("headline", "")).strip(),
         })
 
     picks.sort(key=lambda p: p["rank"] if isinstance(p["rank"], int) else 99)
@@ -824,49 +810,35 @@ def build_digest(by_issue, urgent, used_ai, top5=None):
         lines.append("No new relevant articles this run.")
         return "\n".join(lines)
 
-    RANK = {"high": 0, "medium": 1, "low": 2}
-    BADGE = {"high": "", "medium": " · related", "low": " · loosely relevant"}
+    RANK = {"high": 0, "medium": 1}
+    today = datetime.now(timezone.utc).date()
 
-    def render(a, indent=""):
-        when = a["published"].strftime("%d %b %H:%M")
+    def render(a):
+        pub = a["published"]
+        # Show the weekday only when it is not today, so a time like
+        # "20:15" is never ambiguous across the 24-hour window.
+        when = pub.strftime("%H:%M") if pub.date() == today \
+            else pub.strftime("%a %H:%M")
         src = a["source"]
         if a.get("also_in"):
-            extra = len(a["also_in"])
-            src += f" (+{extra} other outlet{'s' if extra > 1 else ''})"
-        badge = BADGE.get(a.get("relevance", "medium"), "")
-        out = [f"{indent}- **[{a['title']}]({a['link']})**",
-               f"{indent}  {src} · {when} UTC{badge}"]
-        if a.get("what"):
-            out.append(f"{indent}  {a['what']}")
-        if a.get("angle"):
-            out.append(f"{indent}  **Our angle:** {a['angle']}")
-        return out
+            src += f" +{len(a['also_in'])}"
+        return f"- [{a['title']}]({a['link']}) — *{src}*, {when}"
 
     if urgent:
         lines.append("## ⚡ RESPOND NOW")
-        lines.append("")
         for a in urgent:
-            lines.extend(render(a))
-            lines.append("")
+            lines.append(render(a))
+        lines.append("")
 
     for issue, articles in by_issue.items():
         if not articles:
             continue
-        # Strongest first, then newest, so the good stuff leads and the
-        # loosely-relevant items sit below without being lost.
         articles.sort(key=lambda a: (RANK.get(a.get("relevance", "medium"), 1),
                                      -a["published"].timestamp()))
-        counts = {}
+        lines.append(f"## {issue} ({len(articles)})")
         for a in articles:
-            counts[a.get("relevance", "medium")] = \
-                counts.get(a.get("relevance", "medium"), 0) + 1
-        summary = ", ".join(f"{counts[k]} {k}" for k in ("high", "medium", "low")
-                            if k in counts)
-        lines.append(f"## {issue} ({len(articles)} - {summary})")
+            lines.append(render(a))
         lines.append("")
-        for a in articles:
-            lines.extend(render(a))
-            lines.append("")
 
     if top5:
         lines.append("---")
@@ -878,11 +850,14 @@ def build_digest(by_issue, urgent, used_ai, top5=None):
             lines.append(f"### {p['rank']}. [{a['title']}]({a['link']})")
             lines.append(f"*{p['issue']} · {a['source']}*")
             lines.append("")
-            if p.get("reason"):
-                lines.append(f"**Why this one:** {p['reason']}")
+            if p.get("what"):
+                lines.append(p["what"])
                 lines.append("")
-            if p.get("suggested_angle"):
-                lines.append(f"**Suggested line:** {p['suggested_angle']}")
+            if p.get("angle"):
+                lines.append(f"**Angle:** {p['angle']}")
+                lines.append("")
+            if p.get("headline"):
+                lines.append(f"**Possible headline:** *{p['headline']}*")
                 lines.append("")
 
     return "\n".join(lines)
