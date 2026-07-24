@@ -1,3 +1,36 @@
+# Digest - 2026-07-24 22:00 UTC
+*Last 24 hours, AI-classified*
+
+## Abortion (1)
+- [Federal judge rules certain Biden-era abortion drug restrictions are unlawful](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTnU2S1QzZmVNbXpiVE9yOGZFdDZQaGZndFBHbm9XaEJNLTB4MnBzZEtBMnJZeXJYY3FIbmJiRm9IXzUxbXZJTTJxUHBDUzlrNC1mc28yT1Z5Vi14YjFzakNxYWpocUZLV3d3VFhncmFEN3ZobWF4RkhneGxGT0lmb0pJZHNxcmRqclBWWWJ2ODBTam9TTl9ZTnM1N3dLcU91dENWR0xsT3VsUGdFeDNSdjRLTzJPUQ?oc=5) — *The Independent*, 21:52
+
+## Marriage & Family (1)
+- [NHS Fife ordered to publish trans guidance – GenderBlog](https://news.google.com/rss/articles/CBMiO0FVX3lxTE9HeWUxVFpscGsyQzdfNURmRllJZERWcEVVdE9ORHhSeHRKZFNZTUNNVFRtaGNyWWh6Z1RZ?oc=5) — *t.co*, 15:47
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [NHS Fife ordered to publish trans guidance – GenderBlog](https://news.google.com/rss/articles/CBMiO0FVX3lxTE9HeWUxVFpscGsyQzdfNURmRllJZERWcEVVdE9ORHhSeHRKZFNZTUNNVFRtaGNyWWh6Z1RZ?oc=5)
+*Marriage & Family · t.co*
+
+NHS Fife has reportedly been ordered to disclose its transgender guidance after resisting publication under freedom of information rules. The issue is directly about what public health bodies are telling staff and patients on sex, gender identity and access to services.
+
+**Angle:** This is a strong UK-facing opportunity to argue that NHS bodies must not hide policies that affect women’s privacy, single-sex spaces and staff conscience. We can connect it to the Supreme Court judgment on the meaning of sex and to cases such as the Darlington Nurses, saying secrecy around gender ideology in healthcare is no longer defensible.
+
+**Possible headline:** *NHS trans policies must be brought into the light after Supreme Court sex ruling*
+
+### 2. [Federal judge rules certain Biden-era abortion drug restrictions are unlawful](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTnU2S1QzZmVNbXpiVE9yOGZFdDZQaGZndFBHbm9XaEJNLTB4MnBzZEtBMnJZeXJYY3FIbmJiRm9IXzUxbXZJTTJxUHBDUzlrNC1mc28yT1Z5Vi14YjFzakNxYWpocUZLV3d3VFhncmFEN3ZobWF4RkhneGxGT0lmb0pJZHNxcmRqclBWWWJ2ODBTam9TTl9ZTnM1N3dLcU91dENWR0xsT3VsUGdFeDNSdjRLTzJPUQ?oc=5)
+*Abortion · The Independent*
+
+A US federal judge has ruled that some federal restrictions around an abortion drug, understood to concern access to medication abortion, were unlawful. The case concerns regulation of abortion pills and the extent to which authorities can limit or control their distribution.
+
+**Angle:** Although US-based, this gives us a timely hook to warn against the normalisation of abortion pills and the pressure to deregulate them further in the UK. Our distinctive line is that loosening safeguards around abortion pills endangers women and unborn children, especially given the UK’s continuing controversy over pills-by-post and home abortions.
+
+**Possible headline:** *Abortion pill deregulation puts women and unborn children at risk*
+
+---
+
 # Digest - 2026-07-24 20:15 UTC
 *Last 24 hours, AI-classified*
 
@@ -1550,6 +1583,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
