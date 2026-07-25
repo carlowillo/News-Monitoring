@@ -1,3 +1,30 @@
+# Digest - 2026-07-25 02:04 UTC
+*Last 24 hours, AI-classified*
+
+## ⚡ RESPOND NOW
+- [Catholic Teacher Fired In UK For Answering Questions About ‘Religion And Abortion’](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlRPNEpsZDVkaGZWeUZ5X1ZJWUNaX2RjNW56aUJYcjJYbTl6N1pudUpLOHJ6UkZoNDhaTFJIR2RfcXN4NjU0SVFlN0VLTl90ZDdNanFUZEhGUFJzM0U4dFdLUFlnTEhyYmdVUVMzUE1YY21Ra0k5SmJ2TDJ6dGtwcjRadGlzTG42b3kxTVV3UV9nQzZya3l0RmFpVFA0NTFxZHBPYzc4TW5kUQ?oc=5) — *tippinsights*, 00:27
+
+## Abortion (1)
+- [Catholic Teacher Fired In UK For Answering Questions About ‘Religion And Abortion’](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlRPNEpsZDVkaGZWeUZ5X1ZJWUNaX2RjNW56aUJYcjJYbTl6N1pudUpLOHJ6UkZoNDhaTFJIR2RfcXN4NjU0SVFlN0VLTl90ZDdNanFUZEhGUFJzM0U4dFdLUFlnTEhyYmdVUVMzUE1YY21Ra0k5SmJ2TDJ6dGtwcjRadGlzTG42b3kxTVV3UV9nQzZya3l0RmFpVFA0NTFxZHBPYzc4TW5kUQ?oc=5) — *tippinsights*, 00:27
+
+## Religious Liberty (1)
+- [Catholic Teacher Fired In UK For Answering Questions About ‘Religion And Abortion’](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlRPNEpsZDVkaGZWeUZ5X1ZJWUNaX2RjNW56aUJYcjJYbTl6N1pudUpLOHJ6UkZoNDhaTFJIR2RfcXN4NjU0SVFlN0VLTl90ZDdNanFUZEhGUFJzM0U4dFdLUFlnTEhyYmdVUVMzUE1YY21Ra0k5SmJ2TDJ6dGtwcjRadGlzTG42b3kxTVV3UV9nQzZya3l0RmFpVFA0NTFxZHBPYzc4TW5kUQ?oc=5) — *tippinsights*, 00:27
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Catholic Teacher Fired In UK For Answering Questions About ‘Religion And Abortion’](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlRPNEpsZDVkaGZWeUZ5X1ZJWUNaX2RjNW56aUJYcjJYbTl6N1pudUpLOHJ6UkZoNDhaTFJIR2RfcXN4NjU0SVFlN0VLTl90ZDdNanFUZEhGUFJzM0U4dFdLUFlnTEhyYmdVUVMzUE1YY21Ra0k5SmJ2TDJ6dGtwcjRadGlzTG42b3kxTVV3UV9nQzZya3l0RmFpVFA0NTFxZHBPYzc4TW5kUQ?oc=5)
+*Abortion · tippinsights*
+
+A UK Catholic teacher was reportedly dismissed after answering pupils’ questions about religion and abortion, giving responses rooted in Catholic teaching. The case is being framed as a free-speech and religious-liberty dispute over whether orthodox Christian beliefs can be expressed in schools.
+
+**Angle:** This is a strong fit because it combines abortion, education, religious liberty and the silencing of Christian belief in the workplace. We should argue that teachers must not be punished for giving honest, age-appropriate answers about Christian doctrine, especially on contested moral issues where secular assumptions are often presented as neutral. The case gives us a timely opportunity to expose the double standard: progressive ideology is protected in schools, but Christian conviction is treated as misconduct.
+
+**Possible headline:** *Teacher sacked for Catholic abortion beliefs: is Christian truth now forbidden in schools?*
+
+---
+
 # Digest - 2026-07-24 22:00 UTC
 *Last 24 hours, AI-classified*
 
@@ -1583,6 +1610,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
