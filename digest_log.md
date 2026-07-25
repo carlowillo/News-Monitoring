@@ -1,3 +1,24 @@
+# Digest - 2026-07-25 20:12 UTC
+*Last 24 hours, AI-classified*
+
+## Marriage & Family (1)
+- [150,000 march through London in world’s largest trans pride, organisers say](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3BQalFQUFFPZHFzS0E1bmd6Vm51d0NOcWJZSDRWUmhCdU16Y1NsLU10SzBPaUlGbHhJZzZ6aGgtNTVzajZaRmpBUUllZW1mckxpdlRSVklQSExzTU9IUlVCRG13dzRBTDNmSkRFbVg4S2lWV2lqcG5xenVrYVJ2ejBLMkhUd3E0Y2pOSzhtbXFuaEEzUHBGVVVhd0M4aHRJbzBMdFZ6NkVtZGp2VVBqZnFkdDB4aG9HOUI4?oc=5) — *Express and Star*, 19:04
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [150,000 march through London in world’s largest trans pride, organisers say](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3BQalFQUFFPZHFzS0E1bmd6Vm51d0NOcWJZSDRWUmhCdU16Y1NsLU10SzBPaUlGbHhJZzZ6aGgtNTVzajZaRmpBUUllZW1mckxpdlRSVklQSExzTU9IUlVCRG13dzRBTDNmSkRFbVg4S2lWV2lqcG5xenVrYVJ2ejBLMkhUd3E0Y2pOSzhtbXFuaEEzUHBGVVVhd0M4aHRJbzBMdFZ6NkVtZGp2VVBqZnFkdDB4aG9HOUI4?oc=5)
+*Marriage & Family · Express and Star*
+
+Organisers say around 150,000 people marched through London for Trans+ Pride, claiming it was the largest trans pride event in the world. The march puts transgender law, culture and public policy back into the national conversation at scale.
+
+**Angle:** We can respond by saying that compassion for individuals must not mean surrendering truth about biological sex, especially after the Supreme Court clarified the meaning of sex in law. The distinctive Christian Concern angle is to connect the spectacle of mass mobilisation with the real-world consequences for women’s spaces, schools, NHS settings, free speech and cases such as the Darlington Nurses. It is timely because media coverage will celebrate the numbers, while few will ask whether law and institutions are still protecting women, children and conscience.
+
+**Possible headline:** *150,000 marchers cannot rewrite the truth about biological sex*
+
+---
+
 # Digest - 2026-07-25 18:58 UTC
 *Last 24 hours, AI-classified*
 
@@ -1832,6 +1853,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
