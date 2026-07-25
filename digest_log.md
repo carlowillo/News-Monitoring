@@ -1,3 +1,36 @@
+# Digest - 2026-07-25 09:42 UTC
+*Last 24 hours, AI-classified*
+
+## Abortion (1)
+- [Teen who singer D4vd is accused of killing had multiple abortions, texts reveal](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zN1luTzhjdDBZaW5WaGVpaklWX3dvY2pwYmdkVklhekdoQ002SFBpcDNObWc5X0QtM0R3VWhpTFZPN3h4OWo1UFZFZTBUQ25WVEJRa1pwLVNub1k?oc=5) — *BBC*, 00:13
+
+## Islam (1)
+- [Warning: Australian politicians are importing the British right’s visions of doom | Jack Jacobs](https://www.theguardian.com/commentisfree/2026/jul/25/warning-australian-politicians-are-importing-the-british-rights-visions-of-doom) — *The Guardian (UK)*, 09:00
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Teen who singer D4vd is accused of killing had multiple abortions, texts reveal](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zN1luTzhjdDBZaW5WaGVpaklWX3dvY2pwYmdkVklhekdoQ002SFBpcDNObWc5X0QtM0R3VWhpTFZPN3h4OWo1UFZFZTBUQ25WVEJRa1pwLVNub1k?oc=5)
+*Abortion · BBC*
+
+The BBC reports that text messages linked to the allegations that singer D4vd killed a teenage girl say she had undergone multiple abortions. The story is being covered as a celebrity-crime development, but it also raises questions about the vulnerability of a minor and whether warning signs were missed.
+
+**Angle:** Use a careful safeguarding and pro-life line: repeated abortions for a teenage girl should never be treated as routine healthcare, but as a major red flag for coercion, abuse or exploitation. This is distinctive because most coverage will focus on celebrity and crime, while we can highlight how abortion can be used to hide abuse and leave vulnerable girls unprotected.
+
+**Possible headline:** *A Teenage Girl’s Abortions Should Have Triggered Safeguarding Alarms*
+
+### 2. [Warning: Australian politicians are importing the British right’s visions of doom | Jack Jacobs](https://www.theguardian.com/commentisfree/2026/jul/25/warning-australian-politicians-are-importing-the-british-rights-visions-of-doom)
+*Islam · The Guardian (UK)*
+
+The Guardian article argues that Australian politician Pauline Hanson is importing rhetoric from the British right after engaging with figures including Nigel Farage, Rupert Lowe and Tommy Robinson. It frames warnings about immigration and Islamisation as alarmist and unsuitable for Australia’s different history.
+
+**Angle:** Respond by saying the liberal media routinely dismisses legitimate concerns about Islamisation, sharia influence, grooming gangs, blasphemy pressures and free speech as mere ‘doom’ rhetoric. The opportunity is to defend the right to criticise Islam and public policy without being smeared or silenced by vague ‘anti-Muslim hostility’ frameworks.
+
+**Possible headline:** *Calling It ‘Doom’ Won’t Answer Honest Concerns About Islamisation*
+
+---
+
 # Digest - 2026-07-25 07:57 UTC
 *Last 24 hours, AI-classified*
 
@@ -1691,6 +1724,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
