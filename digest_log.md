@@ -1,3 +1,27 @@
+# Digest - 2026-07-25 18:58 UTC
+*Last 24 hours, AI-classified*
+
+## ⚡ RESPOND NOW
+- [Assisted suicide, Bishop of Shrewsbury urges Catholics: ‘Write to your MPs’](https://news.google.com/rss/articles/CBMijwFBVV95cUxPUzRNbHZDSlFSZzRjWDFnN25PaFpWdUc2eTBuU3ZPNzFVOTlkdktweXNybmZ0clM3UjBsaV9YUFBQNlpuMkxTMHA5OWcwV0ItT2pHNmxTWndIWWstVU8yNkNwWDF6TmhYcnBFcDgzY3Y3Mk5KcWp4dWM3bEg1Zkhna2J3aFlLWWtfU3ZiTTMtdw?oc=5) — *Silere Non Possum*, 17:49
+
+## Assisted Suicide / Assisted Dying (1)
+- [Assisted suicide, Bishop of Shrewsbury urges Catholics: ‘Write to your MPs’](https://news.google.com/rss/articles/CBMijwFBVV95cUxPUzRNbHZDSlFSZzRjWDFnN25PaFpWdUc2eTBuU3ZPNzFVOTlkdktweXNybmZ0clM3UjBsaV9YUFBQNlpuMkxTMHA5OWcwV0ItT2pHNmxTWndIWWstVU8yNkNwWDF6TmhYcnBFcDgzY3Y3Mk5KcWp4dWM3bEg1Zkhna2J3aFlLWWtfU3ZiTTMtdw?oc=5) — *Silere Non Possum*, 17:49
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Assisted suicide, Bishop of Shrewsbury urges Catholics: ‘Write to your MPs’](https://news.google.com/rss/articles/CBMijwFBVV95cUxPUzRNbHZDSlFSZzRjWDFnN25PaFpWdUc2eTBuU3ZPNzFVOTlkdktweXNybmZ0clM3UjBsaV9YUFBQNlpuMkxTMHA5OWcwV0ItT2pHNmxTWndIWWstVU8yNkNwWDF6TmhYcnBFcDgzY3Y3Mk5KcWp4dWM3bEg1Zkhna2J3aFlLWWtfU3ZiTTMtdw?oc=5)
+*Assisted Suicide / Assisted Dying · Silere Non Possum*
+
+The Bishop of Shrewsbury has urged Catholics to contact their MPs over assisted suicide, calling for direct political action as the issue remains live in Parliament. The appeal frames opposition to assisted dying as an urgent matter of conscience and public safeguarding.
+
+**Angle:** We should amplify this as a moment for Christians of all denominations to act now, not merely as an internal Catholic intervention. Our line should be that MPs need to hear from ordinary constituents before vulnerable, disabled and elderly people are exposed to a law that will inevitably widen, as seen in Canada and elsewhere.
+
+**Possible headline:** *Bishop is right: Christians must write to MPs before assisted suicide becomes law*
+
+---
+
 # Digest - 2026-07-25 17:55 UTC
 *Last 24 hours, AI-classified*
 
@@ -1808,6 +1832,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
