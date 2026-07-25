@@ -1,3 +1,24 @@
+# Digest - 2026-07-25 11:05 UTC
+*Last 24 hours, AI-classified*
+
+## Religious Liberty (1)
+- [British religious freedom in decline, Trump report finds](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNER2ZFcyYXNBTGd5cHo1ajBuV05EdlZ4b2ZoLU1MNE40Yl9lS1ZWUDdkZVN2cWdTMnQ1SXdvV1VReXdKaWh0V0xkR2V5M002LUVmTGlPczNMeFR6TGtOV20zZ29OeHJEYmRYSWc3NFgxM0pzVDRNV2JQcFgtZDQxZ1lqTDFkVkZoWWYySnphQ1EwLW9WYV9Qd2RlY0hJdEo3UXc?oc=5) — *The Telegraph*, 09:52
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [British religious freedom in decline, Trump report finds](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNER2ZFcyYXNBTGd5cHo1ajBuV05EdlZ4b2ZoLU1MNE40Yl9lS1ZWUDdkZVN2cWdTMnQ1SXdvV1VReXdKaWh0V0xkR2V5M002LUVmTGlPczNMeFR6TGtOV20zZ29OeHJEYmRYSWc3NFgxM0pzVDRNV2JQcFgtZDQxZ1lqTDFkVkZoWWYySnphQ1EwLW9WYV9Qd2RlY0hJdEo3UXc?oc=5)
+*Religious Liberty · The Telegraph*
+
+The Telegraph reports that a Trump-era religious freedom assessment has warned that religious liberty in Britain is deteriorating. The story puts UK free-speech and religious-liberty controversies into an international frame, rather than treating them as isolated domestic disputes.
+
+**Angle:** We can say that this confirms what Christian Concern and the Christian Legal Centre have been warning for years: Christians in Britain are increasingly punished for prayer, preaching, conscience and ordinary biblical beliefs. The distinctive line is that this is not a marginal complaint from campaigners, but an overseas religious-freedom warning about the UK itself — timely, quotable, and directly connected to our cases involving street preachers, employees, teachers, medics and pro-life volunteers.
+
+**Possible headline:** *Britain’s religious freedom crisis can no longer be dismissed*
+
+---
+
 # Digest - 2026-07-25 09:42 UTC
 *Last 24 hours, AI-classified*
 
@@ -1724,6 +1745,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
