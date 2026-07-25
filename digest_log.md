@@ -1,3 +1,24 @@
+# Digest - 2026-07-25 22:47 UTC
+*Last 24 hours, AI-classified*
+
+## Marriage & Family (1)
+- [NHS Scotland defied Supreme Court ruling to uphold trans policies](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmdCOENIMURWZFFveGtERjk1ck9ucVZCaGZnSURjUjBOUFYtMl8zQmhReFhlajVpYjlWZHlHTkloV1dZckJtUUxYQmV2TjE0bjFENXpkMWhDZ3A0QmFRMlh6bTJ5Q1NzcDRhbWhoenkyVWdVQWowUEtDdV9UaTdrMVh5SVZxYTVvNHMyWURBendwZXZqaTBjV212eFRZSUs2SERwc2FIMFRlY0x2aWE0?oc=5) — *The Times*, 18:00
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [NHS Scotland defied Supreme Court ruling to uphold trans policies](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmdCOENIMURWZFFveGtERjk1ck9ucVZCaGZnSURjUjBOUFYtMl8zQmhReFhlajVpYjlWZHlHTkloV1dZckJtUUxYQmV2TjE0bjFENXpkMWhDZ3A0QmFRMlh6bTJ5Q1NzcDRhbWhoenkyVWdVQWowUEtDdV9UaTdrMVh5SVZxYTVvNHMyWURBendwZXZqaTBjV212eFRZSUs2SERwc2FIMFRlY0x2aWE0?oc=5)
+*Marriage & Family · The Times*
+
+The Times reports that NHS Scotland continued to uphold trans-inclusive policies despite the Supreme Court ruling that sex in equality law means biological sex. The story raises direct questions about whether public bodies are complying with the law on single-sex spaces, privacy and safeguarding.
+
+**Angle:** This is a strong fit because it connects directly to our position on biological sex, the Supreme Court judgment and cases involving women-only spaces such as the Darlington Nurses. We can argue that NHS leaders cannot pick and choose which parts of equality law to obey, and that women patients and staff should not have to fight public institutions for lawful single-sex provision.
+
+**Possible headline:** *NHS Scotland cannot defy the law on biological sex*
+
+---
+
 # Digest - 2026-07-25 20:12 UTC
 *Last 24 hours, AI-classified*
 
@@ -1853,6 +1874,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
