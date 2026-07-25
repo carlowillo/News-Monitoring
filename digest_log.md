@@ -1,3 +1,36 @@
+# Digest - 2026-07-25 05:38 UTC
+*Last 24 hours, AI-classified*
+
+## Assisted Suicide / Assisted Dying (1)
+- [Some 136 Yorkshire doctors and nurses sign letter urging MPs to block assisted dying](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVJuS3hYcjBMV3dKX3JNWFp5d0M4OGNQTzZKZHltelBPOFozd0tMcVVzTVZSQWJOdThqMnlSbnNLWks3Ull1cm1KZFVSTTkxZUFrM1hCWVphVS1iYXF4TGM5blVSU0ZUVmczQnpKc18tYl9wZXpEY1hOWTIwelRlM0pUYUJOTDFxZ3RDaUdRTTM4NWNSdGF5eTJyUlJlVGdEMkFCYW00TUY2UQ?oc=5) — *Yorkshire Post*, 05:00
+
+## Marriage & Family (1)
+- [Bolton Council to review policies after Supreme Court ruling on single-sex spaces](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXVvVWk3SkJhM1p2SUZxMGVsQS1xbEhUeEdkMWR5T0M4S3I2RjhCNFJUQ3JQdFdJODJIbkJQNEQ3SmJTRVdzT2MtVDZrZGZoZ2lWNEVKWnNMNVRGMThkMWduOHpOZFNyTGRQZVY3VUlhOTZicGRKamNCOV8zNlE1NHNZaEF6MFNMZUc3dEdnWWQtT0xhUWdwZVBGR2pseWNyY3JCVg?oc=5) — *The Bolton News*, 04:37
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Some 136 Yorkshire doctors and nurses sign letter urging MPs to block assisted dying](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVJuS3hYcjBMV3dKX3JNWFp5d0M4OGNQTzZKZHltelBPOFozd0tMcVVzTVZSQWJOdThqMnlSbnNLWks3Ull1cm1KZFVSTTkxZUFrM1hCWVphVS1iYXF4TGM5blVSU0ZUVmczQnpKc18tYl9wZXpEY1hOWTIwelRlM0pUYUJOTDFxZ3RDaUdRTTM4NWNSdGF5eTJyUlJlVGdEMkFCYW00TUY2UQ?oc=5)
+*Assisted Suicide / Assisted Dying · Yorkshire Post*
+
+A group of 136 doctors and nurses in Yorkshire have signed a public letter urging MPs to oppose assisted dying legislation. The intervention comes from frontline medical professionals as Parliament continues to consider changing the law.
+
+**Angle:** This is a strong opportunity to argue that opposition to assisted suicide is not merely religious or ideological, but shared by those who care for the vulnerable at the bedside. We can amplify the medical warnings about coercion, underfunded palliative care and the danger of importing a Canadian-style culture of death. The regional nature also gives MPs a direct constituency-facing reason to pause.
+
+**Possible headline:** *Listen to the doctors: assisted suicide puts the vulnerable at risk*
+
+### 2. [Bolton Council to review policies after Supreme Court ruling on single-sex spaces](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXVvVWk3SkJhM1p2SUZxMGVsQS1xbEhUeEdkMWR5T0M4S3I2RjhCNFJUQ3JQdFdJODJIbkJQNEQ3SmJTRVdzT2MtVDZrZGZoZ2lWNEVKWnNMNVRGMThkMWduOHpOZFNyTGRQZVY3VUlhOTZicGRKamNCOV8zNlE1NHNZaEF6MFNMZUc3dEdnWWQtT0xhUWdwZVBGR2pseWNyY3JCVg?oc=5)
+*Marriage & Family · The Bolton News*
+
+Bolton Council is reviewing its policies following the Supreme Court ruling on the meaning of sex and single-sex spaces. The review suggests local authorities are beginning to assess how their guidance must change in light of the judgment.
+
+**Angle:** We can welcome this as evidence that the Supreme Court ruling has real practical force, while warning councils not to dilute it through ambiguous guidance. The distinctive line is to call for every local authority, school, hospital and public body to audit policies and restore lawful protections for women and girls. This also connects well with wider concerns about single-sex spaces and cases such as the Darlington nurses.
+
+**Possible headline:** *Councils must obey the Supreme Court and restore single-sex spaces*
+
+---
+
 # Digest - 2026-07-25 02:04 UTC
 *Last 24 hours, AI-classified*
 
@@ -1610,6 +1643,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
