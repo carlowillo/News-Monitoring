@@ -1,3 +1,51 @@
+# Digest - 2026-07-25 07:57 UTC
+*Last 24 hours, AI-classified*
+
+## ⚡ RESPOND NOW
+- [Christian lawmaker says UK barred her from entering country after Finland 'hate speech' conviction](https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVNQTUxVbUpIOEppbkxrSlFwWi12T1RQSHBWTFBMLUF4QzZxOFM1OTVaWFZ6N193Tkg2dXZRUFEyb2VYWjBSN2F6c0hoSnZpQWRlcVdWd2dMLW9QQ2tyZG01UU93VDhSUE84UXVtRmY0QkFHWEg5Vkt3VDFHaVFKQldaUQ?oc=5) — *AOL.com*, 06:45
+
+## Assisted Suicide / Assisted Dying (1)
+- [Australia’s Labor Party backs telehealth euthanasia consultations](https://news.google.com/rss/articles/CBMiowFBVV95cUxQMDZtM2JXRmhLYWxTS0hKY2pPY3NISkZNMFFBWmltNEdnVG5QM0Y2ZUhCaG8zeTdwOV9EYnk2TGIwY3phdUdISzVXSXlYempsRXZfRFBPelQ1Nlc0OF9ONVA1QjRUc2ItRzFCLV9HTVZ4RzZYQjdKYXEwMDRWM25OZW4wdlV1a1VvZVVZc3hIVXdyYzY2N2JRVHR5UmtTb0V5VWlB?oc=5) — *The Catholic Herald*, 06:00
+
+## Abortion (1)
+- [Federal Judge Rules FDA Unjustly Restricted Abortion Pill Mifepristone](https://news.google.com/rss/articles/CBMixwFBVV95cUxQelk0MHlBcU5ZUzk4Z2VYUVhnTVNnSDNweXZqOGxlbkh4RVJXZHZveTZQMXVkZUpZbVFVMHVtOXBWLWpjWmV6LXBXQ1g3LUxqcWlWOWh0U1RIc1NlSEhsMWZqcjNWZm5SNGxLV2tIVDEyNHN1SUlvc2FkSS16Z3lFeE9ab1ZPRWNycTdMLTYyTDF3LW5wQW5xRGIyRjlNdEtJZnRaWHdTeEI5X1Q0elF6aFFwUXFFcEdjMVJVWHJYVUNmX2pyalpr0gHMAUFVX3lxTE40QTBFTXk3M0dXdGpGby1NNjl2N2FIcURRZGJMamJBQ1RTV0Zoak1aWTgtcWU2SDYzejhqdjZIcFVNcHpWVVdwTk1kM21wU3BrSlN2cmgxQ3ZpTk9COWFvVi0wOTV0OTdmRmNoTHR6VV90NEtvOWM2cUNBTDNVNGEySGIydW9WeUpZNmNIbHQ0cGJEOGs0NDhhZDFxdE5zNUxVVE5wVjRXeE1YaHJuNzlaRGptaUM5Y0JfS0tWcU5zaWQySlJIYVhwbkoxTA?oc=5) — *HuffPost*, Fri 19:26
+
+## Religious Liberty (1)
+- [Christian lawmaker says UK barred her from entering country after Finland 'hate speech' conviction](https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVNQTUxVbUpIOEppbkxrSlFwWi12T1RQSHBWTFBMLUF4QzZxOFM1OTVaWFZ6N193Tkg2dXZRUFEyb2VYWjBSN2F6c0hoSnZpQWRlcVdWd2dMLW9QQ2tyZG01UU93VDhSUE84UXVtRmY0QkFHWEg5Vkt3VDFHaVFKQldaUQ?oc=5) — *AOL.com*, 06:45
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Christian lawmaker says UK barred her from entering country after Finland 'hate speech' conviction](https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVNQTUxVbUpIOEppbkxrSlFwWi12T1RQSHBWTFBMLUF4QzZxOFM1OTVaWFZ6N193Tkg2dXZRUFEyb2VYWjBSN2F6c0hoSnZpQWRlcVdWd2dMLW9QQ2tyZG01UU93VDhSUE84UXVtRmY0QkFHWEg5Vkt3VDFHaVFKQldaUQ?oc=5)
+*Religious Liberty · AOL.com*
+
+A Christian lawmaker reportedly says she was barred from entering the UK after a Finnish 'hate speech' case linked to her religious views. The story raises the prospect that Britain is treating orthodox Christian speech on sexuality as a border-control or extremism concern.
+
+**Angle:** This is a direct religious-liberty and free-speech story with a UK hook, and it fits Christian Concern’s core message that biblical beliefs are being treated as dangerous or extremist. We should frame it as a warning that Britain is importing blasphemy-style policing of Christian speech and punishing believers for convictions that should be protected in a free society.
+
+**Possible headline:** *Is Britain Now Barring Christians for Biblical Beliefs?*
+
+### 2. [Australia’s Labor Party backs telehealth euthanasia consultations](https://news.google.com/rss/articles/CBMiowFBVV95cUxQMDZtM2JXRmhLYWxTS0hKY2pPY3NISkZNMFFBWmltNEdnVG5QM0Y2ZUhCaG8zeTdwOV9EYnk2TGIwY3phdUdISzVXSXlYempsRXZfRFBPelQ1Nlc0OF9ONVA1QjRUc2ItRzFCLV9HTVZ4RzZYQjdKYXEwMDRWM25OZW4wdlV1a1VvZVVZc3hIVXdyYzY2N2JRVHR5UmtTb0V5VWlB?oc=5)
+*Assisted Suicide / Assisted Dying · The Catholic Herald*
+
+Australia’s Labor Party has backed allowing euthanasia or assisted-dying consultations to take place by telehealth. That would make it easier for doctors and patients to discuss or arrange assisted suicide remotely rather than through in-person assessment.
+
+**Angle:** This is a strong overseas warning for the UK assisted-suicide debate: once the principle is conceded, safeguards quickly give way to convenience and expansion. Christian Concern can use the story to argue that 'assisted dying' becomes normalised bureaucracy, even potentially by phone or video call, while vulnerable people need care, presence and properly funded hospices.
+
+**Possible headline:** *Euthanasia by Video Call: The Future Britain Must Reject*
+
+### 3. [Federal Judge Rules FDA Unjustly Restricted Abortion Pill Mifepristone](https://news.google.com/rss/articles/CBMixwFBVV95cUxQelk0MHlBcU5ZUzk4Z2VYUVhnTVNnSDNweXZqOGxlbkh4RVJXZHZveTZQMXVkZUpZbVFVMHVtOXBWLWpjWmV6LXBXQ1g3LUxqcWlWOWh0U1RIc1NlSEhsMWZqcjNWZm5SNGxLV2tIVDEyNHN1SUlvc2FkSS16Z3lFeE9ab1ZPRWNycTdMLTYyTDF3LW5wQW5xRGIyRjlNdEtJZnRaWHdTeEI5X1Q0elF6aFFwUXFFcEdjMVJVWHJYVUNmX2pyalpr0gHMAUFVX3lxTE40QTBFTXk3M0dXdGpGby1NNjl2N2FIcURRZGJMamJBQ1RTV0Zoak1aWTgtcWU2SDYzejhqdjZIcFVNcHpWVVdwTk1kM21wU3BrSlN2cmgxQ3ZpTk9COWFvVi0wOTV0OTdmRmNoTHR6VV90NEtvOWM2cUNBTDNVNGEySGIydW9WeUpZNmNIbHQ0cGJEOGs0NDhhZDFxdE5zNUxVVE5wVjRXeE1YaHJuNzlaRGptaUM5Y0JfS0tWcU5zaWQySlJIYVhwbkoxTA?oc=5)
+*Abortion · HuffPost*
+
+A US federal judge ruled that the FDA unjustly restricted access to mifepristone, the abortion pill used in chemical abortions. The case concerns how tightly the drug may be prescribed, dispensed or regulated in America.
+
+**Angle:** Although this is a US story, it connects directly to the UK fight over abortion pills by post and the wider push to remove medical and legal safeguards around abortion. Christian Concern can argue that courts and regulators are increasingly prioritising abortion access over women’s safety and the lives of unborn children.
+
+**Possible headline:** *Abortion Pills Without Safeguards Put Women and Babies at Risk*
+
+---
+
 # Digest - 2026-07-25 05:38 UTC
 *Last 24 hours, AI-classified*
 
@@ -1643,6 +1691,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
