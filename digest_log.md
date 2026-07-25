@@ -1,3 +1,24 @@
+# Digest - 2026-07-25 16:03 UTC
+*Last 24 hours, AI-classified*
+
+## Marriage & Family (1)
+- [New UK Civil Service Guidelines Risk Forcing Transgender Employees to 'Out Themselves'](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWRRa1VzYTBHWXFPYk1tUEUyQW42cjNCLVUwVWU3TXZfdllNeHQ5UC13Y0xPN2VWbmdLeWtlVXNzNlhzZVYzNE9kdU8tWHk2eDdoR1dOMFN3ZFFIZ2ZzUTFsSEFSUXNWM1JsWXZSVnBOQk1zVHBtdDVmWFlqTnRJUlpYdktMMGNKMWpVdG1Vbl9vdDU1VlRVUERRSFlLVzdaNUFxYzVtMG1KLUtneTdGMWo4VnZIaFpnb3BN?oc=5) — *EDGE Media Network*, 07:17
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [New UK Civil Service Guidelines Risk Forcing Transgender Employees to 'Out Themselves'](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWRRa1VzYTBHWXFPYk1tUEUyQW42cjNCLVUwVWU3TXZfdllNeHQ5UC13Y0xPN2VWbmdLeWtlVXNzNlhzZVYzNE9kdU8tWHk2eDdoR1dOMFN3ZFFIZ2ZzUTFsSEFSUXNWM1JsWXZSVnBOQk1zVHBtdDVmWFlqTnRJUlpYdktMMGNKMWpVdG1Vbl9vdDU1VlRVUERRSFlLVzdaNUFxYzVtMG1KLUtneTdGMWo4VnZIaFpnb3BN?oc=5)
+*Marriage & Family · EDGE Media Network*
+
+EDGE reports that new UK Civil Service workplace guidance may require trans-identifying staff to follow sex-based rules in areas such as single-sex facilities, prompting claims that some employees could be forced to disclose their transgender status at work.
+
+**Angle:** We can reframe the story away from activist language about “outing” and towards the government finally aligning Whitehall policy with biological reality and the Supreme Court’s ruling on sex. This is timely, directly relevant to single-sex spaces and cases such as the Darlington nurses, and lets us argue that women’s privacy, safety and conscience must not be sacrificed to gender ideology inside the civil service.
+
+**Possible headline:** *Civil Service Must Follow the Law: Sex Means Biological Sex*
+
+---
+
 # Digest - 2026-07-25 14:57 UTC
 *Last 24 hours, AI-classified*
 
@@ -1766,6 +1787,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
