@@ -1,3 +1,24 @@
+# Digest - 2026-07-25 17:55 UTC
+*Last 24 hours, AI-classified*
+
+## Assisted Suicide / Assisted Dying (1)
+- [Canada: Doctors Propose Harvesting Organs from ‘MAID’ Euthanasia Victims While Still Alive](https://news.google.com/rss/articles/CBMizAFBVV95cUxNM2MyUGVsQ0swWHBQUzJ1RnhNZ0JXNGUyaHVzd1NCdndITmJlb2dSc2NrQmFROFF2REw1NlBBdjVibl9LdjVuUS1Fb0g4U1pkZFdjRU43MERHSWFFMGZDSzhSSTg1dkNMUnRyMDRRZzV0ck9rMjlNQzh4aFdoeWZLR2s2MGVZRDFSS0VDOG1Jc0lYbHBEeDFlUHZJTEwwWE1Ja2FjbzBpVTZHb3k0bGZieXFfRmZ5QjhuZ3V3ZFVHemFQNnhNYUpxSzNqaETSAdIBQVVfeXFMT3p2d0tLbjdMampDdXd3ejRnN043aGRfYUtxUTBpNEZlVDlkc3VzbktuaUJzSUk5c2Y5TVFRT1g0RmVjdVFRamZfaHB5NlFicE5QM3FMVmQ3dFhsZmFOT3lnY0JCZ3JURlIzb2xWVGRNSkpfSEx0VmNlbXVWdTRPcGN5dGVsbFZMUHp4WHlBTWRtYXJKeEVaOGZ3RDczUk1CcEd3ZjFpQUJUc0xtSHgxU3dYempabVNTOTRteW9rMy1LQTcyb3MxMWpZV1JOY2VzaWZn?oc=5) — *breitbart.com*, Fri 23:25
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Canada: Doctors Propose Harvesting Organs from ‘MAID’ Euthanasia Victims While Still Alive](https://news.google.com/rss/articles/CBMizAFBVV95cUxNM2MyUGVsQ0swWHBQUzJ1RnhNZ0JXNGUyaHVzd1NCdndITmJlb2dSc2NrQmFROFF2REw1NlBBdjVibl9LdjVuUS1Fb0g4U1pkZFdjRU43MERHSWFFMGZDSzhSSTg1dkNMUnRyMDRRZzV0ck9rMjlNQzh4aFdoeWZLR2s2MGVZRDFSS0VDOG1Jc0lYbHBEeDFlUHZJTEwwWE1Ja2FjbzBpVTZHb3k0bGZieXFfRmZ5QjhuZ3V3ZFVHemFQNnhNYUpxSzNqaETSAdIBQVVfeXFMT3p2d0tLbjdMampDdXd3ejRnN043aGRfYUtxUTBpNEZlVDlkc3VzbktuaUJzSUk5c2Y5TVFRT1g0RmVjdVFRamZfaHB5NlFicE5QM3FMVmQ3dFhsZmFOT3lnY0JCZ3JURlIzb2xWVGRNSkpfSEx0VmNlbXVWdTRPcGN5dGVsbFZMUHp4WHlBTWRtYXJKeEVaOGZ3RDczUk1CcEd3ZjFpQUJUc0xtSHgxU3dYempabVNTOTRteW9rMy1LQTcyb3MxMWpZV1JOY2VzaWZn?oc=5)
+*Assisted Suicide / Assisted Dying · breitbart.com*
+
+Breitbart reports that Canadian doctors have proposed retrieving organs from patients approved for MAID euthanasia while they are still alive, rather than waiting until after death. The proposal is framed around improving transplant outcomes, but it would make the act of organ removal itself the cause of death.
+
+**Angle:** This is a powerful warning for the UK assisted suicide debate: once the law accepts doctors intentionally ending life, the vulnerable can quickly be reclassified as sources of medical utility. Christian Concern can make a distinctive intervention by linking Canada’s MAID trajectory to the UK debate, arguing that safeguards collapse when medicine shifts from caring for patients to managing their deaths.
+
+**Possible headline:** *Canada’s MAID nightmare is a warning to Britain: assisted suicide turns patients into spare parts*
+
+---
+
 # Digest - 2026-07-25 16:03 UTC
 *Last 24 hours, AI-classified*
 
@@ -1787,6 +1808,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
