@@ -1,3 +1,24 @@
+# Digest - 2026-07-25 14:57 UTC
+*Last 24 hours, AI-classified*
+
+## Abortion (1)
+- [Abortion count rises as women turn to chemical abortions, per new data – EWTN Great Britain](https://news.google.com/rss/articles/CBMingFBVV95cUxPcExqV0ZsZUwxcmtKZ0pRX1ZvT0dnblFyTG5LQnRPb1ZrR3U5amZwdVRCdDhLSHQwSEZQWm90bllVM1pCdUl3aGhtWTJuOXlKdHN6U1dxMWt5WE95SGpIajlLaE81cHZRVzBBNGZwVVp1NmhSeHQ5OHUzSFRmNzRUSm40aEdZeHJIY0libXNVTzNPVmxhZkpKWDNEQzh3UQ?oc=5) — *EWTN UK*, 10:38
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Abortion count rises as women turn to chemical abortions, per new data – EWTN Great Britain](https://news.google.com/rss/articles/CBMingFBVV95cUxPcExqV0ZsZUwxcmtKZ0pRX1ZvT0dnblFyTG5LQnRPb1ZrR3U5amZwdVRCdDhLSHQwSEZQWm90bllVM1pCdUl3aGhtWTJuOXlKdHN6U1dxMWt5WE95SGpIajlLaE81cHZRVzBBNGZwVVp1NmhSeHQ5OHUzSFRmNzRUSm40aEdZeHJIY0libXNVTzNPVmxhZkpKWDNEQzh3UQ?oc=5)
+*Abortion · EWTN UK*
+
+New data reported by EWTN shows abortion numbers rising as women increasingly use chemical abortions rather than surgical procedures. The story highlights the growing role of abortion pills in driving abortion rates upward.
+
+**Angle:** This is a strong pro-life opportunity to argue that chemical abortion is not a marginal issue but a central engine of rising abortion numbers. Christian Concern can connect it directly to UK concerns about pills by post, safeguarding failures, coercion, and the push for decriminalisation, making the case that easier access has meant more unborn lives lost and more women left unsupported.
+
+**Possible headline:** *Chemical abortion is fuelling a new abortion crisis*
+
+---
+
 # Digest - 2026-07-25 11:05 UTC
 *Last 24 hours, AI-classified*
 
@@ -1745,6 +1766,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
