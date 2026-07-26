@@ -1,3 +1,24 @@
+# Digest - 2026-07-26 10:40 UTC
+*Last 24 hours, AI-classified*
+
+## Assisted Suicide / Assisted Dying (1)
+- [Why France is allowing terminally ill people to end their life | Focus on Europe](https://news.google.com/rss/articles/CBMiXEFVX3lxTE16cU45TXZiTmJGQ3VEZFFoZjd2YU9peWVHVnNXUWg0cEJnLXVzSXZpWi1LdnhZUHp0RnRGcEZCUVJrakRjQTdjeElzcVJXRHU3cnI1Q0tQUXRuRThr0gFcQVVfeXFMTXpxTjlNdmJOYkZDdURkUWhmN3ZhT2l5ZUdWc1dRaDRwQmctdXNJdmlaLUt2eFlQenRGdEZwRkJRUmtqRGNBN2N4SXNxUldEdTdycjVDS1BRdG5FOGs?oc=5) — *Modern Ghana*, 06:03
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Why France is allowing terminally ill people to end their life | Focus on Europe](https://news.google.com/rss/articles/CBMiXEFVX3lxTE16cU45TXZiTmJGQ3VEZFFoZjd2YU9peWVHVnNXUWg0cEJnLXVzSXZpWi1LdnhZUHp0RnRGcEZCUVJrakRjQTdjeElzcVJXRHU3cnI1Q0tQUXRuRThr0gFcQVVfeXFMTXpxTjlNdmJOYkZDdURkUWhmN3ZhT2l5ZUdWc1dRaDRwQmctdXNJdmlaLUt2eFlQenRGdEZwRkJRUmtqRGNBN2N4SXNxUldEdTdycjVDS1BRdG5FOGs?oc=5)
+*Assisted Suicide / Assisted Dying · Modern Ghana*
+
+A Focus on Europe report covers France’s move towards allowing terminally ill people to end their lives, presenting assisted dying as a compassionate response to suffering. The story sits within the wider European trend of liberalising euthanasia and assisted suicide laws.
+
+**Angle:** We should warn that France is another example of the ‘safeguards first, expansion later’ pattern seen in Canada, the Netherlands and elsewhere. This is timely for the UK debate because campaigners here will use France to normalise assisted suicide, while we can argue the real answer is properly funded palliative care and protection for the vulnerable.
+
+**Possible headline:** *France’s assisted suicide turn is a warning to Britain*
+
+---
+
 # Digest - 2026-07-26 05:54 UTC
 *Last 24 hours, AI-classified*
 
@@ -1929,6 +1950,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
