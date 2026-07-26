@@ -1,3 +1,27 @@
+# Digest - 2026-07-26 15:00 UTC
+*Last 24 hours, AI-classified*
+
+## ⚡ RESPOND NOW
+- [Christian school chaplain wins settlement after firing over LGBTQ sermon](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHhfNnZBbmt4Zjk2SjJqbEJPbEdNNnJhc2FvU3VfTXdoQ3JXTHB5blphQ0J1ZHYtOFhtM3o5WEt2ZzVuWjFnMHlVeVRMalkweUxsWTNxZ1p3cGNOU3VqQ2pjSG1tSnVGd2pkRGxqcFBSb0hCTUpZcnFTQ0pKSy0wNzNlWExWSXR3dlljcEpYWmFZSG10TFhiZ3pTUEFVeGswZWt3btIBqgFBVV95cUxPbG1sX2QybnJjMWJkUl9qbmxCaTJkN3pVeEJrWmt6Vnlhd2diRGttXy1hdHhvaXMzZGotUUQyc0htZlNodDlZUWZXSEs3elBtTXZzVURQWm1YS0pnXy1Mb0Y2NDhhT3Bfd3FkZEJsdVV1QXFyZnFFTTFSQ2NkTjlWWmRJa1BhMnQ1ampCLUsydDBVMGUwajIzMjgxUTBSNkFMc1ExOHU1SzR1dw?oc=5) — *Fox News*, 14:00
+
+## Religious Liberty (1)
+- [Christian school chaplain wins settlement after firing over LGBTQ sermon](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHhfNnZBbmt4Zjk2SjJqbEJPbEdNNnJhc2FvU3VfTXdoQ3JXTHB5blphQ0J1ZHYtOFhtM3o5WEt2ZzVuWjFnMHlVeVRMalkweUxsWTNxZ1p3cGNOU3VqQ2pjSG1tSnVGd2pkRGxqcFBSb0hCTUpZcnFTQ0pKSy0wNzNlWExWSXR3dlljcEpYWmFZSG10TFhiZ3pTUEFVeGswZWt3btIBqgFBVV95cUxPbG1sX2QybnJjMWJkUl9qbmxCaTJkN3pVeEJrWmt6Vnlhd2diRGttXy1hdHhvaXMzZGotUUQyc0htZlNodDlZUWZXSEs3elBtTXZzVURQWm1YS0pnXy1Mb0Y2NDhhT3Bfd3FkZEJsdVV1QXFyZnFFTTFSQ2NkTjlWWmRJa1BhMnQ1ampCLUsydDBVMGUwajIzMjgxUTBSNkFMc1ExOHU1SzR1dw?oc=5) — *Fox News*, 14:00
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Christian school chaplain wins settlement after firing over LGBTQ sermon](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHhfNnZBbmt4Zjk2SjJqbEJPbEdNNnJhc2FvU3VfTXdoQ3JXTHB5blphQ0J1ZHYtOFhtM3o5WEt2ZzVuWjFnMHlVeVRMalkweUxsWTNxZ1p3cGNOU3VqQ2pjSG1tSnVGd2pkRGxqcFBSb0hCTUpZcnFTQ0pKSy0wNzNlWExWSXR3dlljcEpYWmFZSG10TFhiZ3pTUEFVeGswZWt3btIBqgFBVV95cUxPbG1sX2QybnJjMWJkUl9qbmxCaTJkN3pVeEJrWmt6Vnlhd2diRGttXy1hdHhvaXMzZGotUUQyc0htZlNodDlZUWZXSEs3elBtTXZzVURQWm1YS0pnXy1Mb0Y2NDhhT3Bfd3FkZEJsdVV1QXFyZnFFTTFSQ2NkTjlWWmRJa1BhMnQ1ampCLUsydDBVMGUwajIzMjgxUTBSNkFMc1ExOHU1SzR1dw?oc=5)
+*Religious Liberty · Fox News*
+
+Fox News has covered the case of Rev Dr Bernard Randall, the former Trent College chaplain dismissed after a chapel sermon telling pupils they were free to question LGBT ideology. The case has now ended in a settlement after he had also been reported to Prevent and treated as a safeguarding concern for orthodox Christian teaching.
+
+**Angle:** This is a strong religious-liberty lead because it directly matches Christian Concern/Christian Legal Centre’s core work and shows the cost of LGBT ideological capture in schools. Our distinctive line should be that a sermon upholding Christian teaching and encouraging free thought was treated like extremism; the settlement lets us press for protection for chaplains, teachers and pupils before the next school-guidance and conversion-therapy battles.
+
+**Possible headline:** *Chaplain’s settlement exposes the punishment of Christian truth in schools*
+
+---
+
 # Digest - 2026-07-26 13:23 UTC
 *Last 24 hours, AI-classified*
 
@@ -2004,6 +2028,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
