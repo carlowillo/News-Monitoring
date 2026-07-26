@@ -1,3 +1,46 @@
+# Digest - 2026-07-26 19:10 UTC
+*Last 24 hours, AI-classified*
+
+## Assisted Suicide / Assisted Dying (2)
+- [France’s National Assembly gives final approval to assisted-dying bill after years of debate](https://news.google.com/rss/articles/CBMilAJBVV95cUxOdE93Z0xibTZBaENNb1huVWdwR3lQbUFCcjdJcnI1SUVMS2dsdG01ejdQdm5IVlJYYl9MVDhGWWN1M2RyN19sck5XQnl5Q0pyOUFFT3dNVm96N1dNeXVnbnIwTGJ0YkwzX0w0RFdNWlg3MGJ4cEdIWHhTVnZMQXQxVEVUdnRDbjkzbnc5a1dFRTY0OV96VWd1SVpZUU9nb0VOUFJ4MXVLcVZxOUpRVFVRcGhPUFFlaXFhRzN4QjFXLURxakNqTzdlME1RWlJJczZPa0QxdkExOTNhV3N3ejcxODhWVjRJWkl6cVprUlJmdDREQm9ZY1pQTFlObFdHc3dSNkQtWjRQcjNHZk5Edl96cVRDWC0?oc=5) — *The Frederick News-Post*, 18:27
+- [Euthanasia of teenage girl that divided the Netherlands: How tormented 17-year-old was granted 'death wish' - before doctor who gave her lethal injection was condemned by peers](https://news.google.com/rss/articles/CBMilAJBVV95cUxQUGtwbElmNHFCWWd3eGNqU1N0TnJRNUVFbTRiaHZWZEtrTWViSi01eV9TTS03YzR1T3pzMUkwRHFaYXkxRDZpTGhZM1FmOXB5X3JMRWV4NDBnamFpd3VmelJDNkJ4aVVGMGRnZy1LZExtdDVaYzBzOGptQU9UOHY5RDBsZW0yLWp6dHFDWmUyQ21TcFhYNDdhVC0zeVg0RXpHY0NIN0F3RVZaVTlZSGpfV19mTXgwSU9zWVVSSnIyWklEei04MEpkNXphSjd3LUhoQVplTDZwTXZpZzBFQnE4WGx5WHhBb1NHZURMRVBVMkZSdzl1bHFESWdEWEdOTlhjdkJ4R1lPQ2JBM2VtUE85YnVFLVLSAZQCQVVfeXFMUFBrcGxJZjRxQllnd3hjalNTdE5yUTVFRW00Ymh2VmRLa01lYkotNXlfU00tN2M0dU96czFJMERxWmF5MUQ2aUxoWTNRZjlweV9yTEVleDQwZ2phaXd1ZnpSQzZCeGlVRjBkZ2ctS2RMbXQ1WmMwczhqbUFPVDh2OUQwbGVtMi1qenRxQ1plMkNtU3BYWDQ3YVQtM3lYNEV6R2NDSDdBd0VWWlU5WUhqX1dfZk14MElPc1lVUkpyMlpJRHotODBKZDV6YUo3dy1IaEFaZUw2cE12aWcwRUJxOFhseVh4QW9TR2VETEVQVTJGUnc5dWxxRElnRFhHTk5YY3ZCeEdZT0NiQTNlbVBPOWJ1RS1S?oc=5) — *Daily Mail*, 15:58
+
+## Religious Liberty (1)
+- [Un capellán de un colegio cristiano consigue un acuerdo tras ser despedido por LGBTQ](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUpPT0xVUG1odFBZblQ4MjJyLWJRaEJtaVBUQ2pMa05Gc3NhejlOVnA4Tndwc3NnOXNob05hS1hRTGJwd3BRd295alhSZ1o5ZmJqLUg0Y2gyT3JpdkJ3REp4bTNlaHdaUkU1dFlQdlFUTW9sSjdVUmNuUERHNmNaRUs3LVBaVTR6dTJ1ajZpQkp2eWh6WUVVYjJtak9qcXRWeGRFZWhMbUY3ZWc?oc=5) — *Fox News*, 14:00
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Un capellán de un colegio cristiano consigue un acuerdo tras ser despedido por LGBTQ](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUpPT0xVUG1odFBZblQ4MjJyLWJRaEJtaVBUQ2pMa05Gc3NhejlOVnA4Tndwc3NnOXNob05hS1hRTGJwd3BRd295alhSZ1o5ZmJqLUg0Y2gyT3JpdkJ3REp4bTNlaHdaUkU1dFlQdlFUTW9sSjdVUmNuUERHNmNaRUs3LVBaVTR6dTJ1ajZpQkp2eWh6WUVVYjJtak9qcXRWeGRFZWhMbUY3ZWc?oc=5)
+*Religious Liberty · Fox News*
+
+Fox News reports that a chaplain at a Christian school has reached a settlement after being dismissed in connection with LGBTQ issues. The case concerns the punishment of a Christian minister for expressing orthodox Christian concerns in a school setting.
+
+**Angle:** This is a direct religious-liberty and gender-ideology story, and if it relates to a Christian Legal Centre-backed case it is highly strategic. The line is that even Christian schools are no longer safe places for Christian teaching when LGBT ideology is treated as untouchable dogma. We can present this as a win, but also as proof that legal protection for Christian speech and pastoral care is urgently needed.
+
+**Possible headline:** *Christian chaplain’s settlement exposes the intolerance of LGBT ideology*
+
+### 2. [France’s National Assembly gives final approval to assisted-dying bill after years of debate](https://news.google.com/rss/articles/CBMilAJBVV95cUxOdE93Z0xibTZBaENNb1huVWdwR3lQbUFCcjdJcnI1SUVMS2dsdG01ejdQdm5IVlJYYl9MVDhGWWN1M2RyN19sck5XQnl5Q0pyOUFFT3dNVm96N1dNeXVnbnIwTGJ0YkwzX0w0RFdNWlg3MGJ4cEdIWHhTVnZMQXQxVEVUdnRDbjkzbnc5a1dFRTY0OV96VWd1SVpZUU9nb0VOUFJ4MXVLcVZxOUpRVFVRcGhPUFFlaXFhRzN4QjFXLURxakNqTzdlME1RWlJJczZPa0QxdkExOTNhV3N3ejcxODhWVjRJWkl6cVprUlJmdDREQm9ZY1pQTFlObFdHc3dSNkQtWjRQcjNHZk5Edl96cVRDWC0?oc=5)
+*Assisted Suicide / Assisted Dying · The Frederick News-Post*
+
+France’s National Assembly has given final approval to an assisted-dying bill after years of national debate. The move marks a major step towards state-sanctioned assisted suicide or euthanasia in another large European country.
+
+**Angle:** This is a major, timely European development and can be framed as a warning to Britain: once the principle is conceded, the state moves from caring for the vulnerable to helping them die. Our distinctive line should contrast France’s direction with the urgent need for hospice funding, palliative care and genuine safeguarding. It also gives MPs and peers a live international example to cite in the UK debate.
+
+**Possible headline:** *France chooses assisted death — Britain must choose care*
+
+### 3. [Euthanasia of teenage girl that divided the Netherlands: How tormented 17-year-old was granted 'death wish' - before doctor who gave her lethal injection was condemned by peers](https://news.google.com/rss/articles/CBMilAJBVV95cUxQUGtwbElmNHFCWWd3eGNqU1N0TnJRNUVFbTRiaHZWZEtrTWViSi01eV9TTS03YzR1T3pzMUkwRHFaYXkxRDZpTGhZM1FmOXB5X3JMRWV4NDBnamFpd3VmelJDNkJ4aVVGMGRnZy1LZExtdDVaYzBzOGptQU9UOHY5RDBsZW0yLWp6dHFDWmUyQ21TcFhYNDdhVC0zeVg0RXpHY0NIN0F3RVZaVTlZSGpfV19mTXgwSU9zWVVSSnIyWklEei04MEpkNXphSjd3LUhoQVplTDZwTXZpZzBFQnE4WGx5WHhBb1NHZURMRVBVMkZSdzl1bHFESWdEWEdOTlhjdkJ4R1lPQ2JBM2VtUE85YnVFLVLSAZQCQVVfeXFMUFBrcGxJZjRxQllnd3hjalNTdE5yUTVFRW00Ymh2VmRLa01lYkotNXlfU00tN2M0dU96czFJMERxWmF5MUQ2aUxoWTNRZjlweV9yTEVleDQwZ2phaXd1ZnpSQzZCeGlVRjBkZ2ctS2RMbXQ1WmMwczhqbUFPVDh2OUQwbGVtMi1qenRxQ1plMkNtU3BYWDQ3YVQtM3lYNEV6R2NDSDdBd0VWWlU5WUhqX1dfZk14MElPc1lVUkpyMlpJRHotODBKZDV6YUo3dy1IaEFaZUw2cE12aWcwRUJxOFhseVh4QW9TR2VETEVQVTJGUnc5dWxxRElnRFhHTk5YY3ZCeEdZT0NiQTNlbVBPOWJ1RS1S?oc=5)
+*Assisted Suicide / Assisted Dying · Daily Mail*
+
+The Daily Mail highlights the case of a 17-year-old girl in the Netherlands who was granted euthanasia after severe mental torment. The doctor who administered the lethal injection was later condemned by peers, according to the report.
+
+**Angle:** This is a powerful safeguards story: the Netherlands is often cited as a regulated model, yet here a vulnerable teenager was helped to die rather than protected and treated. It lets us challenge the slogan of ‘choice’ by focusing on young people, mental distress and the duty to prevent suicide. The emotional force and Daily Mail reach make it very shareable with supporters and useful for parliamentarians opposing assisted suicide.
+
+**Possible headline:** *Dutch teenager’s euthanasia shows the deadly failure of ‘safeguards’*
+
+---
+
 # Digest - 2026-07-26 17:57 UTC
 *Last 24 hours, AI-classified*
 
@@ -2083,6 +2126,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
