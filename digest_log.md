@@ -1,3 +1,39 @@
+# Digest - 2026-07-26 20:51 UTC
+*Last 24 hours, AI-classified*
+
+## Abortion (1)
+- [Abortion advocate 'queasy' at UK buffer zone free speech implications](https://news.google.com/rss/articles/CBMifEFVX3lxTE45MHdtVHBrMTZxc00xNWd4dG1RU1h1Nk9xajRrdndnRXExXzlGSXl1NUJxQzIwWmp2WnluNFVoVGFJdk03Y3ZoTThfeGxHUkFQREhVVmZicXBxZVN6YlltMXZ2ZzZ4ckRTRjhOWm9QMGdzbUxZTWtYQW1fUnQ?oc=5) — *liveaction.org*, 20:00
+
+## Religious Liberty (1)
+- [Abortion advocate 'queasy' at UK buffer zone free speech implications](https://news.google.com/rss/articles/CBMifEFVX3lxTE45MHdtVHBrMTZxc00xNWd4dG1RU1h1Nk9xajRrdndnRXExXzlGSXl1NUJxQzIwWmp2WnluNFVoVGFJdk03Y3ZoTThfeGxHUkFQREhVVmZicXBxZVN6YlltMXZ2ZzZ4ckRTRjhOWm9QMGdzbUxZTWtYQW1fUnQ?oc=5) — *liveaction.org*, 20:00
+
+## Marriage & Family (1)
+- [Police force defies trans ruling to put biological men in women’s cells](https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzhzYUN1eTdaWVJKTFVjT2V4MDB2VFdjQ2JlQURraWh6UXk4VG1rSzJnWkZCcm9fQjlMcjdfZjBpZkZaS3lvYXRHZFlzUnBuWElKNHBmbDFmUnljOTc0TjRtSEFiUTdRZlhiajllakZjcHdxdDlHVTBOY0l3QkpFQzRXOFFTWlhyQkt1RElndzFnYXRVV3kxeVcyc0JNM1RLbDdhV2tLdw?oc=5) — *The Telegraph*, 13:29
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Police force defies trans ruling to put biological men in women’s cells](https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzhzYUN1eTdaWVJKTFVjT2V4MDB2VFdjQ2JlQURraWh6UXk4VG1rSzJnWkZCcm9fQjlMcjdfZjBpZkZaS3lvYXRHZFlzUnBuWElKNHBmbDFmUnljOTc0TjRtSEFiUTdRZlhiajllakZjcHdxdDlHVTBOY0l3QkpFQzRXOFFTWlhyQkt1RElndzFnYXRVV3kxeVcyc0JNM1RLbDdhV2tLdw?oc=5)
+*Marriage & Family · The Telegraph*
+
+The Telegraph reports that a police force is continuing to allow biological men who identify as women to be held in women’s cells, despite the Supreme Court ruling clarifying the legal meaning of sex. The case raises immediate questions about whether public authorities are complying with the law on single-sex spaces and safeguarding.
+
+**Angle:** We can argue that this shows institutions are still treating gender ideology as superior to law, safeguarding and women’s dignity. It links strongly to our support for biological reality, the Supreme Court judgment, and cases such as the Darlington Nurses, while offering a clear demand: public bodies must comply with the ruling now.
+
+**Possible headline:** *Police must not put gender ideology above women’s safety*
+
+### 2. [Abortion advocate 'queasy' at UK buffer zone free speech implications](https://news.google.com/rss/articles/CBMifEFVX3lxTE45MHdtVHBrMTZxc00xNWd4dG1RU1h1Nk9xajRrdndnRXExXzlGSXl1NUJxQzIwWmp2WnluNFVoVGFJdk03Y3ZoTThfeGxHUkFQREhVVmZicXBxZVN6YlltMXZ2ZzZ4ckRTRjhOWm9QMGdzbUxZTWtYQW1fUnQ?oc=5)
+*Abortion · liveaction.org*
+
+Live Action reports that an abortion advocate has expressed unease about the free-speech implications of UK abortion buffer zones. The story highlights concern that these laws can criminalise peaceful expression, including prayer and offers of help, outside abortion clinics.
+
+**Angle:** This is useful because criticism of buffer zones is coming from someone not naturally aligned with the pro-life movement, making the free-speech argument harder to dismiss as partisan. We can use it to reinforce our long-running line that buffer zones punish thought, prayer and compassionate witness, and to connect it to silent prayer arrests and Christian Legal Centre cases.
+
+**Possible headline:** *Even abortion supporters can see buffer zones threaten free speech*
+
+---
+
 # Digest - 2026-07-26 19:10 UTC
 *Last 24 hours, AI-classified*
 
@@ -2126,6 +2162,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
