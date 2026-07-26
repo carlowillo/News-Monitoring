@@ -1,3 +1,36 @@
+# Digest - 2026-07-26 21:53 UTC
+*Last 24 hours, AI-classified*
+
+## Assisted Suicide / Assisted Dying (1)
+- [Albanese at odds with Labor policy which now says telehealth should be allowed for euthanasia consultations](https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1VnWkVRLXMxTkgwMzFvOE82LVZ6dWdlTXlkM0ExcXdob0Z4Vzk2TU5Xc0s3SlF4YllJYTJxeE1EQVZKdTlCRFFyWGlHdzFiQnFqa1g4Vm9QWXVTaElfbWxvR1ZrUU9YNjdjU3cxUEFFU2FhdGo5eUZSeDlPMkpMYXBlZ1VhUEpnNERVMlB2djlBT0xfUGVLVExGOWFJaUVNR280VmFjbEw1d2tYc2hlS1hvTjhrWnJDV0FVMmxzbDRPai1z?oc=5) — *inkl +1*, 03:20
+
+## Marriage & Family (1)
+- [Scots hospitals could be sued if they allow trans women into female only wards](https://news.google.com/rss/articles/CBMikAFBVV95cUxORmlYMFdvX1FpUzVVN2otaTVJZkItRThLZ3Y4Rm1kTjZmSWxNMi1SRmY5dExlVU5VcUlZYnZKOV9ZLWpqbkkzSDI1cGxkSFlZd2dBZTJJZVAyOEpCSVo0ZWVGQmRLRDVsQ1BmZ0VGbXdpY1pOS04zNE5OZ3ZaX1Bpd3pHbEdyeGhIR1BEQzU2cm0?oc=5) — *The Scottish Sun*, 20:51
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Scots hospitals could be sued if they allow trans women into female only wards](https://news.google.com/rss/articles/CBMikAFBVV95cUxORmlYMFdvX1FpUzVVN2otaTVJZkItRThLZ3Y4Rm1kTjZmSWxNMi1SRmY5dExlVU5VcUlZYnZKOV9ZLWpqbkkzSDI1cGxkSFlZd2dBZTJJZVAyOEpCSVo0ZWVGQmRLRDVsQ1BmZ0VGbXdpY1pOS04zNE5OZ3ZaX1Bpd3pHbEdyeGhIR1BEQzU2cm0?oc=5)
+*Marriage & Family · The Scottish Sun*
+
+The Scottish Sun reports that hospitals in Scotland could face legal action if they allow trans women onto female-only wards. The story directly raises the legal consequences for NHS bodies that fail to protect genuinely single-sex spaces.
+
+**Angle:** This is a strong UK story on biological sex, women’s dignity and safeguarding, and it links directly to the Supreme Court judgment and cases like the Darlington Nurses. We can argue that hospitals must stop treating women’s privacy as optional and that public bodies now need clear, lawful policies based on biological sex. The distinctive Christian Concern line is that compassion must never mean sacrificing truth, safety and conscience.
+
+**Possible headline:** *Hospitals must protect women-only wards — not gamble with women’s dignity*
+
+### 2. [Albanese at odds with Labor policy which now says telehealth should be allowed for euthanasia consultations](https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1VnWkVRLXMxTkgwMzFvOE82LVZ6dWdlTXlkM0ExcXdob0Z4Vzk2TU5Xc0s3SlF4YllJYTJxeE1EQVZKdTlCRFFyWGlHdzFiQnFqa1g4Vm9QWXVTaElfbWxvR1ZrUU9YNjdjU3cxUEFFU2FhdGo5eUZSeDlPMkpMYXBlZ1VhUEpnNERVMlB2djlBT0xfUGVLVExGOWFJaUVNR280VmFjbEw1d2tYc2hlS1hvTjhrWnJDV0FVMmxzbDRPai1z?oc=5)
+*Assisted Suicide / Assisted Dying · inkl*
+
+Reports say Australian prime minister Anthony Albanese is at odds with Labor policy after the party backed allowing telehealth consultations for euthanasia. The story shows assisted suicide policy moving from exceptional, tightly controlled cases towards remote access.
+
+**Angle:** Although this is an Australian story, it is timely for the UK assisted suicide debate because campaigners here repeatedly promise strict safeguards. We can warn that once assisted dying is legalised, pressure quickly grows to make it easier, faster and more remote, with vulnerable people assessed without proper in-person scrutiny. This supports our core message: invest in palliative care, not systems that normalise assisted suicide.
+
+**Possible headline:** *Telehealth euthanasia exposes the myth of ‘strict safeguards’*
+
+---
+
 # Digest - 2026-07-26 20:51 UTC
 *Last 24 hours, AI-classified*
 
@@ -2162,6 +2195,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
