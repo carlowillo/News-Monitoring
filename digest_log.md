@@ -1,3 +1,27 @@
+# Digest - 2026-07-26 05:54 UTC
+*Last 24 hours, AI-classified*
+
+## ⚡ RESPOND NOW
+- [Finnish MP Päivi Räsänen files appeal after conviction for quoting the Bible](https://news.google.com/rss/articles/CBMipAFBVV95cUxON1dlRjFIN25LWkRsTVpBMWpSX3FQZTN5Wk96YVVZVkRab1lhU1pteDU1akx6OFpqQW81SDI1SW1QV3FFcDhFTW1VZkFST2VxcDluSE9oRTA1VTlOT2Rja2p1QUMwZXFtLXJEVnFKb3FIUUNUX0s2WE9qMGlPUmdiQVBwa0xQc28zMFJ5TklMTE04dXQ4RHQ3eHprWkpHUlFiQ3Vfdw?oc=5) — *Christian Post*, Sat 21:29
+
+## Religious Liberty (1)
+- [Finnish MP Päivi Räsänen files appeal after conviction for quoting the Bible](https://news.google.com/rss/articles/CBMipAFBVV95cUxON1dlRjFIN25LWkRsTVpBMWpSX3FQZTN5Wk96YVVZVkRab1lhU1pteDU1akx6OFpqQW81SDI1SW1QV3FFcDhFTW1VZkFST2VxcDluSE9oRTA1VTlOT2Rja2p1QUMwZXFtLXJEVnFKb3FIUUNUX0s2WE9qMGlPUmdiQVBwa0xQc28zMFJ5TklMTE04dXQ4RHQ3eHprWkpHUlFiQ3Vfdw?oc=5) — *Christian Post*, Sat 21:29
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Finnish MP Päivi Räsänen files appeal after conviction for quoting the Bible](https://news.google.com/rss/articles/CBMipAFBVV95cUxON1dlRjFIN25LWkRsTVpBMWpSX3FQZTN5Wk96YVVZVkRab1lhU1pteDU1akx6OFpqQW81SDI1SW1QV3FFcDhFTW1VZkFST2VxcDluSE9oRTA1VTlOT2Rja2p1QUMwZXFtLXJEVnFKb3FIUUNUX0s2WE9qMGlPUmdiQVBwa0xQc28zMFJ5TklMTE04dXQ4RHQ3eHprWkpHUlFiQ3Vfdw?oc=5)
+*Religious Liberty · Christian Post*
+
+Finnish MP and former Interior Minister Päivi Räsänen has filed an appeal after a conviction linked to her public expression of biblical Christian teaching, including quoting Scripture in discussion of sexuality and marriage. The case continues a long-running legal battle over whether orthodox Christian beliefs can be treated as hate speech.
+
+**Angle:** We should frame this as a warning to Britain: hate-speech laws, conversion therapy bans and vague extremism definitions can quickly become tools to criminalise ordinary Christian doctrine. The distinctive Christian Concern angle is to connect Räsänen’s case to UK Christians disciplined, arrested or prosecuted for quoting the Bible, praying, preaching or expressing orthodox beliefs.
+
+**Possible headline:** *If quoting the Bible is a crime in Finland, Britain must wake up*
+
+---
+
 # Digest - 2026-07-26 02:09 UTC
 *Last 24 hours, AI-classified*
 
@@ -1905,6 +1929,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
