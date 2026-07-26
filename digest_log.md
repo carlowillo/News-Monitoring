@@ -1,3 +1,24 @@
+# Digest - 2026-07-26 17:57 UTC
+*Last 24 hours, AI-classified*
+
+## Marriage & Family (1)
+- [Police force ignores trans Supreme Court ruling and puts biological men in women's-only cells](https://news.google.com/rss/articles/CBMilgFBVV95cUxPd2pPYlJadEZvSWxTckVvT0FlNkVqRlYtRnE1NTFWRVpZTVQ4U3NLbndaWG82MWZoN0VOcXNEb2ZQNjVmSDVTZVMtdWRCMDcxMm9sVVRSU280TUhvbTZNRmd0U3JFR2hwdVpTT3pyRGp3WEREQ2M2d3hLempYV2EzRXp6d29TMXBpT05QdmlaenlfWUJLM2c?oc=5) — *GB News*, 16:02
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Police force ignores trans Supreme Court ruling and puts biological men in women's-only cells](https://news.google.com/rss/articles/CBMilgFBVV95cUxPd2pPYlJadEZvSWxTckVvT0FlNkVqRlYtRnE1NTFWRVpZTVQ4U3NLbndaWG82MWZoN0VOcXNEb2ZQNjVmSDVTZVMtdWRCMDcxMm9sVVRSU280TUhvbTZNRmd0U3JFR2hwdVpTT3pyRGp3WEREQ2M2d3hLempYV2EzRXp6d29TMXBpT05QdmlaenlfWUJLM2c?oc=5)
+*Marriage & Family · GB News*
+
+GB News reports that a police force is continuing to operate a custody policy allowing biological males who identify as women to be placed in women-only cells, despite the Supreme Court ruling on the meaning of sex. The issue concerns police compliance with the law and the safeguarding of female detainees.
+
+**Angle:** This is a strong, timely rule-of-law and safeguarding story: if police will not apply the Supreme Court’s clear judgment, women cannot trust public bodies to protect single-sex spaces. Christian Concern can connect it to the Darlington Nurses case and the wider campaign to restore biological reality in law, arguing that women’s safety and dignity must not be sacrificed to gender ideology. We should call for urgent Home Office and police chiefs’ guidance requiring every force to update custody policies immediately.
+
+**Possible headline:** *Police must obey the Supreme Court: women’s cells are for women*
+
+---
+
 # Digest - 2026-07-26 16:05 UTC
 *Last 24 hours, AI-classified*
 
@@ -2062,6 +2083,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
