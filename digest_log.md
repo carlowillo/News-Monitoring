@@ -1,3 +1,36 @@
+# Digest - 2026-07-26 11:59 UTC
+*Last 24 hours, AI-classified*
+
+## Assisted Suicide / Assisted Dying (1)
+- [Crossbench to force Labor hand on telehealth euthanasia](https://news.google.com/rss/articles/CBMif0FVX3lxTE5tcHB6eTAzbUNvYzJfbWxPVUtyM19LU3F5ZHlrT3daeFZGdkJtOXg5Zzh0cFVrcW1zSUcxZkF3T3hUSGVJMTlPMnFKTHJ1aWVmcUtYbTlMZXlveTNkTGdDaGk5WXU5UDRYc19tMW1zMnlNUjlDOWp0ZjVSQ3BjajQ?oc=5) — *inkl*, 06:53
+
+## Islam (1)
+- ['Terrified' rape gang survivors have been told their attackers will be free in weeks, says Chris Philp](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdF9lTEg2c0JTMDF5ZmxwNUpkYWdrSHJZS3BuWjhUeFZTWWdkeXVlUjBQUXNLNUk5OFUzYkh5UHJuLVkyQ2Q4ZUFlNzJoOUhUTEN1dmYyZnNDaWhZYldMOG9lU2FRVEJ1dUZlVHZwbHdhbHY4eExSMERDNkxFdFdrMFNjTWxlb051RkVhYUFSSDNXX1A3SEtNWHpsVUZNTk9FMkdKSEdpNGtvbVg5eWMyZ25pd1k5TDdxbzBtYUlkRlhCejNS?oc=5) — *London Post*, 10:58
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Crossbench to force Labor hand on telehealth euthanasia](https://news.google.com/rss/articles/CBMif0FVX3lxTE5tcHB6eTAzbUNvYzJfbWxPVUtyM19LU3F5ZHlrT3daeFZGdkJtOXg5Zzh0cFVrcW1zSUcxZkF3T3hUSGVJMTlPMnFKTHJ1aWVmcUtYbTlMZXlveTNkTGdDaGk5WXU5UDRYc19tMW1zMnlNUjlDOWp0ZjVSQ3BjajQ?oc=5)
+*Assisted Suicide / Assisted Dying · inkl*
+
+Australian crossbenchers are pushing Labor to change federal rules so euthanasia and assisted-suicide consultations can take place by telehealth rather than only in person. The row centres on whether doctors should be able to discuss and progress voluntary assisted dying remotely.
+
+**Angle:** This is a timely warning for the UK: once assisted suicide is legalised, campaigners immediately press to make access faster, easier and more remote. We can argue that telehealth euthanasia exposes the fiction of robust safeguards, because vulnerability, coercion and depression are even harder to detect through a screen or phone call.
+
+**Possible headline:** *Telehealth euthanasia shows how quickly ‘safeguards’ disappear*
+
+### 2. ['Terrified' rape gang survivors have been told their attackers will be free in weeks, says Chris Philp](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdF9lTEg2c0JTMDF5ZmxwNUpkYWdrSHJZS3BuWjhUeFZTWWdkeXVlUjBQUXNLNUk5OFUzYkh5UHJuLVkyQ2Q4ZUFlNzJoOUhUTEN1dmYyZnNDaWhZYldMOG9lU2FRVEJ1dUZlVHZwbHdhbHY4eExSMERDNkxFdFdrMFNjTWxlb051RkVhYUFSSDNXX1A3SEtNWHpsVUZNTk9FMkdKSEdpNGtvbVg5eWMyZ25pd1k5TDdxbzBtYUlkRlhCejNS?oc=5)
+*Islam · London Post*
+
+Chris Philp says survivors of rape-gang abuse have been told that their attackers could be released within weeks. The report presents the victims as frightened and feeling abandoned by the justice system.
+
+**Angle:** This lets us speak about the ongoing failure to protect grooming-gang survivors and the need for truth, justice and public accountability rather than official minimisation. The distinctive Christian Concern line is that a society which silences uncomfortable truths in the name of political correctness ends up sacrificing vulnerable girls and young women.
+
+**Possible headline:** *Grooming gang survivors must not be abandoned again*
+
+---
+
 # Digest - 2026-07-26 10:40 UTC
 *Last 24 hours, AI-classified*
 
@@ -1950,6 +1983,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
