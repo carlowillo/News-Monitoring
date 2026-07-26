@@ -1,3 +1,37 @@
+# Digest - 2026-07-26 16:05 UTC
+*Last 24 hours, AI-classified*
+
+## ⚡ RESPOND NOW
+- [High Court showdown over NHS-backed puberty blocker trial as campaigners seek emergency halt](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkdGRnJXVjVseGVvak1lbmVGMmpRMW40OFJIc1RYd05mQnZVUXVja1NUTDlrdmVkQWJFMUZMa1YwOWZJVkJtVVlmMkVDQWVhVFhIbDZmR01Ld203TDN1TWYzZm9ibDNmaExRRXpmRjZQcnFnM0xWTlNvdjhHbmk1c2FaNE5hVjZnMl9B?oc=5) — *GB News*, 15:47
+
+## Marriage & Family (2)
+- [High Court showdown over NHS-backed puberty blocker trial as campaigners seek emergency halt](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkdGRnJXVjVseGVvak1lbmVGMmpRMW40OFJIc1RYd05mQnZVUXVja1NUTDlrdmVkQWJFMUZMa1YwOWZJVkJtVVlmMkVDQWVhVFhIbDZmR01Ld203TDN1TWYzZm9ibDNmaExRRXpmRjZQcnFnM0xWTlNvdjhHbmk1c2FaNE5hVjZnMl9B?oc=5) — *GB News*, 15:47
+- [150,000 march through London in world’s largest trans pride, organisers say](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdndHWFNMRWJEd2c5NFNfSlJ0Sm93UzJPRnVsTnlYNzEwRDJOZ0lYSjhyTWptWFFJbDdwZmF2LV9yX1kxRVZZYVdUdWJIYjF2dHJNd3B4NDJhMGJPVTN3d2Jaekg3dm5yOFJ3ZTdWTHlDOGQwWThMWTRoODc5MDNEWUdPY3VtdFQ4bWpURzFaMGR5Y05yT0cxSXZlYTdhcV84MHJ3T3VpV1I?oc=5) — *The Independent*, Sat 20:30
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [High Court showdown over NHS-backed puberty blocker trial as campaigners seek emergency halt](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkdGRnJXVjVseGVvak1lbmVGMmpRMW40OFJIc1RYd05mQnZVUXVja1NUTDlrdmVkQWJFMUZMa1YwOWZJVkJtVVlmMkVDQWVhVFhIbDZmR01Ld203TDN1TWYzZm9ibDNmaExRRXpmRjZQcnFnM0xWTlNvdjhHbmk1c2FaNE5hVjZnMl9B?oc=5)
+*Marriage & Family · GB News*
+
+Campaigners are seeking an emergency High Court intervention to halt an NHS-backed puberty blocker trial for children. The case puts renewed scrutiny on whether the NHS should be facilitating the use of experimental drugs after the Cass Review raised serious concerns about evidence and safeguarding.
+
+**Angle:** This is the strongest opportunity because it sits directly on our campaign territory: child safeguarding, medical ethics, parental concern and resistance to gender ideology in public institutions. We can argue that vulnerable children need protection, time and compassionate care, not a new route back to the same discredited medical pathway under the language of research.
+
+**Possible headline:** *Do not let the NHS experiment on vulnerable children*
+
+### 2. [150,000 march through London in world’s largest trans pride, organisers say](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdndHWFNMRWJEd2c5NFNfSlJ0Sm93UzJPRnVsTnlYNzEwRDJOZ0lYSjhyTWptWFFJbDdwZmF2LV9yX1kxRVZZYVdUdWJIYjF2dHJNd3B4NDJhMGJPVTN3d2Jaekg3dm5yOFJ3ZTdWTHlDOGQwWThMWTRoODc5MDNEWUdPY3VtdFQ4bWpURzFaMGR5Y05yT0cxSXZlYTdhcV84MHJ3T3VpV1I?oc=5)
+*Marriage & Family · The Independent*
+
+Organisers of Trans Pride in London say around 150,000 people marched, describing it as the world’s largest trans pride event. The march is being reported as a major show of strength by trans rights campaigners.
+
+**Angle:** We should avoid sounding as though we are attacking individuals and instead focus on the political pressure such events place on schools, hospitals, women’s spaces and lawmakers. The distinctive line is that mass activism must not override truth, child safeguarding, religious freedom or the rights of women to single-sex spaces.
+
+**Possible headline:** *Crowds do not change the truth about sex, safeguarding and freedom*
+
+---
+
 # Digest - 2026-07-26 15:00 UTC
 *Last 24 hours, AI-classified*
 
@@ -2028,6 +2062,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
