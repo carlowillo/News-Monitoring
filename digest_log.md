@@ -1,3 +1,34 @@
+# Digest - 2026-07-26 02:09 UTC
+*Last 24 hours, AI-classified*
+
+## Marriage & Family (2)
+- [People call me the sex MP but we need to be educating](https://www.bbc.co.uk/news/articles/ce970rkk9r3o?at_medium=RSS&at_campaign=rss) — *BBC News (UK)*, Sat 23:58
+- [150,000 march in London for world's largest trans Pride march](https://news.google.com/rss/articles/CBMiggFBVV95cUxPQXBkY2lTM0pZMkxrYlBaMmlnQVJQa2dEYkN6cnBJVEg3dTdGWnhwX0phSHNXcDRDN21mYUxKRmVRMlFzc1Q5RVloanR3YkxUUEtTb09ScUFtNlBodEk0YXlocTRQaVp5QzR4T1c5SzN5M0NiN25laUdWUWJJNEt3bTN30gGHAUFVX3lxTE5IVElMcXRzY2F6alU0bHNzT0ZxZm5zenZZMm9URU5Mb3E0MlpBU0R1bGdzNWhPTWxlYzVBaDRBbWdvb3NxTTJhR2gxRzFWRmpQc3lwVkFBYU5UQTBlT0lCdGJnV1NJUWNobUFtb0kzd2xRSG1nX3JrdGNQcHcwcEJlZUFQWmZmVQ?oc=5) — *The Mirror*, Sat 22:29
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [150,000 march in London for world's largest trans Pride march](https://news.google.com/rss/articles/CBMiggFBVV95cUxPQXBkY2lTM0pZMkxrYlBaMmlnQVJQa2dEYkN6cnBJVEg3dTdGWnhwX0phSHNXcDRDN21mYUxKRmVRMlFzc1Q5RVloanR3YkxUUEtTb09ScUFtNlBodEk0YXlocTRQaVp5QzR4T1c5SzN5M0NiN25laUdWUWJJNEt3bTN30gGHAUFVX3lxTE5IVElMcXRzY2F6alU0bHNzT0ZxZm5zenZZMm9URU5Mb3E0MlpBU0R1bGdzNWhPTWxlYzVBaDRBbWdvb3NxTTJhR2gxRzFWRmpQc3lwVkFBYU5UQTBlT0lCdGJnV1NJUWNobUFtb0kzd2xRSG1nX3JrdGNQcHcwcEJlZUFQWmZmVQ?oc=5)
+*Marriage & Family · The Mirror*
+
+The Mirror reports that around 150,000 people marched in London in what is being billed as the world's largest Trans Pride march. The story is being framed as a major show of strength by trans-rights campaigners in the capital.
+
+**Angle:** Use the scale and timing of the march to say that political pressure must not override the Supreme Court's clarity that sex in law means biological sex. The distinctive line is to avoid attacking marchers personally and instead focus on women-only spaces, schools, safeguarding and cases such as the Darlington Nurses: compassion for individuals cannot mean erasing legal protections for women and children.
+
+**Possible headline:** *A huge march must not be used to erase women’s legal protections*
+
+### 2. [People call me the sex MP but we need to be educating](https://www.bbc.co.uk/news/articles/ce970rkk9r3o?at_medium=RSS&at_campaign=rss)
+*Marriage & Family · BBC News (UK)*
+
+BBC News profiles MP Samantha Niblett as she officially launches her 'summer of sex' campaign. She acknowledges being called the 'sex MP' but presents the campaign as an education push.
+
+**Angle:** The BBC hook gives us a timely opportunity to ask what kind of 'education' is being promoted, especially where public policy, schools and young people are concerned. We can argue that Britain needs safeguarding, parental transparency and moral formation rooted in marriage and responsibility, not another state-backed push to detach sex from family and commitment.
+
+**Possible headline:** *Britain needs moral formation, not a ‘summer of sex’*
+
+---
+
 # Digest - 2026-07-25 22:47 UTC
 *Last 24 hours, AI-classified*
 
@@ -1874,6 +1905,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
