@@ -1,3 +1,24 @@
+# Digest - 2026-07-26 13:23 UTC
+*Last 24 hours, AI-classified*
+
+## Assisted Suicide / Assisted Dying (1)
+- [Albanese at odds with Labor policy which now says telehealth should be allowed for euthanasia consultations](https://news.google.com/rss/articles/CBMiygFBVV95cUxQMy1CVnM0WjlmRlZUTWREcDlGd1YxdkhoVUZjQjBhR1VXZVozZ2VWSjRFZVdHcms1bWtWRjEtZGRSYWs5cmozU3BSUVoyZXdGQXFSSXZ6T3dqSEhiM01aeDdhLWpxSW94R05TYkVmWGs3WHQwSHU3UHJfaElibWRaMXNoN2xTMDVseTlKamxrT3I4TVRHdXg4Y0lSaFI3eThZYWJZNlNYTHZ5cF9wLXVRcW5qTDdoczJHejVGdHI3b1NWUm0tZnlBODhR?oc=5) — *The Guardian*, 03:20
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Albanese at odds with Labor policy which now says telehealth should be allowed for euthanasia consultations](https://news.google.com/rss/articles/CBMiygFBVV95cUxQMy1CVnM0WjlmRlZUTWREcDlGd1YxdkhoVUZjQjBhR1VXZVozZ2VWSjRFZVdHcms1bWtWRjEtZGRSYWs5cmozU3BSUVoyZXdGQXFSSXZ6T3dqSEhiM01aeDdhLWpxSW94R05TYkVmWGs3WHQwSHU3UHJfaElibWRaMXNoN2xTMDVseTlKamxrT3I4TVRHdXg4Y0lSaFI3eThZYWJZNlNYTHZ5cF9wLXVRcW5qTDdoczJHejVGdHI3b1NWUm0tZnlBODhR?oc=5)
+*Assisted Suicide / Assisted Dying · The Guardian*
+
+The Guardian reports that Anthony Albanese is out of step with Labor policy after the party’s platform said telehealth should be allowed for euthanasia / voluntary assisted dying consultations. The dispute centres on whether federal restrictions on using phone or internet services for suicide-related communications should be changed to permit remote assisted-dying assessments.
+
+**Angle:** This is a useful warning for the UK: once assisted suicide is legalised with supposedly strict safeguards, campaigners quickly argue that even in-person consultations are an unnecessary barrier. We can frame telehealth euthanasia as a dangerous escalation that increases risks for the vulnerable, isolated, disabled and elderly, and contrast it with proper investment in palliative care. It is distinctive because it adds a fresh international example to the Canada / Netherlands / Oregon evidence base.
+
+**Possible headline:** *From ‘Safeguards’ to Death by Video Call: Australia Shows Where Assisted Suicide Leads*
+
+---
+
 # Digest - 2026-07-26 11:59 UTC
 *Last 24 hours, AI-classified*
 
@@ -1983,6 +2004,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
