@@ -1,3 +1,34 @@
+# Digest - 2026-07-27 06:24 UTC
+*Last 24 hours, AI-classified*
+
+## Religious Liberty (2)
+- [Britain just proved free speech isn't for everyone](https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHZxRy1veFJwUEVtLW9HM21QdUFDdlZsQm94S1RPR3k5QUpucnF0LWlpenI0cUJsT0R6UjRJYWhZTW9jNzhKV2tzU0dnZmVGQlRnem43c2FfaHBMem9CN1NRaEd6SHVYM0VoU1QyeENOSDVabnEyUVc3MFp1Q3owN2pac2NJc1gxR19MU05BeF91aVlGcHc?oc=5) — *Christian Post*, 04:05
+- [Parishes face annihilation, vicars warn Church of England](https://news.google.com/rss/articles/CBMiigFBVV95cUxQLUl4ZTVOZW5pa2Q3RlF4NGpwNFM5eGF4aFZTRk5YT2pKM1J5TDA3OEdreHZOYUtONVZUWXVLazBYX2VBZXhHR1d4Qzg4UGFWTUVqVGtRbGFsYkFLUUpRaks0NXo1aU45NmR5LXJJak5hQW9DbGRDTmxOOTZiMUlVaHFlM1g0X3I4aUE?oc=5) — *AOL.com*, Sun 16:41
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Britain just proved free speech isn't for everyone](https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHZxRy1veFJwUEVtLW9HM21QdUFDdlZsQm94S1RPR3k5QUpucnF0LWlpenI0cUJsT0R6UjRJYWhZTW9jNzhKV2tzU0dnZmVGQlRnem43c2FfaHBMem9CN1NRaEd6SHVYM0VoU1QyeENOSDVabnEyUVc3MFp1Q3owN2pac2NJc1gxR19MU05BeF91aVlGcHc?oc=5)
+*Religious Liberty · Christian Post*
+
+Christian Post is carrying a high-relevance religious liberty argument that Britain now applies free speech unevenly, especially where orthodox Christian, pro-life or gender-critical views are concerned. It fits the current pattern of arrests, workplace sanctions and legal threats against Christians for peaceful speech, prayer and public witness.
+
+**Angle:** We can make this concrete by pointing to Christian Legal Centre cases: street preachers, silent prayer, teachers, chaplains and employees punished for expressing mainstream Christian beliefs. The distinctive line is that this is not an abstract free-speech debate but a two-tier system in which Christian conscience is treated as dangerous while fashionable ideologies are protected.
+
+**Possible headline:** *Free speech in Britain now comes with a secular approval test*
+
+### 2. [Parishes face annihilation, vicars warn Church of England](https://news.google.com/rss/articles/CBMiigFBVV95cUxQLUl4ZTVOZW5pa2Q3RlF4NGpwNFM5eGF4aFZTRk5YT2pKM1J5TDA3OEdreHZOYUtONVZUWXVLazBYX2VBZXhHR1d4Qzg4UGFWTUVqVGtRbGFsYkFLUUpRaks0NXo1aU45NmR5LXJJak5hQW9DbGRDTmxOOTZiMUlVaHFlM1g0X3I4aUE?oc=5)
+*Religious Liberty · AOL.com*
+
+Vicars are warning that local Church of England parishes face severe decline or closure, with pressure on clergy, congregations and parish structures. The story suggests growing alarm inside the CofE that the parish system itself is being hollowed out.
+
+**Angle:** We can argue that the Church of England is losing confidence in its own mission while spending energy on managerial restructuring and doctrinal compromise. The Christian Concern angle is to defend the parish as part of Britain’s Christian heritage and call the CofE back to preaching the gospel, not managing decline.
+
+**Possible headline:** *The Church of England will not save its parishes by abandoning its gospel*
+
+---
+
 # Digest - 2026-07-26 21:53 UTC
 *Last 24 hours, AI-classified*
 
@@ -2195,6 +2226,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
