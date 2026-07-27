@@ -1,3 +1,49 @@
+# Digest - 2026-07-27 20:18 UTC
+*Last 24 hours, AI-classified*
+
+## ⚡ RESPOND NOW
+- [Puberty blocker trial should be stopped until legal challenge is heard, court told](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzhvZWRpaDFNUEZpT0d3SGd0MU9kMHF0MlluR2R0ZzNvS0Zvbm5PdWtKOTd3QTN5bmR4RGlfRUtoLXFVVnlCenhUd20wMkYyRkZUa0JJV1NCQkk5U0NieF9zeFhRUFNxR2Q1dWgxRi05TnRjVnU0aXF5MEtMdjQxUGEyY3ByX2lfRVEtbEZyOVo3dF9XenRPNGthcTN5TTk4Zm5wcWMxMDFSYjVCTHhleWJsMmVnMTBqeE8w0gG7AUFVX3lxTE1LOG9lZGloMU1QRmlPR3dIZ3QxT2QwcXQyWW5HZHRnM29LRm9ubk91a0o5N3dBM3luZHhEaV9FS2gtcVVWeUJ6eFR3bTAyRjJGRlRrQklXU0JCSTlTQ2J4X3N4WFFQU3FHZDV1aDFGLTlOdGNWdTRpcXkwS0x2NDFQYTJjcHJfaV9FUS1sRnI5Wjd0X1d6dE80a2FxM3lNOThmbnBxYzEwMVJiNUJMeGV5YmwyZWcxMGp4TzA?oc=5) — *Daily Mail*, 17:54
+
+## Assisted Suicide / Assisted Dying (1)
+- [Parents of 17-year-old who died by assisted suicide start legal proceedings after death questioned](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT3FkQno5RE15ZjdKcjFYRU1rMHUtbmhoeUpQRnJqY1JRN3N4UnVhRUFWREw0UVdTbHZhNE0xT3h5Y09wWEVsYUc0akdTQklhWWIwcXpqbzVKRnRzY3FtT25zamFlV0xYbzlfN3lPQVdHSHFyeFVhSENpU3NDQTg1MEMxeTFNZFJEZlJRVFdyVlpTemZ4aVhNcVExQ3NXbzJ4b1A2SU5CaDNPMTQ?oc=5) — *LADbible*, 18:20
+
+## Marriage & Family (2)
+- [Braverman demands probe after police put trans women in female cells](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcEc2QnFnbzRGR2RuQ1pZUUo4NnJmUWFFZEtXcnFBbnQxdVlMWS1qZW5ZMGllWFFTWm0zcGc4SHR1eTBDUWhSVGJJQzZneElLOHZYYVJDQTgtd0ZNamFzZ1pzVkxfRVM0dmRrTllLSjVxMzc1c3BVU3JqZnhFT1dGSV9QRldxTEFFY0VVSndmSTYxNzdMLTYwSWpXeUFzOFQxTmk0YzJsXzNRM1pT?oc=5) — *The Telegraph*, 20:02
+- [Puberty blocker trial should be stopped until legal challenge is heard, court told](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzhvZWRpaDFNUEZpT0d3SGd0MU9kMHF0MlluR2R0ZzNvS0Zvbm5PdWtKOTd3QTN5bmR4RGlfRUtoLXFVVnlCenhUd20wMkYyRkZUa0JJV1NCQkk5U0NieF9zeFhRUFNxR2Q1dWgxRi05TnRjVnU0aXF5MEtMdjQxUGEyY3ByX2lfRVEtbEZyOVo3dF9XenRPNGthcTN5TTk4Zm5wcWMxMDFSYjVCTHhleWJsMmVnMTBqeE8w0gG7AUFVX3lxTE1LOG9lZGloMU1QRmlPR3dIZ3QxT2QwcXQyWW5HZHRnM29LRm9ubk91a0o5N3dBM3luZHhEaV9FS2gtcVVWeUJ6eFR3bTAyRjJGRlRrQklXU0JCSTlTQ2J4X3N4WFFQU3FHZDV1aDFGLTlOdGNWdTRpcXkwS0x2NDFQYTJjcHJfaV9FUS1sRnI5Wjd0X1d6dE80a2FxM3lNOThmbnBxYzEwMVJiNUJMeGV5YmwyZWcxMGp4TzA?oc=5) — *Daily Mail*, 17:54
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Puberty blocker trial should be stopped until legal challenge is heard, court told](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzhvZWRpaDFNUEZpT0d3SGd0MU9kMHF0MlluR2R0ZzNvS0Zvbm5PdWtKOTd3QTN5bmR4RGlfRUtoLXFVVnlCenhUd20wMkYyRkZUa0JJV1NCQkk5U0NieF9zeFhRUFNxR2Q1dWgxRi05TnRjVnU0aXF5MEtMdjQxUGEyY3ByX2lfRVEtbEZyOVo3dF9XenRPNGthcTN5TTk4Zm5wcWMxMDFSYjVCTHhleWJsMmVnMTBqeE8w0gG7AUFVX3lxTE1LOG9lZGloMU1QRmlPR3dIZ3QxT2QwcXQyWW5HZHRnM29LRm9ubk91a0o5N3dBM3luZHhEaV9FS2gtcVVWeUJ6eFR3bTAyRjJGRlRrQklXU0JCSTlTQ2J4X3N4WFFQU3FHZDV1aDFGLTlOdGNWdTRpcXkwS0x2NDFQYTJjcHJfaV9FUS1sRnI5Wjd0X1d6dE80a2FxM3lNOThmbnBxYzEwMVJiNUJMeGV5YmwyZWcxMGp4TzA?oc=5)
+*Marriage & Family · Daily Mail*
+
+The High Court has been told that a proposed puberty blocker trial should not go ahead until a legal challenge has been heard. The case raises urgent questions about whether children can safely and lawfully be enrolled in experimental treatment after the Cass Review exposed serious failures in gender medicine.
+
+**Angle:** This is a prime opportunity to say children must not be used as test subjects for an ideology already discredited by the evidence. We can press the point that safeguarding, informed consent and biological reality must come before activist pressure, and that the courts must stop any rush to restart puberty blockers by another route.
+
+**Possible headline:** *Stop the Puberty Blocker Trial Before More Children Are Harmed*
+
+### 2. [Braverman demands probe after police put trans women in female cells](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcEc2QnFnbzRGR2RuQ1pZUUo4NnJmUWFFZEtXcnFBbnQxdVlMWS1qZW5ZMGllWFFTWm0zcGc4SHR1eTBDUWhSVGJJQzZneElLOHZYYVJDQTgtd0ZNamFzZ1pzVkxfRVM0dmRrTllLSjVxMzc1c3BVU3JqZnhFT1dGSV9QRldxTEFFY0VVSndmSTYxNzdMLTYwSWpXeUFzOFQxTmk0YzJsXzNRM1pT?oc=5)
+*Marriage & Family · The Telegraph*
+
+Suella Braverman has called for an investigation after reports that police placed trans-identifying biological males in female cells. The story follows continuing controversy over whether public bodies are respecting women-only spaces after the Supreme Court ruling on the meaning of sex.
+
+**Angle:** We can argue that this is another example of institutions ignoring biological sex even where women are detained, vulnerable and unable to leave. It connects strongly to our wider campaigning on single-sex spaces, the Darlington Nurses case and the need for public bodies to obey the Supreme Court rather than gender ideology.
+
+**Possible headline:** *Police Must Protect Women’s Cells, Not Gender Ideology*
+
+### 3. [Parents of 17-year-old who died by assisted suicide start legal proceedings after death questioned](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT3FkQno5RE15ZjdKcjFYRU1rMHUtbmhoeUpQRnJqY1JRN3N4UnVhRUFWREw0UVdTbHZhNE0xT3h5Y09wWEVsYUc0akdTQklhWWIwcXpqbzVKRnRzY3FtT25zamFlV0xYbzlfN3lPQVdHSHFyeFVhSENpU3NDQTg1MEMxeTFNZFJEZlJRVFdyVlpTemZ4aVhNcVExQ3NXbzJ4b1A2SU5CaDNPMTQ?oc=5)
+*Assisted Suicide / Assisted Dying · LADbible*
+
+The parents of a 17-year-old who died by assisted suicide have begun legal proceedings after serious questions were raised about the circumstances of the death. The case concerns a teenager, family opposition and whether assisted suicide safeguards failed.
+
+**Angle:** This is a powerful warning for the UK assisted suicide debate: once the principle is accepted, vulnerable young people and families can be left fighting the system after a death has already happened. We should use it to challenge claims that safeguards are watertight and argue instead for suicide prevention, palliative care and protection for the young, disabled and distressed.
+
+**Possible headline:** *A 17-Year-Old’s Assisted Suicide Shows the Safeguards Don’t Work*
+
+---
+
 # Digest - 2026-07-27 18:21 UTC
 *Last 24 hours, AI-classified*
 
@@ -2406,6 +2452,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
