@@ -1,3 +1,36 @@
+# Digest - 2026-07-27 10:37 UTC
+*Last 24 hours, AI-classified*
+
+## Assisted Suicide / Assisted Dying (1)
+- [Yorkshire doctors oppose assisted suicide bill](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZU5hR0RLVFA3RWlhZDAxTkNkY0NFcUhoY2pXSlJOMU82TENDTGwwTnRBNVVWTjcxRVVQS09fRWFPaTBIVkVrc2pNdVJ0YXdBclo1TUhMbHpUZkt4Vk95ZmlicDBmOVBNRkR5MUY3dG9TQjVQY2VRSTJnTUVOUzktaUEtTG1VZw?oc=5) — *Christian Action Research and Education*, 09:14
+
+## Islam (1)
+- [Grooming gang victim’s 2002 convictions quashed after CCRC referral](https://news.google.com/rss/articles/CBMickFVX3lxTE13dmliMlFNcDlSMFpnX3U2a0lrbkJHdlU0TnJPXzJla0dQQ2dIMEhiLVRSMXRqTnBrb0MtRXBjWUl2NTRsbHlIVGd6Y1dmV1hvRXJNTGNXUVc4cjJMQjQ3X0xxeXVLWjlhOVdqYnlRUUxWUQ?oc=5) — *Solicitor News*, 07:01
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Yorkshire doctors oppose assisted suicide bill](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZU5hR0RLVFA3RWlhZDAxTkNkY0NFcUhoY2pXSlJOMU82TENDTGwwTnRBNVVWTjcxRVVQS09fRWFPaTBIVkVrc2pNdVJ0YXdBclo1TUhMbHpUZkt4Vk95ZmlicDBmOVBNRkR5MUY3dG9TQjVQY2VRSTJnTUVOUzktaUEtTG1VZw?oc=5)
+*Assisted Suicide / Assisted Dying · Christian Action Research and Education*
+
+Doctors in Yorkshire have publicly opposed the assisted suicide bill, adding frontline medical voices to the campaign against legalising assisted suicide. The report highlights medical concern about the effect of such a law on patients, clinicians and end-of-life care.
+
+**Angle:** This is a strong opportunity to say that opposition to assisted suicide is not merely religious or ideological, but is shared by doctors who understand the realities of vulnerability, coercion and underfunded palliative care. We can use it to press MPs to listen to clinicians rather than lobbyists, and to argue that the proper answer to suffering is hospice and palliative care funding, not state-assisted death.
+
+**Possible headline:** *Yorkshire doctors are right: assisted suicide would put vulnerable patients at risk*
+
+### 2. [Grooming gang victim’s 2002 convictions quashed after CCRC referral](https://news.google.com/rss/articles/CBMickFVX3lxTE13dmliMlFNcDlSMFpnX3U2a0lrbkJHdlU0TnJPXzJla0dQQ2dIMEhiLVRSMXRqTnBrb0MtRXBjWUl2NTRsbHlIVGd6Y1dmV1hvRXJNTGNXUVc4cjJMQjQ3X0xxeXVLWjlhOVdqYnlRUUxWUQ?oc=5)
+*Islam · Solicitor News*
+
+A grooming gang victim has had convictions from 2002 quashed after a referral by the Criminal Cases Review Commission. The case suggests that the criminal justice system punished a victim while failing properly to recognise exploitation and abuse.
+
+**Angle:** This gives us a distinctive justice angle: Britain’s institutions too often failed vulnerable girls, then compounded the harm by criminalising them. We can call for truth, accountability and an end to the culture of denial around grooming gangs, while warning that vague ‘anti-Muslim hostility’ rules must never be used to suppress scrutiny of real abuse.
+
+**Possible headline:** *Grooming gang victims need justice, not decades of institutional denial*
+
+---
+
 # Digest - 2026-07-27 06:24 UTC
 *Last 24 hours, AI-classified*
 
@@ -2226,6 +2259,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
