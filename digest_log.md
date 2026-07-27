@@ -1,3 +1,37 @@
+# Digest - 2026-07-27 18:21 UTC
+*Last 24 hours, AI-classified*
+
+## ⚡ RESPOND NOW
+- [Puberty blocker trial should be stopped until legal challenge is heard, court told](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRF85MG9Oc09wZmM1Um45UVJjUUM5eGRZakNXcDF2Q0tSZ0tYUWczdDNwX1dfV3dkOUwwSU5Yam5PNjZaM1lpc3VYVXMxQTRGNnhUX2dKYU5mLU1VTTU2Q1hXNEVXWXBKNTYwSFdjQUd6enVYLUZuLVJSa1NqVFBSc09ZVmxZbS12NTQzbU5JUml0bkN2Q1QweVRmR0oxUlRYV1U2M1F5eXlicnFBaWt3R0swUUpHZ9IBuwFBVV95cUxNSzhvZWRpaDFNUEZpT0d3SGd0MU9kMHF0MlluR2R0ZzNvS0Zvbm5PdWtKOTd3QTN5bmR4RGlfRUtoLXFVVnlCenhUd20wMkYyRkZUa0JJV1NCQkk5U0NieF9zeFhRUFNxR2Q1dWgxRi05TnRjVnU0aXF5MEtMdjQxUGEyY3ByX2lfRVEtbEZyOVo3dF9XenRPNGthcTN5TTk4Zm5wcWMxMDFSYjVCTHhleWJsMmVnMTBqeE8w?oc=5) — *Daily Mail*, 17:50
+
+## Marriage & Family (2)
+- [Puberty blocker trial should be stopped until legal challenge is heard, court told](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRF85MG9Oc09wZmM1Um45UVJjUUM5eGRZakNXcDF2Q0tSZ0tYUWczdDNwX1dfV3dkOUwwSU5Yam5PNjZaM1lpc3VYVXMxQTRGNnhUX2dKYU5mLU1VTTU2Q1hXNEVXWXBKNTYwSFdjQUd6enVYLUZuLVJSa1NqVFBSc09ZVmxZbS12NTQzbU5JUml0bkN2Q1QweVRmR0oxUlRYV1U2M1F5eXlicnFBaWt3R0swUUpHZ9IBuwFBVV95cUxNSzhvZWRpaDFNUEZpT0d3SGd0MU9kMHF0MlluR2R0ZzNvS0Zvbm5PdWtKOTd3QTN5bmR4RGlfRUtoLXFVVnlCenhUd20wMkYyRkZUa0JJV1NCQkk5U0NieF9zeFhRUFNxR2Q1dWgxRi05TnRjVnU0aXF5MEtMdjQxUGEyY3ByX2lfRVEtbEZyOVo3dF9XenRPNGthcTN5TTk4Zm5wcWMxMDFSYjVCTHhleWJsMmVnMTBqeE8w?oc=5) — *Daily Mail*, 17:50
+- [Secretive NHS Fife in hot water again as its ordered to publish trans guidance written by Isla Bumba](https://news.google.com/rss/articles/CBMilAFBVV95cUxPY2I3a0pzVnJkMC1jbEJQbmY3UkNMbEEzY2M4aWdsUFNwbjlYcmtNYVlIMzhFb0RTeHBSTnk4TzlIZmxJTEJYVXUxQU5Iek8tRHl5SkxJejcwVWRkbjl4V003eU1UR3QyREpfdFVsNm5uM0VQRXdYSGZBUHVwaGVaR1NLazVheWRTV3EtaFUzazVjLW5D0gGaAUFVX3lxTE5BTEd0a3ptU2x3NWZRN3E1TUlDLWJHSzg3RkduSjczNnFILUcyb1E4RUZNa2RDTER4cVpaQzNmbnQ2YU5JcnRpLVZJaGJ5bzJoRHVCcUhST2ZNX2gxdGptRWhFUi1WSXlwV0FqRjd1OU8zRmp6ZldKTXd3UTFhYkZpNWUxSWdwX3ZJeUVmdEZBSm9ldUF5QXhzcXc?oc=5) — *Scottish Daily Express*, 14:20
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Puberty blocker trial should be stopped until legal challenge is heard, court told](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRF85MG9Oc09wZmM1Um45UVJjUUM5eGRZakNXcDF2Q0tSZ0tYUWczdDNwX1dfV3dkOUwwSU5Yam5PNjZaM1lpc3VYVXMxQTRGNnhUX2dKYU5mLU1VTTU2Q1hXNEVXWXBKNTYwSFdjQUd6enVYLUZuLVJSa1NqVFBSc09ZVmxZbS12NTQzbU5JUml0bkN2Q1QweVRmR0oxUlRYV1U2M1F5eXlicnFBaWt3R0swUUpHZ9IBuwFBVV95cUxNSzhvZWRpaDFNUEZpT0d3SGd0MU9kMHF0MlluR2R0ZzNvS0Zvbm5PdWtKOTd3QTN5bmR4RGlfRUtoLXFVVnlCenhUd20wMkYyRkZUa0JJV1NCQkk5U0NieF9zeFhRUFNxR2Q1dWgxRi05TnRjVnU0aXF5MEtMdjQxUGEyY3ByX2lfRVEtbEZyOVo3dF9XenRPNGthcTN5TTk4Zm5wcWMxMDFSYjVCTHhleWJsMmVnMTBqeE8w?oc=5)
+*Marriage & Family · Daily Mail*
+
+The High Court has been told that the NHS puberty blocker trial should not proceed until a legal challenge against it has been heard. The challenge raises serious questions about whether children can properly consent to experimental treatment in light of the Cass Review and the known uncertainties over safety and long-term outcomes.
+
+**Angle:** This is the strongest opportunity: it is national, timely, legal, and sits exactly in our safeguarding and gender ideology lane. We should frame it as a children’s safety and rule-of-law issue: the NHS must not restart the Tavistock scandal under the softer language of a ‘trial’ before the courts have scrutinised it.
+
+**Possible headline:** *Do not restart the puberty blocker scandal by calling it a trial*
+
+### 2. [Secretive NHS Fife in hot water again as its ordered to publish trans guidance written by Isla Bumba](https://news.google.com/rss/articles/CBMilAFBVV95cUxPY2I3a0pzVnJkMC1jbEJQbmY3UkNMbEEzY2M4aWdsUFNwbjlYcmtNYVlIMzhFb0RTeHBSTnk4TzlIZmxJTEJYVXUxQU5Iek8tRHl5SkxJejcwVWRkbjl4V003eU1UR3QyREpfdFVsNm5uM0VQRXdYSGZBUHVwaGVaR1NLazVheWRTV3EtaFUzazVjLW5D0gGaAUFVX3lxTE5BTEd0a3ptU2x3NWZRN3E1TUlDLWJHSzg3RkduSjczNnFILUcyb1E4RUZNa2RDTER4cVpaQzNmbnQ2YU5JcnRpLVZJaGJ5bzJoRHVCcUhST2ZNX2gxdGptRWhFUi1WSXlwV0FqRjd1OU8zRmp6ZldKTXd3UTFhYkZpNWUxSWdwX3ZJeUVmdEZBSm9ldUF5QXhzcXc?oc=5)
+*Marriage & Family · Scottish Daily Express*
+
+NHS Fife has reportedly been ordered to publish transgender guidance connected to Isla Bumba after resisting disclosure. The story lands against the backdrop of growing concern over NHS bodies adopting contested gender policies without transparency, proper consultation or regard for women’s single-sex spaces.
+
+**Angle:** This is a strong follow-up because it links secrecy, gender ideology in public institutions and the ongoing row over women’s rights in NHS settings. Our line should be that public health bodies cannot hide policies that affect staff safety, dignity and conscience; transparency is the minimum requirement when sex-based rights are at stake.
+
+**Possible headline:** *NHS trans policies must not be written in secret*
+
+---
+
 # Digest - 2026-07-27 16:16 UTC
 *Last 24 hours, AI-classified*
 
@@ -2372,6 +2406,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
