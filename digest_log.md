@@ -1,3 +1,73 @@
+# Digest - 2026-07-27 16:16 UTC
+*Last 24 hours, AI-classified*
+
+## ⚡ RESPOND NOW
+- [Famed UK pro-life politician murdered in horrific attack at her home](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVBzSnk3UnJsMllDZk9YM29DRjRQM0ZEQ215NFdZMFBSVDZkdW16a0lhcks1Wl9uaHRtQ0RabWJ5WXVKUEgtSzgyNjRCSnJaNFNDbmUtVnJBd2YzS21aWVZnSnZCUVEzMUxkcTdmM0NZbm9Nc0VYTDFia09SVlhDY01BXzBQYjNFTkFiMVZQd0Y1cUlQdDBQbWhVSGs2QTRMT2xaWmxEWVJyNkE?oc=5) — *National Right to Life*, 12:13
+
+## Assisted Suicide / Assisted Dying (1)
+- [Scores of Yorkshire doctors issue warning to MPs](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGdnRlp5MEkxT3ZDemNsYURBV2xFUHBqRWhVS2hYdkhLeS1QMUg5NlNkUkZYd01TbTRmcDZMSVFXMS02cDY0ZDJNYUNvZUxDUWFFdVFhWlBMd1FTUzhCbW9XVXIyRmxBeUFud3J6eHZvNlVORzZ5dFRDYTMyYkN4RzRabkZxVThvR3dGWThrNzk?oc=5) — *Care Not Killing*, 15:10
+
+## Abortion (1)
+- [Famed UK pro-life politician murdered in horrific attack at her home](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVBzSnk3UnJsMllDZk9YM29DRjRQM0ZEQ215NFdZMFBSVDZkdW16a0lhcks1Wl9uaHRtQ0RabWJ5WXVKUEgtSzgyNjRCSnJaNFNDbmUtVnJBd2YzS21aWVZnSnZCUVEzMUxkcTdmM0NZbm9Nc0VYTDFia09SVlhDY01BXzBQYjNFTkFiMVZQd0Y1cUlQdDBQbWhVSGs2QTRMT2xaWmxEWVJyNkE?oc=5) — *National Right to Life*, 12:13
+
+## Religious Liberty (2)
+- [Päivi Räsänen takes her case to the European Court of Human Rights](https://news.google.com/rss/articles/CBMioAFBVV95cUxQLXFWR09PMEMtZVV0bVRqbUFZNWNKSFNqVXh0ZkVCTm90LW4xalJZb0o5N01QVmRldDNaUnk3ODVCZ1pXYzdPY2xsZlUtbG9KN1ZHQlNVeXVNWE9qaUUzdmZucllOMUxxcnZabnlZdXlMZ0w5VGcwVWJlcnZmSTJ5UDIyYVhkc0FzRVR1Vks1QmE2R2pfOGRxMWdNVmZQYUdr?oc=5) — *Anglican Ink*, 15:32
+- [Päivi Räsänen takes battle over ‘hate speech’ to European Court of Human Rights](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQTY4OW9jaFpfRlk3SFBjWS1ydXNQd3hVM3BmOHVOdnpIUkFWcHVNQ2g5eXVRVnJXcms5Q1d2TkRqczFJLXBxMV96X1N1NUV5TlZCUWdCZm1hbFBvVUgxcHBtVXEwdkpEZVJDRWt6MFE2d2ZTVFdRSXM3MExzdWEzYXNQczl2UmxHR292UTh0Ui0tek92ekZ3bDBjbE95YWxuNjE1anR0MnFCOWtDWlM3VVNvcw?oc=5) — *www.christiantoday.com*, 14:00
+
+## Marriage & Family (1)
+- [Legal challenge to trans youth healthcare in High Court](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLThSNjlRVnRZaU1lekpyLUViWEo3d0RncHE2SlJZR0JVbkp2ZmxlUzB1TTRrZVZFWUo1eWxBRXdSLU9QSWVram92a3lweFlHTVYxREllQ0pCdkJfbk1EbklZeXZnN0VXMG5pR3hFNGQ4TGlxZm5LZVg4OEhzUWRqSkNEUHlrOWRqX3dN?oc=5) — *Good Law Project*, 14:27
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Scores of Yorkshire doctors issue warning to MPs](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGdnRlp5MEkxT3ZDemNsYURBV2xFUHBqRWhVS2hYdkhLeS1QMUg5NlNkUkZYd01TbTRmcDZMSVFXMS02cDY0ZDJNYUNvZUxDUWFFdVFhWlBMd1FTUzhCbW9XVXIyRmxBeUFud3J6eHZvNlVORzZ5dFRDYTMyYkN4RzRabkZxVThvR3dGWThrNzk?oc=5)
+*Assisted Suicide / Assisted Dying · Care Not Killing*
+
+Care Not Killing reports that scores of doctors in Yorkshire have warned MPs against assisted-suicide/assisted-dying legislation. Their intervention brings frontline medical concerns about safeguarding, pressure on vulnerable patients and the need for better palliative care directly into the parliamentary debate.
+
+**Angle:** This is the strongest opportunity because it is local, medical and aimed at MPs now, not a generic moral appeal. We can amplify doctors’ warnings that legalisation would change the purpose of healthcare from caring to killing, while calling for proper hospice and palliative-care funding instead.
+
+**Possible headline:** *Yorkshire doctors are right: MPs must choose care, not assisted suicide*
+
+### 2. [Legal challenge to trans youth healthcare in High Court](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLThSNjlRVnRZaU1lekpyLUViWEo3d0RncHE2SlJZR0JVbkp2ZmxlUzB1TTRrZVZFWUo1eWxBRXdSLU9QSWVram92a3lweFlHTVYxREllQ0pCdkJfbk1EbklZeXZnN0VXMG5pR3hFNGQ4TGlxZm5LZVg4OEhzUWRqSkNEUHlrOWRqX3dN?oc=5)
+*Marriage & Family · Good Law Project*
+
+Good Law Project is publicising a High Court legal challenge concerning healthcare for trans-identifying young people. The case puts youth gender-medicine policy, access pathways and safeguards for minors back before the courts.
+
+**Angle:** The High Court setting makes this highly timely and legally relevant. Our line should be that children deserve evidence-based protection after the Cass Review, not activist litigation that pressures the NHS to reopen disputed medical pathways.
+
+**Possible headline:** *High Court must put children’s safety before gender ideology*
+
+### 3. [Päivi Räsänen takes battle over ‘hate speech’ to European Court of Human Rights](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQTY4OW9jaFpfRlk3SFBjWS1ydXNQd3hVM3BmOHVOdnpIUkFWcHVNQ2g5eXVRVnJXcms5Q1d2TkRqczFJLXBxMV96X1N1NUV5TlZCUWdCZm1hbFBvVUgxcHBtVXEwdkpEZVJDRWt6MFE2d2ZTVFdRSXM3MExzdWEzYXNQczl2UmxHR292UTh0Ui0tek92ekZ3bDBjbE95YWxuNjE1anR0MnFCOWtDWlM3VVNvcw?oc=5)
+*Religious Liberty · www.christiantoday.com*
+
+Christian Today reports that Finnish MP Päivi Räsänen is taking her long-running ‘hate speech’ battle to the European Court of Human Rights after years of legal action over Bible-based comments on sexuality and marriage. Her case has become a European test of whether quoting Scripture and expressing Christian doctrine can be treated as criminal hostility.
+
+**Angle:** This lets us connect a European case to UK threats from hate-speech law and conversion-therapy bans: once biblical teaching is redefined as ‘hate’, ordinary Christians become suspects. It is distinctive for us because we can argue both for free speech and against outsourcing conscience rights to unstable human-rights structures.
+
+**Possible headline:** *If Päivi can be prosecuted for quoting the Bible, no Christian is safe*
+
+### 4. [Famed UK pro-life politician murdered in horrific attack at her home](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVBzSnk3UnJsMllDZk9YM29DRjRQM0ZEQ215NFdZMFBSVDZkdW16a0lhcks1Wl9uaHRtQ0RabWJ5WXVKUEgtSzgyNjRCSnJaNFNDbmUtVnJBd2YzS21aWVZnSnZCUVEzMUxkcTdmM0NZbm9Nc0VYTDFia09SVlhDY01BXzBQYjNFTkFiMVZQd0Y1cUlQdDBQbWhVSGs2QTRMT2xaWmxEWVJyNkE?oc=5)
+*Abortion · National Right to Life*
+
+National Right to Life reports that a well-known UK pro-life politician has been murdered in an attack at her home. The key facts to note publicly are the killing itself, her pro-life witness and the need to wait for confirmed details on motive and circumstances.
+
+**Angle:** This will matter deeply to pro-life supporters, but we should avoid speculating while the investigation is live. A restrained Christian response—honouring a pro-life public servant, condemning political violence and dehumanising rhetoric, and praying for justice—would be credible and shareable.
+
+**Possible headline:** *We mourn a pro-life public servant and pray for justice*
+
+### 5. [Päivi Räsänen takes her case to the European Court of Human Rights](https://news.google.com/rss/articles/CBMioAFBVV95cUxQLXFWR09PMEMtZVV0bVRqbUFZNWNKSFNqVXh0ZkVCTm90LW4xalJZb0o5N01QVmRldDNaUnk3ODVCZ1pXYzdPY2xsZlUtbG9KN1ZHQlNVeXVNWE9qaUUzdmZucllOMUxxcnZabnlZdXlMZ0w5VGcwVWJlcnZmSTJ5UDIyYVhkc0FzRVR1Vks1QmE2R2pfOGRxMWdNVmZQYUdr?oc=5)
+*Religious Liberty · Anglican Ink*
+
+Anglican Ink carries the same underlying development: Päivi Räsänen is taking her case to the European Court of Human Rights. The case concerns state action against Christian expression rooted in biblical teaching.
+
+**Angle:** Because this duplicates the Christian Today item, it should not drive a second separate comment, but it is useful corroboration for Anglican and church-facing audiences. We can use it to challenge Church leaders to defend orthodox teaching publicly before similar pressures reach UK pulpits and workplaces.
+
+**Possible headline:** *Church leaders must stand with Päivi before hate-speech law comes for the pulpit*
+
+---
+
 # Digest - 2026-07-27 13:38 UTC
 *Last 24 hours, AI-classified*
 
@@ -2302,6 +2372,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
