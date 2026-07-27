@@ -1,3 +1,46 @@
+# Digest - 2026-07-27 13:38 UTC
+*Last 24 hours, AI-classified*
+
+## Assisted Suicide / Assisted Dying (2)
+- [The British assisted suicide bill is back – And so is Not Dead Yet.](https://news.google.com/rss/articles/CBMipgFBVV95cUxPTWkzSFYyOFcyYjY5ODY1TVNiX2JXNVJEVzdxVktrMVRkLXV0Wk50cGVDQXRMVnpoMjFCanJ4SklqVEVwMWxtVGMyMkpzbDczSEFacEgwWVVDOU84ZGEzSmI1bmRsbXdVODRNcS0zQmlWcGRkSWhPeDJKZkNWOWdiVmJqM2Ewa1pEZ2xLTEQzdEYyZTNTSERyWXIxSlk3NTJnM3l5Wjd3?oc=5) — *National Right to Life*, 11:54
+- [The Radical Bill to Legalize Assisted Suicide in Britain is Back](https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGJjeWFadkV6MlVnRnVzMno5UEVwZ0UxRmNiT2NWSXUxZzUyMWV6LWhhOUlEelZuWkdheTRsNjU4OEZSc1E4Z2hCM1k4MHI4cUM0cDdqLUFtck1GU1FPbVN6cGowSm9xcWx3VkhkSTk4TUUxRm92MFdfR0xVRGlIbjg4aXgtRTJqcU9acW9ock03cFpxNUJXb0E1R0Jjb0ZERS1J?oc=5) — *lifenews.com*, 10:42
+
+## Marriage & Family (1)
+- [London Trans+ Pride draws record 150,000 as march ends in Trafalgar Square for first time](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbW1JX0FrcUVVR3oyQzVsaU1Pb3ZIeVotc2pmdjBMWXRrbGhtdVV6ZFVjUkdDNkFEbzJUamt1elpNUnhFMjkxeUttWlJYdDI5ZjM3Qi1XNDEwWGdhUC14b3BjeVBHa0VfaHhDcThfSVBRQ2hSRXhWWmJ6Uk1RNEI2QVRLYllFbDlzdmp1R1ZSUnJNc2hobzVPTFlESndJZXpzTS1RWDNGbUQ0dl9BZmdscHkwUUNycW8?oc=5) — *scenemag.co.uk*, 09:31
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [The British assisted suicide bill is back – And so is Not Dead Yet.](https://news.google.com/rss/articles/CBMipgFBVV95cUxPTWkzSFYyOFcyYjY5ODY1TVNiX2JXNVJEVzdxVktrMVRkLXV0Wk50cGVDQXRMVnpoMjFCanJ4SklqVEVwMWxtVGMyMkpzbDczSEFacEgwWVVDOU84ZGEzSmI1bmRsbXdVODRNcS0zQmlWcGRkSWhPeDJKZkNWOWdiVmJqM2Ewa1pEZ2xLTEQzdEYyZTNTSERyWXIxSlk3NTJnM3l5Wjd3?oc=5)
+*Assisted Suicide / Assisted Dying · National Right to Life*
+
+National Right to Life is reporting that the UK assisted suicide bill has returned to the political agenda, alongside renewed campaigning by Not Dead Yet, the disabled-led group opposing assisted suicide. The story frames the bill as a direct threat to disabled, elderly and vulnerable people rather than a neutral extension of personal choice.
+
+**Angle:** Lead with disabled and vulnerable voices: the people most at risk are warning Parliament not to do this. This is a strong, distinctive Christian Concern line because it moves the debate beyond religion versus autonomy and lets us press the safeguarding, coercion and palliative-care arguments while the bill is back in the news.
+
+**Possible headline:** *Disabled people are warning Britain: assisted suicide puts the vulnerable in danger*
+
+### 2. [The Radical Bill to Legalize Assisted Suicide in Britain is Back](https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGJjeWFadkV6MlVnRnVzMno5UEVwZ0UxRmNiT2NWSXUxZzUyMWV6LWhhOUlEelZuWkdheTRsNjU4OEZSc1E4Z2hCM1k4MHI4cUM0cDdqLUFtck1GU1FPbVN6cGowSm9xcWx3VkhkSTk4TUUxRm92MFdfR0xVRGlIbjg4aXgtRTJqcU9acW9ock03cFpxNUJXb0E1R0Jjb0ZERS1J?oc=5)
+*Assisted Suicide / Assisted Dying · lifenews.com*
+
+LifeNews reports that a bill to legalise assisted suicide in Britain is back, presenting it as a radical attempt to change end-of-life law. The story is aimed at mobilising pro-life opposition as the debate reopens.
+
+**Angle:** Use this as the main campaign-action peg: Britain must not import a ‘right to die’ regime that quickly becomes pressure to die. We can call for MPs to reject the bill, expose overseas evidence from Canada, the Netherlands and Oregon, and argue for proper hospice and palliative care instead of state-assisted death.
+
+**Possible headline:** *The assisted suicide bill is back — and so is the danger to the vulnerable*
+
+### 3. [London Trans+ Pride draws record 150,000 as march ends in Trafalgar Square for first time](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbW1JX0FrcUVVR3oyQzVsaU1Pb3ZIeVotc2pmdjBMWXRrbGhtdVV6ZFVjUkdDNkFEbzJUamt1elpNUnhFMjkxeUttWlJYdDI5ZjM3Qi1XNDEwWGdhUC14b3BjeVBHa0VfaHhDcThfSVBRQ2hSRXhWWmJ6Uk1RNEI2QVRLYllFbDlzdmp1R1ZSUnJNc2hobzVPTFlESndJZXpzTS1RWDNGbUQ0dl9BZmdscHkwUUNycW8?oc=5)
+*Marriage & Family · scenemag.co.uk*
+
+Scene reports that London Trans+ Pride drew a record 150,000 people and ended in Trafalgar Square for the first time. The march is being presented as a major show of strength for the trans-rights movement in central London.
+
+**Angle:** This is lower priority than assisted suicide, but the scale and Trafalgar Square setting make it a timely cultural moment. Our line should distinguish compassion for individuals from surrendering truth in law, schools and single-sex spaces, linking to the Supreme Court judgment on biological sex and cases such as the Darlington Nurses.
+
+**Possible headline:** *A huge Trans+ Pride march does not change the truth about sex*
+
+---
+
 # Digest - 2026-07-27 10:37 UTC
 *Last 24 hours, AI-classified*
 
@@ -2259,6 +2302,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
