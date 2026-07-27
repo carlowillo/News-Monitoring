@@ -1,3 +1,70 @@
+# Digest - 2026-07-27 22:06 UTC
+*Last 24 hours, AI-classified*
+
+## Assisted Suicide / Assisted Dying (1)
+- [Dutch Psychiatrists Face Backlash Over Calls to Investigate 17-Year-Old’s Euthanasia](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlpYNmVtZlg4ZmJ6Q0hSaW9uTExaZGRqLUczbXlmbnF5WlhrQVc2clZJaTBCT0YwT2ZsYmZCczF6M2tZOVZ3YnpiaWdUN0xBU2M3emVoRzlKaFdVbmprM1hMUlAtTk9NVTFMa0Z6Sk9DNkxJOGhaZnBVYzNSemIzZ01QYVpBTFZSZ0dlTXZUZ2s5Z01Vc3U1NUlnUDlsR1hJckEwNWVn?oc=5) — *streamlinefeed.co.ke*, 08:50
+
+## Islam (1)
+- [Equalities minister shared platform with Muslim Council of Britain](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVzZqc21CeldsRTlLYmtQQWFHQ29UUGsxMklhSzVpR1J3OXF0LTBBWjRCNTJocHlkRkgwMjF4U0lhQTI0VGVpQXBpbWJDQklwNklqaDVPRndHcExvdVZiRnRNZVVpS1BVdjRpa2toQ3hrZ0dSMm9ZRzFPajc5WXZWeHFXQTFEM0xqV183bE1JM0dhdXhXRXN2MDl3OHRhZjY0dV8zOE4xeG5DZE0?oc=5) — *The Telegraph*, 21:04
+
+## Religious Liberty (1)
+- [Päivi Räsänen brings her conviction to the European Court of Human Rights](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeU1jSzNyU0syM095RWVWZXNaLTROUk13SUhWQmpIRjRxLUtHTHdDb18tREs3ZWFDQ1dZQmtmZDJZVlVvcjZyZV9BeVdaUkh3Nlc0cVdxUjhicG1Wcm1QR29lUElKYTlwbks4Nk43WmFIUlN1WEZqaGYtMEM2WTVCMzVTeVhoaUZfbGRUYmVOMlJON2l3NDJiaUcweEI5TzZXZk4zOTczMDVqS0NzYkxHaGh0c09KQQ?oc=5) — *Evangelical Focus +1*, 15:32
+
+## Marriage & Family (2)
+- [Trump administration threatens school districts over gender identity policies](https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWdfYVhwVGttYlF2V3pDRHo4bGNUei1HcGkyUDRtcDRQd0RjelQtZXVQM0dxdjZ4ZzUtNmZIUUZ6c3hNRTFWbGhzQnhEeHMyVFdCV09EUUJFQTRNeDRUVnNxNjRBdnNrb2M4RGJiRUhpNkx3YXZNbGROTENlYnVYRUw3WUZoU3NaQ0s5bHpqa1BfYTI0aFBfYXBPTmRuUi1USVlmOGNscXdnWFNGd0VSTGFGenpLLXNtdXcycnJGS1dmb3Y5MURqaGF2MVplQQ?oc=5) — *NewsBreak: Local News & Alerts*, 20:28
+- [Amnesty UK in new 'serious' investigation over JK Rowling anti-rights row](https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGdUemR6Y0h2clMzdk9sU1FaeS1BTC1iMVh3N0FKdzRwYmQzc2U0WFJ6VDF0RGN4RHJwa2RiUURYTTFJMjU5LTh1MkZJZGJZb3FQSjN0cFlZWE52eEVZMjVXZmN1X0JFb2dLanhCUUlmVjhTWHozQzZ2MW03YUZJeGo1aVl1a3pieEpxVEQzVWotS29qZ2lDZEY0MA?oc=5) — *The Herald*, 07:03
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Päivi Räsänen brings her conviction to the European Court of Human Rights](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeU1jSzNyU0syM095RWVWZXNaLTROUk13SUhWQmpIRjRxLUtHTHdDb18tREs3ZWFDQ1dZQmtmZDJZVlVvcjZyZV9BeVdaUkh3Nlc0cVdxUjhicG1Wcm1QR29lUElKYTlwbks4Nk43WmFIUlN1WEZqaGYtMEM2WTVCMzVTeVhoaUZfbGRUYmVOMlJON2l3NDJiaUcweEI5TzZXZk4zOTczMDVqS0NzYkxHaGh0c09KQQ?oc=5)
+*Religious Liberty · Evangelical Focus*
+
+Finnish Christian Democrat MP Päivi Räsänen has taken her long-running hate-speech case to the European Court of Human Rights after proceedings over a 2019 tweet quoting Romans 1, a 2004 pamphlet on marriage and sexuality, and related public comments. The case is now a major European test of whether biblical teaching on sex and marriage can be treated as criminal hate speech.
+
+**Angle:** This is the strongest fit: a Christian politician punished for quoting Scripture, now at Strasbourg. We can warn that hate-speech and conversion-therapy laws make the process the punishment, and connect it directly to UK street-preacher, teacher, chaplain and workplace cases.
+
+**Possible headline:** *If quoting the Bible is hate speech, Christian freedom is on trial*
+
+### 2. [Dutch Psychiatrists Face Backlash Over Calls to Investigate 17-Year-Old’s Euthanasia](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlpYNmVtZlg4ZmJ6Q0hSaW9uTExaZGRqLUczbXlmbnF5WlhrQVc2clZJaTBCT0YwT2ZsYmZCczF6M2tZOVZ3YnpiaWdUN0xBU2M3emVoRzlKaFdVbmprM1hMUlAtTk9NVTFMa0Z6Sk9DNkxJOGhaZnBVYzNSemIzZ01QYVpBTFZSZ0dlTXZUZ2s5Z01Vc3U1NUlnUDlsR1hJckEwNWVn?oc=5)
+*Assisted Suicide / Assisted Dying · streamlinefeed.co.ke*
+
+Dutch psychiatrists reportedly faced criticism after calling for an investigation into the euthanasia of a 17-year-old under the Netherlands’ permissive assisted-dying regime. The row concerns whether safeguards were properly applied in a case involving a minor.
+
+**Angle:** This is highly useful for the UK assisted-suicide debate: once killing is normalised as treatment, even professionals who ask safeguarding questions are treated as the problem. We should frame it as a warning from the Netherlands and argue for palliative and mental-health care, not a pathway to death for the young or vulnerable.
+
+**Possible headline:** *The Dutch euthanasia row Britain must not ignore*
+
+### 3. [Amnesty UK in new 'serious' investigation over JK Rowling anti-rights row](https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGdUemR6Y0h2clMzdk9sU1FaeS1BTC1iMVh3N0FKdzRwYmQzc2U0WFJ6VDF0RGN4RHJwa2RiUURYTTFJMjU5LTh1MkZJZGJZb3FQSjN0cFlZWE52eEVZMjVXZmN1X0JFb2dLanhCUUlmVjhTWHozQzZ2MW03YUZJeGo1aVl1a3pieEpxVEQzVWotS29qZ2lDZEY0MA?oc=5)
+*Marriage & Family · The Herald*
+
+The Herald reports that Amnesty UK is facing a new 'serious' investigation linked to its handling of the JK Rowling anti-rights row, in which gender-critical views were treated as hostile to human rights. The story centres on the fallout from Amnesty’s stance towards Rowling and others defending biological sex.
+
+**Angle:** This lets us argue that parts of the human-rights establishment have been captured by gender ideology and now smear women and Christians who affirm biological reality. Tie it to the Supreme Court sex judgment and the Darlington Nurses case: defending single-sex spaces is not anti-rights; it is lawful, pro-woman and safeguarding-based.
+
+**Possible headline:** *Amnesty’s ‘anti-rights’ smear shows how gender ideology captured human rights*
+
+### 4. [Equalities minister shared platform with Muslim Council of Britain](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVzZqc21CeldsRTlLYmtQQWFHQ29UUGsxMklhSzVpR1J3OXF0LTBBWjRCNTJocHlkRkgwMjF4U0lhQTI0VGVpQXBpbWJDQklwNklqaDVPRndHcExvdVZiRnRNZVVpS1BVdjRpa2toQ3hrZ0dSMm9ZRzFPajc5WXZWeHFXQTFEM0xqV183bE1JM0dhdXhXRXN2MDl3OHRhZjY0dV8zOE4xeG5DZE0?oc=5)
+*Islam · The Telegraph*
+
+The Telegraph reports that an equalities minister shared a platform with the Muslim Council of Britain, despite the long-standing government policy of non-engagement with the MCB over extremism-related concerns. The story raises questions about who is influencing equality and community-cohesion policy.
+
+**Angle:** Most commentary will focus on political embarrassment; our distinctive line should be free speech and religious liberty. Ministers must not normalise definitions of 'anti-Muslim hostility' or Islamophobia that chill legitimate criticism of Islam, sharia or blasphemy-style speech codes.
+
+**Possible headline:** *Ministers must not outsource free speech to the Muslim Council of Britain*
+
+### 5. [Trump administration threatens school districts over gender identity policies](https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWdfYVhwVGttYlF2V3pDRHo4bGNUei1HcGkyUDRtcDRQd0RjelQtZXVQM0dxdjZ4ZzUtNmZIUUZ6c3hNRTFWbGhzQnhEeHMyVFdCV09EUUJFQTRNeDRUVnNxNjRBdnNrb2M4RGJiRUhpNkx3YXZNbGROTENlYnVYRUw3WUZoU3NaQ0s5bHpqa1BfYTI0aFBfYXBPTmRuUi1USVlmOGNscXdnWFNGd0VSTGFGenpLLXNtdXcycnJGS1dmb3Y5MURqaGF2MVplQQ?oc=5)
+*Marriage & Family · NewsBreak: Local News & Alerts*
+
+The Trump administration has threatened school districts with enforcement action or loss of federal support over gender-identity policies in schools. The dispute concerns whether policies on facilities, sport or school treatment of pupils should prioritise self-declared gender identity over biological sex.
+
+**Angle:** This is lower priority because it is US-focused and already politically crowded, but it can be used to make a UK point. After the Supreme Court judgment on sex, British schools need clear, enforceable guidance that protects girls, parents and teachers from activist gender policies.
+
+**Possible headline:** *Schools need clear law on sex, not activist gender policies*
+
+---
+
 # Digest - 2026-07-27 20:18 UTC
 *Last 24 hours, AI-classified*
 
@@ -2452,6 +2519,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
