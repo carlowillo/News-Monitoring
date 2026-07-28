@@ -32,7 +32,7 @@ from xml.etree import ElementTree as ET
 # EDIT THIS: how far back to look
 # ---------------------------------------------------------------------------
 
-MAX_AGE_HOURS = 24
+MAX_AGE_HOURS = float(os.environ.get("MAX_AGE_HOURS", "24"))
 
 # ---------------------------------------------------------------------------
 # EDIT THIS: search terms. Each one becomes a Google News search.
@@ -803,8 +803,10 @@ Reply with ONLY a JSON array, ranked best first, no other text:
 def build_digest(by_issue, urgent, used_ai, top5=None):
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     mode = "AI-classified" if used_ai else "keyword-matched"
+    hrs = int(MAX_AGE_HOURS) if MAX_AGE_HOURS == int(MAX_AGE_HOURS) \
+        else round(MAX_AGE_HOURS, 1)
     lines = [f"# Digest - {stamp}",
-             f"*Last {MAX_AGE_HOURS} hours, {mode}*", ""]
+             f"*Last {hrs} hours, {mode}*", ""]
 
     if not any(by_issue.values()):
         lines.append("No new relevant articles this run.")
@@ -892,10 +894,62 @@ def post_slack(text):
 
 # ---------------------------------------------------------------------------
 
+def uk_now():
+    """Current time in UK local time (handles BST/GMT automatically)."""
+    try:
+        from zoneinfo import ZoneInfo
+        return datetime.now(ZoneInfo("Europe/London"))
+    except Exception:
+        # Fallback if timezone data is unavailable: assume UTC.
+        return datetime.now(timezone.utc)
+
+
+def should_run_now():
+    """
+    Decide whether this invocation is one of the two intended daily slots,
+    and if so return the lookback window in hours. Returns None to skip.
+
+    Slots (UK local time):
+      08:55 -> cover the last 24 hours (the morning catch-up)
+      14:00 -> cover only since the morning run (about 5 hours)
+
+    A tolerance lets the job fire even if GitHub starts it a few minutes late,
+    which it often does. FORCE_RUN=1 bypasses the gate for manual testing.
+    """
+    if os.environ.get("FORCE_RUN", "").strip() == "1":
+        # Manual run: use whatever MAX_AGE_HOURS is set, default 24.
+        return MAX_AGE_HOURS
+
+    now = uk_now()
+    minutes = now.hour * 60 + now.minute
+
+    slots = [
+        (8 * 60 + 55, 24.0),   # 08:55 UK -> last 24h
+        (14 * 60 + 0, 5.5),    # 14:00 UK -> last ~5h (since the 08:55 run)
+    ]
+    tolerance = 20  # minutes either side, to absorb GitHub's scheduling drift
+
+    for target, window in slots:
+        if abs(minutes - target) <= tolerance:
+            return window
+    return None
+
+
 def main():
+    window = should_run_now()
+    if window is None:
+        print(f"UK time {uk_now().strftime('%H:%M')} is not a scheduled slot "
+              f"(08:55 or 14:00) - skipping. Set FORCE_RUN=1 to override.")
+        return
+
+    global MAX_AGE_HOURS
+    MAX_AGE_HOURS = window
+
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(hours=MAX_AGE_HOURS)
     api_key = os.environ.get("OPENAI_API_KEY", "").strip()
+    print(f"UK time {uk_now().strftime('%H:%M %Z')} - running "
+          f"{MAX_AGE_HOURS}h window")
 
     print(f"Cutoff: {cutoff.strftime('%Y-%m-%d %H:%M UTC')}")
     if api_key:
