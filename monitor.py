@@ -1048,10 +1048,36 @@ def should_run_now():
 
 # ---------------------------------------------------------------------------
 
+def is_manual_run():
+    """
+    Work out whether this is a manual run.
+
+    Checked in order of reliability:
+      1. GITHUB_EVENT_NAME - GitHub sets this automatically on every run, so
+         this works even if the workflow file was never updated. Pressing
+         "Run workflow" gives 'workflow_dispatch'.
+      2. FORCE_RUN=1 - explicit override, useful for local testing or if the
+         workflow sets it directly.
+
+    Returns (is_manual, reason) so the reason can be printed for diagnosis.
+    """
+    event = os.environ.get("GITHUB_EVENT_NAME", "").strip().lower()
+    if event == "workflow_dispatch":
+        return True, "GITHUB_EVENT_NAME=workflow_dispatch"
+    if os.environ.get("FORCE_RUN", "").strip() == "1":
+        return True, "FORCE_RUN=1"
+    if event == "schedule":
+        return False, "GITHUB_EVENT_NAME=schedule"
+    if event:
+        return False, f"GITHUB_EVENT_NAME={event}"
+    return False, "no GitHub event set (running locally?)"
+
+
 def main():
     global MAX_AGE_HOURS
 
-    manual = os.environ.get("FORCE_RUN", "").strip() == "1"
+    manual, why = is_manual_run()
+    print(f"Run type: {'MANUAL' if manual else 'scheduled'}  ({why})")
 
     if manual:
         # A manual run is "show me what is happening now". It deliberately
@@ -1064,8 +1090,11 @@ def main():
     else:
         window = should_run_now()
         if window is None:
-            print(f"UK time {uk_now().strftime('%H:%M')} is not a scheduled "
-                  f"slot (08:55 or 14:00) - skipping.")
+            print(f"UK time {uk_now().strftime('%H:%M')} is not one of the "
+                  f"scheduled slots (08:55 or 14:00), so this run is skipping.")
+            print("If you expected a manual run, this means GitHub did not "
+                  "report it as 'workflow_dispatch'. Press the 'Run workflow' "
+                  "button on the Actions tab, or set FORCE_RUN=1.")
             return
         MAX_AGE_HOURS = window
         label = ""
