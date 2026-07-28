@@ -47,6 +47,7 @@ MAX_ARTICLES_PER_RUN = int(os.environ.get("MAX_ARTICLES_PER_RUN", "500"))
 MAX_INTERNATIONAL = int(os.environ.get("MAX_INTERNATIONAL", "6"))
 
 CLASSIFY_EFFORT = "high"
+REVIEW_EFFORT = "xhigh"    # the quality gate - worth thinking hard about
 RECOMMEND_EFFORT = "xhigh"
 MAX_OUTPUT_TOKENS = 32000
 
@@ -335,7 +336,17 @@ def fetch(url, timeout=25):
 
 
 def strip_html(text):
-    return re.sub("<[^<]+?>", "", text or "").strip()
+    """
+    Strip tags AND collapse all whitespace to single spaces.
+
+    Collapsing matters more than it looks: article titles and summaries are
+    fed to the AI as a numbered list, one article per line. A summary
+    containing a newline splits one article across several lines, so the
+    AI's "item 3" stops matching our item 3 and every classification after
+    it lands on the wrong article.
+    """
+    text = re.sub("<[^<]+?>", " ", text or "")
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def clean_google_title(title):
@@ -488,7 +499,8 @@ def source_rank(name):
 def ai_cluster_chunk(api_key, chunk):
     """Returns list of groups, or None if the call failed."""
     listing = "\n".join(
-        f"{i}. {a['title']}  [{a['source']}]" for i, a in enumerate(chunk))
+        f"{i}. {one_line(a['title'])}  [{one_line(a['source'])}]"
+        for i, a in enumerate(chunk))
     prompt = f"""Below are news headlines collected today. The same event is
 usually reported by many outlets, each writing its own headline. Your job is
 to find those duplicates.
@@ -825,11 +837,17 @@ def build_section_brief():
     return "\n".join(lines)
 
 
+def one_line(text, limit=None):
+    """Force text onto a single line. Guards the numbered-list format."""
+    out = re.sub(r"\s+", " ", str(text or "")).strip()
+    return out[:limit] if limit else out
+
+
 def ai_classify_batch(api_key, batch):
     listing = "\n".join(
-        f"{i}. {a['title']}"
-        + (f" [{a['source']}]" if a['source'] else "")
-        + (f" — {a['summary'][:200]}" if a['summary'] else "")
+        f"{i}. {one_line(a['title'])}"
+        + (f" [{one_line(a['source'])}]" if a['source'] else "")
+        + (f" — {one_line(a['summary'], 200)}" if a['summary'] else "")
         for i, a in enumerate(batch))
 
     our_names = ", ".join(OUR_PEOPLE + OUR_CASES)
@@ -1026,6 +1044,199 @@ def cap_international(by_section, limit=None):
     print(f"  capped international stories: kept {len(keep)}, "
           f"dropped {dropped}")
     return by_section
+
+
+# ---------------------------------------------------------------------------
+# Second pass - review the assembled list as a whole
+# ---------------------------------------------------------------------------
+
+def review_digest(api_key, by_section):
+    """
+    A second look at the finished list.
+
+    The first pass sees articles 30 at a time, so it cannot know that six
+    entries scattered across the digest are the same story, or that a story
+    it filed under Marriage sits oddly next to the rest of that section.
+    This pass sees everything at once and can therefore:
+      - drop anything that fails the standards
+      - merge duplicates the first pass missed
+      - move items filed under the wrong section
+      - correct the UK / international marking
+
+    The input is small (the finished list, not the raw haul), so this is one
+    cheap call. If it fails, the unreviewed list is returned unchanged.
+    """
+    # Build a unique, ordered list of everything currently in the digest.
+    entries, index_of = [], {}
+    for section, articles in by_section.items():
+        for a in articles:
+            key = a["link"]
+            if key not in index_of:
+                index_of[key] = len(entries)
+                entries.append({"article": a, "sections": [section]})
+            else:
+                entries[index_of[key]]["sections"].append(section)
+
+    stats = {"reviewed": len(entries), "dropped": 0, "merged": 0, "moved": 0}
+    if not api_key or not entries:
+        return by_section, stats
+
+    listing = "\n".join(
+        f"{i}. [{'/'.join(e['sections'])}] {one_line(e['article']['title'])}"
+        f"  — {one_line(e['article']['source'])}"
+        + (f" (also {', '.join(e['article']['also_in'][:3])})"
+           if e['article'].get("also_in") else "")
+        for i, e in enumerate(entries))
+
+    prompt = f"""You are the final editor of Christian Concern's daily news digest.
+
+{CC_PERSPECTIVE}
+
+The sections available are:
+{build_section_brief()}
+
+A first pass assembled the list below, but it only saw the articles in small
+batches, so it made mistakes. Your job is to produce the finished digest.
+
+Do FOUR things.
+
+1. DROP anything that does not belong. Be strict - the team reads this
+   quickly and a weak entry costs them more than a missing one. Drop:
+   - anything not about the UK, unless it is genuinely shocking or a major
+     national-level development that will shape the UK debate (a teenager
+     euthanised abroad, an Islamist attack in Europe, a landmark foreign
+     ruling). Routine foreign politics, US school district disputes, other
+     countries' parliamentary business, foreign local news: all out.
+   - sport, celebrity, entertainment, lifestyle, travel, and consumer news
+   - individual schools' buildings, transport, uniforms, prizes, sports,
+     leavers' events, advertising complaints or admissions
+   - parish and diocesan fetes, arts competitions, building projects and
+     routine clergy appointments
+   - letters pages, diary items, and light features
+   - trade-press announcements, service launches, conference notices,
+     fundraising appeals and awareness days
+   - general politics with no bearing on our issues (the economy, transport,
+     housing, defence, foreign wars, sport)
+   - anything that is simply not significant enough to be worth knowing
+
+2. MERGE duplicates. Several outlets report one event with different
+   headlines and different numbers. Group every version of the same story.
+   For example these are ONE story despite sharing almost no wording:
+     "The morning-after pill is now free on the NHS"
+     "Pharmacies supply more than 300,000 doses of the morning-after pill"
+     "NHS Pharmacies Dispense 305,000 Morning-After Pills in Five Months"
+   Different stages of a process, different countries or different people
+   are NOT the same story.
+
+3. MOVE anything filed under the wrong section, and remove section
+   assignments that are a stretch. An article may sit in more than one
+   section only where it genuinely belongs in both.
+
+4. MARK each survivor "uk" or "international".
+
+Current list:
+{listing}
+
+Reply with ONLY a JSON object, no other text:
+{{"keep": [{{"i": 0, "sections": ["Gender"], "scope": "uk"}}],
+  "merge": [[3, 11, 24]]}}
+
+"keep" lists ONLY the entries that survive, with their corrected sections.
+Anything not listed in "keep" is dropped.
+"merge" groups indices that are the same story; the first index in each
+group is the version that will be shown. Every index in a merge group must
+also appear in "keep". Use [] if there is nothing to merge.
+Use section names EXACTLY as written above."""
+
+    reply = call_openai(api_key, prompt, effort=REVIEW_EFFORT)
+    if reply is None:
+        print("    ! review pass FAILED - showing unreviewed list")
+        return by_section, stats
+
+    parsed = extract_json_object(reply)
+    if not isinstance(parsed, dict) or "keep" not in parsed:
+        print("    ! review reply not understood - showing unreviewed list")
+        return by_section, stats
+
+    # Apply the keep decisions
+    survivors = {}
+    for r in parsed.get("keep", []):
+        try:
+            idx = int(r.get("i", -1))
+        except (TypeError, ValueError):
+            continue
+        if not 0 <= idx < len(entries):
+            continue
+        secs = [s for s in r.get("sections", []) if s in by_section]
+        if not secs:
+            secs = entries[idx]["sections"]
+        scope = str(r.get("scope", "uk")).strip().lower()
+        if scope not in ("uk", "international"):
+            scope = "uk"
+        if secs != entries[idx]["sections"]:
+            stats["moved"] += 1
+        survivors[idx] = (secs, scope)
+
+    stats["dropped"] = len(entries) - len(survivors)
+
+    # Apply the merges: keep the first surviving member, fold the rest in
+    merged_away = set()
+    for group in parsed.get("merge", []):
+        if not isinstance(group, list):
+            continue
+        idxs = []
+        for v in group:
+            try:
+                n = int(v)
+            except (TypeError, ValueError):
+                continue
+            if 0 <= n < len(entries) and n in survivors and n not in idxs:
+                idxs.append(n)
+        if len(idxs) < 2:
+            continue
+        # Prefer a recognised UK outlet as the surviving version
+        idxs.sort(key=lambda n: source_rank(entries[n]["article"]["source"]))
+        lead = entries[idxs[0]]["article"]
+        others = lead.setdefault("also_in", [])
+        for n in idxs[1:]:
+            other = entries[n]["article"]
+            for name in [other["source"]] + (other.get("also_in") or []):
+                if name != lead["source"] and name not in others:
+                    others.append(name)
+            if other["published"] and lead["published"] and \
+               other["published"] < lead["published"]:
+                lead["published"] = other["published"]
+            merged_away.add(n)
+            stats["merged"] += 1
+
+    # Rebuild the digest from the reviewed decisions
+    rebuilt = {name: [] for name in by_section}
+    for idx, (secs, scope) in survivors.items():
+        if idx in merged_away:
+            continue
+        article = entries[idx]["article"]
+        article["scope"] = scope
+        for sec in secs:
+            rebuilt[sec].append(article)
+
+    return rebuilt, stats
+
+
+def extract_json_object(text):
+    """Like extract_json but for a JSON object rather than an array."""
+    text = re.sub(r"^```(?:json)?\s*", "", text.strip())
+    text = re.sub(r"\s*```$", "", text)
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        pass
+    start, end = text.find("{"), text.rfind("}")
+    if start != -1 and end > start:
+        try:
+            return json.loads(text[start:end + 1])
+        except json.JSONDecodeError:
+            pass
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -1413,6 +1624,17 @@ def main():
         cls_stats = {"ai_batches": 0, "fallback_batches": 0,
                      "uk": 0, "international": 0}
 
+    review_stats = {"reviewed": 0, "dropped": 0, "merged": 0, "moved": 0}
+    if api_key and any(by_section.values()):
+        total_now = len({a["link"] for v in by_section.values() for a in v})
+        print(f"\nReviewing the assembled list ({total_now} stories, "
+              f"effort={REVIEW_EFFORT})...")
+        by_section, review_stats = review_digest(api_key, by_section)
+        print(f"  dropped {review_stats['dropped']}, "
+              f"merged {review_stats['merged']}, "
+              f"moved {review_stats['moved']}")
+        by_section = cap_international(by_section)
+
     top5 = None
     if api_key and any(by_section.values()):
         print(f"\nPicking top 5 (effort={RECOMMEND_EFFORT}, may take "
@@ -1448,8 +1670,12 @@ def main():
     print(f"  duplicates merged  : {cluster_stats['merged']}")
     print(f"  classify batches   : {cls_stats['ai_batches']} by AI, "
           f"{cls_stats['fallback_batches']} fell back to keywords")
-    print(f"  stories kept       : {cls_stats['uk']} UK, "
+    print(f"  first-pass kept    : {cls_stats['uk']} UK, "
           f"{cls_stats['international']} international")
+    print(f"  review pass        : saw {review_stats['reviewed']}, "
+          f"dropped {review_stats['dropped']}, "
+          f"merged {review_stats['merged']}, "
+          f"moved {review_stats['moved']}")
     if cluster_stats["failed"]:
         print("  !! clustering failed - THAT is why duplicates got through")
     if cls_stats["fallback_batches"]:
