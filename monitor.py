@@ -483,48 +483,55 @@ def source_rank(name):
     return len(PREFERRED_SOURCES)
 
 
-def cluster_sort_key(item):
-    """
-    Put likely-duplicates next to each other before chunking, so a story
-    carried by twelve outlets does not get split across two AI calls.
-    Uses the least common words in the headline as the key.
-    """
-    toks = sorted(title_tokens(item["title"]))
-    return " ".join(toks[:4])
 
 
 def ai_cluster_chunk(api_key, chunk):
+    """Returns list of groups, or None if the call failed."""
     listing = "\n".join(
         f"{i}. {a['title']}  [{a['source']}]" for i, a in enumerate(chunk))
-    prompt = f"""Below are news headlines collected today. Several outlets often
-report the SAME underlying event with different wording.
+    prompt = f"""Below are news headlines collected today. The same event is
+usually reported by many outlets, each writing its own headline. Your job is
+to find those duplicates.
 
-Group together the headlines that report the same underlying story or event.
+Group headlines that report the SAME underlying event.
 
-Two headlines are the same story if they describe the same event, decision,
-ruling, announcement, incident or set of figures - even if the wording,
-emphasis, angle or numbers quoted differ.
+They ARE the same story if they describe the same event, decision, ruling,
+announcement, incident, report or set of figures - even when the wording,
+emphasis, framing, or the exact numbers quoted differ completely.
+
+Worked example. All six of these are ONE story and belong in one group:
+  "The morning-after pill is now free on the NHS"
+  "Pharmacies supply more than 300,000 doses of the morning-after pill"
+  "Hundreds of thousands of women get morning-after pill via free service"
+  "More than 300,000 women get free morning-after pill under new scheme"
+  "NHS Pharmacies Dispense 305,000 Morning-After Pills in Five Months"
+  "Morning-After Pill: 305,000 Free NHS Doses Given"
+Note that they share almost no wording, and quote 300,000 and 305,000. They
+are still the same story.
 
 They are NOT the same story if they describe different events, different
-stages of a process (for example a bill passing one house versus being
-defeated in another), different countries, or different people - even if the
-subject matter is closely related.
+stages of a process (a bill passing one house versus being defeated in
+another), different countries, or different people - even when the subject
+matter is closely related.
+
+Be thorough. A big story may be carried by fifteen outlets. Look for every
+duplicate, not just the obvious ones.
 
 Headlines:
 {listing}
 
-Reply with ONLY a JSON array of groups, where each group is an array of the
-index numbers of headlines reporting the same story. Include ONLY groups with
-two or more members. If nothing is duplicated, reply [].
+Reply with ONLY a JSON array of groups, each group an array of index numbers
+reporting the same story. Include ONLY groups with two or more members.
+If genuinely nothing is duplicated, reply [].
 
-Example: [[0, 4, 9], [2, 7]]"""
+Example: [[0, 4, 9, 22], [2, 7]]"""
 
-    reply = call_openai(api_key, prompt, effort="low")
+    reply = call_openai(api_key, prompt, effort="medium")
     if reply is None:
-        return []
+        return None
     parsed = extract_json(reply)
     if not isinstance(parsed, list):
-        return []
+        return None
     groups = []
     for g in parsed:
         if not isinstance(g, list):
@@ -558,33 +565,54 @@ def collapse_group(members):
     return lead
 
 
-def cluster_stories(api_key, items, chunk_size=120):
+def cluster_stories(api_key, items, chunk_size=800):
     """
     Collapse the same story reported by many outlets down to one entry.
-    Falls back to returning the input unchanged if the AI is unavailable.
+
+    All headlines go in a SINGLE call wherever possible. An earlier version
+    chunked them after sorting on the rarest words in each headline, which
+    did not work: paraphrases of one story produce completely different sort
+    keys, so the duplicates ended up in different chunks and were never
+    compared. If we do have to chunk, we sort by publication time instead,
+    since outlets pick up the same story within a few hours of each other.
     """
+    stats = {"merged": 0, "calls": 0, "failed": 0}
     if not api_key or len(items) < 2:
-        return items
+        return items, stats
 
-    ordered = sorted(items, key=cluster_sort_key)
-    kept, total_merged = [], 0
+    if len(items) <= chunk_size:
+        chunks = [list(items)]
+    else:
+        ordered = sorted(items, key=lambda a: a["published"] or datetime.min
+                         .replace(tzinfo=timezone.utc))
+        chunks = [ordered[i:i + chunk_size]
+                  for i in range(0, len(ordered), chunk_size)]
+        print(f"  {len(items)} headlines - splitting into {len(chunks)} calls")
 
-    chunks = [ordered[i:i + chunk_size]
-              for i in range(0, len(ordered), chunk_size)]
+    kept = []
     for n, chunk in enumerate(chunks, 1):
-        print(f"  clustering chunk {n}/{len(chunks)} ({len(chunk)} headlines)...")
+        if len(chunks) > 1:
+            print(f"  clustering chunk {n}/{len(chunks)} ({len(chunk)})...")
+        else:
+            print(f"  clustering {len(chunk)} headlines in one call...")
+        stats["calls"] += 1
         groups = ai_cluster_chunk(api_key, chunk)
+        if groups is None:
+            stats["failed"] += 1
+            print("    ! clustering FAILED for this batch - "
+                  "duplicates will get through")
+            kept += chunk
+            continue
         grouped_idx = set()
         for g in groups:
             grouped_idx.update(g)
         for g in groups:
             members = [chunk[i] for i in g]
             kept.append(collapse_group(members))
-            total_merged += len(members) - 1
+            stats["merged"] += len(members) - 1
         kept += [a for i, a in enumerate(chunk) if i not in grouped_idx]
 
-    print(f"  merged {total_merged} duplicate reports")
-    return kept
+    return kept, stats
 
 
 # ---------------------------------------------------------------------------
@@ -907,6 +935,8 @@ If nothing qualifies, reply []."""
 def classify_all(items, api_key):
     by_section = {name: [] for name in ALL_SECTIONS}
     urgent = []
+    stats = {"ai_batches": 0, "fallback_batches": 0,
+             "uk": 0, "international": 0}
 
     if not api_key:
         print("No OPENAI_API_KEY set - using keyword matching")
@@ -914,7 +944,7 @@ def classify_all(items, api_key):
             for sec in keyword_classify(it):
                 if sec in by_section:
                     by_section[sec].append(it)
-        return by_section, urgent
+        return by_section, urgent, stats
 
     total = (len(items) + BATCH_SIZE - 1) // BATCH_SIZE
     for b in range(total):
@@ -922,12 +952,15 @@ def classify_all(items, api_key):
         print(f"  AI batch {b + 1}/{total} ({len(batch)} articles)...")
         results = ai_classify_batch(api_key, batch)
         if results is None:
-            print("    falling back to keywords for this batch")
+            stats["fallback_batches"] += 1
+            print("    ! AI FAILED for this batch - falling back to keywords "
+                  "(no relevance or scope filtering will apply)")
             for it in batch:
                 for sec in keyword_classify(it):
                     if sec in by_section:
                         by_section[sec].append(it)
             continue
+        stats["ai_batches"] += 1
         for r in results:
             try:
                 idx = int(r.get("i", -1))
@@ -950,6 +983,7 @@ def classify_all(items, api_key):
             item = dict(batch[idx])
             item["relevance"] = rel
             item["scope"] = scope
+            stats[scope] += 1
             matched = False
             for sec in r.get("sections", []):
                 if sec in by_section:
@@ -960,7 +994,7 @@ def classify_all(items, api_key):
                     urgent.append(item)
 
     by_section = cap_international(by_section)
-    return by_section, urgent
+    return by_section, urgent, stats
 
 
 def cap_international(by_section, limit=None):
@@ -1362,18 +1396,22 @@ def main():
     # "Pharmacies supply 300,000 doses" apart from two unrelated stories, so
     # the AI does the clustering. Done before classification, it also cuts
     # the number of articles we pay to classify.
+    cluster_stats = {"merged": 0, "calls": 0, "failed": 0}
     if new_items and api_key:
         print(f"\nClustering {len(new_items)} headlines...")
         before = len(new_items)
-        new_items = cluster_stories(api_key, new_items)
-        print(f"  {before} -> {len(new_items)} distinct stories")
+        new_items, cluster_stats = cluster_stories(api_key, new_items)
+        print(f"  {before} -> {len(new_items)} distinct stories "
+              f"({cluster_stats['merged']} duplicates merged)")
 
     print(f"\n{len(new_items)} to classify\n")
 
     if new_items:
-        by_section, urgent = classify_all(new_items, api_key)
+        by_section, urgent, cls_stats = classify_all(new_items, api_key)
     else:
         by_section, urgent = {n: [] for n in ALL_SECTIONS}, []
+        cls_stats = {"ai_batches": 0, "fallback_batches": 0,
+                     "uk": 0, "international": 0}
 
     top5 = None
     if api_key and any(by_section.values()):
@@ -1400,6 +1438,24 @@ def main():
             append_log(digest, LOG_FILE)
             post_slack(digest)
         save_seen(seen)
+
+    # Run summary - makes it obvious from the log whether the AI actually
+    # did its job, rather than having to infer it from the digest.
+    print("\n" + "=" * 52)
+    print("RUN SUMMARY")
+    print(f"  clustering calls   : {cluster_stats['calls']} "
+          f"({cluster_stats['failed']} failed)")
+    print(f"  duplicates merged  : {cluster_stats['merged']}")
+    print(f"  classify batches   : {cls_stats['ai_batches']} by AI, "
+          f"{cls_stats['fallback_batches']} fell back to keywords")
+    print(f"  stories kept       : {cls_stats['uk']} UK, "
+          f"{cls_stats['international']} international")
+    if cluster_stats["failed"]:
+        print("  !! clustering failed - THAT is why duplicates got through")
+    if cls_stats["fallback_batches"]:
+        print("  !! some batches fell back to keywords - THAT is why weak or "
+              "foreign stories got through")
+    print("=" * 52)
 
     if api_key and new_items:
         batches = (len(new_items) + BATCH_SIZE - 1) // BATCH_SIZE
