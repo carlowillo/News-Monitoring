@@ -1,3 +1,36 @@
+# Digest - 2026-07-28 01:57 UTC
+*Last 24 hours, AI-classified*
+
+## Abortion (1)
+- [Hundreds of thousands of women get morning-after pill via free pharmacy service](https://www.bbc.co.uk/news/articles/cn9n1rg3n81o?at_medium=RSS&at_campaign=rss) — *BBC News (UK)*, 00:14
+
+## Marriage & Family (1)
+- [Trump administration threatens school districts over gender identity policies](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUtVSVk0QXdCZmt5U2N0S2I4TldYNnRLdDZsbzZuYmk2d0FfN1lZWE1velVScVdVMFRsaFJvSUZQT0xIYlJoNGpMUGE1SzZBTE9IQ1Y5QlVhWlZ3RGxiTzgyLUhYRHRDYlZjNjg4bnVxXzBPZFV2YlAyMXpORy1GZTRLdU1ubG4tVmswLW5TRUpUZ05RU3RwR1ItUUNIZmhiUExUdVBvQ3Bka0U?oc=5) — *Yahoo*, Mon 20:28
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Hundreds of thousands of women get morning-after pill via free pharmacy service](https://www.bbc.co.uk/news/articles/cn9n1rg3n81o?at_medium=RSS&at_campaign=rss)
+*Abortion · BBC News (UK)*
+
+The BBC reports that since October, hundreds of thousands of women in England have obtained the morning-after pill free from high-street pharmacies under a new NHS scheme, without needing a GP appointment.
+
+**Angle:** This is a timely UK story from the BBC with a clear pro-life and safeguarding angle. We can argue that ministers are normalising a quick pharmaceutical response to sexual risk while doing too little to protect vulnerable girls and women from coercion, abuse and exploitation, and that genuine care must include safeguarding, relationship support and life-affirming alternatives.
+
+**Possible headline:** *Free Morning-After Pills Are No Substitute for Safeguarding Women and Girls*
+
+### 2. [Trump administration threatens school districts over gender identity policies](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUtVSVk0QXdCZmt5U2N0S2I4TldYNnRLdDZsbzZuYmk2d0FfN1lZWE1velVScVdVMFRsaFJvSUZQT0xIYlJoNGpMUGE1SzZBTE9IQ1Y5QlVhWlZ3RGxiTzgyLUhYRHRDYlZjNjg4bnVxXzBPZFV2YlAyMXpORy1GZTRLdU1ubG4tVmswLW5TRUpUZ05RU3RwR1ItUUNIZmhiUExUdVBvQ3Bka0U?oc=5)
+*Marriage & Family · Yahoo*
+
+The Trump administration has threatened action against school districts over gender identity policies, escalating the US battle over whether schools must affirm pupils’ chosen gender identity.
+
+**Angle:** Although US-based, it gives us a useful hook to say the tide is turning internationally against gender ideology in schools. We can contrast this with the UK’s failure to give clear, lawful protection to children, parents and teachers, especially after the Supreme Court’s ruling on biological sex.
+
+**Possible headline:** *America Pushes Back on Gender Ideology in Schools — Britain Must Do the Same*
+
+---
+
 # Digest - 2026-07-27 22:06 UTC
 *Last 24 hours, AI-classified*
 
@@ -2519,6 +2552,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
