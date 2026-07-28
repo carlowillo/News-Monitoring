@@ -1,3 +1,47 @@
+# Digest - 2026-07-28 05:12 UTC
+*Last 24 hours, AI-classified*
+
+## Religious Liberty (1)
+- [Trump admin threatens school district after religious parents sue over trans-inclusive policies](https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ2ZnNHp5TXdFYWpWOVlRcUdCRDB4WWlFMnZoLVFidWt5QTlFcDc2VjJOTzVuTjBpMlNidk9KVzF5eXB2WkRlM2h5dlZwb2tmRXFTdnpTQlpNNlJSTEVzdExsMlRObjRkWXBXZWxRbUZBanFWVGNKcHkwLUhLU1E4azVheTN4cnc3cjZKOHdLdHZaUkV6OW1UOXlLSzJ6eW9WbzVIVVh3Smo0dlM0UmJuTUR4cG9fWnVwUzI0Y21MQllaaHZE?oc=5) — *LGBTQ Nation*, Mon 22:00
+
+## Marriage & Family (3)
+- [Councils at risk of 'costly' court action as 100 schools keep mixed-sex toilets](https://news.google.com/rss/articles/CBMilgFBVV95cUxPVERsWndpM1dDWG1TSDlYNmFFRF9rLU1NNHl1ZGhORXZvRTVTbVdReTBGN3IycldWVjBiTUhhLXVES1ZQOEp0Z1Ezczd1LTlrOS1WeDZKR1R1Z2Itb2Q3V1JqVFNNZ2dtOC1ZNDNheTJiN0lSQWFkMy1FODl1VGtpeElXemNmc0d0NVNiTXBlREFrNl9Ra2c?oc=5) — *The Herald*, 04:07
+- [US targets schools over policies allowing secret gender transitions without parents’ knowledge](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRUhPaGJTQVA4NjBkZ21uRGNndGJJSkJVdnlYcFZ0ZXZJVTZYbEU3d3FqVDY4d0ZxVFZoOGhiNHgtWm9oRVN0YnZQUG9ZQ0NmcU5nQUhqTWl0MTY5X2FEeFdSM3JEWDdBTktRXzN4UFNYbkVPbWdiQlYzQ1N5OVU5VDRjUk90eWVCRHFlNXJOU1V2T1pWM2FGX0VfZ245T1h1LW1SVEtUdTk5T1V1b3pPY0NnQlVMUWllLWNDbDRrQkt1TV90anZnZkNXV3VVRDlvejB4SUZ0VlFKa0XSAdsBQVVfeXFMTUVIT2hiU0FQODYwZGdtbkRjZ3RiSUpCVXZ5WHBWdGV2SVU2WGxFN3dxalQ2OHdGcVRWaDhoYjR4LVpvaEVTdGJ2UFBvWUNDZnFOZ0FIak1pdDE2OV9hRHhXUjNyRFg3QU5LUV8zeFBTWG5FT21nYkJWM0NTeTlVOVQ0Y1JPdHllQkRxZTVyTlNVdk9aVjNhRl9FX2duOU9YdS1tUlRLVHU5OU9VdW96T2NDZ0JVTFFpZS1jQ2w0a0JLdU1fdGp2Z2ZDV1d1VUQ5b3oweElGdFZRSmtF?oc=5) — *Firstpost*, 04:52
+- [Trump admin threatens school district after religious parents sue over trans-inclusive policies](https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ2ZnNHp5TXdFYWpWOVlRcUdCRDB4WWlFMnZoLVFidWt5QTlFcDc2VjJOTzVuTjBpMlNidk9KVzF5eXB2WkRlM2h5dlZwb2tmRXFTdnpTQlpNNlJSTEVzdExsMlRObjRkWXBXZWxRbUZBanFWVGNKcHkwLUhLU1E4azVheTN4cnc3cjZKOHdLdHZaUkV6OW1UOXlLSzJ6eW9WbzVIVVh3Smo0dlM0UmJuTUR4cG9fWnVwUzI0Y21MQllaaHZE?oc=5) — *LGBTQ Nation*, Mon 22:00
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Councils at risk of 'costly' court action as 100 schools keep mixed-sex toilets](https://news.google.com/rss/articles/CBMilgFBVV95cUxPVERsWndpM1dDWG1TSDlYNmFFRF9rLU1NNHl1ZGhORXZvRTVTbVdReTBGN3IycldWVjBiTUhhLXVES1ZQOEp0Z1Ezczd1LTlrOS1WeDZKR1R1Z2Itb2Q3V1JqVFNNZ2dtOC1ZNDNheTJiN0lSQWFkMy1FODl1VGtpeElXemNmc0d0NVNiTXBlREFrNl9Ra2c?oc=5)
+*Marriage & Family · The Herald*
+
+The Herald reports that councils could face expensive legal challenges because around 100 schools still have mixed-sex toilet arrangements. The issue is live in the context of schools’ duties to provide safe, private and lawful single-sex facilities.
+
+**Angle:** This is a strong UK-facing opportunity to argue that councils and schools must act now in light of the Supreme Court’s clarity on biological sex. We can frame mixed-sex toilets as a safeguarding, privacy and dignity issue for girls, not a culture-war distraction, and call for immediate compliance before parents are forced into litigation.
+
+**Possible headline:** *Schools must restore single-sex toilets before parents take them to court*
+
+### 2. [US targets schools over policies allowing secret gender transitions without parents’ knowledge](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRUhPaGJTQVA4NjBkZ21uRGNndGJJSkJVdnlYcFZ0ZXZJVTZYbEU3d3FqVDY4d0ZxVFZoOGhiNHgtWm9oRVN0YnZQUG9ZQ0NmcU5nQUhqTWl0MTY5X2FEeFdSM3JEWDdBTktRXzN4UFNYbkVPbWdiQlYzQ1N5OVU5VDRjUk90eWVCRHFlNXJOU1V2T1pWM2FGX0VfZ245T1h1LW1SVEtUdTk5T1V1b3pPY0NnQlVMUWllLWNDbDRrQkt1TV90anZnZkNXV3VVRDlvejB4SUZ0VlFKa0XSAdsBQVVfeXFMTUVIT2hiU0FQODYwZGdtbkRjZ3RiSUpCVXZ5WHBWdGV2SVU2WGxFN3dxalQ2OHdGcVRWaDhoYjR4LVpvaEVTdGJ2UFBvWUNDZnFOZ0FIak1pdDE2OV9hRHhXUjNyRFg3QU5LUV8zeFBTWG5FT21nYkJWM0NTeTlVOVQ0Y1JPdHllQkRxZTVyTlNVdk9aVjNhRl9FX2duOU9YdS1tUlRLVHU5OU9VdW96T2NDZ0JVTFFpZS1jQ2w0a0JLdU1fdGp2Z2ZDV1d1VUQ5b3oweElGdFZRSmtF?oc=5)
+*Marriage & Family · Firstpost*
+
+The US authorities are reportedly taking action against schools that allow children to socially transition gender at school without informing their parents. The story focuses on whether schools can keep gender-related changes secret from families.
+
+**Angle:** Although US-based, this maps directly onto UK concerns about schools socially transitioning children behind parents’ backs. We can use it to press the UK government for clear, enforceable guidance that parental rights, safeguarding and biological reality must come before gender ideology.
+
+**Possible headline:** *No school should secretly transition a child behind parents’ backs*
+
+### 3. [Trump admin threatens school district after religious parents sue over trans-inclusive policies](https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ2ZnNHp5TXdFYWpWOVlRcUdCRDB4WWlFMnZoLVFidWt5QTlFcDc2VjJOTzVuTjBpMlNidk9KVzF5eXB2WkRlM2h5dlZwb2tmRXFTdnpTQlpNNlJSTEVzdExsMlRObjRkWXBXZWxRbUZBanFWVGNKcHkwLUhLU1E4azVheTN4cnc3cjZKOHdLdHZaUkV6OW1UOXlLSzJ6eW9WbzVIVVh3Smo0dlM0UmJuTUR4cG9fWnVwUzI0Y21MQllaaHZE?oc=5)
+*Religious Liberty · LGBTQ Nation*
+
+The Trump administration has reportedly threatened action against a school district after religious parents sued over trans-inclusive school policies. The dispute centres on whether school policies are overriding parents’ religious convictions and rights in relation to gender ideology.
+
+**Angle:** This gives us a religious liberty frame as well as a parental-rights frame: Christian parents should not be treated as extremists for objecting to gender ideology in schools. The UK angle is that similar conflicts are already emerging here, and schools need to respect conscience, safeguarding and biological sex rather than compel ideological conformity.
+
+**Possible headline:** *Christian parents must not be punished for resisting gender ideology*
+
+---
+
 # Digest - 2026-07-28 01:57 UTC
 *Last 24 hours, AI-classified*
 
@@ -2552,6 +2596,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
