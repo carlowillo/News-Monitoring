@@ -41,6 +41,11 @@ OPENAI_URL = "https://api.openai.com/v1/chat/completions"
 # recent and report how many were dropped, so cost can never run away.
 MAX_ARTICLES_PER_RUN = int(os.environ.get("MAX_ARTICLES_PER_RUN", "500"))
 
+# Most international coverage is noise for a UK organisation. This is the
+# maximum number of foreign stories allowed into a single digest, however
+# many the classifier lets through.
+MAX_INTERNATIONAL = int(os.environ.get("MAX_INTERNATIONAL", "6"))
+
 CLASSIFY_EFFORT = "high"
 RECOMMEND_EFFORT = "xhigh"
 MAX_OUTPUT_TOKENS = 32000
@@ -458,6 +463,131 @@ def deduplicate(items):
 
 
 # ---------------------------------------------------------------------------
+# Story clustering (AI) - collapses the same story across many outlets
+# ---------------------------------------------------------------------------
+
+# Outlets we would rather quote as the "main" source for a story.
+PREFERRED_SOURCES = [
+    "BBC", "The Times", "The Telegraph", "The Guardian", "Sky News",
+    "The Independent", "Daily Mail", "Christian Today",
+    "Premier Christian News", "Church Times", "Financial Times",
+    "The Spectator", "GB News", "Daily Express", "The i Paper",
+]
+
+
+def source_rank(name):
+    low = (name or "").lower()
+    for i, pref in enumerate(PREFERRED_SOURCES):
+        if pref.lower() in low:
+            return i
+    return len(PREFERRED_SOURCES)
+
+
+def cluster_sort_key(item):
+    """
+    Put likely-duplicates next to each other before chunking, so a story
+    carried by twelve outlets does not get split across two AI calls.
+    Uses the least common words in the headline as the key.
+    """
+    toks = sorted(title_tokens(item["title"]))
+    return " ".join(toks[:4])
+
+
+def ai_cluster_chunk(api_key, chunk):
+    listing = "\n".join(
+        f"{i}. {a['title']}  [{a['source']}]" for i, a in enumerate(chunk))
+    prompt = f"""Below are news headlines collected today. Several outlets often
+report the SAME underlying event with different wording.
+
+Group together the headlines that report the same underlying story or event.
+
+Two headlines are the same story if they describe the same event, decision,
+ruling, announcement, incident or set of figures - even if the wording,
+emphasis, angle or numbers quoted differ.
+
+They are NOT the same story if they describe different events, different
+stages of a process (for example a bill passing one house versus being
+defeated in another), different countries, or different people - even if the
+subject matter is closely related.
+
+Headlines:
+{listing}
+
+Reply with ONLY a JSON array of groups, where each group is an array of the
+index numbers of headlines reporting the same story. Include ONLY groups with
+two or more members. If nothing is duplicated, reply [].
+
+Example: [[0, 4, 9], [2, 7]]"""
+
+    reply = call_openai(api_key, prompt, effort="low")
+    if reply is None:
+        return []
+    parsed = extract_json(reply)
+    if not isinstance(parsed, list):
+        return []
+    groups = []
+    for g in parsed:
+        if not isinstance(g, list):
+            continue
+        idxs = []
+        for v in g:
+            try:
+                n = int(v)
+            except (TypeError, ValueError):
+                continue
+            if 0 <= n < len(chunk) and n not in idxs:
+                idxs.append(n)
+        if len(idxs) > 1:
+            groups.append(idxs)
+    return groups
+
+
+def collapse_group(members):
+    """Pick one article to represent a group; record the other outlets."""
+    members.sort(key=lambda a: (source_rank(a["source"]),
+                                a["published"] or datetime.max.replace(
+                                    tzinfo=timezone.utc)))
+    lead = members[0]
+    others = lead.setdefault("also_in", [])
+    for m in members[1:]:
+        if m["source"] != lead["source"] and m["source"] not in others:
+            others.append(m["source"])
+        if m["published"] and lead["published"] and \
+           m["published"] < lead["published"]:
+            lead["published"] = m["published"]
+    return lead
+
+
+def cluster_stories(api_key, items, chunk_size=120):
+    """
+    Collapse the same story reported by many outlets down to one entry.
+    Falls back to returning the input unchanged if the AI is unavailable.
+    """
+    if not api_key or len(items) < 2:
+        return items
+
+    ordered = sorted(items, key=cluster_sort_key)
+    kept, total_merged = [], 0
+
+    chunks = [ordered[i:i + chunk_size]
+              for i in range(0, len(ordered), chunk_size)]
+    for n, chunk in enumerate(chunks, 1):
+        print(f"  clustering chunk {n}/{len(chunks)} ({len(chunk)} headlines)...")
+        groups = ai_cluster_chunk(api_key, chunk)
+        grouped_idx = set()
+        for g in groups:
+            grouped_idx.update(g)
+        for g in groups:
+            members = [chunk[i] for i in g]
+            kept.append(collapse_group(members))
+            total_merged += len(members) - 1
+        kept += [a for i, a in enumerate(chunk) if i not in grouped_idx]
+
+    print(f"  merged {total_merged} duplicate reports")
+    return kept
+
+
+# ---------------------------------------------------------------------------
 # Perspective brief
 # ---------------------------------------------------------------------------
 
@@ -690,14 +820,31 @@ Allied organisations: {allies}
 
 THREE TESTS - an article must pass all three.
 
-TEST 1 - GEOGRAPHY
-Include UK stories: UK law, courts, politics, institutions, people or events.
-ALSO include international stories where there is clear read-across to the UK
-debate: landmark rulings or laws in Europe, Ireland, Canada, Australia, the
-United States or the ECHR; significant developments in comparable countries;
-and persecution of Christians abroad. Exclude routine foreign news with no
-bearing on the UK - a hospital opening in India, a local council decision in
-another country, a conference abroad.
+TEST 1 - GEOGRAPHY. The default is UK ONLY.
+Include UK stories: UK law, courts, Parliament, government, institutions,
+public bodies, or events and people in the UK.
+
+International stories are the EXCEPTION, not the rule. Include one ONLY if a
+British Christian reading it would be genuinely shocked, moved, or alarmed
+about where things are heading. It must clear a high bar:
+  - a national-level law, ruling or policy change of real consequence
+    (a country legalising euthanasia for minors, a supreme court overturning
+    a major precedent, a national ban on Christian practice)
+  - a shocking or heartbreaking human story that crystallises an issue
+    (a teenager euthanised, a pastor's family murdered for their faith)
+  - a development that will visibly shape the UK debate
+
+WOULD PASS: "Dutch psychiatrists investigate euthanasia of 17-year-old";
+"US Supreme Court strikes down conversion therapy ban"; "Islamist attack at
+Berlin Pride"; "Nigerian pastor's family murdered by extremists".
+
+WOULD FAIL - do not include these: a US school district dispute; a state
+legislature's routine business; a foreign council or planning decision; a
+foreign politician's cabinet reshuffle; a bill in another country's
+parliament that does not affect us; a hospital, university or charity
+initiative abroad; local news from any other country.
+
+If you are unsure whether an international story clears the bar, EXCLUDE it.
 
 TEST 2 - IS IT SUBSTANTIAL?
 Include reporting of events: rulings, votes, bills, cases, arrests, official
@@ -707,14 +854,23 @@ Commentary is allowed ONLY in the "Worth reading" section, and only where the
 writer or outlet carries real weight.
 EXCLUDE: conference and event announcements, service or facility launches,
 fundraising appeals, awareness days, charity press releases, trade-magazine
-features, sponsored content, and listicles. If the headline could have run in
-any week of any year, exclude it.
+features, sponsored content, listicles, letters pages, and light features. If
+the headline could have run in any week of any year, exclude it.
 
 TEST 3 - DOES IT MATTER TO US?
 It must have real public-policy, legal or cultural significance for our work -
 something that changes the picture, sets a precedent, moves a debate, reveals
 where a person in power stands, or that our supporters would want to know.
-Exclude purely local matters of no national significance.
+
+EXCLUDE local and routine material even when the topic sounds relevant:
+  - an individual school's admissions, buildings, transport, uniform, prizes,
+    sports results, leavers' events, or Ofsted visit
+  - a parish or diocese's building works, fetes, appointments or arts
+    competitions
+  - school heating, air conditioning, holidays, or wellbeing features
+  - general party politics with no bearing on our issues (the economy,
+    transport, housing, defence, foreign affairs)
+  - human interest and lifestyle pieces
 
 Then mark what survives:
   "high"   - directly on one of our issues, or a Christian penalised for their
@@ -729,8 +885,11 @@ Reply with ONLY a JSON array, no other text:
 [{{"i": 0,
    "sections": ["Gender"],
    "relevance": "high",
+   "scope": "uk",
    "urgent": false}}]
 
+"scope" must be "uk" or "international". Mark it "international" if the story
+is principally about events outside the UK.
 An article may belong to more than one section - list all that apply, but do
 not stretch. Use section names EXACTLY as written above.
 Set "urgent" true only if it needs a response today - a vote or ruling
@@ -781,8 +940,16 @@ def classify_all(items, api_key):
                 continue
             if rel not in ("high", "medium"):
                 rel = "medium"
+            scope = str(r.get("scope", "uk")).strip().lower()
+            if scope not in ("uk", "international"):
+                scope = "uk"
+            # An international story has to be genuinely important to earn a
+            # place, so anything less than "high" is dropped outright.
+            if scope == "international" and rel != "high":
+                continue
             item = dict(batch[idx])
             item["relevance"] = rel
+            item["scope"] = scope
             matched = False
             for sec in r.get("sections", []):
                 if sec in by_section:
@@ -791,7 +958,40 @@ def classify_all(items, api_key):
             if matched and r.get("urgent"):
                 if not any(u["link"] == item["link"] for u in urgent):
                     urgent.append(item)
+
+    by_section = cap_international(by_section)
     return by_section, urgent
+
+
+def cap_international(by_section, limit=None):
+    """
+    Keep only the most significant international stories. Even with a strict
+    prompt, foreign coverage is voluminous and can crowd out UK news, so this
+    is a structural backstop rather than a matter of trusting the wording.
+    """
+    limit = limit if limit is not None else MAX_INTERNATIONAL
+    intl = {}
+    for articles in by_section.values():
+        for a in articles:
+            if a.get("scope") == "international":
+                intl[a["link"]] = a
+    if len(intl) <= limit:
+        return by_section
+
+    # Rank by how widely carried, then how recent - a story a dozen outlets
+    # ran is more likely to matter than one that appeared once.
+    ranked = sorted(intl.values(),
+                    key=lambda a: (-len(a.get("also_in", [])),
+                                   -a["published"].timestamp()))
+    keep = {a["link"] for a in ranked[:limit]}
+    dropped = len(intl) - len(keep)
+    for name, articles in by_section.items():
+        by_section[name] = [a for a in articles
+                            if a.get("scope") != "international"
+                            or a["link"] in keep]
+    print(f"  capped international stories: kept {len(keep)}, "
+          f"dropped {dropped}")
+    return by_section
 
 
 # ---------------------------------------------------------------------------
@@ -916,9 +1116,13 @@ def build_digest(by_section, urgent, used_ai, top5=None, label=""):
         when = pub.strftime("%H:%M") if pub.date() == today \
             else pub.strftime("%a %H:%M")
         src = a["source"]
-        if a.get("also_in"):
-            src += f" +{len(a['also_in'])}"
-        return f"- [{a['title']}]({a['link']}) — *{src}*, {when}"
+        others = a.get("also_in") or []
+        if others:
+            named = ", ".join(others[:3])
+            extra = f" +{len(others) - 3} more" if len(others) > 3 else ""
+            src += f" (also {named}{extra})"
+        flag = " 🌍" if a.get("scope") == "international" else ""
+        return f"- [{a['title']}]({a['link']}){flag} — *{src}*, {when}"
 
     def section_block(name, articles, level="###"):
         articles.sort(key=lambda a: (RANK.get(a.get("relevance", "medium"), 1),
@@ -1154,7 +1358,17 @@ def main():
         print(f"! capped at {MAX_ARTICLES_PER_RUN} articles "
               f"({dropped} oldest dropped to control cost)")
 
-    print(f"{len(new_items)} to classify\n")
+    # Word matching cannot tell "morning-after pill free on NHS" and
+    # "Pharmacies supply 300,000 doses" apart from two unrelated stories, so
+    # the AI does the clustering. Done before classification, it also cuts
+    # the number of articles we pay to classify.
+    if new_items and api_key:
+        print(f"\nClustering {len(new_items)} headlines...")
+        before = len(new_items)
+        new_items = cluster_stories(api_key, new_items)
+        print(f"  {before} -> {len(new_items)} distinct stories")
+
+    print(f"\n{len(new_items)} to classify\n")
 
     if new_items:
         by_section, urgent = classify_all(new_items, api_key)
