@@ -32,7 +32,9 @@ from xml.etree import ElementTree as ET
 
 MAX_AGE_HOURS = float(os.environ.get("MAX_AGE_HOURS", "24"))
 
-BATCH_SIZE = 30          # articles per AI call - raise to cut cost
+BATCH_SIZE = 60          # articles per AI call - raise to cut calls
+PARALLEL_BATCHES = 6     # classification batches run at once (0 = sequential)
+ENABLE_CLUSTERING = False  # the review pass merges duplicates now
 MODEL = "gpt-5.5"
 OPENAI_URL = "https://api.openai.com/v1/chat/completions"
 
@@ -46,9 +48,12 @@ MAX_ARTICLES_PER_RUN = int(os.environ.get("MAX_ARTICLES_PER_RUN", "500"))
 # many the classifier lets through.
 MAX_INTERNATIONAL = int(os.environ.get("MAX_INTERNATIONAL", "6"))
 
-CLASSIFY_EFFORT = "high"
-REVIEW_EFFORT = "xhigh"    # the quality gate - worth thinking hard about
-RECOMMEND_EFFORT = "xhigh"
+# Effort levels. The first pass is only a coarse sorter now - the review
+# pass is the quality gate - so it does not need to think hard, and it is
+# the one that runs many times.
+CLASSIFY_EFFORT = "low"       # many calls, rough bucketing
+REVIEW_EFFORT = "high"        # one call, does the real quality work
+RECOMMEND_EFFORT = "high"     # one call, picks the top five
 MAX_OUTPUT_TOKENS = 32000
 
 # --- The 12 issues, grouped as on christianconcern.com/issues -------------
@@ -965,14 +970,42 @@ def classify_all(items, api_key):
         return by_section, urgent, stats
 
     total = (len(items) + BATCH_SIZE - 1) // BATCH_SIZE
+    batches = [items[b * BATCH_SIZE:(b + 1) * BATCH_SIZE] for b in range(total)]
+
+    # Batches are independent, and each call spends nearly all its time
+    # waiting on the network, so running several at once cuts the wall clock
+    # roughly by the number of workers. Results are collected by batch index
+    # so the outcome does not depend on which call finishes first.
+    results_by_batch = {}
+    if PARALLEL_BATCHES and PARALLEL_BATCHES > 1 and total > 1:
+        from concurrent.futures import ThreadPoolExecutor
+        workers = min(PARALLEL_BATCHES, total)
+        print(f"  classifying {total} batches, {workers} at a time...")
+        with ThreadPoolExecutor(max_workers=workers) as pool:
+            futures = {pool.submit(ai_classify_batch, api_key, b): i
+                       for i, b in enumerate(batches)}
+            done = 0
+            for fut, i in futures.items():
+                try:
+                    results_by_batch[i] = fut.result()
+                except Exception as e:
+                    print(f"    ! batch {i + 1} raised {e}")
+                    results_by_batch[i] = None
+                done += 1
+                if done % 5 == 0 or done == total:
+                    print(f"    {done}/{total} batches done")
+    else:
+        for i, b in enumerate(batches):
+            print(f"  AI batch {i + 1}/{total} ({len(b)} articles)...")
+            results_by_batch[i] = ai_classify_batch(api_key, b)
+
     for b in range(total):
-        batch = items[b * BATCH_SIZE:(b + 1) * BATCH_SIZE]
-        print(f"  AI batch {b + 1}/{total} ({len(batch)} articles)...")
-        results = ai_classify_batch(api_key, batch)
+        batch = batches[b]
+        results = results_by_batch.get(b)
         if results is None:
             stats["fallback_batches"] += 1
-            print("    ! AI FAILED for this batch - falling back to keywords "
-                  "(no relevance or scope filtering will apply)")
+            print(f"    ! batch {b + 1} FAILED - falling back to keywords "
+                  f"(no relevance or scope filtering will apply)")
             for it in batch:
                 for sec in keyword_classify(it):
                     if sec in by_section:
@@ -1550,6 +1583,9 @@ def main():
         print(f"UK time {uk_now().strftime('%H:%M %Z')} - "
               f"{MAX_AGE_HOURS}h window")
 
+    t_start = time.time()
+    timings = {}
+
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(hours=MAX_AGE_HOURS)
     api_key = os.environ.get("OPENAI_API_KEY", "").strip()
@@ -1560,6 +1596,7 @@ def main():
     if not manual:
         print(f"Previously seen: {len(seen)}")
 
+    t0 = time.time()
     all_items = []
     searches = SEARCH_TERMS + our_search_terms()
     print(f"\nRunning {len(searches)} searches...")
@@ -1584,6 +1621,7 @@ def main():
         except Exception as e:
             print(f"  ! {name} failed: {e}")
 
+    timings["fetching"] = time.time() - t0
     deduped = deduplicate(all_items)
     merged = sum(len(i.get("also_in", [])) for i in deduped)
     print(f"\n{len(all_items)} fetched -> {len(deduped)} unique "
@@ -1608,7 +1646,7 @@ def main():
     # the AI does the clustering. Done before classification, it also cuts
     # the number of articles we pay to classify.
     cluster_stats = {"merged": 0, "calls": 0, "failed": 0}
-    if new_items and api_key:
+    if new_items and api_key and ENABLE_CLUSTERING:
         print(f"\nClustering {len(new_items)} headlines...")
         before = len(new_items)
         new_items, cluster_stats = cluster_stories(api_key, new_items)
@@ -1617,6 +1655,7 @@ def main():
 
     print(f"\n{len(new_items)} to classify\n")
 
+    t0 = time.time()
     if new_items:
         by_section, urgent, cls_stats = classify_all(new_items, api_key)
     else:
@@ -1624,6 +1663,9 @@ def main():
         cls_stats = {"ai_batches": 0, "fallback_batches": 0,
                      "uk": 0, "international": 0}
 
+    timings["classify"] = time.time() - t0
+
+    t0 = time.time()
     review_stats = {"reviewed": 0, "dropped": 0, "merged": 0, "moved": 0}
     if api_key and any(by_section.values()):
         total_now = len({a["link"] for v in by_section.values() for a in v})
@@ -1635,6 +1677,9 @@ def main():
               f"moved {review_stats['moved']}")
         by_section = cap_international(by_section)
 
+    timings["review"] = time.time() - t0
+
+    t0 = time.time()
     top5 = None
     if api_key and any(by_section.values()):
         print(f"\nPicking top 5 (effort={RECOMMEND_EFFORT}, may take "
@@ -1642,6 +1687,8 @@ def main():
         top5 = recommend_top5(api_key, by_section)
         if top5:
             print(f"  selected {len(top5)}")
+
+    timings["top5"] = time.time() - t0
 
     digest = build_digest(by_section, urgent, bool(api_key), top5, label)
     print("\n" + digest)
@@ -1676,6 +1723,11 @@ def main():
           f"dropped {review_stats['dropped']}, "
           f"merged {review_stats['merged']}, "
           f"moved {review_stats['moved']}")
+    print("  time spent:")
+    for phase in ("fetching", "classify", "review", "top5"):
+        if phase in timings:
+            print(f"    {phase:14} {timings[phase]:6.0f}s")
+    print(f"    {'TOTAL':14} {time.time() - t_start:6.0f}s")
     if cluster_stats["failed"]:
         print("  !! clustering failed - THAT is why duplicates got through")
     if cls_stats["fallback_batches"]:
