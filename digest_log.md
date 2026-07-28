@@ -1,3 +1,36 @@
+# Digest - 2026-07-28 08:17 UTC
+*Last 24 hours, AI-classified*
+
+## Islam (1)
+- [Who Is Matthew McGregor? Andy Burnham's Strategy Chief Linked To Grooming Gangs Report Controversy](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS09TMUUwczBzTVU1TTlMR2dmSElHdS1DS3V6dWo3UTRNT2pQdlV2ajB5Vl9pU2pjTmdiS1k4cksxaGFZZTZSUmtJQ1J4b0J6dVlvbWhnd18wemNVNUVkNi1jaUNyOGdyWmVYSmpFZTUwZU1oV3d4MlZ4MElWOWpQbUtORjN1Q1J4MWpn?oc=5) — *International Business Times UK*, 07:49
+
+## Marriage & Family (1)
+- [Government wedding reforms could open the door to forced marriages, says coalition](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmlOZFpEX284cFNHY2FkX3dCTnJUMXppN1NfU2t4SlBHZWdCQWxWN3RJRk1sNV95dFJGcUh1ZHQ5SHB0T2dlTUhDeWpWajN4cVBIN0Y2Vk80eUZXU241YW5JVGpoVWx5MzVSVXdPZlJEOEJQMm14b1pjNE10TnpsWUs1S2JSRkVGb1I2RnBxVDBqTFhuYjB3azJ5dGg5Z1BURFozWHVLX1hzaHVXMlRVdjN2eXVwOUd4?oc=5) — *www.christiantoday.com*, 07:56
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Government wedding reforms could open the door to forced marriages, says coalition](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmlOZFpEX284cFNHY2FkX3dCTnJUMXppN1NfU2t4SlBHZWdCQWxWN3RJRk1sNV95dFJGcUh1ZHQ5SHB0T2dlTUhDeWpWajN4cVBIN0Y2Vk80eUZXU241YW5JVGpoVWx5MzVSVXdPZlJEOEJQMm14b1pjNE10TnpsWUs1S2JSRkVGb1I2RnBxVDBqTFhuYjB3azJ5dGg5Z1BURFozWHVLX1hzaHVXMlRVdjN2eXVwOUd4?oc=5)
+*Marriage & Family · www.christiantoday.com*
+
+Christian Today reports that a coalition has warned that planned government wedding-law reforms could weaken existing safeguards and make forced marriages easier to arrange or harder to detect. The concern is that loosening rules around how and where marriages are solemnised may reduce public accountability around weddings.
+
+**Angle:** This is the strongest fit: it lets us defend marriage as a public covenant, not a deregulated private ceremony, while also making a safeguarding argument with broad appeal. We can say that protections around marriage are not mere bureaucracy but vital safeguards for vulnerable women and girls, and that government should strengthen marriage rather than hollow it out.
+
+**Possible headline:** *Wedding law must protect marriage, not weaken it*
+
+### 2. [Who Is Matthew McGregor? Andy Burnham's Strategy Chief Linked To Grooming Gangs Report Controversy](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS09TMUUwczBzTVU1TTlMR2dmSElHdS1DS3V6dWo3UTRNT2pQdlV2ajB5Vl9pU2pjTmdiS1k4cksxaGFZZTZSUmtJQ1J4b0J6dVlvbWhnd18wemNVNUVkNi1jaUNyOGdyWmVYSmpFZTUwZU1oV3d4MlZ4MElWOWpQbUtORjN1Q1J4MWpn?oc=5)
+*Islam · International Business Times UK*
+
+International Business Times UK has profiled Matthew McGregor, Andy Burnham's strategy chief, amid controversy over the handling of a grooming-gangs report. The story places renewed attention on political accountability and transparency around child sexual exploitation failures.
+
+**Angle:** This is worth a careful intervention focused on victims, truth and transparency rather than personal allegations. Our distinctive line is that fear of accusations of racism or 'anti-Muslim hostility' must never prevent honest scrutiny of grooming gangs, institutional failure and the cultural or religious factors that may be relevant.
+
+**Possible headline:** *Grooming-gangs truth must not be managed away*
+
+---
+
 # Digest - 2026-07-28 05:12 UTC
 *Last 24 hours, AI-classified*
 
@@ -2596,6 +2629,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
