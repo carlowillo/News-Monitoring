@@ -1917,12 +1917,21 @@ def main():
         # log, and seen_articles.json is deliberately NOT updated.
         append_log(digest, MANUAL_FILE)
         print(f"\nWritten to {MANUAL_FILE} (scheduled log and state untouched)")
-        want_email = os.environ.get("EMAIL_ON_MANUAL", "").strip().lower()
-        if want_email in ("1", "true", "yes", "on"):
+        # Manual runs email by default now. Getting a test email out was
+        # taking too many attempts, and untick-to-skip is easier to reason
+        # about than tick-to-send.
+        want_email = os.environ.get("EMAIL_ON_MANUAL")
+        if want_email is None or want_email == "":
+            # The variable is not reaching us at all, which means the
+            # workflow file has not been updated. Say so explicitly rather
+            # than leaving it ambiguous.
+            print("  note: EMAIL_ON_MANUAL was not passed in - your workflow "
+                  "file is out of date. Emailing anyway.")
+            send_email(digest, " (manual run)")
+        elif want_email.strip().lower() in ("1", "true", "yes", "on"):
             send_email(digest, " (manual run)")
         else:
-            print("  not emailed - manual runs only email when you tick the "
-                  "'Also email this run' box on the Run workflow form")
+            print("  not emailed - the 'Also email this run' box was unticked")
     else:
         if any(by_section.values()):
             append_log(digest, LOG_FILE)
