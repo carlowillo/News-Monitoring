@@ -1,3 +1,163 @@
+# Digest - Christian Concern - 2026-07-29 14:24 UTC
+*Last 24 hours, AI-classified*
+
+## ⚡ RESPOND NOW
+- [Andy Burnham puts assisted dying bill on hold until care is ‘fixed’](https://news.google.com/rss/articles/CBMikAFBVV95cUxPb0QxVXZiN0drQ3hqMHc3MzR6WXpfOVMxRXkxM2pxRDVQaXlJeGtMNzhfUUlJNXVwQTh0ejVlOUhINEhod204YnpWTndoTng4aTEtMHBaZmJTN2dYakVaN2JJeFJWRDBJdllRLW9pU1h0T0pLV3VMc0VPaXNDSTNYcjRQZGs5S25vQ1had0ZBVzk?oc=5) — *The Times*, 13:05
+- [Assisted dying debate should come after end-of-life care reform, says Burnham](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzR6bU1PWDc5Vm5Ec3JNcVR3QlB2bDRxNlJZNGlBLWxUME9ZeWxGMENJZUk0a0MxU3MzR3NoYmNmckRKci1NYWhKLWQ5NjRCZlVtRzlXd0FOblY2bWV0M1ZoTm1nTTJ6ODNFMmV5Q0MwN3MtVkNJQXo5SU9vTjZjVDJMN0ZYQUtOam93dE5zSnh5SEk1d2RoNVJneGJOUWlLRldCWXhraXNvdw?oc=5) — *The Guardian (also The Guardian (UK))*, 12:55
+- [UK PM Burnham Prioritizes Social Care Reform Over Assisted Dying Law](https://news.google.com/rss/articles/CBMiogFBVV95cUxOd3VvMHNuYlVqSnBGWjlTQk80TG9xaEhodUJVWkoyaXRBMm5sdnJoNGJiQXluVmNrNFRSWVo1UTlXOVVfSUs5aURnNUN6WHJ5TWY4V1VaVkdvRDhEN1FhelRac1ljS2RCM01NNm5NMmZxanFsV19MbGtGNGpLZktlQlVRVVl3RnlGYWp2SnNPVi1fU1h6QnZFMDgwVjJxVDVmM2c?oc=5) — *Global Banking & Finance Review*, 12:39
+- [Andy Burnham tries to kick assisted dying debate into the long grass as he says palliative and social care needs fixing first](https://news.google.com/rss/articles/CBMi8gFBVV95cUxORV9mTWx6VUxva0JJVDVYeTRaYnRPQVJzRDliaXVZdl96bDJhTE9qYzZOWG1IWDY5NkVteHI4SzhVZlUwMVREMlFBZUlmX1BsZXoxMzhibDIxbklTbmRtc1BWTEFaNHNId3VhZnVoYVpQeGkxMlpLZzdWbTBMM3lrdWEwRW5xZ2V1MU9aYTQxNVhmcUhLZ2JNTzRBX2RudkVkVXU1TUZpRmxqUFdNdl9ITW9QVXhPQ2hIZHJJSDFkelUzN3ItbmsxOEZ2QXFzcWtLSUVTNXJzeENRRnF2OTJsdUtjX3Z3ZkZjdW9DWjZ0UmM5d9IB8gFBVV95cUxORV9mTWx6VUxva0JJVDVYeTRaYnRPQVJzRDliaXVZdl96bDJhTE9qYzZOWG1IWDY5NkVteHI4SzhVZlUwMVREMlFBZUlmX1BsZXoxMzhibDIxbklTbmRtc1BWTEFaNHNId3VhZnVoYVpQeGkxMlpLZzdWbTBMM3lrdWEwRW5xZ2V1MU9aYTQxNVhmcUhLZ2JNTzRBX2RudkVkVXU1TUZpRmxqUFdNdl9ITW9QVXhPQ2hIZHJJSDFkelUzN3ItbmsxOEZ2QXFzcWtLSUVTNXJzeENRRnF2OTJsdUtjX3Z3ZkZjdW9DWjZ0UmM5dw?oc=5) — *Daily Mail*, 12:28
+- [Now is not the time for assisted dying debate, says Burnham](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3NPMHQ2SmFYLW1lZ1BacXJvTHdxb0EydXlYcEhQODByenJKbTRTRF9obERJcEdFRWN3VjhQMF85RFhQbUM2aTJRRndmWHI2N0FYY3ZGS25vTkNZMGYtVWF3Q2pZUEZqa2JJS3h1TW9fSjBSZTF0M3Nlcm9GcUZ6RzE2SDJOcFBCeW55QjV3dC1acDdqYThIOFktSnZobktkeWZfREY0N2VhRm8?oc=5) — *The Telegraph*, 12:19
+- [Trans direct action group calls for activists to buy hammers to 'target MPs'](https://news.google.com/rss/articles/CBMihwFBVV95cUxNUEN6NVNicnlxdXAzUDFFWVlfbEZkV2FxNDVNZXRkcUk3eTNZMzBjNmZkSzBTcmNieUNUZGxSOGMzUkh5RGpjWXFCVDJwaHdpYUZtZEJuVFliQjFUNjNDb2dyaWlLQzJia0hwTC14WHRreFRDeEdLY3ZaSExBLU1VdGRsREhyckHSAYcBQVVfeXFMTVBDejVTYnJ5cXVwM1AxRVlZX2xGZFdhcTQ1TWV0ZHFJN3kzWTMwYzZmZEswU3JjYnlDVGRsUjhjM1JIeURqY1lxQlQycGh3aWFGbWRCblRZYkIxVDYzQ29ncmlpS0MyYmtIcEwteFh0a3hUQ3hHS2N2WkhMQS1NVXRkbERIcnJB?oc=5) — *Daily Express*, 10:01
+- [Stop Saudis from executing Christians, bishops urge Miliband](https://news.google.com/rss/articles/CBMingFBVV95cUxQNWRsaGZ5NVVacXdabzd4dUY3YVdtblY1ZEdITmxJRGUtdGtBZUttZEE5MzBMVXJkUXd3QmZ2c3V4ajdhb196YU1Db1M1cHRCeTJ1dmt5R0RkcmVXVlZmSE1XUXhwTDN1RGVUb3hZSjdzZFVHQmpjenk4UVRNYWtlMlBJLWFLNHlxcVRHN3lvUTFZcGVpaGIyMUIzQ01UUQ?oc=5) 🌍 — *Yahoo*, Tue 19:51
+
+## LIFE
+
+### Beginning of life (3)
+- [CARE writes to Charity Commission over Amnesty report](https://news.google.com/rss/articles/CBMijwFBVV95cUxNMXB2Z3pMUUNPNmRyaV85Q2JzNDFqS1dBTjZPY21lVGVtRmxNUk5UN0pObnhSTmhFUnpFRmFobWNScWllSUM2R0lERlBVR0Q5MDZUYzc2RWpZZHhWQ0RvcG9Md2hKcjVYMVI1QTVxcDRPTTNiWTRJYTkwNUZoYTVSbmQydnBCTElMR2pnY2VGYw?oc=5) — *Christian Action Research and Education*, 10:59
+- [MSI set to launch UK’s first purpose-built ‘abortion factory’](https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3g0eTRuVjNzXzl2WG1PNHBPRjJNc3MwYmJlT3RUYXc0QndrRjVoMHZOY1hSR3VXemF4V29QRWRHVnBmT2o1c1ZNSWxTeVdVMzZnMWpydGJLVmMzRDdmSE41OEhDbEVhVVdxaWt1T3VUeE1FTkJjMm5WYkpPLUR1WktVdzJuaXJyZkdQc3pMcVhVN2ZVMXdkSA?oc=5) — *The Christian Institute*, 10:07
+- [Hundreds of thousands access free morning-after pill through NHS pharmacies](https://news.google.com/rss/articles/CBMivAFBVV95cUxOa0tGZnlHaGtnUFRiQ0NNTmlKSmdwU0VDNVB6SDhfWWNNblZhcXRPZVlaV2k3Z243RkZxM2tLVXoyQWpBMnZ6ZUR4V3FFMzhhSXBEUFBFX0I1WGg4V2h2ZlpsOE9Ec3FaclBUMHpoVE5GajlGM0RkRi03MExvTHpEOE5JaE1OUUtyanZ3OUgyRklEdXRlX1JpYUQwb09nWEwyQWR3cmJUUXQyN0NHRF9JRmxEQXF5cjJNY2d3RA?oc=5) — *Open Access Government (also FemTech World)*, 08:01
+
+### End of life (4)
+- [Assisted dying Bill MP says new law and better end-of-life care both possible](https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2NndHRxUXIwVkZkN1VYc2M5Z3NBclFCWHFaTjdPQm9XQkRfT3ltZ1EzUERlU2g1OXhLN1g2UllYQTNiRXhCLXBDdGxTTHo5RkRVcE9qNFlpc0VNT183X1dmT0RfanlFOXZaY2hfamVoekJ5UDlXS2JPYnNLT1hyMUgwUXVMVFdUZXpmMEFQbmNtNXFvdVJDeW1mRWtIZ3RuSldFNHlnNjFuSXQ4V09HeUdjc0FPV2VGeVE?oc=5) — *The Independent (also Belfast Telegraph, The Irish News, Rhyl Journal +1 more)*, 13:45
+- [Care system needs fixing before assisted dying debate, says PM](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DczZjYVYyNFNPQ1hpM3pzS2t5NTFuR2FWX2FUblFGMFdNcTQ3RC0yYlE2bFVxbEo1YWROYWZQZ3ZKR2lESnhjNmthVjlLbnVWYVBPeXNHdUw?oc=5) — *BBC (also Yahoo News Canada, The Times, The Telegraph +14 more)*, 10:39
+- [Fix palliative care before assisted dying debate, says PM](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzV0JjOEdid1p0NUtmTWFBcjMxODZ4ZjRJZm9jZXJjUDhKdFdhTzlDY01KWl80N1VTQmFjSjZLUERVWS03ODJ2OU9BbnplOWM4R1RZZ3RjeFppeWp3?oc=5) — *BBC (also Belfast Telegraph, Independent Catholic News, London Evening Standard +6 more)*, 10:12
+- [Burnham to lock out private firms from social care revolution](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnhNallmbmFBSjlucFhPdXVScmxSclFiUEIxRXNKQXRyLVNBYUF2ejM1anZnanZsQ2d2MkxlNTRCcFZYRy1LbEM2aGFSVUNaZnl4VG1YSk5FS09RUVI2ZTJqRlUyWUpHeWVub2gydEJBYnpDSzVPTmxEaWUxWTZpLXYza0NoVXNzVkNCT0FtOFFab3FPaXhqRk42a09FNWMwMWc?oc=5) — *The Times (also The Guardian, Health & Protection, Sky News +3 more)*, Tue 21:30
+
+## FAMILY
+
+### Gender (7)
+- [Trans direct action group calls for activists to buy hammers to 'target MPs'](https://news.google.com/rss/articles/CBMihwFBVV95cUxNUEN6NVNicnlxdXAzUDFFWVlfbEZkV2FxNDVNZXRkcUk3eTNZMzBjNmZkSzBTcmNieUNUZGxSOGMzUkh5RGpjWXFCVDJwaHdpYUZtZEJuVFliQjFUNjNDb2dyaWlLQzJia0hwTC14WHRreFRDeEdLY3ZaSExBLU1VdGRsREhyckHSAYcBQVVfeXFMTVBDejVTYnJ5cXVwM1AxRVlZX2xGZFdhcTQ1TWV0ZHFJN3kzWTMwYzZmZEswU3JjYnlDVGRsUjhjM1JIeURqY1lxQlQycGh3aWFGbWRCblRZYkIxVDYzQ29ncmlpS0MyYmtIcEwteFh0a3hUQ3hHS2N2WkhMQS1NVXRkbERIcnJB?oc=5) — *Daily Express*, 10:01
+- [Major unions boycott Labour Women's Conference over trans ban](https://news.google.com/rss/articles/CBMiogFBVV95cUxOc1kya182N3NiSkU3MUpjTW05c1c1TG9pWEktX2daMk5WZ040REtWRTVtWHJsQ1pZeEVDRVBNV0VrZEJ2cGNudWFJVTY0Sms5azBZQkE5aFFtcTlWNnBrTmdleWpnYVphcGM0Nm53VmNCOGtSTzZZUnJHcVVyLUR4dllCb2tTUnRPcGtkU3ExRFlJSzhUWWpIWnNRT2JUYVdKR2fSAaIBQVVfeXFMTnNZMmtfNjdzYkpFNzFKY01tOXNXNUxvaVhJLV9nWjJOVmdONERLVkU1bVhybENaWXhFQ0VQTVdFa2RCdnBjbnVhSVU2NEprOWswWUJBOWhRbXE5VjZwa05nZXlqZ2FaYXBjNDZud1ZjQjhrUk82WVJyR3FVci1EeHZZQm9rU1J0T3BrZFNxMURZSUs4VFlqSFpzUU9iVGFXSkdn?oc=5) — *Metro.co.uk*, 05:00
+- [I am beginning to wonder what the Supreme Court trans judgment was all for](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTnhaMjNOV19yOHJ6aTZCbW05TF9UV2tMSUMwdlVTY3lBWXA1UERETjNwQ2JxWGJwYUV3STZJOHl5aTR5WngwLV9XOGwzODdidDRRZmgtenhPUE03TTF4YkxKbUJ1QkZadzNRdVlwVm9lTGFORTh5ZmMyZ2UtNF9Rd3ZSdw?oc=5) — *AOL.com*, Tue 22:27
+- [Anti-trans Bayswater Support Group challenge puberty blockers trial](https://news.google.com/rss/articles/CBMigwFBVV95cUxQN3I2OWs1U0MweXo3a0xxVW40SzJ3MVNpczNnWm53VnVkTHNETFRCeUxfSHZWeU0zYzZiTDhMNkZ0UW1FUEZxb0JEbnFRRHJzcEhrTlNxNURhMVlDZ0xCOUVCaEJ3dk5EejgtZ08tV1dqX0hvVUQ1bS1zcWhPYXpJSENzUQ?oc=5) — *thecanary.co*, Tue 18:44
+- [Teacher Fired In Trans Pronoun Dispute Presses Ban Appeal](https://news.google.com/rss/articles/CBMingFBVV95cUxOdi1KWDdqS0ZqQ2pDTWZRb0dJdUw0T1U1SHVXVzFYRDV1aHNEOUdTcE5Lcmxqbm5ZSWIxLU9OLVVoTkE3YWhBQ2pEcWxaM2h5aktUdUNsekZRRElFLXJ2Z0hMaTlCdkprdTdJZEI0RkU2NTl4eGstUUlTcGhOdEVoeC1LTmw4cldNMjU4SzdDdmgwWnYyYWVKZkNJMFI0UdIBVkFVX3lxTE5iTGtZS19hQnFVSFl1X1Y2cGhlVU5QaEZ1a19heUNaeUdXVWx5WlRrcU00OEZkeUdiTHRZeldkMUp0aUd1aEg1RG5ZRWw5MXVlcnZaeWFR?oc=5) — *Law360*, Tue 17:01
+- [Charities urged to prepare now for the EHRC services code of practice](https://news.google.com/rss/articles/CBMirwFBVV95cUxQamJ0eDBLRkc2X0I5b3VKdjM4TFlvXzZYWVJDOEFPd2RSMVFlaEJhdVh0WkNuak80WXg3LUZvcGgzd2VtQkR3LXZFcTFGUkx4RmRvVXdjOW83cWpiVEhpYWVfNEdVMHhTeGlBalpzT01iRzdDT211dWRQRV9PME1uYUV5SXFEV2pWV1FmbHRWa3FHckJ5b0hEYVRYaUI5NHVOQ3Q0dWpLVXRNcnN3TEI0?oc=5) — *vwv.co.uk*, 11:46
+- [Britain should save its single-sex schools](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaEpxWUhodkVNdHF6cGZlZmtEemlQZUI2TG9wYV9TSXNTeFZDUm1HcGJ1b1F4eWhfNjQyWTRRc0tTUjBNaU92bjBDS3JzSlJ2TnN0Z19oZDdYNnpRSF9wV2JOUDlZX1hjM2IzM1YwTHozRFp3b3V2b2ZTWDZqMlMwaGZ5NDVCVHduMXh1c0lHV2JsUnlh?oc=5) — *The Telegraph*, Tue 18:22
+
+### Sexuality (2)
+- [Church converted into LGBT nightclub at centre of huge row after being forced to shut just three days after opening](https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjdKLTE0dVZOX2lxb0lPaFgwS1VfTmQ3R1RLR0Uxbm1CZTVhU1ItaUlfNHFZSUJVN3ZIaVFLZFNhbGhjbkYxcE5oMDQwZHlSWU81dHgxMXRpd3UzU2llUkZ6d3RGeVl1MTJYR2tFMHMzTzZuWGZYYXVMYUZtRm45cEtyUlN4RjFxTGRxbTFqTQ?oc=5) — *GB News*, 07:15
+- [Armed police to guard Britain's largest Pride event after Islamist horror in Berlin](https://news.google.com/rss/articles/CBMihgFBVV95cUxNM2FXc29fREd5VVVyZFBib2lRazhaazRpOEZGMmZZM24ybnh3MWh1SHgwNUNLb1ZVOW5iTElRazN0Y3ZOdGRUamw0ZWtqNjBzY0o3SjU1Vk92X1J1ZktHWV9uQnpnNUZ1clVvRlBWU1UtckU1aDkwLTVwWV9LendMbFlrcGwzUQ?oc=5) — *GB News (also The Australian, realitytea.com)*, Tue 18:01
+
+### Education (3)
+- [Students raise thousands for ‘Hezbollah-linked charity’](https://news.google.com/rss/articles/CBMijgFBVV95cUxQc3k4S1h4ekUzRGs5eWgxdTJnY29nUGVhX05Lb0pwV3pCTHlDTVdaeVRfN05Eb3dDTFZUU1oyVEhLc3lvWFpIWEwzOTdXbWFDS3FfUDhIcllxV2xaYmRFcTF6bnpQT0xyYlgwR2d3bDNTUlFRdmZuMGFyTDRsSHdadUV6NUF1QW5JSVd4UV9B?oc=5) — *AOL.com*, Tue 17:28
+- [Britain should save its single-sex schools](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaEpxWUhodkVNdHF6cGZlZmtEemlQZUI2TG9wYV9TSXNTeFZDUm1HcGJ1b1F4eWhfNjQyWTRRc0tTUjBNaU92bjBDS3JzSlJ2TnN0Z19oZDdYNnpRSF9wV2JOUDlZX1hjM2IzM1YwTHozRFp3b3V2b2ZTWDZqMlMwaGZ5NDVCVHduMXh1c0lHV2JsUnlh?oc=5) — *The Telegraph*, Tue 18:22
+- [Burnham to tell schools in England to adapt teaching to local business needs](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWxhM25OS21kT2pCWC1hZXZGbGNpejdBSGpqTGdacHd0Y0lrYzN3SEhYdUgwSDY1dC00X3ZTWFJYd1YyYWJpcDFjWmlzaVJXaU9pRDRXb0ZuY2tKbWhPbVRzT0lZX0tsenN1Wk1aWHNQWnNBbkNfVmhLRWNkT1hkOHNDODJNeVV5QnhmWDE0eDdHLUFQak5IM1I2REJzUHVoZE5ONThMVWJidVBsQmExWWdJZTBxeE9mVmtZelMzeTF5T2s?oc=5) — *The Guardian (also EdTech Innovation Hub, EasternEye, JournalArta +2 more)*, Tue 16:35
+
+## FREEDOM
+
+### Christian freedoms (3)
+- [CARE writes to Charity Commission over Amnesty report](https://news.google.com/rss/articles/CBMijwFBVV95cUxNMXB2Z3pMUUNPNmRyaV85Q2JzNDFqS1dBTjZPY21lVGVtRmxNUk5UN0pObnhSTmhFUnpFRmFobWNScWllSUM2R0lERlBVR0Q5MDZUYzc2RWpZZHhWQ0RvcG9Md2hKcjVYMVI1QTVxcDRPTTNiWTRJYTkwNUZoYTVSbmQydnBCTElMR2pnY2VGYw?oc=5) — *Christian Action Research and Education*, 10:59
+- [Stop Saudis from executing Christians, bishops urge Miliband](https://news.google.com/rss/articles/CBMingFBVV95cUxQNWRsaGZ5NVVacXdabzd4dUY3YVdtblY1ZEdITmxJRGUtdGtBZUttZEE5MzBMVXJkUXd3QmZ2c3V4ajdhb196YU1Db1M1cHRCeTJ1dmt5R0RkcmVXVlZmSE1XUXhwTDN1RGVUb3hZSjdzZFVHQmpjenk4UVRNYWtlMlBJLWFLNHlxcVRHN3lvUTFZcGVpaGIyMUIzQ01UUQ?oc=5) 🌍 — *Yahoo*, Tue 19:51
+- [Teacher Fired In Trans Pronoun Dispute Presses Ban Appeal](https://news.google.com/rss/articles/CBMingFBVV95cUxOdi1KWDdqS0ZqQ2pDTWZRb0dJdUw0T1U1SHVXVzFYRDV1aHNEOUdTcE5Lcmxqbm5ZSWIxLU9OLVVoTkE3YWhBQ2pEcWxaM2h5aktUdUNsekZRRElFLXJ2Z0hMaTlCdkprdTdJZEI0RkU2NTl4eGstUUlTcGhOdEVoeC1LTmw4cldNMjU4SzdDdmgwWnYyYWVKZkNJMFI0UdIBVkFVX3lxTE5iTGtZS19hQnFVSFl1X1Y2cGhlVU5QaEZ1a19heUNaeUdXVWx5WlRrcU00OEZkeUdiTHRZeldkMUp0aUd1aEg1RG5ZRWw5MXVlcnZaeWFR?oc=5) — *Law360*, Tue 17:01
+
+### Freedom of speech (5)
+- [Teacher Fired In Trans Pronoun Dispute Presses Ban Appeal](https://news.google.com/rss/articles/CBMingFBVV95cUxOdi1KWDdqS0ZqQ2pDTWZRb0dJdUw0T1U1SHVXVzFYRDV1aHNEOUdTcE5Lcmxqbm5ZSWIxLU9OLVVoTkE3YWhBQ2pEcWxaM2h5aktUdUNsekZRRElFLXJ2Z0hMaTlCdkprdTdJZEI0RkU2NTl4eGstUUlTcGhOdEVoeC1LTmw4cldNMjU4SzdDdmgwWnYyYWVKZkNJMFI0UdIBVkFVX3lxTE5iTGtZS19hQnFVSFl1X1Y2cGhlVU5QaEZ1a19heUNaeUdXVWx5WlRrcU00OEZkeUdiTHRZeldkMUp0aUd1aEg1RG5ZRWw5MXVlcnZaeWFR?oc=5) — *Law360*, Tue 17:01
+- [Lords Open Online Safety Act Inquiry as Breach-Prone Age Checks Strip Adult Privacy](https://news.google.com/rss/articles/CBMi0AFBVV95cUxObGlQbHRBaG1EMkd0SHF0MUJzaHJfRzNraFlBME5hYzl2RHZydkc1TXhlNlVsX3NJNFJnUXhsTm9Ya2gzM0xORXlLdGpoMGZvVWIwMDEtdFZDckhzakgwcFRDbjNGeEZRWWJMeElGOGQ3ZVVhUkxuTnlKRXVld0FKWmhmNTRfWmtRY2pIZHRUankxNFFnWEk4cGxyNlFpSWZQSnRQekxqSlctRWppWEZaNVlIbWhvZnpick1CSnF3MmJpeDBMSjBKSXpkN2lIVDJw?oc=5) — *Tech Times*, Tue 16:42
+- [Reform UK candidate pursues dismissal claim against City firm](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHRlUHBFN19zd2l0VnBIdkYyNmdQZTA1T2lKMUJfY1VaN0t3RGw5eWdaVWpYMkIzUDhkTEF3QlBNVG1LLUhWZTduUFd6VDY0QzNhVVV4VGRSSFhpNkotd0VoWm5xcmx5dkhyRF9OSEJRVUw0N1lCOVY1T3hmTzhLYlVzRGtXOW1xVm9fVmZuQ2JWMHdIYzFOWG1oX2oyODNZR0dIa3pnb0tXTjRZMnB2SQ?oc=5) — *The Law Society Gazette*, 08:39
+- [Nigel Farage's Reform U.K. Party reports Green Party leader's guillotine Instagram post to police](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlhNYkdBOUpYaGVjLXdzemFsd19mS0MtNnZERjAtZXc0ZDNZTzJlOFgtUnp0djl4ODgyWUJNN2NlRllrZ1ZZS2FvMUlaRXBud1VBRW5lRndkdVJTR3ZaZURMbEhZdzhMdUE5RGxRQWNZVDdpcF9PbXJWQnpOMDVoZGRreTFyT3g2TXNNWWZZQWdweHkwZEloSWJhcWhVVWI2ZjhXMlZXQWlveExROUYzVzZuSjlZaDhkVkxibjhuRERISEk?oc=5) — *Reason Magazine (also Yahoo)*, Tue 18:15
+- [UK campaign group wins compensation over seized Gaza banner](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCVnduX3dUbU9kZzRHYmdjeEFKdVJqU1BFam9DemJLTDdvTmxiT2oxTHA1X2xzS2tYZDV4S0RDNXlDb0lzV3NCU0ItcThNVG9ubDZZ?oc=5) — *Arab News*, Tue 17:20
+
+## FOUNDATIONS
+
+### Christian society (3)
+- [Church converted into LGBT nightclub at centre of huge row after being forced to shut just three days after opening](https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjdKLTE0dVZOX2lxb0lPaFgwS1VfTmQ3R1RLR0Uxbm1CZTVhU1ItaUlfNHFZSUJVN3ZIaVFLZFNhbGhjbkYxcE5oMDQwZHlSWU81dHgxMXRpd3UzU2llUkZ6d3RGeVl1MTJYR2tFMHMzTzZuWGZYYXVMYUZtRm45cEtyUlN4RjFxTGRxbTFqTQ?oc=5) — *GB News*, 07:15
+- [Tommy Robinson's Temple: The Christian Conference Uniting Preachers from the Far-Right Fringe](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZjFVdkJuMkg1aDF4VmpyMzdVbkVQX2JqSE53WUVXak9Zb0Q1Y01DSlRtbDB4bE5rYmdZY01ueE1CdmpRRnN1Y0x4UDMyRVBPelRQbTJNcTUxLW5QdkpTaFhZQjlJOFp1NUd4WU1sQ19oNkQ2VmJlanNuZjRvRTdmWFdMUm9pMkJDME8zVWsyLS1nSDVpRkY1dE9VRkZmMzFUR3h3bUF4N0NacWVEN1hPLXBiZVJfQkNPVC1kQVlacXcyNGkwZmc?oc=5) — *Byline Times*, 11:34
+- [Report on Jewish diaspora finds biggest rise in antisemitism in UK](https://www.bbc.co.uk/news/articles/c4gd240eelmo?at_medium=RSS&at_campaign=rss) — *BBC News (UK)*, 08:11
+
+### Secularism (1)
+- [Charities urged to prepare now for the EHRC services code of practice](https://news.google.com/rss/articles/CBMirwFBVV95cUxQamJ0eDBLRkc2X0I5b3VKdjM4TFlvXzZYWVJDOEFPd2RSMVFlaEJhdVh0WkNuak80WXg3LUZvcGgzd2VtQkR3LXZFcTFGUkx4RmRvVXdjOW83cWpiVEhpYWVfNEdVMHhTeGlBalpzT01iRzdDT211dWRQRV9PME1uYUV5SXFEV2pWV1FmbHRWa3FHckJ5b0hEYVRYaUI5NHVOQ3Q0dWpLVXRNcnN3TEI0?oc=5) — *vwv.co.uk*, 11:46
+
+### Islam (7)
+- [Islamic Extremists Kill 30 Christians in Nigerian Village](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjhVai1ibEp2TVRXU0x2UERxeDdrTnFqcGQxanIxaUROUGZZTFRMNVdjLVF3Z3EzVTZMdkFmS1dIS1pVYUJ4OWNOS0V3dDNCR0kxc2htRHdodnhobC10YWNXRmREZk9uRVNyQmpWOW1TNWhkN0xPQXM4SVJKeTJuYUFtVWVJdXUwaWJIOWdBLVZheVpocnFOVA?oc=5) 🌍 — *persecution.org (also cbn.com)*, Tue 21:09
+- [Grooming gang victim has convictions quashed](https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lEcmprYzA5LXFxRkUxNTRXNWJWVkw1ckcxUmdnRzlHaTJTQWYtWGhhbjNqSXg1Tkp3cDg1SHdOVnotSnh4Y3YwaWE3RXFnd1Z3elJhRlFrN2RxaFFZTUFLN095VHoxTm5oNkcxYXk1Y2FPOGdPZ1o0QnpnZ21xU1d0X3VvYnJZTGsxNQ?oc=5) — *AOL.com*, Tue 20:57
+- [Students raise thousands for ‘Hezbollah-linked charity’](https://news.google.com/rss/articles/CBMijgFBVV95cUxQc3k4S1h4ekUzRGs5eWgxdTJnY29nUGVhX05Lb0pwV3pCTHlDTVdaeVRfN05Eb3dDTFZUU1oyVEhLc3lvWFpIWEwzOTdXbWFDS3FfUDhIcllxV2xaYmRFcTF6bnpQT0xyYlgwR2d3bDNTUlFRdmZuMGFyTDRsSHdadUV6NUF1QW5JSVd4UV9B?oc=5) — *AOL.com*, Tue 17:28
+- [Grooming gang survivor confronts Burnham, demands action at No. 10](https://news.google.com/rss/articles/CBMikgFBVV95cUxQaU9zSUtXTTFxRGVIN09xMDBWalpmMnpfS0RKRVpnSkhKNHhvNWhhNzliV1ZEZ2tZTjdheHhkMTFqalNUbFJhdlpjNDBsTU1RNDFaVkJqOXRacFhiVWtXQ09odTVqc2pZdjRsSU5MYmlDZEFvaWh3T1NUTDZKT0VxeWUzU085OHRRam1fYlFudVhEQQ?oc=5) — *newsfire.gr*, Tue 17:07
+- [‘No stone unturned’ pledge in tackling child sexual exploitation](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQTEVWWXdsMW9kRVBQMmFuSnE0Y1c5REJzcVFiYnpUX3h3UTJEdGpIamo5b1FrcnQxS0hNZ0pDU2JwUjZvdVRuR1BmNUlrTzBUNHRjeU1KZGVhbnQ4NWJwNVg3RG8zNDJ4TDl4UHFIMnp1UDdKTUc0cUdaYzJvRjg?oc=5) — *Yahoo News UK*, 07:59
+- [Iran 'has a charity' operating in the UK - and it's bringing migrants over](https://news.google.com/rss/articles/CBMihwFBVV95cUxQclphMTZsMng2Y181dzFFU3RmS3NGZV9ma1AtZk14M2ZKV0hHakJDWmxPX29lR0lXSWJPVXM2YmJaZHRabUR0T1NERXJGdTlPS1dVem1nWm80TDk5ODNPeFNrYm5vaXhPOVhkV09pVm1GYTVDazZtdkh1UGEyOU5lbk1vSWRCODA?oc=5) — *AOL.co.uk*, 04:46
+- [Armed police to guard Britain's largest Pride event after Islamist horror in Berlin](https://news.google.com/rss/articles/CBMihgFBVV95cUxNM2FXc29fREd5VVVyZFBib2lRazhaazRpOEZGMmZZM24ybnh3MWh1SHgwNUNLb1ZVOW5iTElRazN0Y3ZOdGRUamw0ZWtqNjBzY0o3SjU1Vk92X1J1ZktHWV9uQnpnNUZ1clVvRlBWU1UtckU1aDkwLTVwWV9LendMbFlrcGwzUQ?oc=5) — *GB News (also The Australian, realitytea.com)*, Tue 18:01
+
+### Church (4)
+- [Islamic Extremists Kill 30 Christians in Nigerian Village](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjhVai1ibEp2TVRXU0x2UERxeDdrTnFqcGQxanIxaUROUGZZTFRMNVdjLVF3Z3EzVTZMdkFmS1dIS1pVYUJ4OWNOS0V3dDNCR0kxc2htRHdodnhobC10YWNXRmREZk9uRVNyQmpWOW1TNWhkN0xPQXM4SVJKeTJuYUFtVWVJdXUwaWJIOWdBLVZheVpocnFOVA?oc=5) 🌍 — *persecution.org (also cbn.com)*, Tue 21:09
+- [Tommy Robinson's Temple: The Christian Conference Uniting Preachers from the Far-Right Fringe](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZjFVdkJuMkg1aDF4VmpyMzdVbkVQX2JqSE53WUVXak9Zb0Q1Y01DSlRtbDB4bE5rYmdZY01ueE1CdmpRRnN1Y0x4UDMyRVBPelRQbTJNcTUxLW5QdkpTaFhZQjlJOFp1NUd4WU1sQ19oNkQ2VmJlanNuZjRvRTdmWFdMUm9pMkJDME8zVWsyLS1nSDVpRkY1dE9VRkZmMzFUR3h3bUF4N0NacWVEN1hPLXBiZVJfQkNPVC1kQVlacXcyNGkwZmc?oc=5) — *Byline Times*, 11:34
+- [Report sets out allegations of harm over three decades at St Andrew’s, Chorleywood](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNemNTZ1l0Y1F0UVhHMHlLbkRwWUxvWHFuVzdoNUhMR1NwV1hlZGRmQXBsbURQREF1OFR1U2p6ZGQ1c3lmeHF2elN5YzlTN0xBVC1WcldpbS0yOXFHTjdUNnA3LUJFQkRHY3Y3bmZvZzZrcHFNOVlrQXNYU3JSNVQxZFNJNF9meXFxcW1IZGpoX3MxdU9NcDQxWENRYW1rcDRrN0NkYUZ5ZWhPNTJhNGdrMkxZRmR6V1ZrLTltTkMzdXJaN1NQdm95SEdoZnItU0puSVJ0YTczMUQ?oc=5) — *The Church Times*, 10:24
+- [Project Spire and the Church of England’s new doctrine of inherited guilt](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSE8xLWhmMXdnZ1FzVktOMG5VSVJUeWN4TWxYM3RmWUszbmZDRWJFcC1PSFU0NnBMQjBKTnVmRTJVX2k0T3lKZXRWZDl1UnpmbXdOTFhyQ0VOMFVyWE9WcXBNZHF2bUI2MmNLZ25iMkFWcjZWM3B6MlFpQ01fWGZNWUFyQmgtWmQtd3I5dTZfaHVPTW1JVzFCTVFLVkEtZUFOTFVVNzRfclpNQlBh?oc=5) — *www.christiantoday.com*, 05:48
+
+## POLITICS & GOVERNMENT (14)
+- [Assisted dying Bill MP says new law and better end-of-life care both possible](https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2NndHRxUXIwVkZkN1VYc2M5Z3NBclFCWHFaTjdPQm9XQkRfT3ltZ1EzUERlU2g1OXhLN1g2UllYQTNiRXhCLXBDdGxTTHo5RkRVcE9qNFlpc0VNT183X1dmT0RfanlFOXZaY2hfamVoekJ5UDlXS2JPYnNLT1hyMUgwUXVMVFdUZXpmMEFQbmNtNXFvdVJDeW1mRWtIZ3RuSldFNHlnNjFuSXQ4V09HeUdjc0FPV2VGeVE?oc=5) — *The Independent (also Belfast Telegraph, The Irish News, Rhyl Journal +1 more)*, 13:45
+- [Care system needs fixing before assisted dying debate, says PM](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DczZjYVYyNFNPQ1hpM3pzS2t5NTFuR2FWX2FUblFGMFdNcTQ3RC0yYlE2bFVxbEo1YWROYWZQZ3ZKR2lESnhjNmthVjlLbnVWYVBPeXNHdUw?oc=5) — *BBC (also Yahoo News Canada, The Times, The Telegraph +14 more)*, 10:39
+- [Fix palliative care before assisted dying debate, says PM](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzV0JjOEdid1p0NUtmTWFBcjMxODZ4ZjRJZm9jZXJjUDhKdFdhTzlDY01KWl80N1VTQmFjSjZLUERVWS03ODJ2OU9BbnplOWM4R1RZZ3RjeFppeWp3?oc=5) — *BBC (also Belfast Telegraph, Independent Catholic News, London Evening Standard +6 more)*, 10:12
+- [Trans direct action group calls for activists to buy hammers to 'target MPs'](https://news.google.com/rss/articles/CBMihwFBVV95cUxNUEN6NVNicnlxdXAzUDFFWVlfbEZkV2FxNDVNZXRkcUk3eTNZMzBjNmZkSzBTcmNieUNUZGxSOGMzUkh5RGpjWXFCVDJwaHdpYUZtZEJuVFliQjFUNjNDb2dyaWlLQzJia0hwTC14WHRreFRDeEdLY3ZaSExBLU1VdGRsREhyckHSAYcBQVVfeXFMTVBDejVTYnJ5cXVwM1AxRVlZX2xGZFdhcTQ1TWV0ZHFJN3kzWTMwYzZmZEswU3JjYnlDVGRsUjhjM1JIeURqY1lxQlQycGh3aWFGbWRCblRZYkIxVDYzQ29ncmlpS0MyYmtIcEwteFh0a3hUQ3hHS2N2WkhMQS1NVXRkbERIcnJB?oc=5) — *Daily Express*, 10:01
+- [Major unions boycott Labour Women's Conference over trans ban](https://news.google.com/rss/articles/CBMiogFBVV95cUxOc1kya182N3NiSkU3MUpjTW05c1c1TG9pWEktX2daMk5WZ040REtWRTVtWHJsQ1pZeEVDRVBNV0VrZEJ2cGNudWFJVTY0Sms5azBZQkE5aFFtcTlWNnBrTmdleWpnYVphcGM0Nm53VmNCOGtSTzZZUnJHcVVyLUR4dllCb2tTUnRPcGtkU3ExRFlJSzhUWWpIWnNRT2JUYVdKR2fSAaIBQVVfeXFMTnNZMmtfNjdzYkpFNzFKY01tOXNXNUxvaVhJLV9nWjJOVmdONERLVkU1bVhybENaWXhFQ0VQTVdFa2RCdnBjbnVhSVU2NEprOWswWUJBOWhRbXE5VjZwa05nZXlqZ2FaYXBjNDZud1ZjQjhrUk82WVJyR3FVci1EeHZZQm9rU1J0T3BrZFNxMURZSUs4VFlqSFpzUU9iVGFXSkdn?oc=5) — *Metro.co.uk*, 05:00
+- [Stop Saudis from executing Christians, bishops urge Miliband](https://news.google.com/rss/articles/CBMingFBVV95cUxQNWRsaGZ5NVVacXdabzd4dUY3YVdtblY1ZEdITmxJRGUtdGtBZUttZEE5MzBMVXJkUXd3QmZ2c3V4ajdhb196YU1Db1M1cHRCeTJ1dmt5R0RkcmVXVlZmSE1XUXhwTDN1RGVUb3hZSjdzZFVHQmpjenk4UVRNYWtlMlBJLWFLNHlxcVRHN3lvUTFZcGVpaGIyMUIzQ01UUQ?oc=5) 🌍 — *Yahoo*, Tue 19:51
+- [Grooming gang survivor confronts Burnham, demands action at No. 10](https://news.google.com/rss/articles/CBMikgFBVV95cUxQaU9zSUtXTTFxRGVIN09xMDBWalpmMnpfS0RKRVpnSkhKNHhvNWhhNzliV1ZEZ2tZTjdheHhkMTFqalNUbFJhdlpjNDBsTU1RNDFaVkJqOXRacFhiVWtXQ09odTVqc2pZdjRsSU5MYmlDZEFvaWh3T1NUTDZKT0VxeWUzU085OHRRam1fYlFudVhEQQ?oc=5) — *newsfire.gr*, Tue 17:07
+- [Lords Open Online Safety Act Inquiry as Breach-Prone Age Checks Strip Adult Privacy](https://news.google.com/rss/articles/CBMi0AFBVV95cUxObGlQbHRBaG1EMkd0SHF0MUJzaHJfRzNraFlBME5hYzl2RHZydkc1TXhlNlVsX3NJNFJnUXhsTm9Ya2gzM0xORXlLdGpoMGZvVWIwMDEtdFZDckhzakgwcFRDbjNGeEZRWWJMeElGOGQ3ZVVhUkxuTnlKRXVld0FKWmhmNTRfWmtRY2pIZHRUankxNFFnWEk4cGxyNlFpSWZQSnRQekxqSlctRWppWEZaNVlIbWhvZnpick1CSnF3MmJpeDBMSjBKSXpkN2lIVDJw?oc=5) — *Tech Times*, Tue 16:42
+- [Reform UK candidate pursues dismissal claim against City firm](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHRlUHBFN19zd2l0VnBIdkYyNmdQZTA1T2lKMUJfY1VaN0t3RGw5eWdaVWpYMkIzUDhkTEF3QlBNVG1LLUhWZTduUFd6VDY0QzNhVVV4VGRSSFhpNkotd0VoWm5xcmx5dkhyRF9OSEJRVUw0N1lCOVY1T3hmTzhLYlVzRGtXOW1xVm9fVmZuQ2JWMHdIYzFOWG1oX2oyODNZR0dIa3pnb0tXTjRZMnB2SQ?oc=5) — *The Law Society Gazette*, 08:39
+- [‘No stone unturned’ pledge in tackling child sexual exploitation](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQTEVWWXdsMW9kRVBQMmFuSnE0Y1c5REJzcVFiYnpUX3h3UTJEdGpIamo5b1FrcnQxS0hNZ0pDU2JwUjZvdVRuR1BmNUlrTzBUNHRjeU1KZGVhbnQ4NWJwNVg3RG8zNDJ4TDl4UHFIMnp1UDdKTUc0cUdaYzJvRjg?oc=5) — *Yahoo News UK*, 07:59
+- [Iran 'has a charity' operating in the UK - and it's bringing migrants over](https://news.google.com/rss/articles/CBMihwFBVV95cUxQclphMTZsMng2Y181dzFFU3RmS3NGZV9ma1AtZk14M2ZKV0hHakJDWmxPX29lR0lXSWJPVXM2YmJaZHRabUR0T1NERXJGdTlPS1dVem1nWm80TDk5ODNPeFNrYm5vaXhPOVhkV09pVm1GYTVDazZtdkh1UGEyOU5lbk1vSWRCODA?oc=5) — *AOL.co.uk*, 04:46
+- [Burnham to lock out private firms from social care revolution](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnhNallmbmFBSjlucFhPdXVScmxSclFiUEIxRXNKQXRyLVNBYUF2ejM1anZnanZsQ2d2MkxlNTRCcFZYRy1LbEM2aGFSVUNaZnl4VG1YSk5FS09RUVI2ZTJqRlUyWUpHeWVub2gydEJBYnpDSzVPTmxEaWUxWTZpLXYza0NoVXNzVkNCT0FtOFFab3FPaXhqRk42a09FNWMwMWc?oc=5) — *The Times (also The Guardian, Health & Protection, Sky News +3 more)*, Tue 21:30
+- [Nigel Farage's Reform U.K. Party reports Green Party leader's guillotine Instagram post to police](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlhNYkdBOUpYaGVjLXdzemFsd19mS0MtNnZERjAtZXc0ZDNZTzJlOFgtUnp0djl4ODgyWUJNN2NlRllrZ1ZZS2FvMUlaRXBud1VBRW5lRndkdVJTR3ZaZURMbEhZdzhMdUE5RGxRQWNZVDdpcF9PbXJWQnpOMDVoZGRreTFyT3g2TXNNWWZZQWdweHkwZEloSWJhcWhVVWI2ZjhXMlZXQWlveExROUYzVzZuSjlZaDhkVkxibjhuRERISEk?oc=5) — *Reason Magazine (also Yahoo)*, Tue 18:15
+- [Burnham to tell schools in England to adapt teaching to local business needs](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWxhM25OS21kT2pCWC1hZXZGbGNpejdBSGpqTGdacHd0Y0lrYzN3SEhYdUgwSDY1dC00X3ZTWFJYd1YyYWJpcDFjWmlzaVJXaU9pRDRXb0ZuY2tKbWhPbVRzT0lZX0tsenN1Wk1aWHNQWnNBbkNfVmhLRWNkT1hkOHNDODJNeVV5QnhmWDE0eDdHLUFQak5IM1I2REJzUHVoZE5ONThMVWJidVBsQmExWWdJZTBxeE9mVmtZelMzeTF5T2s?oc=5) — *The Guardian (also EdTech Innovation Hub, EasternEye, JournalArta +2 more)*, Tue 16:35
+
+## WORTH READING (4)
+- [I am beginning to wonder what the Supreme Court trans judgment was all for](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTnhaMjNOV19yOHJ6aTZCbW05TF9UV2tMSUMwdlVTY3lBWXA1UERETjNwQ2JxWGJwYUV3STZJOHl5aTR5WngwLV9XOGwzODdidDRRZmgtenhPUE03TTF4YkxKbUJ1QkZadzNRdVlwVm9lTGFORTh5ZmMyZ2UtNF9Rd3ZSdw?oc=5) — *AOL.com*, Tue 22:27
+- [Reva Gudi: I’m a GP – this is what Burnham should do to fix social care instead](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzlmWU92Q19ITE9zemV2UFNRdlFYN0N6b0c3U1UxdHNna3BQOEh2RmFhUkUxeVh6VEtsTXUwTmdqOVp3WnFHb0NSYTJoZV9xUEE3WTlSbDBBc1ZLZWZvN1RnMm9KR0tqVzF1dTN1N0wwOE81TDQ4SllTZWphcEdIelRDVnM1SzFNVVQtRkJ0Z0pTNnRSd3FWVVBTdEc5aF82Y1ItTkwwMjlCbmRo?oc=5) — *Conservative Home (also BBC)*, 12:00
+- [Project Spire and the Church of England’s new doctrine of inherited guilt](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSE8xLWhmMXdnZ1FzVktOMG5VSVJUeWN4TWxYM3RmWUszbmZDRWJFcC1PSFU0NnBMQjBKTnVmRTJVX2k0T3lKZXRWZDl1UnpmbXdOTFhyQ0VOMFVyWE9WcXBNZHF2bUI2MmNLZ25iMkFWcjZWM3B6MlFpQ01fWGZNWUFyQmgtWmQtd3I5dTZfaHVPTW1JVzFCTVFLVkEtZUFOTFVVNzRfclpNQlBh?oc=5) — *www.christiantoday.com*, 05:48
+- [Britain should save its single-sex schools](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaEpxWUhodkVNdHF6cGZlZmtEemlQZUI2TG9wYV9TSXNTeFZDUm1HcGJ1b1F4eWhfNjQyWTRRc0tTUjBNaU92bjBDS3JzSlJ2TnN0Z19oZDdYNnpRSF9wV2JOUDlZX1hjM2IzM1YwTHozRFp3b3V2b2ZTWDZqMlMwaGZ5NDVCVHduMXh1c0lHV2JsUnlh?oc=5) — *The Telegraph*, Tue 18:22
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Care system needs fixing before assisted dying debate, says PM](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DczZjYVYyNFNPQ1hpM3pzS2t5NTFuR2FWX2FUblFGMFdNcTQ3RC0yYlE2bFVxbEo1YWROYWZQZ3ZKR2lESnhjNmthVjlLbnVWYVBPeXNHdUw?oc=5)
+*End of life · BBC*
+
+The Prime Minister has said the care system needs to be fixed before Parliament proceeds with the assisted dying debate, with the story carried by the BBC and major national outlets including The Times, The Telegraph and The Guardian.
+
+**Angle:** This is a major opening to argue that assisted suicide is being pushed while palliative and social care remain inadequate. Our line should be: if the state cannot guarantee proper care, pain relief, dignity and protection for the vulnerable, it must not be given power to facilitate death. This is timely, high-reach and central to our campaign against assisted suicide.
+
+**Possible headline:** *You cannot legalise assisted suicide while care is broken*
+
+### 2. [Teacher Fired In Trans Pronoun Dispute Presses Ban Appeal](https://news.google.com/rss/articles/CBMingFBVV95cUxOdi1KWDdqS0ZqQ2pDTWZRb0dJdUw0T1U1SHVXVzFYRDV1aHNEOUdTcE5Lcmxqbm5ZSWIxLU9OLVVoTkE3YWhBQ2pEcWxaM2h5aktUdUNsekZRRElFLXJ2Z0hMaTlCdkprdTdJZEI0RkU2NTl4eGstUUlTcGhOdEVoeC1LTmw4cldNMjU4SzdDdmgwWnYyYWVKZkNJMFI0UdIBVkFVX3lxTE5iTGtZS19hQnFVSFl1X1Y2cGhlVU5QaEZ1a19heUNaeUdXVWx5WlRrcU00OEZkeUdiTHRZeldkMUp0aUd1aEg1RG5ZRWw5MXVlcnZaeWFR?oc=5)
+*Gender · Law360*
+
+A teacher dismissed in a dispute over transgender pronouns is continuing an appeal against professional sanctions, according to Law360.
+
+**Angle:** This is a strong Christian freedom and compelled-speech story: teachers should not be driven from the profession for refusing to affirm contested gender ideology. We can connect it to the wider pattern of educators being punished for conscience, safeguarding concerns and biological truth, and it is especially useful if it overlaps with or echoes Christian Legal Centre litigation.
+
+**Possible headline:** *No teacher should be banned for telling the truth about sex*
+
+### 3. [MSI set to launch UK’s first purpose-built ‘abortion factory’](https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3g0eTRuVjNzXzl2WG1PNHBPRjJNc3MwYmJlT3RUYXc0QndrRjVoMHZOY1hSR3VXemF4V29QRWRHVnBmT2o1c1ZNSWxTeVdVMzZnMWpydGJLVmMzRDdmSE41OEhDbEVhVVdxaWt1T3VUeE1FTkJjMm5WYkpPLUR1WktVdzJuaXJyZkdQc3pMcVhVN2ZVMXdkSA?oc=5)
+*Beginning of life · The Christian Institute*
+
+The Christian Institute reports that MSI is preparing to open the UK’s first purpose-built abortion facility, described by critics as an ‘abortion factory’.
+
+**Angle:** This gives us a vivid pro-life intervention: Britain should be ashamed that industrial-scale abortion provision is being expanded while support for women, unborn children and families is neglected. The phrase will resonate strongly with supporters and can be used to expose the abortion industry’s growth mindset.
+
+**Possible headline:** *Britain does not need an abortion factory*
+
+### 4. [Grooming gang victim has convictions quashed](https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lEcmprYzA5LXFxRkUxNTRXNWJWVkw1ckcxUmdnRzlHaTJTQWYtWGhhbjNqSXg1Tkp3cDg1SHdOVnotSnh4Y3YwaWE3RXFnd1Z3elJhRlFrN2RxaFFZTUFLN095VHoxTm5oNkcxYXk1Y2FPOGdPZ1o0QnpnZ21xU1d0X3VvYnJZTGsxNQ?oc=5)
+*Islam · AOL.com*
+
+A grooming gang victim has had convictions quashed, highlighting how a survivor of sexual exploitation was criminalised instead of properly protected.
+
+**Angle:** This is a powerful justice and safeguarding story: the state failed twice, first by not protecting a child from exploitation and then by punishing the victim. We can call for truth, accountability, proper victim exoneration reviews and a refusal to let political correctness or fear of difficult facts obstruct justice.
+
+**Possible headline:** *Grooming gang victims were failed — then criminalised*
+
+### 5. [Stop Saudis from executing Christians, bishops urge Miliband](https://news.google.com/rss/articles/CBMingFBVV95cUxQNWRsaGZ5NVVacXdabzd4dUY3YVdtblY1ZEdITmxJRGUtdGtBZUttZEE5MzBMVXJkUXd3QmZ2c3V4ajdhb196YU1Db1M1cHRCeTJ1dmt5R0RkcmVXVlZmSE1XUXhwTDN1RGVUb3hZSjdzZFVHQmpjenk4UVRNYWtlMlBJLWFLNHlxcVRHN3lvUTFZcGVpaGIyMUIzQ01UUQ?oc=5)
+*Christian freedoms · Yahoo*
+
+Bishops have urged the UK government, through the minister named in reports, to intervene over Saudi Arabia’s threatened execution of Christians.
+
+**Angle:** This lets us speak clearly for persecuted Christians and challenge the government not to subordinate religious liberty to diplomatic convenience. It is distinctive because many public voices speak about human rights in general terms, but we can name the specifically Christian issue: converts and believers must not be abandoned to death for their faith.
+
+**Possible headline:** *Britain must not stay silent while Christians face execution*
+
+---
+*Nothing significant today: Marriage*
+
+---
+
 # Digest - Christian Concern - 2026-07-29 14:03 UTC
 *Last 24 hours, AI-classified*
 
@@ -2537,6 +2697,7 @@ A coalition has warned that proposed government wedding law reforms could weaken
 
 ---
 *Nothing significant today: Christian freedoms, Christian society*
+
 
 
 
