@@ -1610,7 +1610,14 @@ def send_email(digest, subject_suffix=""):
     password = os.environ.get("SMTP_PASS", "").replace(" ", "").strip()
     recipients_raw = os.environ.get("EMAIL_TO", "").strip()
 
-    if not (host and user and password and recipients_raw):
+    missing = [name for name, val in (("SMTP_HOST", host),
+                                      ("SMTP_USER", user),
+                                      ("SMTP_PASS", password),
+                                      ("EMAIL_TO", recipients_raw))
+               if not val]
+    if missing:
+        print(f"  ! email NOT sent - these secrets are missing or empty: "
+              f"{', '.join(missing)}")
         return False
 
     # Accept commas, semicolons or newlines between addresses
@@ -1910,10 +1917,12 @@ def main():
         # log, and seen_articles.json is deliberately NOT updated.
         append_log(digest, MANUAL_FILE)
         print(f"\nWritten to {MANUAL_FILE} (scheduled log and state untouched)")
-        if os.environ.get("EMAIL_ON_MANUAL", "").strip() == "1":
+        want_email = os.environ.get("EMAIL_ON_MANUAL", "").strip().lower()
+        if want_email in ("1", "true", "yes", "on"):
             send_email(digest, " (manual run)")
         else:
-            print("  (not emailed - set EMAIL_ON_MANUAL=1 to email test runs)")
+            print("  not emailed - manual runs only email when you tick the "
+                  "'Also email this run' box on the Run workflow form")
     else:
         if any(by_section.values()):
             append_log(digest, LOG_FILE)
