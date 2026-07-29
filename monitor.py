@@ -22,6 +22,9 @@ import hashlib
 import urllib.request
 import urllib.parse
 import urllib.error
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from xml.etree import ElementTree as ET
@@ -1528,6 +1531,131 @@ def append_log(digest, path=LOG_FILE):
         f.write(sep.join(parts) + "\n")
 
 
+def markdown_to_html(md):
+    """
+    Turn the digest into readable HTML for email.
+
+    Deliberately small and dependency-free - it only needs to handle the
+    handful of constructs the digest actually uses: headings, links,
+    bold, italics, bullets and horizontal rules.
+    """
+    def inline(text):
+        text = (text.replace("&", "&amp;").replace("<", "&lt;")
+                    .replace(">", "&gt;"))
+        text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)",
+                      r'<a href="\2" style="color:#1a5490;'
+                      r'text-decoration:none">\1</a>', text)
+        text = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", text)
+        text = re.sub(r"\*([^*]+)\*", r"<em>\1</em>", text)
+        return text
+
+    out, in_list = [], False
+    for line in md.split("\n"):
+        stripped = line.strip()
+
+        if stripped.startswith("- "):
+            if not in_list:
+                out.append('<ul style="padding-left:18px;margin:6px 0">')
+                in_list = True
+            out.append(f'<li style="margin:6px 0;line-height:1.45">'
+                       f'{inline(stripped[2:])}</li>')
+            continue
+        if in_list:
+            out.append("</ul>")
+            in_list = False
+
+        if not stripped:
+            continue
+        if stripped == "---":
+            out.append('<hr style="border:0;border-top:1px solid #ddd;'
+                       'margin:22px 0">')
+        elif stripped.startswith("### "):
+            out.append(f'<h3 style="margin:18px 0 6px;font-size:15px;'
+                       f'color:#222">{inline(stripped[4:])}</h3>')
+        elif stripped.startswith("## "):
+            out.append(f'<h2 style="margin:24px 0 8px;font-size:17px;'
+                       f'color:#1a5490;border-bottom:2px solid #e8e8e8;'
+                       f'padding-bottom:4px">{inline(stripped[3:])}</h2>')
+        elif stripped.startswith("# "):
+            out.append(f'<h1 style="margin:0 0 10px;font-size:20px;'
+                       f'color:#111">{inline(stripped[2:])}</h1>')
+        else:
+            out.append(f'<p style="margin:8px 0;line-height:1.5">'
+                       f'{inline(stripped)}</p>')
+    if in_list:
+        out.append("</ul>")
+
+    body = "\n".join(out)
+    return f"""<!DOCTYPE html>
+<html><body style="margin:0;padding:0;background:#f6f6f6">
+<div style="max-width:720px;margin:0 auto;padding:24px;background:#ffffff;
+     font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,
+     Arial,sans-serif;font-size:14px;color:#333">
+{body}
+<p style="margin-top:28px;padding-top:12px;border-top:1px solid #eee;
+   font-size:11px;color:#999">
+Generated automatically by the Christian Concern news monitor.</p>
+</div></body></html>"""
+
+
+def send_email(digest, subject_suffix=""):
+    """
+    Email the digest. Silently does nothing unless SMTP settings are set,
+    so the monitor still runs fine without email configured.
+    """
+    host = os.environ.get("SMTP_HOST", "").strip()
+    user = os.environ.get("SMTP_USER", "").strip()
+    # Google shows app passwords as "abcd efgh ijkl mnop". Pasting that
+    # verbatim fails authentication, so strip any spaces.
+    password = os.environ.get("SMTP_PASS", "").replace(" ", "").strip()
+    recipients_raw = os.environ.get("EMAIL_TO", "").strip()
+
+    if not (host and user and password and recipients_raw):
+        return False
+
+    # Accept commas, semicolons or newlines between addresses
+    recipients = [a.strip() for a in re.split(r"[,;\n]+", recipients_raw)
+                  if a.strip()]
+    if not recipients:
+        return False
+
+    port = int(os.environ.get("SMTP_PORT", "465"))
+    sender = os.environ.get("EMAIL_FROM", "").strip() or user
+
+    # Gmail will not let you send as an arbitrary address - it rewrites the
+    # From header to the account address unless the alias is configured under
+    # "Send mail as". Warn rather than let it silently look wrong.
+    if "gmail" in host.lower() and sender.lower() != user.lower():
+        print(f"  note: sending via Gmail as {user}; the From address "
+              f"{sender} will be ignored unless it is set up as an alias")
+
+    stamp = uk_now().strftime("%a %d %b")
+    subject = f"Christian Concern news digest - {stamp}{subject_suffix}"
+
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = subject
+    msg["From"] = sender
+    msg["To"] = ", ".join(recipients)
+    msg.attach(MIMEText(digest, "plain", "utf-8"))
+    msg.attach(MIMEText(markdown_to_html(digest), "html", "utf-8"))
+
+    try:
+        if port == 587:
+            server = smtplib.SMTP(host, port, timeout=60)
+            server.starttls()
+        else:
+            server = smtplib.SMTP_SSL(host, port, timeout=60)
+        with server:
+            server.login(user, password)
+            server.sendmail(sender, recipients, msg.as_string())
+        print(f"  emailed to {len(recipients)} recipient(s): "
+              f"{', '.join(recipients)}")
+        return True
+    except Exception as e:
+        print(f"  ! email failed: {e}")
+        return False
+
+
 def post_slack(text):
     url = os.environ.get("SLACK_WEBHOOK_URL", "").strip()
     if not url:
@@ -1575,9 +1703,11 @@ def should_run_now():
     """Return the lookback window in hours, or None to skip."""
     now = uk_now()
     minutes = now.hour * 60 + now.minute
+    # The run takes a few minutes, so the morning slot starts at 08:25 to
+    # get the email into inboxes around 08:30.
     slots = [
-        (8 * 60 + 55, 24.0),   # 08:55 UK -> last 24h
-        (14 * 60 + 0, 5.5),    # 14:00 UK -> since the morning run
+        (8 * 60 + 25, 24.0),   # 08:25 UK -> full sweep of the last 24h
+        (14 * 60 + 0, 6.0),    # 14:00 UK -> top-up since the morning run
     ]
     for target, window in slots:
         if abs(minutes - target) <= 20:
@@ -1630,7 +1760,7 @@ def main():
         window = should_run_now()
         if window is None:
             print(f"UK time {uk_now().strftime('%H:%M')} is not one of the "
-                  f"scheduled slots (08:55 or 14:00), so this run is skipping.")
+                  f"scheduled slots (08:25 or 14:00), so this run is skipping.")
             print("If you expected a manual run, this means GitHub did not "
                   "report it as 'workflow_dispatch'. Press the 'Run workflow' "
                   "button on the Actions tab, or set FORCE_RUN=1.")
@@ -1649,9 +1779,17 @@ def main():
     print(f"Cutoff: {cutoff.strftime('%Y-%m-%d %H:%M UTC')}")
     print(f"AI: {MODEL if api_key else 'OFF (keyword fallback)'}")
 
-    seen = set() if manual else load_seen()
-    if not manual:
-        print(f"Previously seen: {len(seen)}")
+    # The morning run is the daily catch-up: it should show EVERYTHING from
+    # the last 24 hours, even items that appeared in yesterday afternoon's
+    # digest. Only the afternoon top-up filters against what has already
+    # been reported, so it shows just what has broken since the morning.
+    full_sweep = manual or MAX_AGE_HOURS >= 24
+    seen = set() if full_sweep else load_seen()
+    if full_sweep and not manual:
+        print("Full sweep: showing everything in the window, "
+              "ignoring what earlier runs reported")
+    elif not manual:
+        print(f"Previously seen: {len(seen)} (top-up run)")
 
     t0 = time.time()
     all_items = []
@@ -1772,10 +1910,25 @@ def main():
         # log, and seen_articles.json is deliberately NOT updated.
         append_log(digest, MANUAL_FILE)
         print(f"\nWritten to {MANUAL_FILE} (scheduled log and state untouched)")
+        if os.environ.get("EMAIL_ON_MANUAL", "").strip() == "1":
+            send_email(digest, " (manual run)")
+        else:
+            print("  (not emailed - set EMAIL_ON_MANUAL=1 to email test runs)")
     else:
         if any(by_section.values()):
             append_log(digest, LOG_FILE)
             post_slack(digest)
+            send_email(digest, "" if full_sweep else " (afternoon update)")
+        else:
+            # Still send on a full sweep so the team knows it ran and there
+            # genuinely was nothing, rather than wondering if it broke.
+            if full_sweep:
+                send_email(digest)
+        # A full sweep starts from an empty set, so merge with what is
+        # already on file rather than throwing the history away - otherwise
+        # the afternoon top-up would have nothing to filter against.
+        if full_sweep:
+            seen |= load_seen()
         save_seen(seen)
 
     # Run summary - makes it obvious from the log whether the AI actually
