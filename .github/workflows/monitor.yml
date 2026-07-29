@@ -2,8 +2,26 @@ name: News Monitor
 
 on:
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch: {}
+    # Times are UTC. Britain is UTC+1 in summer (BST), UTC+0 in winter (GMT),
+    # so both possible UTC times are scheduled for each UK slot. The script
+    # checks the real UK clock and runs only the correct one - the other
+    # exits within a second, costing nothing.
+    - cron: "25 7 * * *"    # 08:25 UK in summer -> email lands ~08:30
+    - cron: "25 8 * * *"    # 08:25 UK in winter  -> email lands ~08:30
+    - cron: "0 13 * * *"    # 14:00 UK in summer
+    - cron: "0 14 * * *"    # 14:00 UK in winter
+
+  workflow_dispatch:
+    inputs:
+      hours:
+        description: "How many hours back to look (manual runs only)"
+        required: false
+        default: "24"
+      email:
+        description: "Also email this run to EMAIL_TO"
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -20,8 +38,24 @@ jobs:
 
       - name: Run monitor
         env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          # Email settings
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          # Ticking the "email" box on a manual run sends it. Scheduled runs
+          # always email regardless of this.
+          EMAIL_ON_MANUAL: ${{ github.event.inputs.email }}
+          # Set only when you press "Run workflow" by hand. A manual run
+          # ignores what previous runs already reported, always writes output
+          # to manual_digest.md, and deliberately does NOT record what it
+          # finds - so your next scheduled digest still reports those stories.
+          FORCE_RUN: ${{ github.event_name == 'workflow_dispatch' && '1' || '' }}
+          MANUAL_HOURS: ${{ github.event.inputs.hours }}
         run: python monitor.py
 
       - name: Save results back to the repo
