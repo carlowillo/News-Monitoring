@@ -1621,8 +1621,16 @@ def send_email(digest, subject_suffix=""):
         return False
 
     # Accept commas, semicolons or newlines between addresses
-    recipients = [a.strip() for a in re.split(r"[,;\n]+", recipients_raw)
-                  if a.strip()]
+    # Tolerate the ways people naturally paste address lists: surrounding
+    # quotes, angle brackets, and stray whitespace.
+    recipients = []
+    for part in re.split(r"[,;\n]+", recipients_raw):
+        addr = part.strip().strip("'\"").strip()
+        m_ = re.search(r"<([^>]+)>", addr)      # "Name <a@b.com>"
+        if m_:
+            addr = m_.group(1).strip()
+        if "@" in addr:
+            recipients.append(addr)
     if not recipients:
         return False
 
@@ -1706,47 +1714,57 @@ def uk_now():
         return datetime.now(timezone.utc)
 
 
+RUNS_FILE = "last_runs.json"
+
+
+def load_last_runs():
+    try:
+        with open(RUNS_FILE, encoding="utf-8") as f:
+            data = json.loads(f.read().strip() or "{}")
+        return data if isinstance(data, dict) else {}
+    except (FileNotFoundError, json.JSONDecodeError, ValueError):
+        return {}
+
+
+def record_run(slot_name, day):
+    runs = load_last_runs()
+    runs[slot_name] = day
+    with open(RUNS_FILE, "w", encoding="utf-8") as f:
+        json.dump(runs, f)
+
+
+# Each slot: earliest UK time it may run, latest, and lookback hours.
+# The windows are wide on purpose. GitHub frequently starts scheduled jobs
+# late - sometimes by half an hour or more - and a narrow window meant a
+# delayed job was skipped and you simply got no digest that day. A wide
+# window plus a once-per-day guard means a late start still produces the
+# digest, while an early one cannot produce a second copy.
+SLOTS = [
+    {"name": "morning",   "from": 8 * 60 + 20,  "to": 11 * 60, "hours": 24.0},
+    {"name": "afternoon", "from": 13 * 60 + 55, "to": 16 * 60, "hours": 6.0},
+]
+
+
 def should_run_now():
-    """Return the lookback window in hours, or None to skip."""
+    """
+    Return (lookback_hours, slot_name) if this run should proceed,
+    otherwise (None, None). Each slot runs at most once per day.
+    """
     now = uk_now()
     minutes = now.hour * 60 + now.minute
-    # The run takes a few minutes, so the morning slot starts at 08:25 to
-    # get the email into inboxes around 08:30.
-    slots = [
-        (8 * 60 + 25, 24.0),   # 08:25 UK -> full sweep of the last 24h
-        (14 * 60 + 0, 6.0),    # 14:00 UK -> top-up since the morning run
-    ]
-    for target, window in slots:
-        if abs(minutes - target) <= 20:
-            return window
-    return None
+    today = now.strftime("%Y-%m-%d")
+    runs = load_last_runs()
 
+    for slot in SLOTS:
+        if not (slot["from"] <= minutes <= slot["to"]):
+            continue
+        if runs.get(slot["name"]) == today:
+            print(f"  the {slot['name']} digest already ran today "
+                  f"({today}) - skipping this duplicate")
+            return None, None
+        return slot["hours"], slot["name"]
+    return None, None
 
-# ---------------------------------------------------------------------------
-
-def is_manual_run():
-    """
-    Work out whether this is a manual run.
-
-    Checked in order of reliability:
-      1. GITHUB_EVENT_NAME - GitHub sets this automatically on every run, so
-         this works even if the workflow file was never updated. Pressing
-         "Run workflow" gives 'workflow_dispatch'.
-      2. FORCE_RUN=1 - explicit override, useful for local testing or if the
-         workflow sets it directly.
-
-    Returns (is_manual, reason) so the reason can be printed for diagnosis.
-    """
-    event = os.environ.get("GITHUB_EVENT_NAME", "").strip().lower()
-    if event == "workflow_dispatch":
-        return True, "GITHUB_EVENT_NAME=workflow_dispatch"
-    if os.environ.get("FORCE_RUN", "").strip() == "1":
-        return True, "FORCE_RUN=1"
-    if event == "schedule":
-        return False, "GITHUB_EVENT_NAME=schedule"
-    if event:
-        return False, f"GITHUB_EVENT_NAME={event}"
-    return False, "no GitHub event set (running locally?)"
 
 
 def main():
@@ -1764,17 +1782,15 @@ def main():
         label = "manual run"
         print(f"MANUAL RUN - {MAX_AGE_HOURS}h window, ignoring previous runs")
     else:
-        window = should_run_now()
+        window, slot_name = should_run_now()
         if window is None:
-            print(f"UK time {uk_now().strftime('%H:%M')} is not one of the "
-                  f"scheduled slots (08:25 or 14:00), so this run is skipping.")
-            print("If you expected a manual run, this means GitHub did not "
-                  "report it as 'workflow_dispatch'. Press the 'Run workflow' "
-                  "button on the Actions tab, or set FORCE_RUN=1.")
+            print(f"UK time {uk_now().strftime('%H:%M')} is outside both "
+                  f"digest windows (08:20-11:00 and 13:55-16:00), or that "
+                  f"slot has already run today. Skipping.")
             return
         MAX_AGE_HOURS = window
         label = ""
-        print(f"UK time {uk_now().strftime('%H:%M %Z')} - "
+        print(f"UK time {uk_now().strftime('%H:%M %Z')} - {slot_name} digest, "
               f"{MAX_AGE_HOURS}h window")
 
     t_start = time.time()
@@ -1948,6 +1964,9 @@ def main():
         if full_sweep:
             seen |= load_seen()
         save_seen(seen)
+        # Record that this slot has run, so a second cron firing inside the
+        # same window today does not send a duplicate digest.
+        record_run(slot_name, uk_now().strftime("%Y-%m-%d"))
 
     # Run summary - makes it obvious from the log whether the AI actually
     # did its job, rather than having to infer it from the digest.
