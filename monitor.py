@@ -170,12 +170,19 @@ EXTRA_SECTIONS = {
         "position on assisted suicide, or an education secretary's record "
         "on faith and private schools.",
     "Christian Concern in the news":
-        "Anything involving Christian Concern itself, the Christian Legal "
-        "Centre, our staff, or our cases - including our own published "
-        "articles and news, our people quoted, interviewed, cited or "
-        "criticised elsewhere, and coverage of the cases we run. Also "
-        "include significant output from allied organisations we work "
-        "alongside.",
+        "THE HIGHEST PRIORITY SECTION. Anything involving Christian Concern "
+        "(the UK organisation), the Christian Legal Centre, our staff, or "
+        "our clients and cases - our own published articles, our people "
+        "quoted, interviewed, cited or criticised anywhere, and any coverage "
+        "of the cases we run, INCLUDING coverage by foreign outlets. If an "
+        "article names one of our clients, it belongs here even if a US or "
+        "other overseas outlet published it. Also include significant output "
+        "from allied organisations we work alongside. "
+        "CRITICAL: we are Christian Concern, a UK organisation. We are NOT "
+        "'International Christian Concern', a separate American persecution "
+        "watchdog that publishes at persecution.org. Articles by or about "
+        "International Christian Concern are NOT about us - do not put them "
+        "in this section.",
     "Worth reading":
         "Significant commentary and analysis on our issues: opinion "
         "pieces, essays and interventions that are worth our team reading "
@@ -195,9 +202,16 @@ OUR_PEOPLE = [
     "Darius Sandhu", "Rebecca Hunt", "Roger Kiska",
 ]
 
+# Christian Legal Centre clients and cases. THIS IS A PRIORITY LIST - each
+# name gets its own search, and any article mentioning one goes straight to
+# the top section regardless of which outlet ran it or which country it is
+# in. Add new clients here as cases begin.
 OUR_CASES = [
-    "Darlington Nurses", "Jennifer Melle", "Steve Maile",
-    "Bethany Hutchison",
+    "Bernard Randall", "Kristie Higgs", "Jennifer Melle",
+    "Darlington Nurses", "Felix Ngole", "Aaron Edwards",
+    "Matthew Grech", "Victoria Culf", "Luke Salmons",
+    "Bread of Life Community Church", "Steve Maile",
+    "Bethany Hutchison", "Trent College chaplain",
 ]
 
 ALLIED_ORGS = [
@@ -845,6 +859,27 @@ KEYWORD_FALLBACK = {
 }
 
 
+# Outlets that are NOT us, despite the name. International Christian Concern
+# is a separate American persecution watchdog; its articles kept landing in
+# our own section.
+NOT_US_SOURCES = ["international christian concern", "persecution.org",
+                  "persecution.com"]
+
+CC_SECTION = "Christian Concern in the news"
+
+
+def is_actually_us(item):
+    """Guard against International Christian Concern being mistaken for us."""
+    src = (item.get("source") or "").lower()
+    if any(bad in src for bad in NOT_US_SOURCES):
+        return False
+    text = f"{item.get('title','')} {item.get('summary','')}".lower()
+    # "International Christian Concern said..." is about them, not us
+    if "international christian concern" in text and "christian legal" not in text:
+        return False
+    return True
+
+
 def keyword_classify(item):
     text = f"{item['title']} {item['summary']}".lower()
     return [name for name, kws in KEYWORD_FALLBACK.items()
@@ -957,16 +992,15 @@ Reply with ONLY a JSON array, no other text:
 [{{"i": 0,
    "sections": ["Gender"],
    "relevance": "high",
-   "scope": "uk",
-   "urgent": false}}]
+   "scope": "uk"}}]
 
 "scope" must be "uk" or "international". Mark it "international" if the story
-is principally about events outside the UK.
+is principally about events outside the UK. One exception: an article about
+Christian Concern, the Christian Legal Centre or one of our clients is ALWAYS
+"uk", whichever outlet published it - a US paper covering one of our cases is
+still our news.
 An article may belong to more than one section - list all that apply, but do
 not stretch. Use section names EXACTLY as written above.
-Set "urgent" true only if it needs a response today - a vote or ruling
-imminent, a campaigner changing position, a story going viral, or a Christian
-publicly attacked for their faith.
 If nothing qualifies, reply []."""
 
     reply = call_openai(api_key, prompt, effort=CLASSIFY_EFFORT)
@@ -1058,12 +1092,12 @@ def classify_all(items, api_key):
             stats[scope] += 1
             matched = False
             for sec in r.get("sections", []):
-                if sec in by_section:
-                    by_section[sec].append(item)
-                    matched = True
-            if matched and r.get("urgent"):
-                if not any(u["link"] == item["link"] for u in urgent):
-                    urgent.append(item)
+                if sec not in by_section:
+                    continue
+                if sec == CC_SECTION and not is_actually_us(item):
+                    continue      # International Christian Concern, not us
+                by_section[sec].append(item)
+                matched = True
 
     by_section = cap_international(by_section)
     return by_section, urgent, stats
@@ -1076,10 +1110,15 @@ def cap_international(by_section, limit=None):
     is a structural backstop rather than a matter of trusting the wording.
     """
     limit = limit if limit is not None else MAX_INTERNATIONAL
+    # Our own coverage is exempt: a US outlet reporting one of our cases is
+    # still our news, and must never be squeezed out by the foreign cap.
+    ours = {a["link"] for a in by_section.get(CC_SECTION, [])}
     intl = {}
-    for articles in by_section.values():
+    for section, articles in by_section.items():
+        if section == CC_SECTION:
+            continue
         for a in articles:
-            if a.get("scope") == "international":
+            if a.get("scope") == "international" and a["link"] not in ours:
                 intl[a["link"]] = a
     if len(intl) <= limit:
         return by_section
@@ -1092,9 +1131,11 @@ def cap_international(by_section, limit=None):
     keep = {a["link"] for a in ranked[:limit]}
     dropped = len(intl) - len(keep)
     for name, articles in by_section.items():
+        if name == CC_SECTION:
+            continue
         by_section[name] = [a for a in articles
                             if a.get("scope") != "international"
-                            or a["link"] in keep]
+                            or a["link"] in keep or a["link"] in ours]
     print(f"  capped international stories: kept {len(keep)}, "
           f"dropped {dropped}")
     return by_section
@@ -1434,6 +1475,15 @@ Reply with ONLY a JSON array, ranked best first, no other text:
 # ---------------------------------------------------------------------------
 
 def build_digest(by_section, urgent, used_ai, top5=None, label=""):
+    """
+    Layout, top to bottom:
+      1. Christian Concern in the news - our own coverage and our clients
+      2. The twelve issues, grouped into families (UK stories)
+      3. Politics & government
+      4. Worth reading
+      5. International - everything foreign, gathered in one place
+      6. Top 5 to comment on
+    """
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     mode = "AI-classified" if used_ai else "keyword-matched"
     hrs = int(MAX_AGE_HOURS) if MAX_AGE_HOURS == int(MAX_AGE_HOURS) \
@@ -1449,7 +1499,7 @@ def build_digest(by_section, urgent, used_ai, top5=None, label=""):
     RANK = {"high": 0, "medium": 1}
     today = datetime.now(timezone.utc).date()
 
-    def render(a):
+    def render(a, note=""):
         pub = a["published"]
         when = pub.strftime("%H:%M") if pub.date() == today \
             else pub.strftime("%a %H:%M")
@@ -1459,37 +1509,74 @@ def build_digest(by_section, urgent, used_ai, top5=None, label=""):
             named = ", ".join(others[:3])
             extra = f" +{len(others) - 3} more" if len(others) > 3 else ""
             src += f" (also {named}{extra})"
-        flag = " 🌍" if a.get("scope") == "international" else ""
-        return f"- [{a['title']}]({a['link']}){flag} — *{src}*, {when}"
+        tail = f"  ·  {note}" if note else ""
+        return f"- [{a['title']}]({a['link']}) — *{src}*, {when}{tail}"
 
-    def section_block(name, articles, level="###"):
+    def sort_articles(articles):
         articles.sort(key=lambda a: (RANK.get(a.get("relevance", "medium"), 1),
                                      -a["published"].timestamp()))
-        out = [f"{level} {name} ({len(articles)})"]
-        out += [render(a) for a in articles]
-        out.append("")
-        return out
+        return articles
 
-    if urgent:
-        lines.append("## ⚡ RESPOND NOW")
-        lines += [render(a) for a in urgent]
+    # Our own coverage is never treated as "foreign", even when a US outlet
+    # reports one of our cases - it belongs at the top either way.
+    ours = {a["link"] for a in by_section.get(CC_SECTION, [])}
+
+    def is_intl(a):
+        return a.get("scope") == "international" and a["link"] not in ours
+
+    # --- 1. Christian Concern, first ---------------------------------------
+    cc = by_section.get(CC_SECTION, [])
+    if cc:
+        lines.append(f"## ⭐ CHRISTIAN CONCERN IN THE NEWS ({len(cc)})")
+        lines += [render(a) for a in sort_articles(list(cc))]
         lines.append("")
 
+    # --- 2. The twelve issues, UK stories only -----------------------------
     empty = []
     for family, issues in ISSUE_FAMILIES.items():
-        present = [(n, by_section[n]) for n in issues if by_section[n]]
-        empty += [n for n in issues if not by_section[n]]
+        present = []
+        for name in issues:
+            uk_only = [a for a in by_section.get(name, []) if not is_intl(a)]
+            if uk_only:
+                present.append((name, uk_only))
+            elif not by_section.get(name):
+                # Only call it empty if there is genuinely nothing. A section
+                # whose only stories were foreign has been moved to the
+                # international block, not lost.
+                empty.append(name)
         if not present:
             continue
         lines.append(f"## {family.upper()}")
         lines.append("")
         for name, articles in present:
-            lines += section_block(name, articles)
+            lines.append(f"### {name} ({len(articles)})")
+            lines += [render(a) for a in sort_articles(articles)]
+            lines.append("")
 
-    for name in EXTRA_SECTIONS:
-        if by_section[name]:
-            lines += section_block(name.upper(), by_section[name], level="##")
+    # --- 3 & 4. Politics, then commentary ----------------------------------
+    for name in ("Politics & government", "Worth reading"):
+        arts = [a for a in by_section.get(name, []) if not is_intl(a)]
+        if arts:
+            lines.append(f"## {name.upper()} ({len(arts)})")
+            lines += [render(a) for a in sort_articles(arts)]
+            lines.append("")
 
+    # --- 5. Everything international, gathered at the bottom ---------------
+    intl, where = {}, {}
+    for section, articles in by_section.items():
+        if section == CC_SECTION:
+            continue
+        for a in articles:
+            if is_intl(a) and a["link"] not in intl:
+                intl[a["link"]] = a
+                where[a["link"]] = section
+    if intl:
+        items = sort_articles(list(intl.values()))
+        lines.append(f"## 🌍 INTERNATIONAL ({len(items)})")
+        lines += [render(a, where[a["link"]]) for a in items]
+        lines.append("")
+
+    # --- 6. Top five -------------------------------------------------------
     if top5:
         lines.append("---")
         lines.append("")
