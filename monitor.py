@@ -990,17 +990,25 @@ Articles:
 
 Reply with ONLY a JSON array, no other text:
 [{{"i": 0,
-   "sections": ["Gender"],
+   "primary": "Gender",
+   "also": ["Freedom of speech", "Secularism"],
    "relevance": "high",
    "scope": "uk"}}]
+
+"primary" is the ONE section the article most belongs in - its core subject,
+the reason it matters to us. Every article gets exactly one.
+"also" lists any other sections it genuinely touches, or [] if none. Do not
+stretch: only list a section if the article really bears on it.
+If an article involves Christian Concern, the Christian Legal Centre or one
+of our clients, "primary" must be "Christian Concern in the news", with the
+issues it concerns listed in "also".
 
 "scope" must be "uk" or "international". Mark it "international" if the story
 is principally about events outside the UK. One exception: an article about
 Christian Concern, the Christian Legal Centre or one of our clients is ALWAYS
 "uk", whichever outlet published it - a US paper covering one of our cases is
 still our news.
-An article may belong to more than one section - list all that apply, but do
-not stretch. Use section names EXACTLY as written above.
+Use section names EXACTLY as written above.
 If nothing qualifies, reply []."""
 
     reply = call_openai(api_key, prompt, effort=CLASSIFY_EFFORT)
@@ -1089,15 +1097,35 @@ def classify_all(items, api_key):
             item = dict(batch[idx])
             item["relevance"] = rel
             item["scope"] = scope
-            stats[scope] += 1
-            matched = False
-            for sec in r.get("sections", []):
-                if sec not in by_section:
+
+            # One primary section per article, plus a note of what else it
+            # touches. Previously an article on several issues was printed
+            # once per issue, which made the digest repetitive.
+            primary = str(r.get("primary", "")).strip()
+            also = [x for x in (r.get("also") or [])
+                    if x in by_section and x != primary]
+
+            # Tolerate the older "sections" format, first entry as primary.
+            if primary not in by_section:
+                legacy = [x for x in (r.get("sections") or [])
+                          if x in by_section]
+                if not legacy:
                     continue
-                if sec == CC_SECTION and not is_actually_us(item):
-                    continue      # International Christian Concern, not us
-                by_section[sec].append(item)
-                matched = True
+                primary, also = legacy[0], legacy[1:]
+
+            # Anything involving us belongs in our section, whichever issue
+            # it also concerns.
+            if CC_SECTION in [primary] + also and is_actually_us(item):
+                also = [x for x in [primary] + also if x != CC_SECTION]
+                primary = CC_SECTION
+            elif primary == CC_SECTION and not is_actually_us(item):
+                if not also:
+                    continue      # only reason to keep it was a false match
+                primary, also = also[0], also[1:]
+
+            item["also_sections"] = also
+            by_section[primary].append(item)
+            stats[scope] += 1
 
     by_section = cap_international(by_section)
     return by_section, urgent, stats
@@ -1195,7 +1223,9 @@ and different numbers. These are ONE story despite sharing almost no wording:
 Different stages of a process, different countries or different people are
 NOT the same story.
 
-MOVE anything filed under the wrong section.
+MOVE anything filed under the wrong section. Each article appears under ONE
+section only - the core issue it is really about. If you move something, name
+just that one section.
 
 MARK anything principally about events outside the UK as international.
 
@@ -1349,9 +1379,18 @@ def review_digest(api_key, by_section):
         article = entry["article"]
         if idx in intl:
             article["scope"] = "international"
-        for sec in moves.get(idx, entry["sections"]):
-            if sec in rebuilt:
-                rebuilt[sec].append(article)
+        # One section per article. If the review re-filed it, the first
+        # section it names becomes primary and the rest become "also
+        # touches", so nothing is duplicated across the digest.
+        target = moves.get(idx, entry["sections"])
+        target = [t for t in target if t in rebuilt]
+        if not target:
+            continue
+        primary, extra = target[0], target[1:]
+        if extra:
+            existing = article.get("also_sections") or []
+            article["also_sections"] = list(dict.fromkeys(existing + extra))
+        rebuilt[primary].append(article)
 
     return rebuilt, stats
 
@@ -1509,7 +1548,11 @@ def build_digest(by_section, urgent, used_ai, top5=None, label=""):
             named = ", ".join(others[:3])
             extra = f" +{len(others) - 3} more" if len(others) > 3 else ""
             src += f" (also {named}{extra})"
-        tail = f"  ·  {note}" if note else ""
+        bits = [note] if note else []
+        touches = a.get("also_sections") or []
+        if touches:
+            bits.append(f"also touches {', '.join(touches)}")
+        tail = "  ·  " + "  ·  ".join(bits) if bits else ""
         return f"- [{a['title']}]({a['link']}) — *{src}*, {when}{tail}"
 
     def sort_articles(articles):
