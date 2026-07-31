@@ -65,4 +65,4 @@ jobs:
           git add -A
           git diff --cached --quiet || git commit -m "Update digest [skip ci]"
           git pull --rebase --autostash || true
-          git push || true
+          git push || true 
