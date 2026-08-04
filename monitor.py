@@ -184,12 +184,23 @@ EXTRA_SECTIONS = {
         "International Christian Concern are NOT about us - do not put them "
         "in this section.",
     "Worth reading":
-        "Significant commentary and analysis on our issues: opinion "
-        "pieces, essays and interventions that are worth our team reading "
-        "even though they are not news reports. ONLY include these when "
-        "the writer or outlet carries real weight - a well-known "
-        "commentator, a public figure, or a serious outlet. Do not include "
-        "routine columns, blog posts by unknown authors, or churnalism.",
+        "A LAST RESORT, and usually empty. Use it ONLY when a piece cannot "
+        "be assigned to any of the twelve issues at all. "
+        "If you can name ANY issue the piece is about, put it under that "
+        "issue with \"comment\": true and list the others in \"also\". "
+        "Touching several issues is NOT a reason to use this section - "
+        "that is exactly what \"also\" is for. "
+        "Worked examples of what does NOT belong here: an essay arguing "
+        "Christianity can fill the void left by multiculturalism goes "
+        "under Christian society with also=[Islam]; a piece on the "
+        "dissolution of private education goes under Education; a peer "
+        "explaining why the assisted dying bill failed goes under End of "
+        "life. All three are commentary, and all three belong under their "
+        "issue where the team will actually look for them. "
+        "Only include commentary where the writer, subject or outlet "
+        "carries real weight - a known commentator, a public figure, a "
+        "peer or MP, or a serious outlet. Not blog posts by unknown "
+        "authors or churnalism.",
 }
 
 ALL_SECTIONS = ISSUE_NAMES + list(EXTRA_SECTIONS)
@@ -227,6 +238,10 @@ SEARCH_TERMS = [
     "abortion law UK", "abortion buffer zones", "abortion decriminalisation",
     "pro-life UK", "abortion clinic protest UK", "abortion pills post UK",
     "embryo research UK", "IVF regulation UK", "morning-after pill UK",
+    # Personal testimony often carries further than policy coverage - the
+    # Tanni Grey-Thompson interview is exactly this kind of story.
+    "abortion disability UK", "Down syndrome abortion UK",
+    "abortion regret testimony", "pregnancy pressure abortion",
     # End of life
     "assisted dying bill UK", "assisted suicide UK",
     "Terminally Ill Adults Bill", "euthanasia UK law",
@@ -261,6 +276,11 @@ SEARCH_TERMS = [
     "Christian heritage Britain", "church attendance UK",
     "Christianity decline Britain", "King Charles faith",
     "establishment Church England", "blasphemy Britain",
+    # Integration, cohesion and national identity - the Trevor Phillips
+    # piece had no term that could have found it.
+    "integration cohesion Britain", "British values debate",
+    "multiculturalism Britain", "national identity Britain",
+    "two-tier policing", "free speech Britain culture",
     # Secularism
     "Charity Commission investigation", "EHRC code of practice",
     "equality law religion UK", "secularism UK public life",
@@ -269,6 +289,11 @@ SEARCH_TERMS = [
     "sharia UK", "Islamism UK", "grooming gangs",
     "Islamophobia definition UK", "mosque planning UK",
     "Islamist extremism UK", "terrorism UK arrest",
+    # Islam in institutions - the Ramadan police story fell through the gap
+    # between "extremism" and "planning", which is where most of this sits.
+    "Ramadan workplace UK", "Islam police UK", "halal UK institutions",
+    "Muslim staff network UK", "prayer rooms UK workplace",
+    "Islam schools UK", "Muslim Council of Britain",
     # Church
     "Church of England", "Archbishop of Canterbury",
     "church safeguarding UK", "Christian persecution global",
@@ -288,7 +313,16 @@ FEEDS = [
     ("Christian Today", "https://www.christiantoday.com/rss-feeds"),
     ("Church Times", "https://www.churchtimes.co.uk/rss/news"),
     ("Premier Christian News", "https://premierchristian.news/rss"),
+    # Several feeds for our own site. WordPress often keeps campaign and
+    # action pages out of the main feed, which is why "Six Weeks to Save
+    # Their Lives" and the cohabitation consultation were missed. Failures
+    # are ignored, so listing extras costs nothing.
     ("Christian Concern", "https://christianconcern.com/feed/"),
+    ("Christian Concern (news)", "https://christianconcern.com/news/feed/"),
+    ("Christian Concern (comment)", "https://christianconcern.com/comment/feed/"),
+    ("Christian Concern (action)", "https://christianconcern.com/action/feed/"),
+    ("Christian Legal Centre",
+     "https://christianconcern.com/ccpressreleases/feed/"),
 ]
 
 # ===========================================================================
@@ -317,10 +351,18 @@ def _or_query(names, per_query=4):
     return out
 
 
+# Staff who appear in the media often enough to deserve their own search.
+# Bundling them into an OR query dilutes the results and was why Tim being
+# quoted on a smaller site was missed.
+KEY_PEOPLE = ["Tim Dieppe", "Andrea Williams", "Paul Huxley",
+              "Carys Moseley", "Roger Kiska"]
+
+
 def our_search_terms():
     """Extra searches for the 'Christian Concern in the news' section."""
     terms = ['"Christian Concern"', '"Christian Legal Centre"']
-    terms += _or_query(OUR_PEOPLE)
+    terms += [f'"{p}"' for p in KEY_PEOPLE]
+    terms += _or_query([p for p in OUR_PEOPLE if p not in KEY_PEOPLE])
     terms += _or_query(OUR_CASES)
     terms += _or_query(ALLIED_ORGS)
     return terms
@@ -866,6 +908,7 @@ NOT_US_SOURCES = ["international christian concern", "persecution.org",
                   "persecution.com"]
 
 CC_SECTION = "Christian Concern in the news"
+WORTH_READING = "Worth reading"
 
 
 def is_actually_us(item):
@@ -957,12 +1000,17 @@ TEST 2 - IS IT SUBSTANTIAL?
 Include reporting of events: rulings, votes, bills, cases, arrests, official
 figures, investigations, appointments, resignations, campaigns launched, and
 significant statements by people who matter.
-Commentary is allowed ONLY in the "Worth reading" section, and only where the
-writer or outlet carries real weight.
+Commentary and interviews ARE allowed, under the issue they concern, with
+"comment": true - but only where the writer, subject or outlet carries real
+weight. A peer explaining why a bill failed, a well-known commentator on
+national identity, or a public figure's personal testimony about abortion
+all qualify. An unknown blogger does not.
 EXCLUDE: conference and event announcements, service or facility launches,
 fundraising appeals, awareness days, charity press releases, trade-magazine
-features, sponsored content, listicles, letters pages, and light features. If
-the headline could have run in any week of any year, exclude it.
+features, sponsored content, listicles and letters pages. If the headline
+could have run in any week of any year, exclude it - UNLESS it is a
+substantial piece by or about someone whose view carries weight on one of
+our issues.
 
 TEST 3 - DOES IT MATTER TO US?
 It must have real public-policy, legal or cultural significance for our work -
@@ -993,7 +1041,13 @@ Reply with ONLY a JSON array, no other text:
    "primary": "Gender",
    "also": ["Freedom of speech", "Secularism"],
    "relevance": "high",
-   "scope": "uk"}}]
+   "scope": "uk",
+   "comment": false}}]
+
+Set "comment": true for opinion pieces, essays, interviews and personal
+testimony - anything that is a viewpoint rather than a report of events.
+These still go under the issue they concern; the flag simply marks them so
+the team can tell at a glance what is comment and what is news.
 
 "primary" is the ONE section the article most belongs in - its core subject,
 the reason it matters to us. Every article gets exactly one.
@@ -1123,6 +1177,17 @@ def classify_all(items, api_key):
                     continue      # only reason to keep it was a false match
                 primary, also = also[0], also[1:]
 
+            # Worth reading is a last resort. If the AI put something there
+            # but also named a real issue, move it to that issue - a comment
+            # piece on assisted dying belongs under End of life, where the
+            # team will look for it, not in a separate commentary bucket.
+            if primary == WORTH_READING and also:
+                primary, also = also[0], also[1:]
+                item_moved = True
+            else:
+                item_moved = False
+
+            item["is_comment"] = bool(r.get("comment")) or item_moved
             item["also_sections"] = also
             by_section[primary].append(item)
             stats[scope] += 1
@@ -1548,7 +1613,11 @@ def build_digest(by_section, urgent, used_ai, top5=None, label=""):
             named = ", ".join(others[:3])
             extra = f" +{len(others) - 3} more" if len(others) > 3 else ""
             src += f" (also {named}{extra})"
-        bits = [note] if note else []
+        bits = []
+        if a.get("is_comment"):
+            bits.append("comment")
+        if note:
+            bits.append(note)
         touches = a.get("also_sections") or []
         if touches:
             bits.append(f"also touches {', '.join(touches)}")
@@ -1556,7 +1625,9 @@ def build_digest(by_section, urgent, used_ai, top5=None, label=""):
         return f"- [{a['title']}]({a['link']}) — *{src}*, {when}{tail}"
 
     def sort_articles(articles):
-        articles.sort(key=lambda a: (RANK.get(a.get("relevance", "medium"), 1),
+        # News before comment, then strongest first, then newest.
+        articles.sort(key=lambda a: (1 if a.get("is_comment") else 0,
+                                     RANK.get(a.get("relevance", "medium"), 1),
                                      -a["published"].timestamp()))
         return articles
 
@@ -1856,23 +1927,72 @@ def load_last_runs():
         return {}
 
 
-def record_run(slot_name, day):
+def record_run(slot_name, day, emailed=True):
+    """
+    Record that a slot has run. 'emailed' records whether the digest actually
+    reached anyone - a run that produced a digest nobody received is not
+    really done, and should be retried by the next cron.
+    """
     runs = load_last_runs()
-    runs[slot_name] = day
+    runs[slot_name] = {"day": day, "emailed": bool(emailed)}
     with open(RUNS_FILE, "w", encoding="utf-8") as f:
         json.dump(runs, f)
 
 
-# Each slot: earliest UK time it may run, latest, and lookback hours.
-# The windows are wide on purpose. GitHub frequently starts scheduled jobs
-# late - sometimes by half an hour or more - and a narrow window meant a
-# delayed job was skipped and you simply got no digest that day. A wide
-# window plus a once-per-day guard means a late start still produces the
-# digest, while an early one cannot produce a second copy.
+def slot_done_today(runs, slot_name, today):
+    """
+    True only if the slot ran today AND the digest was delivered. Older
+    versions stored a bare date string, so handle that too.
+    """
+    entry = runs.get(slot_name)
+    if entry is None:
+        return False
+    if isinstance(entry, str):          # old format: assume delivered
+        return entry == today
+    if not isinstance(entry, dict):
+        return False
+    if entry.get("day") != today:
+        return False
+    if entry.get("emailed"):
+        return True
+    # It ran but the email did not get out. Allow one retry, then stop so a
+    # permanently broken mailbox cannot trigger a run on every cron.
+    attempts = entry.get("attempts", 1)
+    return attempts >= 2
+
+
+# --- Schedule ---------------------------------------------------------------
+#
+# Windows are UK local time and deliberately wide. GitHub's scheduler is
+# unreliable: in practice the first cron of each pair is often dropped and
+# the second fires up to an hour late. A wide window means a late start
+# still produces the digest; the once-per-day guard stops duplicates.
+#
+# Weekends are off. Monday morning covers the whole weekend in one digest.
+
+WEEKEND_OFF = True          # no Saturday or Sunday digests
+MONDAY_HOURS = 48.0         # Monday morning lookback (see SETUP notes)
+WEEKDAY_MORNING_HOURS = 24.0
+AFTERNOON_HOURS = 6.0
+
 SLOTS = [
-    {"name": "morning",   "from": 8 * 60 + 20,  "to": 11 * 60, "hours": 24.0},
-    {"name": "afternoon", "from": 13 * 60 + 55, "to": 16 * 60, "hours": 6.0},
+    {"name": "morning",   "from": 7 * 60 + 45,  "to": 11 * 60},
+    {"name": "afternoon", "from": 13 * 60 + 30, "to": 16 * 60},
 ]
+
+
+def lookback_for(slot_name, when):
+    """
+    How far back a given run should look.
+
+    Monday morning is the weekend catch-up, so it reaches back further than
+    a normal weekday morning.
+    """
+    if slot_name == "afternoon":
+        return AFTERNOON_HOURS
+    if when.weekday() == 0:          # Monday
+        return MONDAY_HOURS
+    return WEEKDAY_MORNING_HOURS
 
 
 def should_run_now():
@@ -1881,6 +2001,13 @@ def should_run_now():
     otherwise (None, None). Each slot runs at most once per day.
     """
     now = uk_now()
+
+    if WEEKEND_OFF and now.weekday() >= 5:
+        day = "Saturday" if now.weekday() == 5 else "Sunday"
+        print(f"  {day} - no digest at weekends. Monday morning will cover "
+              f"the whole weekend.")
+        return None, None
+
     minutes = now.hour * 60 + now.minute
     today = now.strftime("%Y-%m-%d")
     runs = load_last_runs()
@@ -1888,13 +2015,17 @@ def should_run_now():
     for slot in SLOTS:
         if not (slot["from"] <= minutes <= slot["to"]):
             continue
-        if runs.get(slot["name"]) == today:
+        if slot_done_today(runs, slot["name"], today):
             print(f"  the {slot['name']} digest already ran today "
                   f"({today}) - skipping this duplicate")
             return None, None
-        return slot["hours"], slot["name"]
+        prev = runs.get(slot["name"])
+        if isinstance(prev, dict) and prev.get("day") == today \
+                and not prev.get("emailed"):
+            print(f"  the {slot['name']} digest ran today but the email "
+                  f"failed - retrying")
+        return lookback_for(slot["name"], now), slot["name"]
     return None, None
-
 
 
 def is_manual_run():
@@ -1944,9 +2075,14 @@ def main():
                   f"slot has already run today. Skipping.")
             return
         MAX_AGE_HOURS = window
-        label = ""
+        today_uk = uk_now().strftime("%Y-%m-%d")
+        is_monday_catchup = (slot_name == "morning"
+                             and uk_now().weekday() == 0
+                             and MAX_AGE_HOURS > WEEKDAY_MORNING_HOURS)
+        label = "weekend catch-up" if is_monday_catchup else ""
         print(f"UK time {uk_now().strftime('%H:%M %Z')} - {slot_name} digest, "
-              f"{MAX_AGE_HOURS}h window")
+              f"{MAX_AGE_HOURS}h window"
+              + ("  (Monday weekend catch-up)" if is_monday_catchup else ""))
 
     t_start = time.time()
     timings = {}
@@ -1961,7 +2097,7 @@ def main():
     # the last 24 hours, even items that appeared in yesterday afternoon's
     # digest. Only the afternoon top-up filters against what has already
     # been reported, so it shows just what has broken since the morning.
-    full_sweep = manual or MAX_AGE_HOURS >= 24
+    full_sweep = manual or MAX_AGE_HOURS >= WEEKDAY_MORNING_HOURS
     seen = set() if full_sweep else load_seen()
     if full_sweep and not manual:
         print("Full sweep: showing everything in the window, "
@@ -2107,21 +2243,45 @@ def main():
         if any(by_section.values()):
             append_log(digest, LOG_FILE)
             post_slack(digest)
-            send_email(digest, "" if full_sweep else " (afternoon update)")
+            if full_sweep:
+                suffix = " - weekend catch-up" if label else ""
+            else:
+                suffix = " (afternoon update)"
+            emailed = send_email(digest, suffix)
         else:
             # Still send on a full sweep so the team knows it ran and there
             # genuinely was nothing, rather than wondering if it broke.
-            if full_sweep:
-                send_email(digest)
+            emailed = send_email(digest) if full_sweep else True
+
+        # If email is not configured at all, there is nothing to retry, so
+        # treat the slot as done rather than re-running on every cron.
+        email_configured = bool(os.environ.get("EMAIL_TO", "").strip()
+                                and os.environ.get("SMTP_HOST", "").strip())
+        if not email_configured:
+            emailed = True
+
         # A full sweep starts from an empty set, so merge with what is
         # already on file rather than throwing the history away - otherwise
         # the afternoon top-up would have nothing to filter against.
         if full_sweep:
             seen |= load_seen()
         save_seen(seen)
-        # Record that this slot has run, so a second cron firing inside the
-        # same window today does not send a duplicate digest.
-        record_run(slot_name, uk_now().strftime("%Y-%m-%d"))
+
+        # Only count the slot as finished if the digest actually reached
+        # someone. If the email failed, leave it open so the next cron in
+        # the window tries again rather than silently skipping.
+        prev = load_last_runs().get(slot_name)
+        attempts = 1
+        if isinstance(prev, dict) and prev.get("day") == today_uk:
+            attempts = prev.get("attempts", 1) + 1
+        runs = load_last_runs()
+        runs[slot_name] = {"day": today_uk, "emailed": bool(emailed),
+                           "attempts": attempts}
+        with open(RUNS_FILE, "w", encoding="utf-8") as f:
+            json.dump(runs, f)
+        if not emailed:
+            print("  ! THE DIGEST WAS NOT EMAILED - this slot stays open so "
+                  "the next scheduled run will try again")
 
     # Run summary - makes it obvious from the log whether the AI actually
     # did its job, rather than having to infer it from the digest.
