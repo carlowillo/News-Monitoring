@@ -2,14 +2,33 @@ name: News Monitor
 
 on:
   schedule:
-    # Times are UTC. Britain is UTC+1 in summer (BST), UTC+0 in winter (GMT),
-    # so both possible UTC times are scheduled for each UK slot. The script
-    # checks the real UK clock and runs only the correct one - the other
-    # exits within a second, costing nothing.
-    - cron: "25 7 * * *"    # 08:25 UK in summer -> email lands ~08:30
-    - cron: "25 8 * * *"    # 08:25 UK in winter  -> email lands ~08:30
-    - cron: "0 13 * * *"    # 14:00 UK in summer
-    - cron: "0 14 * * *"    # 14:00 UK in winter
+    # GitHub drops or delays scheduled runs, often by an hour or more, so
+    # several attempts are made across each window. The script runs a slot
+    # at most once a day, so the first one that actually fires does the work
+    # and the rest exit in a few seconds.
+    #
+    # Times are UTC. In summer UK = UTC+1, in winter UK = UTC.
+    # Morning window is 07:45-11:00 UK, afternoon 13:30-16:00 UK.
+    #
+    # Monday to Friday only - the cron day field is 1-5.
+
+    # Morning attempts
+    - cron: "50 6 * * 1-5"    # 07:50 UK summer
+    - cron: "10 7 * * 1-5"    # 08:10 UK summer
+    - cron: "30 7 * * 1-5"    # 08:30 UK summer
+    - cron: "50 7 * * 1-5"    # 08:50 UK summer / 07:50 UK winter
+    - cron: "10 8 * * 1-5"    # 09:10 UK summer / 08:10 UK winter
+    - cron: "30 8 * * 1-5"    # 09:30 UK summer / 08:30 UK winter
+    - cron: "50 8 * * 1-5"    # 08:50 UK winter
+    - cron: "20 9 * * 1-5"    # last-chance backup
+
+    # Afternoon attempts
+    - cron: "35 12 * * 1-5"   # 13:35 UK summer
+    - cron: "55 12 * * 1-5"   # 13:55 UK summer
+    - cron: "20 13 * * 1-5"   # 14:20 UK summer / 13:20 UK winter
+    - cron: "40 13 * * 1-5"   # 14:40 UK summer / 13:40 UK winter
+    - cron: "0 14 * * 1-5"    # 14:00 UK winter
+    - cron: "30 14 * * 1-5"   # last-chance backup
 
   workflow_dispatch:
     inputs:
@@ -18,10 +37,16 @@ on:
         required: false
         default: "24"
       email:
-        description: "Also email this run to EMAIL_TO"
+        description: "Email this run to EMAIL_TO (untick to skip)"
         required: false
         type: boolean
-        default: false
+        default: true
+      mode:
+        description: "auto = one-off run now; scheduled = behave like a cron run"
+        required: false
+        type: choice
+        options: ["auto", "scheduled"]
+        default: "auto"
 
 permissions:
   contents: write
@@ -56,6 +81,9 @@ jobs:
           # finds - so your next scheduled digest still reports those stories.
           FORCE_RUN: ${{ github.event_name == 'workflow_dispatch' && '1' || '' }}
           MANUAL_HOURS: ${{ github.event.inputs.hours }}
+          # External schedulers pass mode=scheduled so the run still obeys
+          # the weekend rule and the Monday catch-up.
+          TRIGGER_MODE: ${{ github.event.inputs.mode }}
         run: python monitor.py
 
       - name: Save results back to the repo
@@ -65,4 +93,4 @@ jobs:
           git add -A
           git diff --cached --quiet || git commit -m "Update digest [skip ci]"
           git pull --rebase --autostash || true
-          git push || true 
+          git push || true
