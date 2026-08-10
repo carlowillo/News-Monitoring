@@ -2057,6 +2057,16 @@ def main():
     global MAX_AGE_HOURS
 
     manual, why = is_manual_run()
+
+    # An external trigger (cron-job.org and similar) fires the workflow as a
+    # manual run, which would otherwise bypass the weekend rule and the
+    # Monday catch-up. TRIGGER_MODE=scheduled makes such a run behave
+    # exactly like a cron run: weekends off, Monday 48h, once per day.
+    if manual and os.environ.get("TRIGGER_MODE", "").strip().lower() \
+            == "scheduled":
+        manual = False
+        why = "external trigger, treated as scheduled"
+
     print(f"Run type: {'MANUAL' if manual else 'scheduled'}  ({why})")
 
     if manual:
