@@ -1,3 +1,29 @@
+# Digest - Christian Legal Centre - 2026-08-20 13:30 UTC
+*Last 6 hours, AI-classified*
+
+## FAMILY
+
+### Sexuality (1)
+- [Pensioner had 'largest hoard' of child abuse images to be seized in Scotland](https://www.bbc.co.uk/news/articles/cp9eggpjl3lo?at_medium=RSS&at_campaign=rss) — *BBC News (UK)*, 11:24
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Pensioner had 'largest hoard' of child abuse images to be seized in Scotland](https://www.bbc.co.uk/news/articles/cp9eggpjl3lo?at_medium=RSS&at_campaign=rss)
+*Sexuality · BBC News (UK)*
+
+Alan MacPherson, 83, from Stenhousemuir, was found to have amassed around two million indecent images of children, believed to be the largest such collection ever seized by Police Scotland.
+
+**Angle:** We can respond by stressing that every image represents the abuse and exploitation of a child, and that society must recover a serious moral commitment to protecting children from sexual harm online. The distinctive Christian Concern line is to connect this to the wider failure to confront pornography, sexual exploitation and safeguarding complacency, while calling for stronger policing, tougher sentencing and better protection for victims.
+
+**Possible headline:** *Two million child abuse images: Britain must stop looking away*
+
+---
+*Nothing significant today: Beginning of life, End of life, Marriage, Gender, Education, Christian freedoms, Freedom of speech, Christian society, Secularism, Islam, Church*
+
+---
+
 # Digest - Christian Legal Centre - 2026-08-20 07:33 UTC
 *Last 24 hours, AI-classified*
 
@@ -5087,6 +5113,7 @@ A politician convicted under a hate-speech law is appealing to the European Cour
 ## Marriage & Family (2)
 - [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby](https://www.theguardian.com/commentisfree/2026/jul/24/for-outraged-germans-the-jens-spahn-scandal-is-about-more-than-his-surrogate-baby) - *The Guardian (UK)*
 - [Regulation cannot eliminate surrogacy risks | Letter](https://www.theguardian.com/lifeandstyle/2026/jul/23/regulation-cannot-eliminate-surrogacy-risks) - *The Guardian (UK)*
+
 
 
 
