@@ -1,106 +1,98 @@
-# Digest - Christian Legal Centre - 2026-08-24 07:47 UTC
-*Last 48 hours, AI-classified*
+# Digest - Christian Legal Centre - 2026-08-24 13:34 UTC
+*Last 6 hours, AI-classified*
 
 ## LIFE
 
 ### Beginning of life (1)
-- [SPUC urges Scottish Government to protect women from abortion coercion](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ2xrQ2ZqNnVHTENvN0FnLUQ2V1NSdF9QWEw0YkZEbGtzY1dWaGcwOWFhVDhpRFVLSlVHSHA3SnZJVnR6b2M1Zmt0MXB4V0hjcGlKTWRHUmwzUUc0RkVKZTJjekFTbVZwallucUVsc0dVeEZ1a0FiSzhqTkdweERQWmZXS1FfLVZJdWdvYnlQUVlpc2REMnllV2E4bl9GejZzbTNfSi00NUJMU1ky?oc=5) — *The Catholic Herald*, Sun 06:00  ·  also touches Politics & government
+- ['Women from Wales come to my London clinic because of inadequate abortion care'](https://news.google.com/rss/articles/CBMif0FVX3lxTFByc1RObE1KczFwNXFBdjIyY1hURzd4OE1ETy1rWjdWdE1zUWlWWlJ4NzQwcktBQnRFajBCV0ZaSjhLZzlQa00zdUFPNmdvSDFxdzRYQ09GTWlDdGNnUndlbVNOaXJrRHdTZVVUSjRsMlFMMWVla3F0N0Q1TFZSUGM?oc=5) — *AOL.com*, 08:34
 
-### End of life (3)
-- [The UK assisted dying bill is coming back. Its Labour champion is looking to Australia for inspiration](https://news.google.com/rss/articles/CBMilwFBVV95cUxOR084WEt6YVRUdlBKTEIwaklYTWFVZU0yR0NGNzFqNWN2X09mcDBXWm00aFNoVUJaRnBTblcyUFB1YWc0Z2hVcE1sV0hsY1BjVlRBS2FXbTR0ckpSZGdad1ZnOHY2Mi1pR2NucEZyWkVWaURrSWw4UnFUMEFMcUdzY3Bfa0ZNcTFqRzBCdGNaQVg2UGNSenhF?oc=5) — *politico.eu*, Sun 19:45  ·  also touches Politics & government
-- [Former health minister’s stark warning as need for palliative care forecast to soar over next 20 years](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNd2NDeGxQRWZBVXkzQXlNRVJKYnBEeW9GS2d2OFNEdmNGQmF5c1dzeWJlRGdLcXpGd0RMUmFpY05QQ2Zua1c1OG1LT21aV2RpTFlqdXp0RVBhRTB0aEtLN0loQ1dCRlg3bVVjZEdOWFI3UF82T29UbHl4OXNrTWRqNktldEJBaGJ4VE81NmpKYzBhZnF6dTZwWEgzSDljQTZPWDNDVk1ubER4SWxaQ2VCODRFTkhjekEyaEVHc0ZOdWNDcHVtX0NnU3lxT1JIelNZeUotelZ0X1JNMm9aRVFBREhIcGEwcmpvSS1ERjB4b2I3cFR0QnJRVg?oc=5) — *Belfast Telegraph*, Sun 17:00
-- [Terminally ill campaigner’s message to PM: 'Sit down with me while I can still speak'](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3Itd1B1TmdFRVNvZ0VyTUs5TmdCMkZhckZCNjRmVlhKQzNBVEotM2hLY0ZlX1NFV3Z2cTNHVmFIRUhIWXBSd0IyNnk4WkRVVlVsU29sVVozQ2J4NzBDV2xuVFdxMGVsVlUwOUlhaXR5aXR6eHNzb1M2dUZNNXB0OUowaVVkUzTSAYwBQVVfeXFMUHpRaG1hc3pwYWQ3eUNMV0IzZjdnVGVkclIySW5hVEdzMzhIQk9vTGJtSmNLbklIcmtXdjNUbWxUN0k1VkQxekRCNW5VcnQ2WVZBdi1jRFRLcld1UGJHdXQzUzVacXRYam1EVk9rRkRLZWRBYmJ0dHZsT1poSzVIM0pBSVlvUXUtVTAwbkY?oc=5) — *Daily Express*, 05:25  ·  comment  ·  also touches Politics & government
+### End of life (2)
+- [Securing the safeguards](https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0tvTDVzTWU5NHNicjg1eGxvdkVFVUtoQmlWMl9Ib0x3c3NVYnBzSFNJYkVkbl93SktwQVdHTGozOEN0NmpKcUM2V1ZjaEg5a2c1NTlKeGVZLVozUF8wTm90S2h0ckJnQ0ZaOUtxSGcxeGFZSDQyQlVCMjJVMHN3dUJnZw?oc=5) — *BMA*, 12:18
+- [The House Opinion Article | We can't have assisted dying in a care crisis](https://news.google.com/rss/articles/CBMikwFBVV95cUxPMm9nNjNyZlJyOVRyT09GQ0VpQkpEcmtSd2VldmNndFFmMkFpTjViLV9EaHpsQjFqaV95VGVCanl0elppOEFaVVJjbjZfNDByRThOMmdfSGJQLXZYS0NJenJMMXpKV25CbmdsMUdQWVN5Y0tTRWdOM1hmVFhoV0xYbGxHdEp4cmNMd3NzM0Z2dWVINE0?oc=5) — *Politics Home*, 12:06  ·  comment
 
 ## FAMILY
 
+### Marriage (2)
+- [Reform says it will prioritise British-born workers for social housing](https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss) — *BBC News (UK) (also streamlinefeed.co.ke)*, 10:14  ·  also touches Christian society
+- [Family lawyers urge reform as cohabitation consultation closes](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXRVTnJ5NXNGYjdPLW9FS0c2UEg4a19sVmdWREJyNmU4ZWxPSWJlT0VPSXFuWHo4VXpEaTMxMElTX2EwcjNEWGRUeHl3RUcxclFXVW42OEZZV2JCTURTdFhYUXMxd2dvRDdxS1o2eThTaC1FOFktUFFLR1I0Wnl1eUMzMGdVdnFsZVZENGNnLTFNUFc5c2owSElYZ2JBVUFLemNPdFFKV2ZPWFE?oc=5) — *Family Law publishers*, 10:02
+
 ### Gender (2)
-- [Three police forces allow gender-fluid officers multiple warrant cards](https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0NmLWgxZFJleWJvY1hRNHpzV0JJVmVDc3NpZXA5Y3dkekpsQk1BLTdxLTMxYWNMSHRzcXJ5aEd2QVVoUTlQVTN2QzF2Sy1kc1dXajFqbDdmN1hlQUVzT0toQ3kzSFZrZXMzM3NhVjV5VktfV21QOTQ4cXNSVGFydGlqV2NRUGRuUE8wU0xfajhpdHRhMm9EQXVzbUpYSjVkbnBpSW00NWVad2g0UG55c3BmX3ktTE1fcGRLaXlHYw?oc=5) — *The Times (also The Telegraph, GB News)*, Sun 16:33  ·  also touches Politics & government
-- [Hackney's mayor: 'Trans women can still use woman's toilets in my borough'](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUNRLXpWZHZraWw1OWRkZGtRcGNQaDRFTi1JMnRSNTBDUXU4OGtPZ3R1aFliaHFWcUNwN2VLc3hqQ2R2TTA0b09lT2lTU3c5Q3UxTEJQYkUxTXpoM1dULWNEZU16QzFCQU1ZcUlhR2FXbVAzN2dFTl9SQzIwa2ZMQWM2aVczNU5tdkdNRDFrMEFSMk9NTG9veGFZdnNNUVJWb0NPdXdBZ9IBrAFBVV95cUxQbmQ1ZWVUSU1zQms2ZlFEMG9HcDRQQVNhNG5OYUxnMGRkZTFLOUNZT0tGczVsV0dYdnFxWDRlbnVpSkFSVVd2U2lIVXdpNXVaWjRUeVRYbWhiR2JLNnB1SjhrQlZISGtueWVYc2t1TEhibXJNdHZNbU83d1FnTWdTMGt4a0pOU0p5NDFlQUcwRG8wTDNmZ1FHMGxaQTFZOE5ad2IzZmFlSTdqTENR?oc=5) — *Metro.co.uk*, Sun 13:09  ·  also touches Politics & government, Secularism
+- [Trade unions voice criticisms and vow resistance to transphobic EHRC code](https://news.google.com/rss/articles/CBMie0FVX3lxTE0xbEtHSXJvNDQ2NjdDUDhxN2VuLVdtWmxnbEszUGlOdzB3WGlzTkVObU1YTENHM3N0TWhJWi1lZ0gtaGItY29jR2RHUEJvaUdNVUVtaHZkV3FTcUJfRDdKT0lpRWlSa2IzTXNsajhwTlp2VUhabU1LZENYTQ?oc=5) — *thecanary.co*, 13:30  ·  also touches Secularism
+- [Mayor of Hackney Zoë Garbett welcomes trans people using single-sex toilets](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkk2Ym5NQXhJZmg0WUdtc2VWTzMyU05adGVoWDZkV0FEQ3N4NlhEQnFUYjJtMldfOHJrcWhScTJQTFlkRE45cVdYWVJnb09ab243WnhHYWt0Y3dvMW9JUlZGUVZjZmJjYk1XX3Zaa21MLVozV0h5VklNMTRmSEEwSzJNUjJyX1E3cjI4dTdZb0lHQ1l1UmpTcEk4VXA0MW52SGlJVnZ3?oc=5) — *attitude.co.uk*, 12:39
 
-### Sexuality (2)
-- [Abolished Thatcher era anti-LGBT law could face public inquiry after petition milestone](https://news.google.com/rss/articles/CBMihAFBVV95cUxOM3d0OU43WlZBUm81WVFTcm1HOHRCaEFQemJNalNReEd5c2syZERzTXpQVEhqUzdhUDVNc1gzdE95X0FyS0FuM3l6RDR0d3VhNkxPX2x2V003cjVMMHJxa0drMXpucnY4dndGUTkwU2lEN1RYMUFZb29PWXVZMWZ3SWRlYmg?oc=5) — *AOL.co.uk*, Sun 01:51  ·  also touches Education, Politics & government
-- [SNP civil servants dodge disciplinary action for using government devices to view porn](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRmU0cEZVYVB2RTU5cHh0R0g2TEo0QmZORkNHcHBCdHoxOExOVGEtOTh4SFkxUXp5N2U3dXNBRnZfY2NFS2l1cXc5bnVOMkNNNU1XMm1PMkE4Zll2dktmZXEwX1hZLVA2LVlWM0pza1VRdjc3TlJFZDFTZ2FtT2hnNnVYb09yTzVERHdNbzFmWHFFNlJZdjZZUUpQbkZJdVdK0gGmAUFVX3lxTFB1QnlOYjR2LU8zLU04ZC1MeHNEUjFHNl9MNk5jVW5LeV94T3dlX2NLdHNEYmpVVUdnQ0NjS256a3dmYTh5WG5tbGZ1d3hPN3VWVEVZNV81NTRQZHFJRGFmRTNyTmh5MnZmOW1fOG1SbGR2Nnh5TUNOZm5jV2dncVh2RFNyeHczMXVEUnVXM3FiWUNaN2duUHhaMkJWdlVNZWREenI3Y2c?oc=5) — *Scottish Daily Express*, Sun 09:00  ·  also touches Politics & government
+### Sexuality (1)
+- ['My own parents tortured, shaved and exorcised me - I wanted to die every day'](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE1WUzluSHNOdFY4R25zTlc3MzN4MHA4MVBiaFd2RTN5bVFic0FhaExVb0xLOG1pZzZObHlQUWtyY2V5Z1VrdlhWWkpWQjNLWTdRMm9Lc2RNM0RLeWlGbXo1bzV0NUd3OHZCQnJMQ0VvX2hJNXhTaWVyejFfWjBVUWJGS0tsQy1jN2ptQU40d9IBlAFBVV95cUxOMng3dmtUcnVxN0Q5ZEFEcVYtZ1MwNXprdmtDa2N0NzZ5MkpQX2ljOWlVYnU4S29scG5HZjduN0U3cHhPNDM3VE5FYnowX1FXV1U2YUxVYWQ1dGZ1cklWZDhLTFVMQkswVjJMb056N1RDaWhmelBuZTFaWkxndEh3OThXcDFoVEsteTFiRjVzdHo2eTQx?oc=5) — *The Mirror*, 13:10  ·  comment
 
-### Education (1)
-- ['It took 30 years to talk about my teacher raping me'](https://www.bbc.co.uk/news/articles/cjej1w5pqp3o?at_medium=RSS&at_campaign=rss) — *BBC News (UK)*, 05:31  ·  comment  ·  also touches Sexuality
+### Education (2)
+- [CI presses Scot Govt to review controversial smacking ban](https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFI0RVN2QTBpZE1IT1l6YnRfdjhBc0NlUzVPd3dYbGxYX29RZ3JUeVV0ZnVyUkQzbXZpME9HdnE5NVQyY1FtbDhGN3BBZm9fZzd0Q3gxSl9ZOWhRSm05Rnk2bEdPSkloS3BEVGhCQXd5VGtzLXJ3Z1ZHVDlOVTJtamE0YmlaMEJaUGVzR19iay1TNURORWk4?oc=5) — *The Christian Institute*, 08:52  ·  also touches Politics & government
+- [Shortage of religious studies teachers in UK 'worsening' despite rising demand](https://news.google.com/rss/articles/CBMisgFBVV95cUxNdC0tQ3NZaXFDc3dZbHlyeDRRSWFvWXJNaGluNHdOeXZDYmJRai1tcHgwNjZUUGh2cGRLZ2FISGRPLXNSTURhQTJWY3cxQVlmU0NUU0hHeWZ2Q2daMm1YUWlDbHdKajFBTzlNZEJkbTdIR3ZMWVBUbnhyRXdKdTZjamhLQzhqbnVvMW96dEZGZXJFR2FpV2FhRkl0Z1Brb280R2NnZ3A1NklaTm9IOVB0VWdB?oc=5) — *www.christiandaily.com*, 10:01  ·  also touches Christian society
 
 ## FREEDOM
 
-### Christian freedoms (1)
-- [Finnish Christian MP granted UK visa, too late for free speech conference](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQVNYd0xiYk52M1I4amxCYWgxWTdMOEpBVmJRVlBCNGtSUDRHQ3RYbWtjaUR5VVhBRTc4NEhZTVRaS3E2WHZRMFhFR1JBcGF4OWlnM3I2Zk9FTTdJV0NENEZDT1B0YksxSEZvQzVDYTBxaEVuMlZNZmVJLTFFRDJIZEtNZlZ3M2VUZmFwTVlZNDFmVXVNUkVELXBWcHNJNnNWbzV3WENTT09FTEZoYjZYQ01fWC03a1FZQ3c?oc=5) — *Premier Christian News (also Christian Post)*, Sun 12:23  ·  also touches Christian freedoms
-
 ### Freedom of speech (1)
-- [Most Britons believe free speech more restricted under Labour](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2picWFwejNiMHU1NktJYU9pUXhoYkUwajZwcGx4ZE12Wno3YXlTbFFzdVFfZDZLczRnZGFZVXdONmhDbVJfSE5kUFRmTDBnaTJYT09JZ2k3VzI4a3ExbXV4c1lhMmd2U1EyVHNJNnBMMkw2bGFiaUNlNzVLaVpLamVMYnE3TnlfZ0tSZGtVVjROODdnMjB1NzNSVmx0cGpIYjMxRkxaU1M?oc=5) — *The Telegraph (also GB News)*, Sun 15:42  ·  also touches Politics & government
+- [Majority of Britons say free speech has deteriorated under Labour, bombshell new poll finds](https://news.google.com/rss/articles/CBMigwFBVV95cUxPU19GWUFic2VRZjB5Zjk3ekJ0R1FoZ3hfVkljclJKcEtGYWFKdlplSGZDZG8tSEFBX3VxMzE2SHVWNzZwV1ZNSmZxeHhNdi1JRzBTeFZCZlE5YmpXdC10ZnNISTJfTFNZX3dzMG1XbWQ1RjZ5aVI4blVsVHZiR2pYZ3ZIUQ?oc=5) — *GB News (also Free Speech Union, libertyhumanrights.org.uk)*, 09:41  ·  also touches Politics & government
 
 ## FOUNDATIONS
 
-### Secularism (1)
-- [Britain’s equality boss: ‘We treated people who disagreed with us as stupid and wrong’](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcHFqcHlWOU1HV0RfeEp1ZFRhcml4d1doSjI1b0JhTUpLLS1EYWFyRmF5MS1rdC1ZZnh6SndHWEZFbnJtekZBMTR4SjV2SUdBRXpwLUEyUHJXVlJzVkdRdzZDNEJNOUtOZFpKMy1PMldUMXdpOTg0ZHkwbUVmZTY0VmNaWi0xOXJ5YW5walFkV3BiR00?oc=5) — *The Telegraph*, Sun 05:00  ·  comment  ·  also touches Freedom of speech, Gender, Politics & government
+### Christian society (2)
+- [Rowan Williams criticised over claim Farage is using Christianity to fuel anti-Muslim feeling](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS250ZVRjOU10SFVCYjI4bEhpZ2JtZFB3eXc1X2Y4dlo1ZVFMZlFsZlZQVUVycWFpbzB1eTNUNjIzQmx6Q0loNHV3V2hXZ0FxOEZEOFhSOWl5bXUtQnZYOUgtRlJRSXo5QkxNX05sUEhYMDByWS1sdDVBZUxFeFQxcG1IRWVGa1RYQWYtSGNnRlFBdlNjQVBNMTQ1VXJFczZoMDRnQy1FQ29oSHFYMldtZmhpd0ZfZ3F1UmNvRllnTE9RcmxPQ05KaA?oc=5) — *www.christiantoday.com*, 08:48  ·  also touches Islam, Church, Politics & government
+- [Why have we lost pride in Britain?](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNFduNmk1OHlmd2oyeHo1SEVUbXRkbHJlNkU0SEFSMzdPa0czWjVmdk1PU1BmMDYya2FWTlVMTl8zNWkzQi1QaG5VNUphZ3gwSWVpa2dwWHQ0N01HZGhaSi1Xc2NDcWJzQVMxRTAyNnRQTlJxaTI2UlRxQktLMEFINmQ2Q3ZKSmlkNnBUTWZpdEhSR3o1d2lWMw?oc=5) — *The Times*, 09:15  ·  comment
 
-### Islam (4)
-- [Birmingham Islamic Scholar: Calling Jihad “Extremism” Is Disgraceful](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMDU4U0ppUlhtUEZLM3RRN09mQjktaThOTGxZQ2R3VUV4aW1hNjBtd0J1OEpwWHhLd2Z0WkJJMVB3M1lfYk92X0MwZWFzc1VYeVk1MmhhMWhwV0w3U0c3NTl5Skk2U29MTEw0dFNkVk5PUVEzSXNHRHNhY1pRbmQ2bW1URzE3ZGNY?oc=5) — *MEMRI | Middle East Media Research Institute*, 05:18  ·  also touches Freedom of speech
-- [Rochdale trial restarts](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNE9kejNJaDA5ZjRxRDJvY2dLaER5a2RLcmhxTEsxckF6RGFBQWFkWWdTcXhTenhYRnB5NXZHa0dSUHpVS3ExNFUzaXhTYXBJc3M3bE1iZWJ0TGV4dWFMQklrdjRsWWRfQ0plTnFxa01WUXhXTmp6UUNSU2xwVjZnaFFGRlM4TG55OUJGQVBWcGtjc192WGRV?oc=5) — *The Economist*, 00:00
-- [Labour ‘lobbied EHRC in pursuit of the Muslim vote’](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmp0Wk1vTzZ6QTVMZmdpczFWSWN4cGItX1FqOE91ekdueFhDNnRtSlN5YmRtTFo4M0ZVeTdLVk1uWVdPVUhxYmgyU1NZWENNQkJaN1F2RGZaM1kweUdhNUZ4WmFaWFNhZnRfNmlXMUl1YVpwS2otUjBvZzhXaUNDa0YwRXpHZjNZTVBMUmRtY3pGME9TZjQwdUtwTURvQ2g4?oc=5) — *The Times (also GB News, AOL.com)*, Sun 16:40  ·  also touches Secularism, Politics & government
-- [UK hits back after Netanyahu labels it 'the Islamic republic of Britain'](https://news.google.com/rss/articles/CBMifkFVX3lxTE96YXllbmRLNC1uam5KUUl3X0dyOGc2RTNXY2FQYkFDZjIwbmZMQVVQbGVJYXJnVmg4THN1WjgwV1AyUzQ1UGUtd3ZNdkJjQzdBaDZBY05xaHRuamJFREJJc1VkRUlySGNOQVNIblRKNDU2U0tFdUFRaXVpRW9Zdw?oc=5) — *AOL.com*, Sun 15:37  ·  also touches Politics & government
-
-### Church (1)
-- [Britain must do more for the persecuted church](https://news.google.com/rss/articles/CBMie0FVX3lxTE01d3VmT1UxaHQzMVFwRHc0MUVJb1R1b2RHZlJSd2NtUGROb3dBbXRKOEdfUkZ0RVZCN1ZTRmVXSTdjVm5DSDBnblRQWnlucjRwVHVCa3lCQXl0elE5SUtyekZ4eDFsb01WWG9BcDFTYnFmZ2dZdzVQX3c0bw?oc=5) — *The Critic*, Sun 01:00  ·  comment  ·  also touches Politics & government, Christian society
-
-## 🌍 INTERNATIONAL (5)
-- [France enacts assisted dying law after constitutional approval](https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2NiYkkzSDRSU0p1a0ttbDI5LUxCaDY5WXJlZldGSGJ4eWRGNGlVaENmUzBNbXZaR3MxREtIV2ZMM2ZzSkdnN0lPLTV6R09QdHhkbU0xajY0bXFrUUgyR0hyd0pmcElYMGtoMnFRZkJ5ZldSTVRacTdBZndJT3hnLThJNGpHSl9qZXl5SGQ5RzZ3U1BHZ1JSN0psUHZic0VZY0RRQ1djdnBkZXFXclZr0gG0AUFVX3lxTE1yaW5TWkVFUlNvel9FOU14Tmk3WFNoWlBjZHBCQ3VENHY2WmI2Sm9SeGo5dGtmdmp4S0RaMkpKbFpXV0lvYV82RjJFc3Z6bjFCc3BLYnQzRXYyX2VtTkhFb0pNT2hDamRGY1JlYVBTSktVVG9ka1lLX2tSQVkway1yeGJTelBIcHdudGdGa1pINGdRSVkwSTVsTDVac3JZdHFPeDF6VEZEUjBySXV0RHp3dVgwQg?oc=5) — *The Business Standard*, 02:47  ·  End of life
-- [27 Christians Killed as Jihadists Aim to ‘Wipe Out the Entirety of Christianity in Nigeria’](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMTZxWWVKbTlfWkxzQk5EbEtVSFdESlROMFJEY2pWT1FQWmtsSFpKVDVyRTN6Mm9XUFNqTzJCOV9QTy1RVWlHRC1pUlFINnoxTjN0aWhvT3NibTNMcmFLYy1uaFg2TWlTWEhYMnFiN3ZkTktLR2JxVmttMWNTOVJqZm5Fd0dUVDJMbmhwTl80WDk5UkpzRUNfeUVLMmwxazBSYzJvSC1PUWx4NV9PY0JDMWZ0aG1OdmZjaWc?oc=5) — *Charisma Magazine Online*, Sun 10:02  ·  Church  ·  also touches Islam
-- [Family of British church leader consider legal action against Indian police](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSEw3dXM5Tkw3aHJRanFXeDd1ZkJRd1VNaUtQajBLY25yTFBodlVmbzV1WXhOYlVTMkpudk5CSXdJX01KdGE5enJOaG5oeE83M0t3ZGJGeEZzVGo3amxvSGZNWExaQmViWElXSHVKSTlONFgwNFRBN2NBem45UHpzdUxLQnA0c3VmQ0NPWnVCUmRiWmhPakJYUDlSZ2ZpazZfTi1SNEY4bXBGSXJRNUVYaW14MWR0OVFxRUJWZlR3?oc=5) — *Premier Christian News*, Sun 06:36  ·  Church  ·  also touches Christian freedoms
-- [Report Warns Afghan Christians Face Crimes Against Humanity and Risk of Genocide](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkVZdTlxXzl6RS16dzd3b2J2SFhPMFJnTXB0YkExT0JRTV9vWnBaNnRvTmc4U245N1FBcHo1LWY1MDZGQzZ3clFYa09sQl90bl9JMlNjYnVGMFhNREYxeF9jaTdfQjRnTUE0MWtZNzU2Y2ptdnZWekFzcXVGYW5rSFJaSWhPNmlmSEhybGRMT0VZanlOMFBSbl8tX1YwQzRK?oc=5) — *The Common Sense*, Sun 03:00  ·  Church  ·  also touches Islam
-- [IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus](https://news.google.com/rss/articles/CBMigAFBVV95cUxNbW9BVUZZMUgwQXZma2Vlblhpc2wwV3R5OEk4elRqbGpQWDJlM08xY2hFWjBzd3RCYl9ubVNtbnNiSUV6WWUxQ243cHhoSE5acFlMZHY1SXdBYmhVLVZJV2hnWk1kUWdDMlB1dHFyTTBXSkh4am9DV3E2NDU3Q3JkSQ?oc=5) — *AOL.com*, Sun 22:15  ·  Beginning of life
+### Islam (5)
+- [Man in Bristol convicted over bid to join Islamic State](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNUFmMVhSR1E4cGNRMEFrbl9HUWFSRGZlX2FMVE1qTXNfeFlnaDUxRTA5THpIQUt3MXlpOWZwN254VGE0RWNuSjB3M3Vxcll1eVE5SGpwNVR0R2VuMm96U2d1d1lnV2V1NWczRTZvN0JUd2xSQWN2S19IWUJLeUJLRXItWjVkXzJVUkxtbTJOenFOZw?oc=5) — *UK Defence Journal*, 12:16
+- [Birmingham Islamic Scholar: Calling Jihad “Extremism” Is Disgraceful](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMDU4U0ppUlhtUEZLM3RRN09mQjktaThOTGxZQ2R3VUV4aW1hNjBtd0J1OEpwWHhLd2Z0WkJJMVB3M1lfYk92X0MwZWFzc1VYeVk1MmhhMWhwV0w3U0c3NTl5Skk2U29MTEw0dFNkVk5PUVEzSXNHRHNhY1pRbmQ2bW1URzE3ZGNY?oc=5) — *MEMRI | Middle East Media Research Institute*, 10:39
+- [Equality watchdog rejects Labour’s Islamophobia definition amid ‘free speech’ storm](https://news.google.com/rss/articles/CBMiswFBVV95cUxOeldybUc3Yk5XRmEyS1pEV3duTDI3RVNjWV9UdDE4T0g0OUswZmxBMUowWUVXU2prVDhZalcySkNXOUtpN1ZzUC14QmJ4YkhnQ3VEMTdyOHdtZ19RWlpKRDRlZlJIbHhWbWNSYjNnOTU1bUdselRIc0ZRVjhXcjZkZjB3T2ZRWkhWUGg5MTJQZjRLa2RZRk1GRTJoN2RIZ0VKU1YxU25NZ1RPYzRRQ0kwZGdNTQ?oc=5) — *London Business News*, 08:16  ·  also touches Freedom of speech, Secularism, Politics & government
+- [Over 300 Mosques in the United Kingdom Await Security Funding Amid Rising Attacks](https://news.google.com/rss/articles/CBMizwFBVV95cUxNT3dzSWJUdFQxY3dLbHJUM3plQUlfYmcwTlh5T2ZHZ1NDNkxJajhsbGV4MUZfb1h0UWNSZHM3WW5rWjhXaW1fUHRVV1VaS0I5cWM2alRSTUhIWmt6UjVEMm5JY3FKaTVaV0pndmxmNXd1eEVWc1dKMS1qSTVHR3h1SUc4RWUzYkRWV25uV04yTHlQWTZTMXljcmJVY1hqa2o3YVMzc2ZFZjZsNm83R1htVDNTTGhndG9LRzd2cnVHc1lSYUZHTEduRXZFUkd6Y0k?oc=5) — *ShiaWaves*, 11:38  ·  also touches Politics & government
+- [All cultures definitely are not equal, especially in how they treat women](https://news.google.com/rss/articles/CBMiowFBVV95cUxOZm1NbTZTM2d2MGhubFpjZ0dEZmF1QzNyWVpKRjE1XzdGR09oNVdzYTRNMUk2enk1WmVTMGtRRkNuQ0V0ZktvSk95SzUzNHhsRkxoSnc3Tk9mSnJBb2VfelpUTGVyRlBRSklfSDU0SEZpYmhkZjR4MmVuZC1pMlJGclkxLUs4cW1JNmw4QUE1YjdzY2o0ZEZGMmRuU3lOU1lEcGlZ?oc=5) — *The Telegraph*, 10:00  ·  comment  ·  also touches Christian society
 
 ---
 
 # 🎯 Top 5 to comment on
 
-### 1. [The UK assisted dying bill is coming back. Its Labour champion is looking to Australia for inspiration](https://news.google.com/rss/articles/CBMilwFBVV95cUxOR084WEt6YVRUdlBKTEIwaklYTWFVZU0yR0NGNzFqNWN2X09mcDBXWm00aFNoVUJaRnBTblcyUFB1YWc0Z2hVcE1sV0hsY1BjVlRBS2FXbTR0ckpSZGdad1ZnOHY2Mi1pR2NucEZyWkVWaURrSWw4UnFUMEFMcUdzY3Bfa0ZNcTFqRzBCdGNaQVg2UGNSenhF?oc=5)
-*End of life · politico.eu*
+### 1. [The House Opinion Article | We can't have assisted dying in a care crisis](https://news.google.com/rss/articles/CBMikwFBVV95cUxPMm9nNjNyZlJyOVRyT09GQ0VpQkpEcmtSd2VldmNndFFmMkFpTjViLV9EaHpsQjFqaV95VGVCanl0elppOEFaVVJjbjZfNDByRThOMmdfSGJQLXZYS0NJenJMMXpKV25CbmdsMUdQWVN5Y0tTRWdOM1hmVFhoV0xYbGxHdEp4cmNMd3NzM0Z2dWVINE0?oc=5)
+*End of life · Politics Home*
 
-Politico reports that a UK assisted dying bill is set to return, with its parliamentary champion looking to Australian models as a template for law change.
+Politics Home has published a House opinion piece arguing that assisted dying should not be introduced while the care system is in crisis. The piece connects the assisted suicide debate directly to real pressures on patients, families, hospices and social care.
 
-**Angle:** This is a top-tier moment to re-enter the national debate before the bill lands, warning that so-called safeguards abroad have not removed pressure on the vulnerable, elderly and disabled. We should contrast political enthusiasm for assisted suicide with the failure to provide universal, excellent palliative care.
+**Angle:** This is the strongest strategic fit: it reinforces our core argument that so-called safeguards collapse when vulnerable people already feel like a burden. We should press MPs to prioritise palliative care, social care and suicide prevention, not a law that would make death appear cheaper and easier than care.
 
-**Possible headline:** *Assisted suicide is coming back — Britain must choose care, not killing*
+**Possible headline:** *No assisted suicide in a care crisis*
 
-### 2. [Three police forces allow gender-fluid officers multiple warrant cards](https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0NmLWgxZFJleWJvY1hRNHpzV0JJVmVDc3NpZXA5Y3dkekpsQk1BLTdxLTMxYWNMSHRzcXJ5aEd2QVVoUTlQVTN2QzF2Sy1kc1dXajFqbDdmN1hlQUVzT0toQ3kzSFZrZXMzM3NhVjV5VktfV21QOTQ4cXNSVGFydGlqV2NRUGRuUE8wU0xfajhpdHRhMm9EQXVzbUpYSjVkbnBpSW00NWVad2g0UG55c3BmX3ktTE1fcGRLaXlHYw?oc=5)
-*Gender · The Times*
+### 2. [Trade unions voice criticisms and vow resistance to transphobic EHRC code](https://news.google.com/rss/articles/CBMie0FVX3lxTE0xbEtHSXJvNDQ2NjdDUDhxN2VuLVdtWmxnbEszUGlOdzB3WGlzTkVObU1YTENHM3N0TWhJWi1lZ0gtaGItY29jR2RHUEJvaUdNVUVtaHZkV3FTcUJfRDdKT0lpRWlSa2IzTXNsajhwTlp2VUhabU1LZENYTQ?oc=5)
+*Gender · thecanary.co*
 
-The Times reports that three police forces allow gender-fluid officers to hold multiple warrant cards reflecting different gender identities, with coverage also appearing in The Telegraph and GB News.
+The Canary reports that trade unions are criticising and promising to resist the EHRC code on sex and gender, describing it as transphobic. The row concerns implementation of single-sex spaces and the legal meaning of sex following the Supreme Court judgment.
 
-**Angle:** This has strong reach and lets us press the practical consequences of denying biological reality inside law enforcement. We can argue that police credibility, safeguarding and lawful single-sex protections are undermined when official identity documents become fluid rather than factual.
+**Angle:** We can say public bodies, employers and unions do not get to opt out of reality or the law because activists dislike it. This is timely and distinctive because we can frame the issue around compliance, protection of women and girls, and the rule of law after the Supreme Court judgment.
 
-**Possible headline:** *Police warrant cards must record reality, not ideology*
+**Possible headline:** *Trade unions cannot defy the law on biological sex*
 
-### 3. [Britain’s equality boss: ‘We treated people who disagreed with us as stupid and wrong’](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcHFqcHlWOU1HV0RfeEp1ZFRhcml4d1doSjI1b0JhTUpLLS1EYWFyRmF5MS1rdC1ZZnh6SndHWEZFbnJtekZBMTR4SjV2SUdBRXpwLUEyUHJXVlJzVkdRdzZDNEJNOUtOZFpKMy1PMldUMXdpOTg0ZHkwbUVmZTY0VmNaWi0xOXJ5YW5walFkV3BiR00?oc=5)
-*Secularism · The Telegraph*
+### 3. [Equality watchdog rejects Labour’s Islamophobia definition amid ‘free speech’ storm](https://news.google.com/rss/articles/CBMiswFBVV95cUxOeldybUc3Yk5XRmEyS1pEV3duTDI3RVNjWV9UdDE4T0g0OUswZmxBMUowWUVXU2prVDhZalcySkNXOUtpN1ZzUC14QmJ4YkhnQ3VEMTdyOHdtZ19RWlpKRDRlZlJIbHhWbWNSYjNnOTU1bUdselRIc0ZRVjhXcjZkZjB3T2ZRWkhWUGg5MTJQZjRLa2RZRk1GRTJoN2RIZ0VKU1YxU25NZ1RPYzRRQ0kwZGdNTQ?oc=5)
+*Islam · London Business News*
 
-The Telegraph reports comments from Britain’s equality chief acknowledging that people who disagreed with prevailing equality orthodoxies were treated as stupid and wrong.
+London Business News reports that the Equality and Human Rights Commission has rejected Labour’s Islamophobia definition amid concerns about free speech. The story centres on whether such definitions could restrict legitimate criticism of Islam, Islamism or religious practices.
 
-**Angle:** This is a major vindication for Christians and others penalised for dissenting from fashionable orthodoxies on sex, marriage and conscience. We should call for a real reset at regulators and public bodies: equality law must protect belief and free speech, not be used as a weapon against them.
+**Angle:** This is a strong fit because we have consistently warned that vague anti-Muslim hostility definitions risk becoming blasphemy codes by the back door. We should welcome the EHRC’s caution and urge any government or public body to protect Muslims from hatred while preserving the freedom to criticise religious and political ideas.
 
-**Possible headline:** *Equality law must stop punishing Christians for telling the truth*
+**Possible headline:** *Britain must not smuggle in a blasphemy law*
 
-### 4. [Finnish Christian MP granted UK visa, too late for free speech conference](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQVNYd0xiYk52M1I4amxCYWgxWTdMOEpBVmJRVlBCNGtSUDRHQ3RYbWtjaUR5VVhBRTc4NEhZTVRaS3E2WHZRMFhFR1JBcGF4OWlnM3I2Zk9FTTdJV0NENEZDT1B0YksxSEZvQzVDYTBxaEVuMlZNZmVJLTFFRDJIZEtNZlZ3M2VUZmFwTVlZNDFmVXVNUkVELXBWcHNJNnNWbzV3WENTT09FTEZoYjZYQ01fWC03a1FZQ3c?oc=5)
-*Christian freedoms · Premier Christian News*
+### 4. [Majority of Britons say free speech has deteriorated under Labour, bombshell new poll finds](https://news.google.com/rss/articles/CBMigwFBVV95cUxPU19GWUFic2VRZjB5Zjk3ekJ0R1FoZ3hfVkljclJKcEtGYWFKdlplSGZDZG8tSEFBX3VxMzE2SHVWNzZwV1ZNSmZxeHhNdi1JRzBTeFZCZlE5YmpXdC10ZnNISTJfTFNZX3dzMG1XbWQ1RjZ5aVI4blVsVHZiR2pYZ3ZIUQ?oc=5)
+*Freedom of speech · GB News*
 
-Premier Christian News reports that a Finnish Christian MP was granted a UK visa only after it was too late for her to attend a free speech conference, with the story also covered by Christian Post.
+GB News reports on a new poll claiming that a majority of Britons believe free speech has deteriorated under Labour. The story is also being carried or discussed by free speech-focused organisations including the Free Speech Union.
 
-**Angle:** This is highly distinctive for us because it connects Christian witness, free speech and the chilling treatment of orthodox believers in public life. We can frame it as another example of bureaucratic obstruction sending the message that Christian convictions are unwelcome in Britain’s public square.
+**Angle:** This gives us a wider public-opinion hook for Christian Legal Centre cases and our broader argument that believers are being punished for lawful, mainstream convictions. We should avoid party-political overclaiming and instead challenge all ministers, regulators, police forces and employers to restore a culture of free speech.
 
-**Possible headline:** *Britain should welcome Christian free speech, not obstruct it*
+**Possible headline:** *Britain knows free speech is in trouble*
 
-### 5. [Labour ‘lobbied EHRC in pursuit of the Muslim vote’](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmp0Wk1vTzZ6QTVMZmdpczFWSWN4cGItX1FqOE91ekdueFhDNnRtSlN5YmRtTFo4M0ZVeTdLVk1uWVdPVUhxYmgyU1NZWENNQkJaN1F2RGZaM1kweUdhNUZ4WmFaWFNhZnRfNmlXMUl1YVpwS2otUjBvZzhXaUNDa0YwRXpHZjNZTVBMUmRtY3pGME9TZjQwdUtwTURvQ2g4?oc=5)
-*Islam · The Times*
+### 5. ['Women from Wales come to my London clinic because of inadequate abortion care'](https://news.google.com/rss/articles/CBMif0FVX3lxTFByc1RObE1KczFwNXFBdjIyY1hURzd4OE1ETy1rWjdWdE1zUWlWWlJ4NzQwcktBQnRFajBCV0ZaSjhLZzlQa00zdUFPNmdvSDFxdzRYQ09GTWlDdGNnUndlbVNOaXJrRHdTZVVUSjRsMlFMMWVla3F0N0Q1TFZSUGM?oc=5)
+*Beginning of life · AOL.com*
 
-The Times reports claims that Labour lobbied the EHRC over issues connected to Muslim voters, with further coverage in GB News and AOL.com.
+AOL reports claims from a London abortion provider that women from Wales are travelling to its clinic because abortion care in Wales is inadequate. The framing presents the issue as one of access to abortion services across regions.
 
-**Angle:** This gives us a timely opening to challenge any political pressure for definitions or policies that chill legitimate criticism of Islam, sharia or Islamist ideology. We should make the point carefully but firmly: equal treatment before the law must not become a blasphemy code by the back door.
+**Angle:** We can challenge the assumption that the answer to women’s distress is more abortion infrastructure. Our line should be that women deserve real support, practical help, housing, financial assistance and life-affirming care, not a system that treats ending a child’s life as healthcare provision to be expanded.
 
-**Possible headline:** *No party should pressure equality watchdogs into policing criticism of Islam*
+**Possible headline:** *Women need real help, not more abortion clinics*
 
 ---
-*Nothing significant today: Marriage, Christian society*
+*Nothing significant today: Christian freedoms, Secularism, Church*
