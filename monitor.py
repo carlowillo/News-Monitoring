@@ -1526,14 +1526,43 @@ five stories on the same topic is less useful than a balanced set. Favour
 Stories:
 {listing}
 
+WRITING FOR THE AUDIENCE, NOT FOR US
+
+Our comment goes out as video and written content to ordinary Christians -
+parents, churchgoers, people at work, grandparents. They are not policy
+specialists and they are deciding within seconds whether this is worth their
+time. Write the "affects", "angle" and "hook" fields for THEM, not for a
+communications team.
+
+That means:
+- Name who is actually affected and how. "Parents choosing a secondary
+  school next term", "nurses asked to sign a policy they disagree with",
+  "anyone praying near a clinic". Not "the public" or "society".
+- Make the consequence concrete and near-term. What will be different, for
+  whom, and roughly when.
+- Give the viewer something they gain: something they did not know, a way to
+  understand what is happening, or something they can actually do - write to
+  an MP, ask a question at a school, know their rights at work.
+- Cash out any abstraction immediately. "A culture of death" means nothing
+  on its own; "doctors being able to raise assisted suicide with your
+  grandmother before she has asked about it" does.
+- Do NOT overstate. If the practical effect is limited or some way off, say
+  so plainly. Audiences punish exaggeration, and being trusted is worth more
+  than one good week of views.
+
 Reply with ONLY a JSON array, ranked best first, no other text:
 [{{"i": 0,
    "title": "copy the headline exactly as shown, so we can verify the match",
    "rank": 1,
    "what": "1-2 sentences on what actually happened, with specifics.",
-   "angle": "2-3 sentences: the specific line we could take, and why it works
-             for us - what makes it distinctive, timely or winnable.",
-   "headline": "a punchy suggested headline for our comment piece"}}]"""
+   "affects": "1-2 sentences naming who this concretely affects and how -
+               the everyday situation a viewer would recognise.",
+   "angle": "2-3 sentences: the line we take, AND what the viewer gets from
+             hearing it - what they will understand, or be able to do, that
+             they could not before.",
+   "hook": "one spoken opening line, under 20 words, that makes someone stop
+            scrolling. A question or a concrete stake, never a slogan.",
+   "headline": "a video title - specific, honest, no clickbait"}}]"""
 
     reply = call_openai(api_key, prompt, effort=RECOMMEND_EFFORT)
     if reply is None:
@@ -1568,7 +1597,9 @@ Reply with ONLY a JSON array, ranked best first, no other text:
         picks.append({"article": article, "section": section,
                       "rank": r.get("rank", len(picks) + 1),
                       "what": str(r.get("what", "")).strip(),
+                      "affects": str(r.get("affects", "")).strip(),
                       "angle": str(r.get("angle", "")).strip(),
+                      "hook": str(r.get("hook", "")).strip(),
                       "headline": str(r.get("headline", "")).strip()})
     picks.sort(key=lambda p: p["rank"] if isinstance(p["rank"], int) else 99)
     return picks[:5] or None
@@ -1704,11 +1735,17 @@ def build_digest(by_section, urgent, used_ai, top5=None, label=""):
             if p.get("what"):
                 lines.append(p["what"])
                 lines.append("")
+            if p.get("affects"):
+                lines.append(f"**Who this hits:** {p['affects']}")
+                lines.append("")
             if p.get("angle"):
                 lines.append(f"**Angle:** {p['angle']}")
                 lines.append("")
+            if p.get("hook"):
+                lines.append(f"**Opening line:** \"{p['hook']}\"")
+                lines.append("")
             if p.get("headline"):
-                lines.append(f"**Possible headline:** *{p['headline']}*")
+                lines.append(f"**Title:** *{p['headline']}*")
                 lines.append("")
 
     if empty:
@@ -2058,14 +2095,23 @@ def main():
 
     manual, why = is_manual_run()
 
-    # An external trigger (cron-job.org and similar) fires the workflow as a
-    # manual run, which would otherwise bypass the weekend rule and the
-    # Monday catch-up. TRIGGER_MODE=scheduled makes such a run behave
-    # exactly like a cron run: weekends off, Monday 48h, once per day.
-    if manual and os.environ.get("TRIGGER_MODE", "").strip().lower() \
-            == "scheduled":
+    # TRIGGER_MODE changes what a hand-pressed or externally triggered run
+    # counts as:
+    #   auto      one-off. Emails, but records nothing, so the next
+    #             scheduled run is unaffected. Good for testing.
+    #   scheduled behaves exactly like a cron run - windows and weekends
+    #             respected. This is what an external scheduler passes.
+    #   catchup   run the morning digest NOW, whatever the time or day, and
+    #             record it - so the next scheduled run will not repeat
+    #             these stories.
+    trigger_mode = os.environ.get("TRIGGER_MODE", "").strip().lower()
+    catchup = manual and trigger_mode == "catchup"
+    if manual and trigger_mode == "scheduled":
         manual = False
         why = "external trigger, treated as scheduled"
+    elif catchup:
+        manual = False
+        why = "manual catch-up, will be recorded as today's digest"
 
     print(f"Run type: {'MANUAL' if manual else 'scheduled'}  ({why})")
 
@@ -2078,7 +2124,15 @@ def main():
         label = "manual run"
         print(f"MANUAL RUN - {MAX_AGE_HOURS}h window, ignoring previous runs")
     else:
-        window, slot_name = should_run_now()
+        if catchup:
+            # Explicitly asked for, so ignore the time window and the
+            # weekend rule - but still record it, which is the point.
+            slot_name = "morning"
+            window = lookback_for("morning", uk_now())
+            print(f"  catch-up: running the morning digest now "
+                  f"({window:g}h) and recording it")
+        else:
+            window, slot_name = should_run_now()
         if window is None:
             print(f"UK time {uk_now().strftime('%H:%M')} is outside both "
                   f"digest windows (08:20-11:00 and 13:55-16:00), or that "
