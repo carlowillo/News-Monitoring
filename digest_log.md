@@ -1,3 +1,83 @@
+# Digest - Christian Legal Centre - 2026-09-03 12:48 UTC
+*Last 6 hours, AI-classified*
+
+## FREEDOM
+
+### Freedom of speech (1)
+- [British ‘terror’ police launch dawn raids on peaceful activists’ homes](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0Z4TG5wejh6LTRTUnRYc2Etc1l3SHlGNWc2dnBHS3Q2QVVLcW9oODEzZGtCTk9sa0JjXzlxbW82X2Y0VHROcnZmTTZjYWRkUFNMa3luT21aeU52NzR4VWhCaEFuYnFBdWtnSDRXTGZNREtETTNvU2FGVjdycUVCWHg4WlY?oc=5) — *thecanary.co*, 08:47
+
+## FOUNDATIONS
+
+### Christian society (1)
+- [A rape awareness leaflet cannot protect British women, only a return to Christian values can do that](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQazhTRHNReXlvRkk0LWhlZUxwWnR4R3FvN3oyc2VVQmcwdkNRMlZiOGpudUNfYjBjZHNGUFd2UHRfTDA5QldDUlhaaTJGYXd0X290cG54M2o3dWl0TFVObHp1TlFUWVhyRng1SE1RbEV0MmlqdjJhUWRoOE1LVGVTRHN5SDBPX0JpYmxOWFlkUURUTW81NUlOT2NxaWhET256dFRVcFdxY1cwSUhidy1Bb0s2RnhPaUczNVFzMXBKZElPOVFSNGNVRXdZZXF2cnA0d3h4VGE2MmlGdWZPTndEdUNFNkEzb3o5eW5xMFJn?oc=5) — *Premier Christianity Magazine*, 08:38  ·  comment  ·  also touches Sexuality
+
+### Church (1)
+- [What Zanzibar could teach the C of E about slavery](https://news.google.com/rss/articles/CBMikgFBVV95cUxQUEYyVmI4aXd6Q3ptTUhDRGVfMUNqTG1iMWFyOFRKeklJZm9LV0pveW5xb2VxeHdMVFZGdU8ybC13OGVJVF91Rl9maG5Zbkwxemk3X1FmMHRCdnBkclVrRm5JZlMwaWRQREVaQ1ppS3RtTkxwbGowQzc0ekpwQkIyLUJCZEd4OUtsMXc1ZkRyTEdndw?oc=5) — *The Spectator Australia*, 11:33  ·  comment  ·  also touches Christian society
+
+## 🌍 INTERNATIONAL (1)
+- [Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images](https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit) — *The Guardian (UK)*, 09:00  ·  Sexuality
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images](https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit)
+*Sexuality · The Guardian (UK)*
+
+A child sexual abuse survivor has sued Elon Musk’s AI company, alleging its Grok chatbot used images of her abuse to generate new illegal sexual images. Musk has denied being aware that Grok had produced any naked underage images.
+
+**Who this hits:** This affects abuse survivors whose images may still be circulating online years later, and parents whose children’s photos can be copied, altered and weaponised by AI. It also affects teenagers using AI tools without understanding how quickly images can become abusive or illegal.
+
+**Angle:** We should say that technology is now magnifying sexual exploitation, not merely reflecting it, and that children need real protection from a pornified digital culture. Viewers will understand why AI safety is not a niche tech issue but a safeguarding issue for every family, school and church. Parents can ask schools what pupils are being taught about AI-generated sexual images and report any suspected illegal content immediately.
+
+**Opening line:** "Could an AI tool turn a child’s photo into sexual abuse material?"
+
+**Title:** *AI, Child Abuse Images and the Safeguarding Crisis Parents Need to Understand*
+
+### 2. [A rape awareness leaflet cannot protect British women, only a return to Christian values can do that](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQazhTRHNReXlvRkk0LWhlZUxwWnR4R3FvN3oyc2VVQmcwdkNRMlZiOGpudUNfYjBjZHNGUFd2UHRfTDA5QldDUlhaaTJGYXd0X290cG54M2o3dWl0TFVObHp1TlFUWVhyRng1SE1RbEV0MmlqdjJhUWRoOE1LVGVTRHN5SDBPX0JpYmxOWFlkUURUTW81NUlOT2NxaWhET256dFRVcFdxY1cwSUhidy1Bb0s2RnhPaUczNVFzMXBKZElPOVFSNGNVRXdZZXF2cnA0d3h4VGE2MmlGdWZPTndEdUNFNkEzb3o5eW5xMFJn?oc=5)
+*Christian society · Premier Christianity Magazine*
+
+Premier Christianity has published an argument that public safety leaflets and awareness campaigns are not enough to protect women from sexual violence. The piece calls for a deeper return to Christian values about human dignity, sexual restraint and the protection of the vulnerable.
+
+**Who this hits:** This affects women walking home, girls heading to school or university, and parents wondering why so much official advice still tells potential victims how to avoid danger. It also affects boys and young men who are often given little moral formation beyond slogans about consent.
+
+**Angle:** We should affirm practical safety advice but say it cannot replace moral formation: men must be taught that women are made in the image of God, not objects to be used. Viewers gain a clearer way to talk about sexual violence without blaming victims or pretending leaflets can fix a moral crisis. Churches and parents can teach dignity, self-control and responsibility long before a crime has happened.
+
+**Opening line:** "Why are women still being told to manage men’s violence?"
+
+**Title:** *Rape Leaflets Are Not Enough: Britain Needs Moral Formation*
+
+### 3. [British ‘terror’ police launch dawn raids on peaceful activists’ homes](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0Z4TG5wejh6LTRTUnRYc2Etc1l3SHlGNWc2dnBHS3Q2QVVLcW9oODEzZGtCTk9sa0JjXzlxbW82X2Y0VHROcnZmTTZjYWRkUFNMa3luT21aeU52NzR4VWhCaEFuYnFBdWtnSDRXTGZNREtETTNvU2FGVjdycUVCWHg4WlY?oc=5)
+*Freedom of speech · thecanary.co*
+
+The Canary reports that counter-terror police carried out dawn raids on the homes of peaceful activists. The report raises questions about whether terrorism powers are being used against people engaged in protest rather than violence.
+
+**Who this hits:** This affects anyone who campaigns, prays publicly, attends a protest or shares unpopular views online. Even Christians who strongly disagree with these activists should care if peaceful speech and protest can be treated as a terror matter.
+
+**Angle:** We should defend free speech and civil liberties consistently, including for people we disagree with. Viewers will understand that powers created for terrorism can later be used more widely, including against Christians praying near clinics or speaking publicly about sex and marriage. They can write to their MP asking for clear limits on counter-terror powers and protection for peaceful expression.
+
+**Opening line:** "If peaceful activists can face terror raids, who is next?"
+
+**Title:** *Terror Powers and Peaceful Protest: Why Christians Should Care*
+
+### 4. [What Zanzibar could teach the C of E about slavery](https://news.google.com/rss/articles/CBMikgFBVV95cUxQUEYyVmI4aXd6Q3ptTUhDRGVfMUNqTG1iMWFyOFRKeklJZm9LV0pveW5xb2VxeHdMVFZGdU8ybC13OGVJVF91Rl9maG5Zbkwxemk3X1FmMHRCdnBkclVrRm5JZlMwaWRQREVaQ1ppS3RtTkxwbGowQzc0ekpwQkIyLUJCZEd4OUtsMXc1ZkRyTEdndw?oc=5)
+*Church · The Spectator Australia*
+
+The Spectator Australia has published a piece reflecting on Zanzibar, slavery and what the Church of England might learn from that history. It comes amid wider debates about the Church’s response to historic slavery and national repentance.
+
+**Who this hits:** This affects churchgoers who hear repeated institutional statements about Britain’s sins but little confidence in the gospel today. It also affects ordinary Anglicans who want their Church to tell the truth about history without becoming trapped in political gestures.
+
+**Angle:** We should say the Church must be honest about sin, including slavery, but its first calling is repentance, forgiveness and gospel mission, not fashionable institutional self-condemnation. Viewers will gain a way to think about Christian history that neither denies evil nor treats Britain’s Christian heritage as nothing but shame. This is a chance to ask whether the Church is forming disciples or managing public relations.
+
+**Opening line:** "Is the Church confessing sin, or just performing guilt?"
+
+**Title:** *Slavery, Repentance and the Church of England’s Lost Confidence*
+
+---
+*Nothing significant today: Beginning of life, End of life, Marriage, Gender, Education, Christian freedoms, Secularism, Islam*
+
+---
+
 # Digest - Christian Legal Centre - 2026-09-02 12:45 UTC
 *Last 6 hours, AI-classified*
 
@@ -6024,154 +6104,3 @@ A politician convicted under a hate-speech law is appealing to the European Cour
   A political scandal involving surrogacy raises issues around family, parenthood and reproductive ethics.
 - [Grandma Who Was Surrogate for Her Own Grandchild, Now 5, Says Their Bond Will Always Be ‘a Little Special’ (Exclusive)](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb0dPRFpIMHlYRG1XaEZWa1FSUlNOMnRNYk1FUGsyOFh6UWhSNzN5bkxwcVdyTjkwanlWOXdQMlVRWmM1ZGNTYWljbTBBekE0Yk1jVER2RDQxdXFyNHVGMC04bnAwMHBuVXpyWV92WTBid1duajJXQVBzU2hualNxOE5YYUE?oc=5) - *Yahoo Life UK*, 23 Jul 20:45 UTC
   A personal surrogacy story is relevant to debates about family relationships and reproductive ethics.
-
----
-
-# Digest - 2026-07-24 12:39 UTC
-*Last 24 hours, AI-classified*
-
-## RESPOND NOW
-- **[Deeply divided Labor MPs to vote on VAD over Zoom access](https://news.google.com/rss/articles/CBMigAJBVV95cUxNT3dsbzdFSzRhVzFXLXBRSG1tcWxmYnNNVGNMLTZvZ1RaVG9oMnJKeTRhY25hMEFubU5CcHZxd1JVMkNsVzMwQ0lRTUZZSy10aFNQUGY2TnB6WGlXeDBFS0ZaX2ZWZXRuZGFJNDcwWEU0QzN6Z1BnZGVpU2djZEhMb2dqMnNBWjBXLWF2OFhnMHJOZ2cwa0MtamZFazRncVU5R3d4TzNNRDEtalljM1hJNDJ5WXRYQ3Y0NlhaSnlLN1pLSThsWkFNUDJuZ3dCMUJtdUJyMlNuU0ZKVmpodE82aGVsbE9qYnhwR2JRcmZnME5kTGstYlhadDRTZXJuRlRL0gGGAkFVX3lxTFBsVXNUaXRPcHl6a0M4UGU2ZGFzcE9HcmVqTHVnQjZKRFlwZ3JoaVp6MExQNUtfT3diQXNuaVc3aFcwWnpmY1BTWWg2TmVIdzRDWFJUOWV2eTlGRXZHSlpWcEJtcW5hWVc1Q09wWnc1dF95VEpScmVLMWpmaVE4X3luMmE2RTQybzlnY0h1cEJIT0FncURqQUU2RGFWeUw2Qnc2ZnFKNkdkczUzc2ltUGJQc0JwSHBiME5wVFVyVmw0Z0IxdEtldENVbnpvNWlBZ292X0hTVF9ZV0JQbHR6dVJSOWxOamxWaGhJc1JUbnlYU2lDMmJHYlVsbkZuZkRaMmczMjFWWmc?oc=5)** - *Toowoomba Chronicle*
-  Labor MPs are set to vote on voluntary assisted dying access arrangements.
-- **[Why is another assisted suicide bill going through the UK parliament?](https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3QxcXpULTlHek1RcHVqQkZjUmdValE3LWJZSXV1Q2pFNmNjRlRfR3RNdHhPRGd6djU0dU9vWGwxaW1UMjhHQnp1RTVROWdiWWlGQXhTUHN2M0NwOHZybktvMWNvdllMUnZ2b1Q5X0FOUFJiRWdVUUE2RXZNTUY5Z1g5d0JQY1JnSnozcnlOdDFrLUZrV3F4bDRoNDhleE9XcjR1VzdZbVVYeWxRNmRJ?oc=5)** - *Crux | Taking the Catholic Pulse*
-  The article discusses another assisted suicide bill progressing through the UK parliament.
-- **[Famed UK pro-life politician murdered in horrific attack at her home](https://news.google.com/rss/articles/CBMinwFBVV95cUxObmEtRDJTSlJRSUgybTFvVzNjYUJ6dmpweEpaXzNwVnNwN1M4WS1LUnNYMUJneF94dHdGVUlCTmRUWjAtQ1FvTVBhb2NoTFJaVUhVOTZicU9KZU5kNUlMZmpYa3NjazFnbzlSMnZmNjk4bTd4UGtwaU9LUm44TGs2NldBUEY1X096VWtiRHNPX2JkRjBKbC1ab1QzUGctQ1U?oc=5)** - *Pregnancy Help News*
-  The story concerns a prominent UK pro-life politician associated with the abortion issue.
-- **[Finnish Parliamentarian Convicted under “Hate Speech” Law Files Appeal to European Court of Human Rights](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0FmLUZlaERDWGkxZ0JKZHA2OXRDY3JRVzRuaHZpZkxDNXFYYTdDZURINXY5TXR2bjJKWWNMV3NoUWw0aHV5M0lGbmVPM0M1MzFqRVVLbnJPcXNzSlRGR2x3eG9zQWlkS1NuakNIZmdoWlQ1eXBDakN3a2FZbm5UWDQxUDhVQm85Tkl4RGNHdGJfNFhOcnZPNDlFZVg5SW51c2NBQ19raDM?oc=5)** - *Alliance Defending Freedom International*
-  A Christian politician’s prosecution over expressed beliefs raises major free speech and religious liberty concerns.
-- **[Puberty blocker trial could be halted next week](https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUNNY1hoXzFfRktDN19EN2pzbWtQMlRQNHNPZVVuV1o1MEpUeFZJWkYzS1NZbm5JdUhHNjhmTzJlclZRSF8wRnhmdURBeDBlUURSMmtFTWk2bkkzMHJtV01fbzBTamI4bXdVQUU3ZU52bVRQTWktY3FzSDh4dU54UEszajlQRDE1c0Q1MkFKNXVYbEx1X3k0?oc=5)** - *The Telegraph*
-  A possible halt to a puberty blocker trial directly concerns child safeguarding and gender medicine.
-
-## Assisted Suicide / Assisted Dying (14)
-- [France Has Approved a Landmark Bill to Allow Assisted Dying. What Other Countries Have Legalized It?](https://news.google.com/rss/articles/CBMihgFBVV95cUxPbTBXc01FdzhfeWl2VEN5MmNlSGRpdUg5bjdxam81eHlIRnFqZzJQeEFNWUZJQlpqZzZUelV6NmdCUmlXUEpHV2NGNlhSVzJONmRHN3ZHZks3azFxUUp0dXZyb1BBcmhJekU0M1FYQ3B4VWJ2dEdKTDVFQkhFRk14NVNGckhfZw?oc=5) - *AOL.com*, 24 Jul 12:33 UTC
-  The article covers France’s assisted dying bill and compares international legalisation trends.
-- [Why is another assisted suicide bill going through the UK parliament?](https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3QxcXpULTlHek1RcHVqQkZjUmdValE3LWJZSXV1Q2pFNmNjRlRfR3RNdHhPRGd6djU0dU9vWGwxaW1UMjhHQnp1RTVROWdiWWlGQXhTUHN2M0NwOHZybktvMWNvdllMUnZ2b1Q5X0FOUFJiRWdVUUE2RXZNTUY5Z1g5d0JQY1JnSnozcnlOdDFrLUZrV3F4bDRoNDhleE9XcjR1VzdZbVVYeWxRNmRJ?oc=5) - *Crux | Taking the Catholic Pulse*, 24 Jul 11:10 UTC
-  The article discusses another assisted suicide bill progressing through the UK parliament.
-- [Why is another assisted suicide bill going through the UK parliament?](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTXBoT1BRZGR6WHZsSG5ldWk3NV9YZExCTUN6Wjdyd2M4R2FOV0sxc2wwWTNXZGNHN2N6aFNGakpRN0VUaXItZUt2SXJVZXR1WWlNUW8yTzBDYWp1eUN2VjdmNkFjRkVTY2xaQkg0UmJkdTRQMFo1WEd5ZUtPU1pyNHdFY3RGd3hyQnZId2lpWDhwOHF3eXVRblM3YVY3dEhQX3Z1TlplSkg0bXdhc2JvUg?oc=5) - *Crux | Taking the Catholic Pulse*, 24 Jul 11:10 UTC
-  A UK parliamentary assisted suicide bill is directly relevant to our public policy work.
-- [Be 'resolute' and 'tireless' in valuing every human life and opposing legislation that will legalise assisted suicide, says Bishop](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BZGlyd3dZcUtrNmFwSkVYNDhBSHhkczhZbF9wak41VVFVakEwY2lERWtzZEp5RnE5R2Q1dTlaMUNPYjVoNzZnNkdhMDY4UlAtX3B4dTVyYmlRdms?oc=5) - *Catholic Church in England and Wales*, 24 Jul 11:10 UTC
-  A bishop is urging opposition to legislation that would legalise assisted suicide.
-- [New York Makes Nuns Fight for Religious Liberty — and Their Patients’ Lives](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSko2MzhNTTA5OEN0bWxvQXBqdmJLUkcyRmdVaGNFYU94VjJuN2J2TkxPVkFUNWtBSk1IY01TZHVzMnloMXZvejFjTnprZjhYaHJaOHB1QmtSOTlSYW10VHN6NndmU1dvNzlrd2wydkM1NG04RGRtRFgweFZlQy1YSjNVcXlKT1U1ZXlkVXUyU05DOHlxWmphbkhQOElDYjJjdmJRMlpzWENLLS1QYTZiSFQyVUtxTlgx0gG-AUFVX3lxTE9IaUc1U3dJZmZTVFd2UUxFb200b05kRDJadFJxelpQWVZkbTlWOUpoUVZ2SXB4RjAtVVU2aUZJYm1DUUF1YUtSOXRkQTRfRDFLUFdSSkwtbVlhUGJCcjJRc05MenFTanRzOURUMkNlRWNsWEdfLW5HWTVGNWxBZnR3UXhRVFRMTFJYaXZMTFlsYUEzOV80N1ZqaEJ3NXhPOFJjd0tZYlhLWjQ4RnZZbmUzbG4yaU5UM3A0R0NyZGc?oc=5) - *National Review*, 24 Jul 10:30 UTC
-  Catholic nuns are challenging assisted-suicide requirements on religious liberty grounds.
-- [Single controversial issue tearing Labor apart](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQWx6VDBGSTU3SXVmTWpyV1NDVms5UVhYd1lJbVNWUU8zV3E0Ums1dnFkYlp2Z3FMTmNST0RtV2NqaXVJaThyUXdHX2REWmx6Z2xuZTYzdjdBLXBCbWtuQzVOUXVXWmVRbkFTMWViRm9VV1YwdEFUTE85ODQzbktkTDRJZkFmMHhIUGhKVUVWRFZ0Um1jUUZ6a2lJQkl5Rl9iVldlODBYdjhJUkZtMDNKN29LSzFxVmgzb1RrQUtLSmpIczFsWlhna3ZOYkw5YkFXWm1YTWc3R0J2a3BrT05KMFl1bENCajYwLTRr0gHwAUFVX3lxTE54ZUVNVGR4dUlFemE5NmhraGxQYTZXWFo3cG1jcUVBakdKa1QxdkNJT0JDa3gwWVZNekhrYW9YbGNyd3g3dUNuMUN6NTJ6MTVXR1VxY0QyaHFWaGdZT2dNdmVuLVdLQUtTcWJBQVgwUWVobUhOWGljNUdtS3VDQXIyWjJYTGItTld1WUEtUllFcWZ0RVZBSVlJYUxaR3MteFRZWUplV2VUOFJiYi1oS2ZtdXRzUlpqTndPSkpqM2hoNzhDdnIxZF9fUWMtek1yYzN5UVpwUE1iTTQ5TVRkRHU4UURRWER5SFhHcE5wMHF5UA?oc=5) - *News.com.au*, 24 Jul 05:09 UTC
-  The controversial issue dividing Labor appears to be voluntary assisted dying policy.
-- [Deeply divided Labor MPs to vote on VAD over Zoom access](https://news.google.com/rss/articles/CBMigAJBVV95cUxNT3dsbzdFSzRhVzFXLXBRSG1tcWxmYnNNVGNMLTZvZ1RaVG9oMnJKeTRhY25hMEFubU5CcHZxd1JVMkNsVzMwQ0lRTUZZSy10aFNQUGY2TnB6WGlXeDBFS0ZaX2ZWZXRuZGFJNDcwWEU0QzN6Z1BnZGVpU2djZEhMb2dqMnNBWjBXLWF2OFhnMHJOZ2cwa0MtamZFazRncVU5R3d4TzNNRDEtalljM1hJNDJ5WXRYQ3Y0NlhaSnlLN1pLSThsWkFNUDJuZ3dCMUJtdUJyMlNuU0ZKVmpodE82aGVsbE9qYnhwR2JRcmZnME5kTGstYlhadDRTZXJuRlRL0gGGAkFVX3lxTFBsVXNUaXRPcHl6a0M4UGU2ZGFzcE9HcmVqTHVnQjZKRFlwZ3JoaVp6MExQNUtfT3diQXNuaVc3aFcwWnpmY1BTWWg2TmVIdzRDWFJUOWV2eTlGRXZHSlpWcEJtcW5hWVc1Q09wWnc1dF95VEpScmVLMWpmaVE4X3luMmE2RTQybzlnY0h1cEJIT0FncURqQUU2RGFWeUw2Qnc2ZnFKNkdkczUzc2ltUGJQc0JwSHBiME5wVFVyVmw0Z0IxdEtldENVbnpvNWlBZ292X0hTVF9ZV0JQbHR6dVJSOWxOamxWaGhJc1JUbnlYU2lDMmJHYlVsbkZuZkRaMmczMjFWWmc?oc=5) - *Toowoomba Chronicle*, 24 Jul 05:08 UTC
-  Labor MPs are set to vote on voluntary assisted dying access arrangements.
-- [Move that changes assisted dying forever](https://news.google.com/rss/articles/CBMic0FVX3lxTFBHbHRwXzlPY0t6MUdmZm8xREhfVXZPME5tYlI2Nnk2TU10bk9ZYUo5cG0wakJCMzZFZWszWWJHYTlPWUZiUzJZTVBmcWpKT2JMdndZenlmRmxjbTlXc2RheWRLcDhrV3JGZ2ZaRGpDYUVUb0k?oc=5) - *Yahoo News Australia*, 24 Jul 04:50 UTC
-  The article concerns a significant change to assisted dying policy.
-- [Labor backs telehealth for voluntary assisted dying](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdmxUSGMwdzQ5dTNqVFYyWWd0VGdJdG5jRFBwejVkNmhRR0pOMWx5NXFGUkVtd2kxWGhEQnRZdEl1S2pTVGpycG85bi0wZXFvaUU2eWwtWnhXdUNLRlJlbW9FSmxWUTcxdXhnU05kdmZBOHhpNHp0TWRhWTQycWFmZkUxMzE1azh4d2c?oc=5) - *Yahoo News Australia*, 24 Jul 04:17 UTC
-  Labor has backed telehealth access for voluntary assisted dying.
-- [France votes to legalise assisted dying](https://news.google.com/rss/articles/CBMif0FVX3lxTE1QLU1kMmw4N19IblZ2M1ZWZUtZQmttaERXQVVvX0tjc1VGZ1c4N0l4Z3QwaGVYMFJNREx1akpFUk0tZWlmM0k2UWVPSjlLSUxCUkxvS3ZFZGhQQUwxTWJhVnF1Y3V5eGdFQXJoVHMyV1M5QVI2cFBDaHFvVlhqWG8?oc=5) - *Today's Wills and Probate*, 24 Jul 02:15 UTC
-  France has voted to legalise assisted dying, a major international development in euthanasia law.
-- [Catholics Sue New York Over Assisted-Suicide Mandates | EWTN News Nightly – EWTN Great Britain](https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3NCNU5kYU1NNjVhWDJsRGRkZ1NhT1dZaW1PUnk2MUdnWmQ5WDhveXlMWXJrVG80WnJZTkJmVGxSd1V1dTljdF9nNGdSaVBTOHVDS3JVRWd6alE4UWQ4Y3VSQU5pMTNacEp3d05oWGxZTXNVU1RhekVXVUI5Zi1oWm4tUEw3QzJBMFZkQmpaVGpPRlJfZEVhSkp4cw?oc=5) - *EWTN UK*, 23 Jul 23:13 UTC
-  Catholics are suing over assisted-suicide mandates that may violate conscience and religious freedom.
-- [Catholic nuns sue New York over physician-assisted suicide law](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsUWdMVk81Vl9JRjhybVZnTTNWVDM2S3ppZkhHWGp3Zl9aQnRSc2ZuRkQ3WXdRWEhqY2JIMEs3LVVLaUFZb1c1cWZyUXVCY242U2ZsdnRn?oc=5) - *Fox News*, 23 Jul 22:46 UTC
-  Catholic nuns are suing over a physician-assisted suicide law on conscience grounds.
-- [Catholic nuns sue New York over physician-assisted suicide law, say it forces them to violate faith](https://news.google.com/rss/articles/CBMiggFBVV95cUxQLVNlQTJiWWhmTDhva3IyUzh6dTRIRTZwdWV6SkFFcXNMakgtcE1pd2dRY3lINDJHZFBERjhiM1c2OWttUUxEbklMdUZ4UUhVOC1FcE9CcndVMlhNaVNJM1V5R1h1dTYzUWdQeU1ZTWpBWkFYRkxLY01nT1FDUnB1UHhR?oc=5) - *Yahoo*, 23 Jul 21:31 UTC
-  Catholic nuns are challenging an assisted suicide law on conscience and faith grounds.
-- [Kathleen Stock: "Twenty-somethings with OCD, ADHD, and eating disorders are getting euthanized"](https://news.google.com/rss/articles/CBMiakFVX3lxTE1pRVdmcVFjRVVoeGd2UndDOVZxMF80a3dQdDhsS0doeW5IRXpDWk5tOXhPLUlBcGZmdDhQSGlHeDI0SFVXaEVCUlZaRWd3RjluMEk1NVNMUmc4NENwZFVwSmJBc0htVXRXdkE?oc=5) - *public.news*, 23 Jul 14:07 UTC
-  The article raises concerns about euthanasia being offered to young adults with mental health conditions.
-
-## Abortion (11)
-- [South Korean Woman Acquitted of Newborn’s Murder in Late-Term Abortion Case](https://news.google.com/rss/articles/CBMimgFBVV95cUxNb2g2Z3BTb19fU21MYUJxa0FSU1VfRW5RV0RJOGowRjBpWmpfcDItQ1JtN3YxU2RVSkFpU0I2NnA3ZG9sVENpWDRraHd2UVNpc2g2enNicW5uVTdFb2RkM0dJbHhDRzJ5cUtwZTRXcjZZSWxJbW1aMlVNbndQX3hIbEtKS2hUVXhnVE5Vc1hXdDRSNWI5UWlncDJB?oc=5) - *Beijing Times*, 24 Jul 09:59 UTC
-  The case concerns late-term abortion and the death of a newborn child.
-- [AI agents are nudging pregnant women to anti-abortion sources](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeEc0RVJXMG1VZVR3RjNPRklZaXhPM004Z0JWTzFHRUJXUko2ZmVmWUNCdG12ZXd5NTVEU3NVaFNpcE1rUHJ2cmcwYTJXYmp5cnpORHo0OWctb3NER2ZkV2FmMnNmZHNQZG42MGJjYnkzYlIxTmpNdmp2YVdnTnQ5aFVhX0ljOXZOb2c1ZkppMzZJTTJobEZ2OTZva2JZQVJtQjI4X01TNUE2eUhuQVhfRnlYc1ZtSktSdEFnYzZPbHNBWlc3VjdqTU5fX0lHVVUxVy1WV3hKRV96Y3ZUaWdZUEZFSlliQnM?oc=5) - *openDemocracy*, 24 Jul 08:28 UTC
-  The article concerns access to pro-life or anti-abortion information for pregnant women.
-- [Famed UK pro-life politician murdered in horrific attack at her home](https://news.google.com/rss/articles/CBMinwFBVV95cUxObmEtRDJTSlJRSUgybTFvVzNjYUJ6dmpweEpaXzNwVnNwN1M4WS1LUnNYMUJneF94dHdGVUlCTmRUWjAtQ1FvTVBhb2NoTFJaVUhVOTZicU9KZU5kNUlMZmpYa3NjazFnbzlSMnZmNjk4bTd4UGtwaU9LUm44TGs2NldBUEY1X096VWtiRHNPX2JkRjBKbC1ab1QzUGctQ1U?oc=5) - *Pregnancy Help News*, 24 Jul 03:02 UTC
-  The story concerns a prominent UK pro-life politician associated with the abortion issue.
-- [Texas Panel Overturns Abortion Injunction Against Midwife](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5laHNuaUVqLUlsY0ZERHBwYXpxQXFqRGhYMXAzMjcwc2R3b3ZfVks1NzZvZll0ZVNuWnhWU0JRTXJVU0tqeWxmbktQZWRGTm9oNzUyXzh30gFWQVVfeXFMTmVoc25pRWotSWxjRkREcHBhenFBcWpEaFgxcDMyNzBzZHdvdl9WSzU3Nm9mWXRlU25aeFZTQlFNclVTS2p5bGZuS1BlZEZOb2g3NTJfOHc?oc=5) - *Law360*, 24 Jul 00:19 UTC
-  A court decision concerning abortion restrictions and a midwife is relevant to abortion law and practice.
-- [Massachusetts House Passes Bill That Would Allow Late-Term Abortions, Strikes Down 24-Week Limit](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVWp4Zjkxdlk2MGMtbFgtdFA3aGZNeW8yNU1TZV9WcE9sX0NXRzNBeDlwRUZFU1ktYkpmbUllQjlhNkljY2xvNktIcF9BZF9xZGM2OWVybXZSaThnQXJsTVY2S2g3eHZGTFdoakRaUklGMUdjYnlvakY1OElHRXBCTlFyZEFfVWxUVUoycV8wTjg1QUhfTF80YzVlTVJmWHkzRzNQWlN5Tkl4V1JZRGlyTVBpem1LZzdJVkVMMUZTMEg4Y1Q3QnpwTGMtekswNVB2dkpLdDZGRVg3Z9IB3wFBVV95cUxQaFh6bDR3RFYyQnlDeGdLZUZiLUgyNUUxQnRDelcyZ05ydG16V0U3RE5FQ280aTh4ZFMzU1JiVksxSkJNbzdLZ3lNOTcwOE53U2lZbklTdnFxTTFybnBZTGZTRG5CRjJnRERyS2dqUy1hVUNDTVRrdXp3Q2JDR0RsWTdVRmNOMHZLWGdrSjZDWHI3TFl3MklCbFd2V1ZXZDF6REVwMUhFRTVZS3hISkpyNXg3WjY0Zms3cHBXc1h3V05sV1lNQTd4QjZQclRBQVNMUkhSYnFTdXJSeEZ1Q01J?oc=5) - *breitbart.com*, 23 Jul 23:17 UTC
-  A legislature has passed a bill expanding late-term abortion access.
-- [US lawmakers seek DOJ investigation into deaths of five aborted infants](https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0FWUnVPWHZlWFA4TjJScjRGMjhLLVc1R0JZNXloalcyUElOUHJ3eWFxTDNCcVZEVE9BLWVUZlI2eXhmTUYzdW91c2JTbEZrOVhUa0laWG1WdXlMVXV1UXRnS3ZuMGFaVzFqV3F3RjNzamptVWRremh1Y09xYTVLNlRtSUNHTk1FYmtjZEVPd2V0bjBjbkZ1RFM2UG1qYV91RmJkT0hpdFJtWXU3?oc=5) - *The Catholic Herald*, 23 Jul 21:50 UTC
-  Lawmakers are seeking an investigation into the deaths of infants following abortions.
-- [Planned Parenthood to Get Over $800 Million in Federal Funds After Trump-signed Ban Expires](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWVh5VEI3R2Jmc1M5ZklTMXYzd0ZkV1FBOGdxZUQxNk5rVDhZN0dCSzV1WEJORm5pRnhodUhCNHpEQzFrUEhpMXByVHo3ajh6cFh5dWVFTkloQ1JvYkYwWGdkVjhRSTFoZjBFRDZUSnhlY1dENVU4emhRcVZnTWx1S3FfOGEtcTVGVWZhX0FBWlU0eHpQblk4Q2JvMi1pRkl1X3dzTGFESjlJSjY5aDMzbTVhZXVhRDlERWFFSW9ySlNpN0JBV2VxVEd5TlFNVm56cldWYnNTR24?oc=5) - *Billy Graham Evangelistic Association*, 23 Jul 19:40 UTC
-  The article concerns federal funding for Planned Parenthood and abortion provision.
-- [Micropremmie born at 23 weeks graduates from hospital after six-month fight for survival](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaVQ5dkJRdzVrQ2NaVWhicElKS2JxaDA2eFNpUUZYYjl0elh4MnhHMkwwY1VnN2lKN01YbkVzSzYzazZuWlE0VW53NzdJTTlPdDBxclI5ZjZhaHEybDltdkowTkxNSmZKMTF6aFpnTVQwR1IzbGFCX0pGX0VaeEhtZ2RvTlA1U0NOTDFnSWxSUzZydWc0eFNudzVMZXZtbXFYLUdtYTNBTjl2c0t3NkxWOVRxZXFQM0RLdXNtOQ?oc=5) - *Right To Life UK*, 23 Jul 17:00 UTC
-  The survival of a baby born at 23 weeks is relevant to viability and abortion limits.
-- ['It's Pro-Control': Olivia Rodrigo Slams Abortion Restrictions While Revisiting Texas Woman's Near-Death Ordeal](https://news.google.com/rss/articles/CBMizAFBVV95cUxQNU9BWHpYZ2VIbnQyYzNsVjdjTVVLTmNiaWo1Q25fdXBMT3ZnMmNiOEZGYU4xWmVVTnc3WWdtRFN6d1RkSGh2SFRCeGZuZkpHbHg2b0FwNVhLNXJseEJacVA3b1U5T0xPSERPc2E2enVKemVEZzRTTS1lcUVrTFI5b2x3SExrNGxyRDZNR2RBMzBBZ0dackF6Vlh5S28yZ1Vta25CUC1MNTA4NkpXc3NoZlAxVldxWW5MT3lxNzkyd0FIQnFLcHY4TVFNWmg?oc=5) - *inkl*, 23 Jul 14:40 UTC
-  A prominent celebrity is publicly attacking abortion restrictions, shaping public debate.
-- [Abortion Statistics By Demographic And Facts (2026)](https://news.google.com/rss/articles/CBMic0FVX3lxTFBtU3hYVW9mU1VxNVhXVFNYQUlnQmJsRk80TEgxYTFRSUlzTTMtbEtHYTJ4NTA3YjZnN29jQ0pmMVRVd2cxVEpJU2dSNnh1SGdTQTNJc3Jaam1uNE05dWQ0V1RYMjRQUVpMeWJpdVZJUjJxQ3M?oc=5) - *Sci-Tech Today*, 23 Jul 13:24 UTC
-  Abortion statistics and demographic data are relevant for evidence and policy monitoring.
-- [Public opinion on abortion has shifted 4 years after Dobbs decision overturned Roe v. Wade](https://news.google.com/rss/articles/CBMif0FVX3lxTE9VMjdVNGJ2QWNhb1R1VkNzQ1ppU2xoOWNUTVh4Uk1fckNueVI2RjRvNjlEdW5FYlNjcHFEeWMtRmNZY1FMTy0zNExSNHhxV2h0NS1xQ2ljTGI1LUN4dnE0S3ZMSktIQWc0MzA5b2k2MGhxRGZTLUl0cHkycm1VMlU?oc=5) - *Yahoo News UK*, 23 Jul 13:04 UTC
-  Reports on shifting abortion opinion after the overturning of Roe v. Wade.
-
-## Islam (9)
-- [MP who claims to hate Sharia Law also pretty keen on implementing parts of it in the UK](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVVMydTN0Qk5tcXZnS09IOTFCX0pCVkEtWWQ3bjVFelI3cVZJY3FXR1ZsYmZEV1QzblZQR3hnQjFEa3BESXplX0R3WThDRDV4VFozRTY0YmJwQkxQbFlEOEFiNVBkN2JhV0lwRkRYbmt5eTNGRXdrWTlFUjZScmdoa3J4MXhUNVUxNDJRYWhQMk83RktoZmtBTWpsRjF0d1NVSlFWRlAwN3VzbXY5VzBJRGdELXNHcEdFdllfY25n?oc=5) - *newsthump.com*, 24 Jul 11:32 UTC
-  Satirises the debate over Sharia law and its possible implementation in the UK.
-- [Elon Musk, Islamophobe](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TZmtUa0VPejVQeWh5czBWX19sZkJHNVpUVEkyMGowRDFVcnVFbUprcTk2OGhRZFNsWFRVMTlCSkJzN19JRFdJd1oxVWxzd1puUVNn?oc=5) - *Zeteo | Substack*, 24 Jul 11:03 UTC
-  Accuses Elon Musk of Islamophobia, relevant to wider discourse about Islam and anti-Muslim prejudice.
-- [Pride with a dash of prejudice: How the Spectator embraced the narrative of anti-Muslim bigotry](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWndQOElzZXdycjRGWmNaMVVWakkzZXJJYnNiMmQ4QTQ4bjBmTnExUkxrbEVVZnh5bnlWaXhpeEstaWY1RnNCSHVUNkJqSWFIVGM4eXlnUTBWZG5qTXU5ZkZyb3NyOE51aURRWGpMZzNyWkVBY1UxVGJjWWZkVkVMYkY0RFZfS2hnVnpiZ0dQckNMd3R3MDdzcmR0WkNVQWNTT25Tdm1Xc1dJM29LeWVjSA?oc=5) - *Middle East Eye*, 24 Jul 06:21 UTC
-  Addresses allegations of anti-Muslim bigotry in UK media commentary.
-- [Empower Hour with Tommy Robinson: The Islamic Invasion, Special Presentation July 2026](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekhvN0liZzF0WGZUT3ZHQ21zMWhOeTBjV0p6OWgwSmdHUVdzVGhyQ0F4dXlXT3dDcGphd3AtR1ZpWmsxUklkck5GMkVtZlBWY2N4dFVyS1IxOWlnRUFjYVdTbW11NGx0T1BUdlBzMDRsTTZXc294X0FBVlpzU2FrRFRFWDJFOVNyU1pQSS1ZNzNXVHZoajJnS0FKbnoxaEl5MDhHYkRXYkpMdw?oc=5) - *action4canada.com*, 23 Jul 23:53 UTC
-  Promotes a presentation framing Islam as an invasion, relevant to public discourse on Islam.
-- [How Mayfair became an Emirate The capital has sold itself too cheap](https://news.google.com/rss/articles/CBMiaEFVX3lxTE44T0lzUTg4ZEJPa3dMYm5xN0JZcm5Kb0o4dG5OUjBFTC1zb19DWDI1blR3aDhvOTR3UU4wVjhTTXE3eTlfUzh5UnZxRmc2MGdOWk9YLUFoam5XSXRoUnpDT1Z0QWU4d1hL?oc=5) - *UnHerd*, 23 Jul 23:05 UTC
-  Discusses Gulf/Emirati influence in London and its cultural-political implications.
-- [The 250,000 Lie: How Reform UK and Restore Britain Are Exploiting the Victims of Grooming Gangs](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZnBXbXpLQlh3NzRnRWl1MHR5MWxvUEt4YVEwOFNVR3pMRVU5cE8wa3RqSE4zZnU2d1ExZ3BTNGtYSGRrd3YxZU9LTmNGdGxPUTcyaGp0N1JPQVd0eXNQYS1iS043Mkd0MU1oZW00d3RFYV9XOWJWaVdpUDF0ZWh3SEktTXZGZ1UwVFZLcWhYeko0dW9WR3RZQkNsa2o0RFRDbE4tS3FWZXdlSUdocUR6QkVJUjI4ZkE?oc=5) - *Dorset Eye*, 23 Jul 21:03 UTC
-  Covers political use of grooming gang claims in a debate often linked to Islam and community relations.
-- [One UK mosque attacked every 5 days as security funding stalls](https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUxreUNnMXlYQzdISEVjNGNZMGdMTzRqZnBXUUluS0xiVFJ2cG4xSkRrckRJSkw0WW8xdGNBRHVKbHRwUktYX3BVYlNaRG9ab2dOQTZ3cENjQWo0X29iaHNVS1F1cjdQclFncXhYNzNRbXROSnVNcm1ldUdNMXlsOFljQVRyZ2E0clRzSklTMjlfTHZZN3dz0gGXAUFVX3lxTE81TGt5Q2cxeVhDN0hIRWM0Y1kwZ0xPNGpmcFdRSW5LTGJUUnZwbjFKRGtyRElKTDRZbzF0Y0FEdUpsdHBSS1hfcFViU1pEb1pvZ05BNndwQ2NBajRfb2Joc1VLUXVyN1ByUWdxeFg3M1FtdE5KdU1ybWV1R00xeWw4WWNBVHJnYTRyVHNKSVMyOV9Mdlk3d3M?oc=5) - *The New Arab*, 23 Jul 19:06 UTC
-  Reported attacks on UK mosques concern Islam and freedom of worship in public life.
-- [UK mosque ‘attacked every 5 days’](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kZUFPT1J5QThHMHR1TnYweE9mclg5YzF4WEVqeElTam95TzZnTHJ0SFZnRHZrbXBnMzE2WV9ReS1KZzdpakJ2YTV3NzRzdTA?oc=5) - *The New Nation*, 23 Jul 18:56 UTC
-  Reported attacks on UK mosques concern Islam and freedom of worship in public life.
-- [‘250,000 victims of rape gangs’ is not a reliable estimate](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CUFliRUhQNV9SWFJBeHFUekZUY0lnOXhBQk44WXdPT2hnUFo0NnMtMFQxQVRjODZkNmdnVzA5NFFJR0hDQnY0OVZVbGxab2hjYWMyemlxMHR0WDlzNGdxT2o3TlNtOTZW?oc=5) - *Full Fact*, 23 Jul 15:01 UTC
-  Fact-checks a high-profile claim about grooming gangs that features in debates about Islam and integration.
-
-## Religious Liberty (13)
-- [The CofE is keen on social justice - until it comes to Church schools](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGdzbjdyR1ZjY2RTV01XcVRkRlE1VjhWZzFBWVBIZTNtckRTTHRyTEE0VFRUb0szcE1JSzBuVlJBRUxOYmlrVTJhUFRzQXNIYXV0U0ZZZXQzYmdOaDBWem5FSU5EeFEtVVUxRHRtcTNGQUVpREJlZFFiMmlWU2FyQmVZZ0FkWW9aak9tRXZfZjVaR015OFZZaDZ1UFRzeDcwcFZBQk5NOGptQng3R2kzLU5HNA?oc=5) - *National Secular Society*, 24 Jul 11:30 UTC
-  Criticism of Church schools bears on faith-based education and the freedom of Christian institutions.
-- [Finnish Parliamentarian Convicted under “Hate Speech” Law Files Appeal to European Court of Human Rights](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0FmLUZlaERDWGkxZ0JKZHA2OXRDY3JRVzRuaHZpZkxDNXFYYTdDZURINXY5TXR2bjJKWWNMV3NoUWw0aHV5M0lGbmVPM0M1MzFqRVVLbnJPcXNzSlRGR2x3eG9zQWlkS1NuakNIZmdoWlQ1eXBDakN3a2FZbm5UWDQxUDhVQm85Tkl4RGNHdGJfNFhOcnZPNDlFZVg5SW51c2NBQ19raDM?oc=5) - *Alliance Defending Freedom International*, 24 Jul 10:57 UTC
-  A Christian politician’s prosecution over expressed beliefs raises major free speech and religious liberty concerns.
-- [New York Makes Nuns Fight for Religious Liberty — and Their Patients’ Lives](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSko2MzhNTTA5OEN0bWxvQXBqdmJLUkcyRmdVaGNFYU94VjJuN2J2TkxPVkFUNWtBSk1IY01TZHVzMnloMXZvejFjTnprZjhYaHJaOHB1QmtSOTlSYW10VHN6NndmU1dvNzlrd2wydkM1NG04RGRtRFgweFZlQy1YSjNVcXlKT1U1ZXlkVXUyU05DOHlxWmphbkhQOElDYjJjdmJRMlpzWENLLS1QYTZiSFQyVUtxTlgx0gG-AUFVX3lxTE9IaUc1U3dJZmZTVFd2UUxFb200b05kRDJadFJxelpQWVZkbTlWOUpoUVZ2SXB4RjAtVVU2aUZJYm1DUUF1YUtSOXRkQTRfRDFLUFdSSkwtbVlhUGJCcjJRc05MenFTanRzOURUMkNlRWNsWEdfLW5HWTVGNWxBZnR3UXhRVFRMTFJYaXZMTFlsYUEzOV80N1ZqaEJ3NXhPOFJjd0tZYlhLWjQ4RnZZbmUzbG4yaU5UM3A0R0NyZGc?oc=5) - *National Review*, 24 Jul 10:30 UTC
-  Catholic nuns are challenging assisted-suicide requirements on religious liberty grounds.
-- [Further group backs removal of church status from Pembrokeshire school](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWHVRWkRBUVdHVjRkSUdlZzlwdVI1eWVYX3VFbEw1NUlsWnZNWHRLQUhTUWFESlVTanFrcGtjb0ZvX1lBdWZ0UTdwSFFCMnpyT05WZlR2QWI2cnJadlQxR25iQl9LMFlpLTR4WkhpbXRLU3hCU0lTZzk0R0JBUVByN3g2Y3ZMN1VFV2RZb0hIZG5CWW95YlBFcG0wQ09uQXJSaVVV?oc=5) - *The Western Telegraph*, 24 Jul 04:00 UTC
-  Removing church status from a school affects the place of Christian ethos in education.
-- [Swiss clergy no longer exempt from military service](https://news.google.com/rss/articles/CBMitAFBVV95cUxQelo1cnJjOVFlaGdxcWcxVlVxNGtVcjNIWE9mZ0N2YWc3QnloRU9obWM4djU5a3hEWUYxcGlwNVF6N3VLMzdxR0lsX2FJNG9QcTdZbVZ3dW9TTE1fcThWSldsY3JmellVOFlsUmhKUDNHZWlLTC1udVFhWjcxSUxqYlUxdFF1LTQ4Rkgxa1NYaGZLTHpTTnlSVThsNk5WcE0ybWZFZ1BWNnBVME5xUEswaS1pS0g?oc=5) - *The Church Times*, 24 Jul 03:08 UTC
-  Changes to clergy military-service exemptions raise questions about religious freedom and conscience protections.
-- [Philip Barnes: Proposed new primary RE syllabus raises many questions](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMHJkY3VZZmN5TGpBaHVyZWJVai1ZNXNyY1dpcU5xckNGU1dOTjBiMFE1MXlQYVUwTnVVaG02bERYUGd4eHV4am5KNDd6eFhma0E3ODhyMUNXdHhCclB6cGROSVV5V3ppUlFpVm9qQld2SkhDU3lsdlFjZzBIWXFjaWxHWUtrNVJTQ3NNMWpQNUhUMmFDOEJTSnNfT25Gd3hxcUNROEp1RzJzVXdlZDA2dUR4UGV6Y3V6bzRuWUgwbnIyeXM5NGhoazdLUkNHOU9BSF9pdWlsZWNLMjE1Ulc3dElyd253M2VT?oc=5) - *Belfast News Letter*, 24 Jul 00:00 UTC
-  A proposed primary RE syllabus may affect how Christianity and religion are taught in schools.
-- [Catholics Sue New York Over Assisted-Suicide Mandates | EWTN News Nightly – EWTN Great Britain](https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3NCNU5kYU1NNjVhWDJsRGRkZ1NhT1dZaW1PUnk2MUdnWmQ5WDhveXlMWXJrVG80WnJZTkJmVGxSd1V1dTljdF9nNGdSaVBTOHVDS3JVRWd6alE4UWQ4Y3VSQU5pMTNacEp3d05oWGxZTXNVU1RhekVXVUI5Zi1oWm4tUEw3QzJBMFZkQmpaVGpPRlJfZEVhSkp4cw?oc=5) - *EWTN UK*, 23 Jul 23:13 UTC
-  Catholics are suing over assisted-suicide mandates that may violate conscience and religious freedom.
-- [Catholic nuns sue New York over physician-assisted suicide law](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsUWdMVk81Vl9JRjhybVZnTTNWVDM2S3ppZkhHWGp3Zl9aQnRSc2ZuRkQ3WXdRWEhqY2JIMEs3LVVLaUFZb1c1cWZyUXVCY242U2ZsdnRn?oc=5) - *Fox News*, 23 Jul 22:46 UTC
-  Catholic nuns are suing over a physician-assisted suicide law on conscience grounds.
-- [Catholic nuns sue New York over physician-assisted suicide law, say it forces them to violate faith](https://news.google.com/rss/articles/CBMiggFBVV95cUxQLVNlQTJiWWhmTDhva3IyUzh6dTRIRTZwdWV6SkFFcXNMakgtcE1pd2dRY3lINDJHZFBERjhiM1c2OWttUUxEbklMdUZ4UUhVOC1FcE9CcndVMlhNaVNJM1V5R1h1dTYzUWdQeU1ZTWpBWkFYRkxLY01nT1FDUnB1UHhR?oc=5) - *Yahoo*, 23 Jul 21:31 UTC
-  Catholic nuns are challenging an assisted suicide law on conscience and faith grounds.
-- [Churches call for respect of religious freedom in schools](https://news.google.com/rss/articles/CBMilwFBVV95cUxPaG8yNldBb05QQ1FRV1QyREJIdFlyOE5vNHU3b1h5STJDSEQwZGZxNllCM2lreUI5Q2RiV2NqWlozZk5hMTRuWC1wYldBMzVTeTFjSW9LM01uYVJkMWlZNVlQVWNWQXd1VGw3dWwxN0loOU5yYkhfLVVTX3JRVFBjYmNEOVJLZnp0YVVLVTkyVmpKeXBYa1pj?oc=5) - *Fiji Sun*, 23 Jul 20:36 UTC
-  Churches calling for religious freedom in schools is directly relevant to faith expression in education.
-- [One UK mosque attacked every 5 days as security funding stalls](https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUxreUNnMXlYQzdISEVjNGNZMGdMTzRqZnBXUUluS0xiVFJ2cG4xSkRrckRJSkw0WW8xdGNBRHVKbHRwUktYX3BVYlNaRG9ab2dOQTZ3cENjQWo0X29iaHNVS1F1cjdQclFncXhYNzNRbXROSnVNcm1ldUdNMXlsOFljQVRyZ2E0clRzSklTMjlfTHZZN3dz0gGXAUFVX3lxTE81TGt5Q2cxeVhDN0hIRWM0Y1kwZ0xPNGpmcFdRSW5LTGJUUnZwbjFKRGtyRElKTDRZbzF0Y0FEdUpsdHBSS1hfcFViU1pEb1pvZ05BNndwQ2NBajRfb2Joc1VLUXVyN1ByUWdxeFg3M1FtdE5KdU1ybWV1R00xeWw4WWNBVHJnYTRyVHNKSVMyOV9Mdlk3d3M?oc=5) - *The New Arab*, 23 Jul 19:06 UTC
-  Reported attacks on UK mosques concern Islam and freedom of worship in public life.
-- [UK mosque ‘attacked every 5 days’](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kZUFPT1J5QThHMHR1TnYweE9mclg5YzF4WEVqeElTam95TzZnTHJ0SFZnRHZrbXBnMzE2WV9ReS1KZzdpakJ2YTV3NzRzdTA?oc=5) - *The New Nation*, 23 Jul 18:56 UTC
-  Reported attacks on UK mosques concern Islam and freedom of worship in public life.
-- [Secular Society backs Pembrokeshire school status change](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdllEZGgyMm1zaGdQV2F2NlBBX2tqOF9FZklveGJhREJ1bTZIcW5YTXcwRjhLTldZa0NEcENBRm1iekpUWmFFb1ZvV1NEQVZpQldlcXB1VVBsRmtOM1FwRThXTE1pMG1fSDdYbkctbWlrSkNRVHlMcUIxODZaRC1hLUxCdUxyTExTbzQ0cmJHYkx6dGhnRFZScDVDM0JfTHF4M3lxOWJxTmlDT0hrMldZdWJ3V0lfUnhMcVJzU2ZsTQ?oc=5) - *Pembroke And Pembroke Dock Observer*, 23 Jul 14:24 UTC
-  Secular Society support for removing a school's church status is relevant to faith schools and Christian education.
-
-## Marriage & Family (11)
-- [The CofE is keen on social justice - until it comes to Church schools](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGdzbjdyR1ZjY2RTV01XcVRkRlE1VjhWZzFBWVBIZTNtckRTTHRyTEE0VFRUb0szcE1JSzBuVlJBRUxOYmlrVTJhUFRzQXNIYXV0U0ZZZXQzYmdOaDBWem5FSU5EeFEtVVUxRHRtcTNGQUVpREJlZFFiMmlWU2FyQmVZZ0FkWW9aak9tRXZfZjVaR015OFZZaDZ1UFRzeDcwcFZBQk5NOGptQng3R2kzLU5HNA?oc=5) - *National Secular Society*, 24 Jul 11:30 UTC
-  Criticism of Church schools bears on faith-based education and the freedom of Christian institutions.
-- [For outraged Germans, the Jens Spahn scandal is about more than his surrogate baby | Tania Roettger](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZDA4NmIyMVhoczkxV1BoM2VtN3gwSVk2UUFWLURySmFzMXlOUGltMDRpZ2l6bWY0SVFrMFBXelJ0bk8zRjd3M25Gek1hNU5yVV9STFJMODM5YmVpR1ROMDktT0lBRThySlBROFlmV2ZkMEFnSnU2S3E3enE5cm01NUIwb2NXVTM1NHV6aXlndEpKVlVSTWZXNU5NZmllbTZZYUVYVlVTWmh5eEwyd2FJSVI2ZmY0Y1Z1bjdwN29QclhidDgzOFVPanluWmJHeHZQ?oc=5) - *The Guardian*, 24 Jul 11:08 UTC
-  The Jens Spahn controversy includes public debate over surrogate parenthood and its ethical implications.
-- [Boys Will Be Boys: The B. P. J. Supreme Court Decision](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSlZrV012N2tVVmE4SmZubGZPNHB0ajJQMkFSNjN0MG5tYVIyckhBRjlTTjFtTU1jd3lLRFJCSGF1UW56dHdTaGlHSVBndlo3VVI2OXR2bER6bVpxVy1sUW4zeW14a2hjNUx0dmh2VlVrWnFzMjY5a0hzVUdaRzU2U3Bwd3o3UF95S09wY1hJbDU?oc=5) - *Word on Fire*, 24 Jul 11:03 UTC
-  The Supreme Court decision on boys in girls’ sport concerns sex distinctions and child safeguarding.
-- [Merz starts govt reshuffle after surrogacy controversy](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUnNYMndlTzhiZkpIa1BSTmtIQzhsRjBIQ2VOSmRiWDNfVXpXel8ySjNuQTE2c0EzeUpOS1ZVU3NlYkZXNGhCRERIdXJuY0VuTFAtRTBMMGdZVG9NQWltaVAxY0dkcWZRNjNWVTFDenZGV0h5QlZBbHNPSDNsLUFfLWV6bw?oc=5) - *Yahoo News UK*, 24 Jul 08:38 UTC
-  A government reshuffle linked to surrogacy controversy highlights political fallout over family and reproductive ethics.
-- [Australian gender law an outlier on the world stage](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbmNhekFqRWdITFBDbUgxeUs1djNMZXBTcWpBRTlvWXFPU1hXWV9FeUpUaFBQSlduUmFTeHAzeUhvdHVOOGVBR2VBazRFeVJybThMUEdzMkx0cF9wTV9EWVB6a1JjRXJBd2dzZjJVeFpvQWZxVnpBTEVXa0E1MHlwRjRyVmNlc3RxTzdzdnpBREdYMEladXVXR0YweVpVTV9Yd1M5VjJNckpQQjhBdEtlcVh1WDlYcjUxR0NZRHdDT1F3dEJvWVVoT3VDdlk2LXhwVW1Gam9rSHRPVkk2QmRLSUp5c0lrb1N0TXZKYnozQnBmZ9IB9wFBVV95cUxOLVB3M0N5eEdMOEcxelg1ZE9VU3NmSUU2WUl6V1oyTUpBSkZLZ2tmMTJhYVktMUNzTVdlaHhmcTdlVDM1NHBOcW0zLVBNcjU2a0tkcjNDa2t0ZzQxSWpyeXdVR0tHSklYSDJHajVuTE93bGFpR2NBOFlRUjJtSFBhc2IwUkdySEV2WkpySzFrT3pxakM3QkxKM0NoS1dvRWNwSzhIa3YxTDVJYV9KRnFTd1VQM0xUMEtja3BjVjFsN3N6Z2lGWWpRa1hDTV83ekh1R2tDekFNVlJ5c3B1OVNwQzk5TWJTRUZMeC1QYUlSVU03RnpMS0FJ?oc=5) - *The Australian*, 24 Jul 08:05 UTC
-  Gender law reform affects legal recognition of sex and family and education policy debates.
-- [Vindication for Dr. Jillian Spencer](https://news.google.com/rss/articles/CBMie0FVX3lxTE0wNFBYbmllVGVnWkpZRW9TRGZCS2hUdXlJNHBHb1V0c195OGFwRG4wNVVaWXgwTDNZMGxEbXNycWg2MGRKNnpwaWRUMmxEV1dCQ2hsTEoyekV3d3ExNUc0TW5qeEFPRFFXUERMVTZHM1JKVGRMUU9Fc0RYZw?oc=5) - *grahamlinehan.substack.com*, 24 Jul 01:23 UTC
-  A clinician’s vindication in a gender medicine dispute is relevant to child safeguarding and professional freedom.
-- [Grandma Who Was Surrogate for Her Own Grandchild, Now 5, Says Their Bond Will Always Be ‘a Little Special’ (Exclusive)](https://news.google.com/rss/articles/CBMihwFBVV95cUxQeExpN0hIZWxVWmRzRzljNFluc2F0X1E0bjRVQjFjWWY4c3VTY3pMZnkydlJPZndjYmNqWFlZeV81ajUwVzV6UDQxa0N1cld1b09HMzFuZTlSaTlBZXJUVzRKdHFLUUFKQWE0SExEZ3ExbHhQWnNMME9ZbmhaNzBFQlVxbU5QQWs?oc=5) - *AOL.com*, 23 Jul 20:45 UTC
-  A human-interest surrogacy story is relevant to debates about reproductive ethics and family formation.
-- [Trans pupils allowed at all-girls schools](https://news.google.com/rss/articles/CBMijwFBVV95cUxPMEFQcmExbEhPdUFiUWZMblBHM3VQT0ctbUEtaEF0bUk2Z2pDVmh0LUVWRmNJUWhGMU9DQnViRm1ENUZPTHZxdzFpTzFJM1VnOTlMYUNlYjNVZU1CQ1EzQ3d1SGNhaXFSUjdfOWIxOEdZMGo1Z2s1TnE0OFItZTlHYzJoZU94ZTQ5VGlyTzdkYw?oc=5) - *The Telegraph*, 23 Jul 19:56 UTC
-  Trans pupils in girls’ schools affects safeguarding, sex-based spaces and education policy.
-- [Regulation cannot eliminate surrogacy risks | Letter](https://news.google.com/rss/articles/CBMinAFBVV95cUxNenlhMGFKR1YzTWZ2WERPU0pNSm5RM3lCVHZqbUVYaUpTa0FFQ0VBQ1Z5TXM0LU1vM1JtczMtcHdCaWhzNnZnWjR6LVJmeUFXYnZXTEd0aGxzdWhpMmZPdXI3ZDBIZG5fbVBiT1NjVzhkdmIyRmhzd0hlUGdjUFEtT0tQeF9xWUcwTWJvSTJiVVZCYzk0Sk45OXY3ZFE?oc=5) - *The Guardian*, 23 Jul 16:21 UTC
-  The letter argues that regulation cannot remove the ethical and practical harms of surrogacy.
-- [Civil servants are defying the Supreme Court trans ruling](https://news.google.com/rss/articles/CBMioAFBVV95cUxQYnViLXhIUGtRZUxBcVNtVlA2blY2Rk9VTXd4MEV6Vl9PandETnVvVkdvb0tqa3U4Tm55RTl0RjRoSlBJaVV3RF9hX2tlT2VwWXFBaXJtY203NjVGSEpMd2xOSURZZmVkWDFfUno2MWE1OGo5ZmxNdE00aHVPUXFjaGhENFhVSWRWcFRDbnRxclBZTEJoTEFva3YyaXZzRnNJ?oc=5) - *spiked-online.com*, 23 Jul 14:52 UTC
-  Civil service handling of the Supreme Court sex ruling affects implementation of law on sex and gender.
-- [Puberty blocker trial could be halted next week](https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUNNY1hoXzFfRktDN19EN2pzbWtQMlRQNHNPZVVuV1o1MEpUeFZJWkYzS1NZbm5JdUhHNjhmTzJlclZRSF8wRnhmdURBeDBlUURSMmtFTWk2bkkzMHJtV01fbzBTamI4bXdVQUU3ZU52bVRQTWktY3FzSDh4dU54UEszajlQRDE1c0Q1MkFKNXVYbEx1X3k0?oc=5) - *The Telegraph*, 23 Jul 14:20 UTC
-  A possible halt to a puberty blocker trial directly concerns child safeguarding and gender medicine.
-
----
-
-# Digest - 2026-07-24 10:44 UTC
-*Articles published in the last 24 hours*
-
-## Assisted Suicide / Assisted Dying (1)
-- [Assisted suicide Bill published – email your MP now - Right To Life UK](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ1ZHRTgwV1lmSlZoUnY1TnJXVWdrOHJCejJHS1lFdEVuTVJMR2lfakdPSm45cldQeUtYbmtJQmVpWEhzSzNESUhna2NyWFFWYTZ1cU5EMTBVWUNBVzVrTjJKRkNXZ2xSZnNzTWhCcUlBQkt5OHhZV0k2ZHFWVlhBaEVPY0FRNGRM?oc=5) - *Google News: assisted dying*, 24 Jul 08:12 UTC
