@@ -1,3 +1,117 @@
+# Digest - Christian Legal Centre - 2026-09-04 12:46 UTC
+*Last 6 hours, AI-classified*
+
+## LIFE
+
+### End of life (2)
+- [Calls for Home Secretary to block 'Dr Death' visit to demonstrate 'suicide collar' ahead of Assisted Dying Bill vote](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Ccmx1cHpLSnhnV1hMb0FNLXhJSUFPQlFWOUwxV0NDc25OREpzdTA0UmxRUWI3SmNGNlFTZzlGU29WMUFLa1pkMk9zNWF1UVZQdGVoRg?oc=5) — *Independent Catholic News (also LADbible)*, 10:24  ·  also touches Politics & government
+- [Assisted dying Bill MP ‘confident’ Commons will vote yes despite PM abstaining](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGxqb2lPT1plRTZnMjQwUjNxOVdybXJZMjlPMWNzSDZaaURxMVFacThOMnRSYUFZV1BXWEhqZ254OWVqZHVGbmNnSjNlaDQtQUQxRno4eXoxVmFCSXRCRnMzdkJBYXBvT0NLZENJaXc2Wm9zMFRfTkt0V3JWNlBtQmM5N0lIdjVaMlk1UzNVLV9iekVNLXlzdzZsUWRKWGkzbnl0dGpR?oc=5) — *Nation.Cymru (also Border Telegraph, kentonline.co.uk)*, 07:00  ·  also touches Politics & government
+
+## FAMILY
+
+### Marriage (2)
+- [Minister urged to move quickly on cohabitation reform](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmFnb1M2UmN0Yi1XYUNrWXFhSm40c2lWWkN0dGtYdTVPVDNEbVFxTE5sYWRsMkhrT3BtNzg4cVBLQlBGYWZJUjAtRDNBYVZRcVE2S0JLRWNMbEhzby14dTdhZEM2XzlrcWtjYlNCQkJCUlRSVnVRUE5idThpd3hwMVNhNGQ4YVltNHlocmFqN1g2cDltMER5ZkZISTF0THRvTUxkdmtn?oc=5) — *The Law Society Gazette*, 09:49  ·  also touches Politics & government
+- [Stop wordless, commitment-less weddings reforms](https://christianconcern.com/action/stop-wordless-commitment-less-wedding-reforms/) — *Christian Concern*, 11:11  ·  comment  ·  also touches Marriage, Politics & government
+
+### Gender (3)
+- [Health minister calls meeting on Wales transgender surgery pause](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSckYyZ2RfWkV1NjhJdDJPVVprUjEtWEhKcmVRazZzWjdZRkJtTWMxSHBjM20wTm1mUGhDMVo0WWFtSl9mU09KTE1JaHh2Yi1Wc0tfb3U4cmJmalJJ?oc=5) — *BBC (also Christian Concern)*, 11:54  ·  also touches Politics & government
+- [Police Scotland faces court over letting men request a strip search from women](https://news.google.com/rss/articles/CBMinAFBVV95cUxOeUZTUHBoRGtpbGdnaUJNYzdtdEc4LWdRd1BIVWk0LWFzNnRILU9IQUtZREs5QVNsWTRiMEF2MkZNa3hPdkh2NVpKZGFqWFpLYTB3ZFZJbHdLT1NnUmx2WVFEX2c3dDFsZGE2NXp2cGU5ZDBNZEUxY2tSbXpsaGpnRmkteWowZUlZMXpfTWx3aC1wWkJrV2ZBRFVfMXXSAaIBQVVfeXFMUHhxb2hEWVZPVXN1YjduNm9SWDVBT1J0NmhJdTkwVDBzNFhEMXFrMTFYSDJoemVGakJ1Q0dUX0JaQXo2SHFyQlpQWUxjcVZPaWhZUnAxaHIxR0UzZnRPNW1OQkNaeFhMazFoOU9UUTVhOWZYczlNOWVkNjdpNl9SVzhobTBZX3pwTy1oTHJCNFRxemJEOUd0MVQtRlEyV3QtamZB?oc=5) — *Scottish Daily Express*, 11:11  ·  also touches Freedom of speech
+- [Trans Green Party activist elected to women’s role](https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0YzV1VHRWpuOC1od3Qtc09NOHdnTUIwSDh5eWtFeThzUTAtMzB6RjBlc3N3NVVPVGYtVkQ2NEVFa0xNbWJQeTVyMkFJZ2ZTek9lbnhGT0QtdDNBNURrNjYxdzNmNzJlQ3MwVjlkbml0YlptQ1Q1cDJnV052WlEwVVFGZHN1VkFZbVBxWnNUMThVRDBPUzNXemVUM1V5QUhKQ0FZ?oc=5) — *The Telegraph*, 09:19  ·  also touches Politics & government
+
+### Sexuality (1)
+- [File-sharing site agrees CSAM safeguards to avoid UK probe; porn platform fined](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaUN5dGt2UEdBSE9NdDRKQWpLeXVDUlluNnZGX2dSbUV3YlpmeDRqUjlCQ2JnTjJlcWJXX0R6ZnVJUFZFQWg3dGNzMk1rOVByMG82SHJTaGUzNVF6RHRuRHozWjQxREY4TlcxdllqM3l3WXd6RllEV3RPeGdJbVpNTy1Fd3V5YnM1aGxYT0JsR05peU1BV3luNWhrUnRHS29NS1ZER3NnbW8tdVJiMlEzZ1FXTnVIUGtmRTc1aS1PWmpUdG9HWXJUM21xS0JueGQ3ekxpNi1vbjVpQkXSAVpBVV95cUxNY0lKdy1Lbk5yTUd6MFFzMExHNDFLcXVlRGY5bmw2TWhtOFJVeVEzRGlOc1d2TWVJd2g3ZDc4VkdLeUdoTmhjR2k1NktNb2lPSFpsR0JDb3RHY0E?oc=5) — *MLex*, 11:57
+
+### Education (2)
+- [MPs claim UK school 'forcing female pupils to wear hijabs' in letter to council](https://news.google.com/rss/articles/CBMijgFBVV95cUxQODJBQ2NYeFVWUUFwb2paYlJ3OEVta1A5akQxREVZX2lpTDExM0E0blZESUV1Wl9rNlk5bS12YjV1MS1kMjlKYVJ2VkVSa1locmtrejdhUEhoUU9sbkgxOGtYUmJERXBkMFNRU0VxTGt5RzBvc1JHMndZcU4tOUpNcTZ0REpJdVdvSVJPbExB0gGTAUFVX3lxTFBuZGZQZlRxaWVET2d1ZnpEM1lzbGlPQkhXbXh5bG1DaVlGZnhUY2g2MG9uTmhCMS16ajdDVldBeWtENU9hUUpnR0I0SGd4X1lCT2ZobEU4MnZvZDFtYkxoZXZJOWgyU3F4THhZVTlxMEhLdW1JVk0tN3RtVi12aXlUQlVUMHJZdlh5TktTcFBqSENBbw?oc=5) — *Daily Record (also Daily Star, Yorkshire Live)*, 07:38  ·  also touches Islam, Politics & government
+- [MSPs urged to hold an inquiry on impact of VAT on private school fees](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaG1VbzZacXpjNWhFS25GU05HeHBrY1dMRUQ4QldrOWVrSl9NN3NmOXR3QnFtVDZjT3RfTEJ5Z3R3UjVQUGlZb1Rjc0JFTHVNRzQtT2MtZ0VXQXhtRDVWOFl3YTNFcTFscjJRa2tSVU9kMzN0eklQZ1gyUFRtamR4aDE5T25KMm9pcFhfTk5fUTNJeWZrTm5hSVhvOVlERUxydFFwYnFCaw?oc=5) — *Helensburgh Advertiser*, 11:30  ·  also touches Politics & government
+
+## FREEDOM
+
+### Christian freedoms (1)
+- [Tempers flare at Belfast City Hall during debate over persecution of Christians](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZG91VFZYaUoyVTlhM3p1bnY3eU0zbUpfT3hJZ0ozVTI4UXMtelhYbE54c3BsVlRzTXg2U2RlS21xVUlIQjdiMUR5c2J0dHlNSXhQZTRUQWFkQVFZTkctRkZ1U3ZBZG5IZkdCMHQzT0tqeTlHb19rOGN1TGNtWnJoLUNGRlJhcWpEYWpVMG14UHllQnlpM2ZiUXQ2RkZra1RpdE9XYUV1MXozUUF0alZkQ1lBcmtNeE9OaUtVQXU4elhNb09TelVLelpnaFc3SC1fM1JORg?oc=5) — *The Irish News (also loveballymena.online, Belfast News Letter)*, 07:13  ·  also touches Politics & government
+
+### Freedom of speech (1)
+- [OfS ‘regrets’ mistakes in Sussex free speech case](https://news.google.com/rss/articles/CBMivAFBVV95cUxONWNka3VPZlNUS2pjN01MR0szWXAwNmRPa3QxaUg3Yi03MG9qbnJVOENxLTdtVmFiZXNxTUJaZG9paWxSS0lBWG9tZEE4WkNQdzF4YndTLV9FVl9Sb2tNdE1xeS1UeEJjRjRKYTdNQ0pSTGxlUjdJZXBRdDU4QmhlMGdmRkVCYW1DZ2VWRGdzSkVPX1NMRFMzSHM1VUcwS2hBaFB6anRvd3JIV2NOcVlncTZGSWpPZDdZU1l6OQ?oc=5) — *Research Professional News (also Times Higher Education)*, 09:44  ·  also touches Education
+
+## FOUNDATIONS
+
+### Church (1)
+- [Church leaders warn vicars becoming an 'endangered species'](https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXBmMmZrZF9iOXp5OTMwU2txdUl3MVgzc0EyLVJWcmgxOG5QRVBJSXktdW5kYlFqTWhnRVBzZ1pyb2lKek90d1hmaHcya0FOeDBkRjQzVnZiVVB0VGRFQms3V2ZnTlEzeWlLbi1OenNMMGRrZ25sZUF0UlEta1JHTWgyQVpucnE4QWlmemJpNlJFRHJuY1FuTnJsWWNHTlFKRjdhaw?oc=5) — *Premier Christian News*, 10:24
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Assisted dying Bill MP ‘confident’ Commons will vote yes despite PM abstaining](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGxqb2lPT1plRTZnMjQwUjNxOVdybXJZMjlPMWNzSDZaaURxMVFacThOMnRSYUFZV1BXWEhqZ254OWVqZHVGbmNnSjNlaDQtQUQxRno4eXoxVmFCSXRCRnMzdkJBYXBvT0NLZENJaXc2Wm9zMFRfTkt0V3JWNlBtQmM5N0lIdjVaMlk1UzNVLV9iekVNLXlzdzZsUWRKWGkzbnl0dGpR?oc=5)
+*End of life · Nation.Cymru*
+
+An MP behind the assisted dying Bill says they are confident the Commons will vote for it, even with the Prime Minister reportedly abstaining. The story lands just as MPs are being pressed to decide whether the state should license doctors to help end patients’ lives.
+
+**Who this hits:** This affects elderly parents, disabled relatives, seriously ill patients and the families trying to protect them in hospital or care settings. If the law changes, the question of assisted suicide could move from campaign debate to real conversations in consulting rooms.
+
+**Angle:** We should say clearly that vulnerable people need better care, pain relief and presence — not a law that makes death a medical option. Viewers need to understand that this is not an abstract conscience vote: they can contact their MP now and ask them to oppose assisted suicide and back palliative care instead.
+
+**Opening line:** "Could your MP help make assisted suicide a normal NHS conversation?"
+
+**Title:** *Assisted dying vote: why Christians must contact MPs now*
+
+### 2. [Police Scotland faces court over letting men request a strip search from women](https://news.google.com/rss/articles/CBMinAFBVV95cUxOeUZTUHBoRGtpbGdnaUJNYzdtdEc4LWdRd1BIVWk0LWFzNnRILU9IQUtZREs5QVNsWTRiMEF2MkZNa3hPdkh2NVpKZGFqWFpLYTB3ZFZJbHdLT1NnUmx2WVFEX2c3dDFsZGE2NXp2cGU5ZDBNZEUxY2tSbXpsaGpnRmkteWowZUlZMXpfTWx3aC1wWkJrV2ZBRFVfMXXSAaIBQVVfeXFMUHhxb2hEWVZPVXN1YjduNm9SWDVBT1J0NmhJdTkwVDBzNFhEMXFrMTFYSDJoemVGakJ1Q0dUX0JaQXo2SHFyQlpQWUxjcVZPaWhZUnAxaHIxR0UzZnRPNW1OQkNaeFhMazFoOU9UUTVhOWZYczlNOWVkNjdpNl9SVzhobTBZX3pwTy1oTHJCNFRxemJEOUd0MVQtRlEyV3QtamZB?oc=5)
+*Gender · Scottish Daily Express*
+
+Police Scotland is reportedly facing a court challenge over guidance allowing male-born detainees who identify as women to request that female officers carry out strip searches. The case raises direct questions about single-sex protections after the Supreme Court’s ruling on the meaning of sex.
+
+**Who this hits:** This affects female police officers who may be asked to carry out intimate searches of male-bodied detainees. It also matters to women in custody who need confidence that intimate procedures are governed by biological sex, not self-identification.
+
+**Angle:** Our line should be that the Supreme Court has made the law clearer: public bodies must stop pretending sex is merely a matter of identity. Viewers will understand why policies hidden in HR or policing guidance can have immediate consequences for women’s dignity, safety and conscience at work.
+
+**Opening line:** "Should a female officer be ordered to strip-search a male-bodied detainee?"
+
+**Title:** *Police Scotland in court over sex, strip searches and women’s rights*
+
+### 3. [MPs claim UK school 'forcing female pupils to wear hijabs' in letter to council](https://news.google.com/rss/articles/CBMijgFBVV95cUxQODJBQ2NYeFVWUUFwb2paYlJ3OEVta1A5akQxREVZX2lpTDExM0E0blZESUV1Wl9rNlk5bS12YjV1MS1kMjlKYVJ2VkVSa1locmtrejdhUEhoUU9sbkgxOGtYUmJERXBkMFNRU0VxTGt5RzBvc1JHMndZcU4tOUpNcTZ0REpJdVdvSVJPbExB0gGTAUFVX3lxTFBuZGZQZlRxaWVET2d1ZnpEM1lzbGlPQkhXbXh5bG1DaVlGZnhUY2g2MG9uTmhCMS16ajdDVldBeWtENU9hUUpnR0I0SGd4X1lCT2ZobEU4MnZvZDFtYkxoZXZJOWgyU3F4THhZVTlxMEhLdW1JVk0tN3RtVi12aXlUQlVUMHJZdlh5TktTcFBqSENBbw?oc=5)
+*Education · Daily Record*
+
+MPs have written to a council claiming that a UK school is forcing female pupils to wear hijabs. The allegation is being reported across several outlets and needs urgent clarification from the school and local authority.
+
+**Who this hits:** This affects girls at the school and parents choosing or challenging school policies. A uniform rule can become a daily pressure on a child if religious dress is treated as compulsory rather than voluntary.
+
+**Angle:** We should defend religious freedom in both directions: no child should be mocked for wearing religious dress, and no girl should be compelled by a school to wear it. Viewers will gain practical questions to ask their own school: is any religious clothing compulsory, can parents opt out, and where is the written policy?
+
+**Opening line:** "Can a school make your daughter wear religious clothing?"
+
+**Title:** *MPs question school over claims girls are being forced to wear hijabs*
+
+### 4. [Trans Green Party activist elected to women’s role](https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0YzV1VHRWpuOC1od3Qtc09NOHdnTUIwSDh5eWtFeThzUTAtMzB6RjBlc3N3NVVPVGYtVkQ2NEVFa0xNbWJQeTVyMkFJZ2ZTek9lbnhGT0QtdDNBNURrNjYxdzNmNzJlQ3MwVjlkbml0YlptQ1Q1cDJnV052WlEwVVFGZHN1VkFZbVBxWnNUMThVRDBPUzNXemVUM1V5QUhKQ0FZ?oc=5)
+*Gender · The Telegraph*
+
+The Telegraph reports that a trans Green Party activist has been elected to a women’s role. The story comes in the wider context of political parties and public bodies reassessing sex-based roles after the Supreme Court judgment.
+
+**Who this hits:** This affects women who join political parties expecting women’s roles to represent female members. It also affects ordinary voters who want to know whether parties will apply the law on biological sex consistently.
+
+**Angle:** Our line should be that women’s roles lose their purpose if they can be held by males who identify as women. Viewers will understand why the Supreme Court ruling is not just about toilets or prisons, but about every institution that claims to protect female representation.
+
+**Opening line:** "What is a women’s role for if men can hold it?"
+
+**Title:** *Green Party women’s role row shows why biological sex matters*
+
+### 5. [OfS ‘regrets’ mistakes in Sussex free speech case](https://news.google.com/rss/articles/CBMivAFBVV95cUxONWNka3VPZlNUS2pjN01MR0szWXAwNmRPa3QxaUg3Yi03MG9qbnJVOENxLTdtVmFiZXNxTUJaZG9paWxSS0lBWG9tZEE4WkNQdzF4YndTLV9FVl9Sb2tNdE1xeS1UeEJjRjRKYTdNQ0pSTGxlUjdJZXBRdDU4QmhlMGdmRkVCYW1DZ2VWRGdzSkVPX1NMRFMzSHM1VUcwS2hBaFB6anRvd3JIV2NOcVlncTZGSWpPZDdZU1l6OQ?oc=5)
+*Freedom of speech · Research Professional News*
+
+The Office for Students has said it regrets mistakes in the University of Sussex free speech case, according to higher education outlets. The case concerns how universities and regulators handle contested speech, including speech on sex and gender.
+
+**Who this hits:** This affects Christian students, academics, visiting speakers and societies who fear complaints or disciplinary action for stating orthodox beliefs. It also matters to parents sending teenagers into universities where lawful views can be treated as unsafe.
+
+**Angle:** We should say that free speech protection must be fair, serious and enforceable — not another bureaucratic process that collapses when challenged. Viewers will learn that students and staff do have rights, but those rights need to be asserted early, in writing, and with support when institutions overreach.
+
+**Opening line:** "If universities get free speech wrong, who protects Christian students?"
+
+**Title:** *OfS admits mistakes in Sussex free speech case*
+
+---
+*Nothing significant today: Beginning of life, Christian society, Secularism, Islam*
+
+---
+
 # Digest - Christian Legal Centre - 2026-09-03 12:48 UTC
 *Last 6 hours, AI-classified*
 
@@ -6030,77 +6144,3 @@ A politician convicted under a hate-speech law is appealing to the European Cour
   The Guardian (UK) · 23 Jul 17:22 UTC
   A Guardian editorial discusses a new Brussels study warning that Europe is ageing rapidly as birthrates fall and people live longer. It says the demographic consequences must be debated more openly so that younger generations are not left carrying the economic and social burden.
   **Our angle:** This gives Christian Concern a hook to argue that demographic decline is linked to the weakening of marriage, family formation and a culture open to children. Policy should strengthen stable families and value both children and the elderly, rather than treating ageing primarily as a technocratic burden.
-
----
-
-# 🎯 Top 5 to comment on
-
-### 1. [PSNI won’t rule out possibility of hospital bible offence](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPV1BzSGwyQzRHTmN1TTVNaDUyY3RtNDJJRTB3bEQ3T0Q2c3NDdk8tSWF1cTNiWkRkRGdKVUJ4dkxNbVV0S2NFaS1GYm5TVk0xNTQ0M1BNNUpqWThaS0pUVEZNS2tvWktDQXBCNmNSeGZGZjdaalRCUzdxTEl6M1hTcDJ1YmZPM0ptNHd1MVIyNE5MWmVQT3BPeFZjU0VtQ25XQXQwY2w5bDd4OHJuVG1kMlhNdUtiQWhGV29TYnJKR2RGZkhzVm15eW85azlzOHc3NjlUV0Q1bXBaMVl6TURFejUzclNRMHZYemVTMjZRV1JvWFU?oc=5)
-*Religious Liberty · Belfast News Letter*
-
-**Why this one:** This is the strongest strategic fit: police ambiguity over whether use or possession of a Bible in a hospital could be criminal goes directly to Christian Concern’s religious liberty and free speech priorities. It is winnable because Christian Concern can demand a clear public assurance that ordinary Christian expression is not an offence, an angle likely to resonate with supporters and sympathetic journalists.
-
-**Suggested line:** Police must state plainly that the Bible is not contraband and Christian witness in hospitals is not a crime.
-
-### 2. [Fifty women tell BBC they were pressured into having sex with strangers](https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss)
-*Marriage & Family · BBC News (UK)*
-
-**Why this one:** BBC reach is high, and the story offers a timely opening to challenge the cultural normalisation of sexual arrangements that leave women vulnerable to coercion. Christian Concern can say something distinctive by connecting the harm described to the rejection of faithful marriage and the commodification of sex, while making clear that victims deserve protection and compassion.
-
-**Suggested line:** When sex is detached from faithful marriage, women are too often left exposed to coercion, exploitation and abuse.
-
-### 3. [The Guardian view on Europe’s demographic crisis: the young must not be left to deal with the consequences | Editorial](https://www.theguardian.com/commentisfree/2026/jul/23/the-guardian-view-on-europes-demographic-crisis-the-young-must-not-be-left-to-deal-with-the-consequences)
-*Marriage & Family · The Guardian (UK)*
-
-**Why this one:** A Guardian editorial on demographic decline gives the issue reach and policy relevance beyond Christian circles. Christian Concern can offer a distinctive pro-family response: Europe’s birthrate crisis is not just economic but moral and cultural, linked to weakened marriage, delayed family formation, abortion and a loss of confidence in children as a blessing.
-
-**Suggested line:** Europe’s demographic crisis will not be solved by technocracy but by rebuilding a culture that honours marriage, children and the elderly.
-
-### 4. [Multiculturalism is a crisis of self](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qaXdLTi1LTThnYlMzMm51Wkw0MW8zOUpjbjI3MUxJcVlHTzdmZnppdWdvdmtWcFBXUTdWZkt3X1I0SG9DXzRTa0hyaHMzeFNwdG9DRjhBbFhRYWRYeDdWVlBmN3lyakFKSFJYM0xvSjlyR3hDaklKWTRBSmVhOUk?oc=5)
-*Islam · The Spectator Australia*
-
-**Why this one:** This fits Christian Concern’s long-running argument that Britain and the West cannot be culturally neutral and must recover Christian foundations. Its weakness is that it is an Australian opinion piece rather than a UK policy or legal development, but it still provides a useful hook for distinguishing Christian heritage from ethno-nationalism and for challenging enforced multicultural orthodoxies.
-
-**Suggested line:** A nation that forgets its Christian foundations loses the confidence to defend freedom, truth and social cohesion.
-
-### 5. [Wedding gift registries are great – but divorce registries would be a lifesaver | Nick Dothée](https://www.theguardian.com/commentisfree/2026/jul/24/wedding-divorce-gift-registries)
-*Marriage & Family · The Guardian (UK)*
-
-**Why this one:** This is a lower-priority Guardian opinion piece, but it does connect with Christian Concern’s critique of no-fault divorce and the cultural normalisation of family breakdown. The angle is clear, though pickup potential is limited: compassion for those in crisis should not become a public celebration of divorce as just another lifestyle transition.
-
-**Suggested line:** People suffering marital breakdown need real support, but society should not normalise divorce as a routine life milestone.
-
----
-
-# Digest - 2026-07-24 14:49 UTC
-*Last 24 hours, AI-classified*
-
-## Assisted Suicide / Assisted Dying (2)
-- [Medics push for ‘death by organ donation’](https://news.google.com/rss/articles/CBMif0FVX3lxTE4xQm1qaVpOdk4yWmR5bmtIczFtWFlsVEx5WFdSZGsyTkNJcy01aS1Odnh6MW5kNEFRLThZSkJSSzlUa0s2TFJFZ0lZWkE5SHBUTjk2NVdfbXg0NVdIMzJhSHJUcWlCNkxCRVpXZHkwdERCdlM5QkQxVV9NTGVaWms?oc=5) - *The Christian Institute*, 24 Jul 14:09 UTC
-  Reports on proposals linking death and organ donation, relevant to end-of-life ethics and assisted dying concerns.
-- [Catholic nuns sue New York over physician-assisted suicide law, say it forces them to violate faith](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IWWpFMzAxRGxLcnpVcjlGR1drWEp6bWZGUGYzRWVVb2JwZFZRWUV5djFIRzBTOVBVb2dwVkx0ZjgzOERYRy1PRzFvZXMzRjZFc0RKYVRR?oc=5) - *Fox News*, 23 Jul 21:31 UTC
-  Catholic nuns are challenging an assisted suicide law on grounds that it violates their faith and conscience.
-
-## Abortion (1)
-- [Details in Murder of Pro-Life Champion Released; Potential Terrorism](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWUF3RVBsMW1yNU5hYjdncXppVHZWbmk5dUFUdDdsaU5CWEptUmVJU3lIUjN1MEtXRW1NMlkzQlZBbnloRzN2TTl2cVhzVE5LdnNRLWZ2QXBIZ1Jhb3NEMWlLa0otRGRJbTVUanBIdE10SlRDdWZ6MEJfNnhMTjZBbTljNURTN21XYTJ2aEtZaDk2STJJbEVIRVlTSUI5TVdmVUNZUU45eXhSTlJZSFZDQW1vM2R3WTJrN3c?oc=5) - *Billy Graham Evangelistic Association*, 24 Jul 13:12 UTC
-  Concerns the killing of a pro-life campaigner and possible terrorism linked to abortion activism.
-
-## Islam (1)
-- [Ottawa Trafficking Arrests Sound Alarm over Muslim Grooming Gangs in Canada](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWG5tRl9ESVBuanc2V3lfM2VFbXo1S2NudDZyNFpDUERuem5NeXBMd2FzZjhvZ1Z6bm9CUU1EdVpwSl9UMDU4RkVWdUhoTlZNQ1VRcU9hcjJGNFAyZHFoWFF4RERIQ2pYU3NvZlhrSlZsdFB5RUhaSHE4ZkF6MjQxUE0wUW5QREV1TVl4SW1HRVZ6RkR5bHlrcnpoRkhXN1RjQmx3cVN3Zkc?oc=5) - *Hungarian Conservative*, 24 Jul 14:04 UTC
-  Raises concerns about Muslim grooming gangs and child sexual exploitation.
-
-## Religious Liberty (2)
-- [Catholic nuns sue New York over physician-assisted suicide law, say it forces them to violate faith](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IWWpFMzAxRGxLcnpVcjlGR1drWEp6bWZGUGYzRWVVb2JwZFZRWUV5djFIRzBTOVBVb2dwVkx0ZjgzOERYRy1PRzFvZXMzRjZFc0RKYVRR?oc=5) - *Fox News*, 23 Jul 21:31 UTC
-  Catholic nuns are challenging an assisted suicide law on grounds that it violates their faith and conscience.
-- [Sen. Mike Lee Files Bill to Defund Schools that Ban Religious Vaccine Exemptions: ‘We Don’t Worship Fauci’](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSTFhZ1NLUndoeF84YjVkaG85QnhDdGp1ZUhpR0pabmp6clJ1UjlGeHg3d1BFLVJlRHJsR3Jid2UxVlZUMUVUMjkxM1BCbkZtR2hndXpFRi1PVlhmR0d3am5KUDdxaU5falg3N3hwaVlQcVBHMFdHZzNrZHdBa19kM1lCU2gxc3RMVThUclZRY0tLVUE0RmVzd0ZjZmsxTzF4S3BBOE5sdm00dVRidFdRZGlfQ2lBVkQ2OXpqOTFiNXU1M2lIRUMyQy1NbDBBRkE0NmV4OEdGQXZPbERJZ0NHQy15a9IB6AFBVV95cUxQb1dCeTFMTmhKazBoYlhiYWh4cUxYV2lQaGpDMm9PZ0swZ09hRFNfaW5BVFlwNmI0cFpxOUgzcThhMzZuZnBKekhJVVktUTI3OHpLU2ZEektzSVFTRHFKZ3FEdlU1V05vNDg3ZnFQcldFeVJOVlRpc0lNU25Wem1NUFRxd29vWlBsNkZUbVY2S05aXzQ5UVZkM0JmUENvbnlnUHJKbk5ZWDBKeVNTVkNZYi1sWG9rMTB6b0NQZmxOS1gtREVQSHpKX1BuZDgxR2V0Tkt4RmZ6djdmaHJydUJSRVRSaDd3dVlD?oc=5) - *breitbart.com*, 23 Jul 17:53 UTC
-  A proposed bill addresses whether schools may penalise families for claiming religious vaccine exemptions.
-
-## Marriage & Family (4)
-- [Luxembourg surrogacy stance has been in limbo for over a decade](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbnBNcElrODBhSVlGNUFtZTZoY013MzhQa3BHNi1iem1MbGV6ZHVfaWRIM1pxaTJRZ0Q3Z0d5U194WjhlUW9XVEhBc0pzUWpwc3lqLXlONy1ab3phVE9PbUpZYXktVXU1Yl96MlVYUEh1TmV0Smx3LXRtcGVQa3NwTXZBd2R2SkFiLWNKejdOZE5OV3B3ckZreUM5Wk0xb1NBRk82elZubGFHZUJBUEVDb2lhbw?oc=5) - *Luxembourg Times*, 24 Jul 14:19 UTC
-  Surrogacy law and policy directly affect family, parenthood and bioethics concerns.
-- [Wedding gift registries are great – but divorce registries would be a lifesaver | Nick Dothée](https://www.theguardian.com/commentisfree/2026/jul/24/wedding-divorce-gift-registries) - *The Guardian (UK)*, 24 Jul 14:00 UTC
-  Commentary on divorce and marriage culture is relevant to debates about the social meaning and support of marriage and family life.
-- [A surrogacy scandal throws Germany’s conservatives into turmoil | World News](https://news.google.com/rss/articles/CBMiygFBVV95cUxQd3I0YlJ1UGhBalVURGFnTnM4RjhVYUFfR2tIRXN4WHJFZnVva3BfRDBVVHFBdnAyRnd1dG9vUzVtMnhsQk1rVy1tbkhVUkFsMmQ1MWFpTWRkOWNpcGMxaGY3LWJLejVvRnBQSnAyZFVVeW1hQmVVNU5SWTFXZHJ6SUcwMHhMaUdlX0JlRHJDTVItdjdkTlBXWDJSUndyQlZ1MkNUUkM2UV9zTF9vZFZkNVdEclQxMTBjZ0RkMFhwRXdtY002UkRCOVZR0gHKAUFVX3lxTFB3cjRiUnVQaEFqVVREYWdOczhGOFVhQV9Ha0hFc3hYckVmdW9rcF9EMFVUcUF2cDJGd3V0b29TNW0yeGxCTWtXLW1uSFVSQWwyZDUxYWlNZGQ5Y2lwYzFoZjctYkt6NW9GcFBKcDJkVVV5bWFCZVU1TlJZMVdkcnpJRzAweExpR2VfQmVEckNNUi12N2ROUFdYMlJSd3JCVnUyQ1RSQzZRX3NMX29kVmQ1V0RyVDExMGNnRGQwWHBFd21jTTZSREI5VlE?oc=5) - *Hindustan Times*, 24 Jul 12:00 UTC
-  A political scandal involving surrogacy raises issues around family, parenthood and reproductive ethics.
-- [Grandma Who Was Surrogate for Her Own Grandchild, Now 5, Says Their Bond Will Always Be ‘a Little Special’ (Exclusive)](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb0dPRFpIMHlYRG1XaEZWa1FSUlNOMnRNYk1FUGsyOFh6UWhSNzN5bkxwcVdyTjkwanlWOXdQMlVRWmM1ZGNTYWljbTBBekE0Yk1jVER2RDQxdXFyNHVGMC04bnAwMHBuVXpyWV92WTBid1duajJXQVBzU2hualNxOE5YYUE?oc=5) - *Yahoo Life UK*, 23 Jul 20:45 UTC
-  A personal surrogacy story is relevant to debates about family relationships and reproductive ethics.
