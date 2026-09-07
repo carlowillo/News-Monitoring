@@ -1,3 +1,116 @@
+# Digest - Christian Legal Centre - 2026-09-07 13:04 UTC
+*Last 6 hours, AI-classified*
+
+## LIFE
+
+### Beginning of life (1)
+- [10,000 pro-lifers fill London’s streets at March for Life](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGQzdllFcUxRbWduaUpTc1RrSW82TzlSc2tCY3NrQzFlaXVma2VlaUtBeS1kM2xPQVliNnR6SnpVelZNdVphY1o5dDlYcGpCZlZEQUUwSkcydDViUTA2bUI0LV94bEVlaXVwYXVKUWNJUGlDZGlzYzFKOWNFeEhEUnR6UWl4VUZlOHVrZkhGRER2bURBRkJ6T2VR?oc=5) — *The Catholic Herald*, 11:52
+
+### End of life (1)
+- [Third of public back assisted dying Bill - but only with more palliative care funding](https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWFIdmItZi13MkdPZ05EXzVZQUhIRWQycFBHZEpvNk9fb3JzQ29uVnhFVXJXdXVoWklBeDRhU0VHVVJnakJhQ2tuWldsWmswcjJEWTlFc2xwQy1TNXNKU2dSLXlXQkcwZmpRWG9nMTgzNkhUTnBBempTMXA2TnRrNE5n?oc=5) — *lbc.co.uk (also Magzter, InYourArea)*, 08:05  ·  also touches Politics & government
+
+## FAMILY
+
+### Gender (1)
+- [Police force that told women to share toilets and changing rooms with trans officers U-turns on policy after legal threat](https://news.google.com/rss/articles/CBMie0FVX3lxTFBydEVvanFBX3dJWE5CYk8xXzZ4UC1wMUhKdE4taXg1YUFwdk52Q1duZXJaMkE0SmVnbXUxQjk3NDRRNWVJVUR4Y1kzdDFKTXdqcmNNdF9rUzltSDVBZm9qVElTOWNjcjh4ZHh6UW8xYkxqM0FmQUhmR1FnZw?oc=5) — *GB News*, 07:58  ·  also touches Politics & government
+
+### Education (1)
+- [Draft Northern Ireland RE syllabus still marginalises humanism](https://news.google.com/rss/articles/CBMimwFBVV95cUxNckdrX0N5c0pxM2JxSlFKLWV4TkZteWc1TGpsNlNNWDA0bk1SdkhWb3ZDNUVMb0lvVFNKS3Noa0VOV01OX0NFSDRKSjNUQXdWaVhZcndiMjYtcF9yYi1IUUp1aWhTNFg4bEVmNWlBeEd5RGRWakt3amt1YndEY3FCOTUzZU9XUTdzbE9oOWRwQWpqSkFKeUxkUWRJTQ?oc=5) — *Humanists UK*, 10:07  ·  also touches Secularism
+
+## FREEDOM
+
+### Freedom of speech (2)
+- [‘Thought police in full force’: Free speech truly under threat as Labour arrest 60,000 for online posts](https://news.google.com/rss/articles/CBMikwJBVV95cUxON252cENfTWJlLUZmaUtLQ1U0MUFaVlhjQjRNeno5WThKVEctd3lWaENLdGNzeFhUaFNnN1I4ZWhSSnFnMXFHWXFqWTZrRG11MDU5cjZ1REtnMEdER1lOOWdVNUk1aDM3dlZzUXhuYi1kQ0xIeGpieXV5cHNrVzZQdjRDVmhnZDdjQjBPLUZvalp3TUJHQkIwakM5al9OemcyN21ZdnhEWnV1T25JblR5MmNNcGtVbmQ0SUh6V2swVDZSYzJaaVBVY05lcXpzYWNJaU0tZFBpclBXYktTbnNiNWlkazBGVjgtOHNZSU1ORlMwZzhkREFMVFIwb2RsdTFlOTZqcllIeDJtd3lEWmFGdFJjONIBmAJBVV95cUxOcnl3MWNhclhsaVBMRS1UQ0haYVV2X2JJOVFJTkxRX0htMUphRC05al9WU3B2X0tLbGpXTm9wN084S2EwZXkyaGVWdmc5bWg3RV9HLURiVTJSYUJoekVwb0habEx5UEJSYnNQSi1nZ0ZsRzFXd1d2OG5TbE4wUFJKS3diWjJjRUlIWllkeUg5bmtwbVE2dnkycmlsWVBVS3hwUWgwWGNiQmpxeWNUNGM0M1g4aTlVUHNYNGNuMzV0R0tzRkFzZGVoYmd6a0pZY3pPUEhEczRXNmw4Umd5a3lURkQtR05oZmRaMzVUbV9SOWtEeTVHMk5HbGdDSjZyanJXakl6akxDSXNHXzgwNEotY3hLOEIyd0R5?oc=5) — *news24.com.au*, 12:24  ·  also touches Politics & government
+- [US issues ‘censorship’ warning over UK plan to boost ‘public service’ news on social media](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnEwdDQxWEdxazBNZllidFVMR1BmZnRmNXhjQ3poakctZk5uU25IRHdNcFoxZVBSQUdKQnB1RjRLY2VONTVBVmlKX3BYM2JrckJGck00S2JadThoR18tbHF3RUFFMmJ0UnF3c1k1YjMzM015REl1dk9Xa0lUM0h3SVQ2Zko4clloejhFOVB5QlpjNUF3YVlLMFZvRDF1SkhuZWRDWFQ1RVM4X1JwTDU2aC01b1hOTEhqN3JV?oc=5) — *Press Gazette*, 08:40  ·  also touches Politics & government
+
+## FOUNDATIONS
+
+### Christian society (1)
+- [Protesters block roads in Portsmouth after 140 migrants arrive in boat](https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss) — *BBC News (Politics) (also Sky News (UK))*, 07:14  ·  also touches Politics & government, Freedom of speech
+
+### Secularism (1)
+- [It is time to reset what equality means in Britain – Joy Morrissey](https://news.google.com/rss/articles/CBMidkFVX3lxTE01YW0zVnFtaGVDQ2s2TDBVX1gzdm1rOHR0cG0wdGUxNWxOd3BEcUpwWk1PVktMa09OZW1jcFFNUjhJQmhDSHNpNzZrZFJKQThPWTFDb2dON253TG03UVI0YVVxbGlkaHpOdlVZaE9ROVBvc1VjdXc?oc=5) — *GB News*, 11:08  ·  comment  ·  also touches Politics & government, Freedom of speech
+
+### Islam (1)
+- [Save One Life faces renewed UK charity probe over possible Hamas funding links](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rWWFsOERpVzcwTUgwVGxaWGZBVzdwNFBKaklSZUxaLTU4TFZlU1pvdFhVRy1OUGtEcDdOS0dGWnlaQ1FIbW85Z2VSYlJ3YjJ5eXJQNFU1QWpOR2FoMDhv?oc=5) — *The Jerusalem Post*, 12:27  ·  also touches Secularism
+
+### Church (1)
+- [Former 'cult' CofE priest on trial for further sexual abuse charges](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNXg1UkxkOGs2RWdqN2ZpMTZ0N1RTMEtSVkVGbll5TzBfcnUtNGhHMTFyd09fcXZjMlU5b0FPV0NxWHpBMm1nSjFfWFNJcFFVall2TVdidTRpcFRMZXFXLWoxc2ZZVXVDaE9NRUFBLThUOEVpLTJ4Z3lvV2g3dEVOMXBvTXZnelVNbl9zV1JocEZuZDJoYlE2ZUhtWThTQ1QySVNlSDAwWkhVcHBZNHR1SA?oc=5) — *Premier Christian News*, 12:20
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Third of public back assisted dying Bill - but only with more palliative care funding](https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWFIdmItZi13MkdPZ05EXzVZQUhIRWQycFBHZEpvNk9fb3JzQ29uVnhFVXJXdXVoWklBeDRhU0VHVVJnakJhQ2tuWldsWmswcjJEWTlFc2xwQy1TNXNKU2dSLXlXQkcwZmpRWG9nMTgzNkhUTnBBempTMXA2TnRrNE5n?oc=5)
+*End of life · lbc.co.uk*
+
+LBC reports polling showing a third of people would support an assisted dying Bill only if there were more funding for palliative care. That caveat matters because it shows many people are not asking for assisted suicide in isolation, but are worried about poor end-of-life care.
+
+**Who this hits:** This affects families with elderly parents, disabled relatives, or loved ones in hospital or hospice care. If palliative care is underfunded, people may feel they are choosing assisted death because proper care, pain relief and support are not available.
+
+**Angle:** We should say clearly: the answer to suffering is better care, not making it easier for doctors to help patients end their lives. Viewers will understand that even some who appear to support the Bill are actually signalling a deeper fear: that the NHS and care system will not look after them well at the end. They can write to their MP asking them to oppose assisted suicide and fund high-quality palliative care instead.
+
+**Opening line:** "Would your grandmother choose death if proper care simply wasn’t available?"
+
+**Title:** *Assisted dying poll shows the real issue: people need care, not suicide*
+
+### 2. [Police force that told women to share toilets and changing rooms with trans officers U-turns on policy after legal threat](https://news.google.com/rss/articles/CBMie0FVX3lxTFBydEVvanFBX3dJWE5CYk8xXzZ4UC1wMUhKdE4taXg1YUFwdk52Q1duZXJaMkE0SmVnbXUxQjk3NDRRNWVJVUR4Y1kzdDFKTXdqcmNNdF9rUzltSDVBZm9qVElTOWNjcjh4ZHh6UW8xYkxqM0FmQUhmR1FnZw?oc=5)
+*Gender · GB News*
+
+GB News reports that a police force reversed a policy that told women to share toilets and changing rooms with trans-identifying officers after a legal threat. The case comes in the wake of the Supreme Court judgment confirming that sex in the Equality Act means biological sex.
+
+**Who this hits:** This affects female police officers, staff, nurses, teachers and council workers who may be told at work that single-sex spaces no longer mean single-sex. It also affects any woman who wants to know whether she can challenge a policy that compromises privacy, dignity or safety.
+
+**Angle:** We should welcome the U-turn and say public bodies must stop pretending the law is unclear. Viewers will learn that workplace policies can be challenged, especially where women are told to accept males in changing rooms, showers or toilets. The practical takeaway is to ask employers, schools and councils whether their policies now comply with the Supreme Court judgment.
+
+**Opening line:** "If your workplace policy ignores biological sex, this U-turn matters."
+
+**Title:** *Police U-turn shows women can challenge unlawful mixed-sex policies*
+
+### 3. [10,000 pro-lifers fill London’s streets at March for Life](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGQzdllFcUxRbWduaUpTc1RrSW82TzlSc2tCY3NrQzFlaXVma2VlaUtBeS1kM2xPQVliNnR6SnpVelZNdVphY1o5dDlYcGpCZlZEQUUwSkcydDViUTA2bUI0LV94bEVlaXVwYXVKUWNJUGlDZGlzYzFKOWNFeEhEUnR6UWl4VUZlOHVrZkhGRER2bURBRkJ6T2VR?oc=5)
+*Beginning of life · The Catholic Herald*
+
+The Catholic Herald reports that around 10,000 pro-life supporters marched through London for March for Life. The event brought together Christians and others to speak for unborn children and mothers in crisis pregnancies.
+
+**Who this hits:** This affects churchgoers who feel isolated for believing unborn lives matter, and women who are told abortion is their only realistic option. It also affects MPs, because visible public support shows that pro-life voters are not going away.
+
+**Angle:** We should use this to encourage supporters: you are not alone, and the pro-life movement is growing in public courage. Viewers will see that defending unborn children is not a fringe concern but a visible, peaceful witness in the capital. We can invite them to support pregnancy help, contact MPs on abortion law, and speak compassionately in their churches and families.
+
+**Opening line:** "Ten thousand people marched for unborn babies — did the media tell you?"
+
+**Title:** *March for Life: 10,000 people show Britain is not silent on abortion*
+
+### 4. [US issues ‘censorship’ warning over UK plan to boost ‘public service’ news on social media](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnEwdDQxWEdxazBNZllidFVMR1BmZnRmNXhjQ3poakctZk5uU25IRHdNcFoxZVBSQUdKQnB1RjRLY2VONTVBVmlKX3BYM2JrckJGck00S2JadThoR18tbHF3RUFFMmJ0UnF3c1k1YjMzM015REl1dk9Xa0lUM0h3SVQ2Zko4clloejhFOVB5QlpjNUF3YVlLMFZvRDF1SkhuZWRDWFQ1RVM4X1JwTDU2aC01b1hOTEhqN3JV?oc=5)
+*Freedom of speech · Press Gazette*
+
+Press Gazette reports that the US has warned about censorship concerns over a UK plan to promote ‘public service’ news on social media. The concern is that state-backed decisions about trusted news could disadvantage independent or dissenting voices online.
+
+**Who this hits:** This affects anyone who gets news through social media, including Christians who follow smaller outlets, campaigners or commentators rather than large broadcasters. If platforms are pushed to favour approved sources, ordinary users may see less of the views that challenge the establishment line.
+
+**Angle:** We should argue that free speech is not protected by giving government-approved voices more power over what people see. Viewers will understand why a technical-sounding media policy could affect the Christian videos, articles and campaigns that appear in their feeds. They can respond by following trusted sources directly, signing up for email updates, and asking MPs not to let ‘public service’ become a cover for viewpoint control.
+
+**Opening line:** "Who decides which news you’re allowed to see first?"
+
+**Title:** *UK social media plan raises censorship fears over ‘approved’ news*
+
+### 5. [Former 'cult' CofE priest on trial for further sexual abuse charges](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNXg1UkxkOGs2RWdqN2ZpMTZ0N1RTMEtSVkVGbll5TzBfcnUtNGhHMTFyd09fcXZjMlU5b0FPV0NxWHpBMm1nSjFfWFNJcFFVall2TVdidTRpcFRMZXFXLWoxc2ZZVXVDaE9NRUFBLThUOEVpLTJ4Z3lvV2g3dEVOMXBvTXZnelVNbl9zV1JocEZuZDJoYlE2ZUhtWThTQ1QySVNlSDAwWkhVcHBZNHR1SA?oc=5)
+*Church · Premier Christian News*
+
+Premier Christian News reports that a former Church of England priest described as linked to a ‘cult’ is on trial over further sexual abuse charges. Because this is an active criminal trial, comment must avoid prejudging the case and focus on safeguarding and accountability.
+
+**Who this hits:** This affects abuse survivors, church families, parents choosing churches for their children, and congregations who need confidence that leaders are properly accountable. It also affects clergy and lay leaders who want the Church to be holy, safe and truthful rather than defensive.
+
+**Angle:** We should say that Christian witness is damaged when churches fail to confront abuse openly and protect the vulnerable. Viewers will understand how to think about such stories without gossip or trial by media: pray for justice, support victims, and insist on serious safeguarding. The practical step is for church members to ask whether their church has clear safeguarding procedures and independent routes for reporting concerns.
+
+**Opening line:** "When abuse allegations reach court, churches must not look away."
+
+**Title:** *CofE abuse trial: why churches must put truth and safeguarding first*
+
+---
+*Nothing significant today: Marriage, Sexuality, Christian freedoms*
+
+---
+
 # Digest - Christian Legal Centre - 2026-09-04 12:46 UTC
 *Last 6 hours, AI-classified*
 
@@ -6062,85 +6175,3 @@ A politician convicted under a hate-speech law is appealing to the European Cour
   The Bulwark · 23 Jul 15:31 UTC · loosely relevant
   The Bulwark reports or comments on MAGA-aligned figures rallying around Andrew Tate. Tate is a controversial influencer associated with the manosphere and has faced serious allegations relating to sexual exploitation and abuse.
   **Our angle:** This is culturally relevant rather than directly policy-related. It may be worth noting as part of the wider crisis of male formation, sexual ethics and family life.
-
----
-
-# 🎯 Top 5 to comment on
-
-### 1. [Lambeth to challenge new “discriminatory” guidelines on single-sex spaces](https://news.google.com/rss/articles/CBMiogFBVV95cUxOd2NldjRoVVhyVkh0Y1BhVVNRMnpDbXpVWEZBLXFST2VhT3hYc2JENkdPNHdNS1llSFNKSkdTQ19MRzNKd09rakRqbFVxLS1PNjlabFdOenVhTFAxQ3VBNTdvSWZ0UlByNEZkdTBSOWxHaDk4dXJOb1oycm10Z1ItTUo4elRsN3FxOWJaYlFlM1docTZ3cUJlVzRfcXk1czkxVGc?oc=5)
-*Religious Liberty · Love Lambeth*
-
-**Why this one:** This is a live UK story about a public authority resisting post-Supreme Court clarity on biological sex, with strong pickup potential among MPs, gender-critical campaigners and sympathetic media. Christian Concern can make the argument others may avoid: this is not inclusion but a council attempting to defy the rule of law and weaken safeguarding for women, nurses, patients and children.
-
-**Suggested line:** Lambeth must obey the Supreme Court: single-sex spaces protect women because biological sex matters.
-
-### 2. [France gives a qualified "yes" to euthanasia](https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ1JjWnFZbjB1Z2t1dm5TYTdfaG5rRk16ZVBLbE5wYnlVdHE4VVZvREFzWUEwX2ZxZG5BdmpDckRpc2VsVGJBMjFIdlVuYl9vSmtJMXkzOFN1eVhYSEpROVhjdDFhOUprZFB2YU9FVVpQaXFGNjYzd1FpUlF3NU9WcjBZcmlEdw?oc=5)
-*Assisted Suicide / Assisted Dying · DW.com*
-
-**Why this one:** France is a major European comparator and its move will be cited immediately in the UK assisted-suicide debate, so the reach and timeliness are high. Christian Concern is well placed to challenge the benign language of safeguards and show, from other jurisdictions, how a limited right to die becomes pressure on the vulnerable.
-
-**Suggested line:** France’s ‘qualified yes’ to euthanasia is a warning to Britain: safeguards do not stop the culture of death.
-
-### 3. [Amnesty UK ‘should have reported itself years ago’ over gender rights](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSDdZdEJkNUx2WF9FWk4yeTBYeFZyMzZrMF9RQUlUYmdFMG9pZ3VzNmVpWDZmSkpIMmFULXUyZkdoREFrVEtUN1VBWFMwOXZudTFuX2NyMHFkY3JjemlYcW5HblF4UHpvZDNzcDNTQ3pmT1lyVFdJSzZTaVdVejhnQ0dXdm1IdFZmejB5MTJiQW1xSDlnaER4aXJ3OWVpWF83T1lfby1YWFVnc0k1YjgzMDEtVW85VF9hR2h6cTNVNA?oc=5)
-*Religious Liberty · The Times*
-
-**Why this one:** The Times gives this national reach, and Amnesty is a high-status charity whose gender-rights failures illustrate institutional capture. Christian Concern can connect the story to the wider suppression of lawful belief about sex in charities, workplaces and public bodies, rather than treating it as an internal HR row.
-
-**Suggested line:** Amnesty’s gender crisis shows why institutions must stop punishing truth about biological sex.
-
-### 4. [Skeletons reveal ‘Britain’s oldest hospice’, run by a Saxon queen](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ0MtSUhHX0lxMnc5eS0xRk5LU1pESElCbm5vcEdYVFFIQ0t1T3R4cTE2WDl0ZE9CYnpfSHlVRGFUbVlXbUVTeFY3RnhzTEZIeDNpMVdhMHVyZS1SNVBPZ3pQVzQ1blZsTGdTaF93ajNwSmZlNUdIWkZzRWVPa0hBVVlwajVkOVl2WTBIT1puTFNvLXV3ZmdR?oc=5)
-*Assisted Suicide / Assisted Dying · The Times*
-
-**Why this one:** Although marked medium, this has strong Times reach and a distinctive Christian angle: Britain’s earliest hospice tradition was explicitly Christian care for the sick and dying. It lets Christian Concern offer a positive, shareable alternative to assisted suicide by rooting palliative care in Britain’s Christian foundations.
-
-**Suggested line:** Britain’s oldest hospice is a reminder that Christian civilisation cares for the dying; it does not offer them death.
-
-### 5. [AUS: Women's Rights Campaigner Guilty of 'Vilification' for Calling Trans-Identified Male Athletes 'Men' Loses Appeal, Ordered to Pay $95,000](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTkREb1B5cnlrX2hBUklLSklLbzJGUHJtbWlmWG5YM3QwXzZlZnZ0Ql9ndDh5eHZiekFSMWo1SDlDN2cwSDIweHZkdlZ6R21HTjRUQWRTVUFqR1VMM0h1YUM5ZnFTQ01sOTlfNkp1eUV0VzhqTG1fc0JLakg1ZldaYWxXang5UDVuRU1iNnc3YzhfakZjazFzUkV3NU5JVERtclpwT0tSQ0gzd1Z5d2xndVc0STZVaFFITWx3cG1jYTVGNXNVdGdPc0dRTzI5b0hxS2liaEdqZzlyckZ4VU5qRXI1dkh0aHlD?oc=5)
-*Religious Liberty · reduxx.info*
-
-**Why this one:** The huge financial penalty for saying male athletes are men is concrete, shocking and likely to travel well on social media, even though the case is Australian. Christian Concern can use it as a warning that hate-speech or vilification regimes enforce gender ideology and punish truthful, conscience-based speech.
-
-**Suggested line:** Australia shows where gender ‘vilification’ laws lead: truth about sex becomes a punishable offence.
-
----
-
-# Digest - 2026-07-24 15:10 UTC
-*Last 24 hours, AI-classified*
-
-## ⚡ RESPOND NOW
-
-- **[PSNI won’t rule out possibility of hospital bible offence](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPV1BzSGwyQzRHTmN1TTVNaDUyY3RtNDJJRTB3bEQ3T0Q2c3NDdk8tSWF1cTNiWkRkRGdKVUJ4dkxNbVV0S2NFaS1GYm5TVk0xNTQ0M1BNNUpqWThaS0pUVEZNS2tvWktDQXBCNmNSeGZGZjdaalRCUzdxTEl6M1hTcDJ1YmZPM0ptNHd1MVIyNE5MWmVQT3BPeFZjU0VtQ25XQXQwY2w5bDd4OHJuVG1kMlhNdUtiQWhGV29TYnJKR2RGZkhzVm15eW85azlzOHc3NjlUV0Q1bXBaMVl6TURFejUzclNRMHZYemVTMjZRV1JvWFU?oc=5)**
-  Belfast News Letter · 24 Jul 14:57 UTC
-  The Belfast News Letter reports that the Police Service of Northern Ireland has not ruled out the possibility that conduct involving a Bible in a hospital could amount to an offence. The story concerns police handling of religious expression in a public healthcare setting in Northern Ireland; no court ruling is indicated in the headline.
-  **Our angle:** Christian Concern could argue that police should be unequivocal that ordinary Christian expression, possession or use of Scripture is not criminal. This is a religious-liberty and free-speech concern, especially if vague public-order, hate-speech or institutional policies are chilling Christian witness in public settings.
-
-## Islam (1)
-
-- **[Multiculturalism is a crisis of self](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qaXdLTi1LTThnYlMzMm51Wkw0MW8zOUpjbjI3MUxJcVlHTzdmZnppdWdvdmtWcFBXUTdWZkt3X1I0SG9DXzRTa0hyaHMzeFNwdG9DRjhBbFhRYWRYeDdWVlBmN3lyakFKSFJYM0xvSjlyR3hDaklKWTRBSmVhOUk?oc=5)**
-  The Spectator Australia · 24 Jul 14:58 UTC
-  The Spectator Australia has published a commentary arguing that multiculturalism has created a crisis of national self-understanding and cultural confidence. It appears to be an opinion piece rather than a specific court case or policy announcement.
-  **Our angle:** Christian Concern could use this as a hook to argue that Western nations, including Britain, cannot remain culturally neutral and should recover their Christian foundations. It also supports the line that defending Christian heritage is not the same as ethno-nationalism, and that multicultural orthodoxies can make honest debate about Islam and national identity harder.
-
-## Religious Liberty (1)
-
-- **[PSNI won’t rule out possibility of hospital bible offence](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPV1BzSGwyQzRHTmN1TTVNaDUyY3RtNDJJRTB3bEQ3T0Q2c3NDdk8tSWF1cTNiWkRkRGdKVUJ4dkxNbVV0S2NFaS1GYm5TVk0xNTQ0M1BNNUpqWThaS0pUVEZNS2tvWktDQXBCNmNSeGZGZjdaalRCUzdxTEl6M1hTcDJ1YmZPM0ptNHd1MVIyNE5MWmVQT3BPeFZjU0VtQ25XQXQwY2w5bDd4OHJuVG1kMlhNdUtiQWhGV29TYnJKR2RGZkhzVm15eW85azlzOHc3NjlUV0Q1bXBaMVl6TURFejUzclNRMHZYemVTMjZRV1JvWFU?oc=5)**
-  Belfast News Letter · 24 Jul 14:57 UTC
-  The Belfast News Letter reports that the Police Service of Northern Ireland has not ruled out the possibility that conduct involving a Bible in a hospital could amount to an offence. The story concerns police handling of religious expression in a public healthcare setting in Northern Ireland; no court ruling is indicated in the headline.
-  **Our angle:** Christian Concern could argue that police should be unequivocal that ordinary Christian expression, possession or use of Scripture is not criminal. This is a religious-liberty and free-speech concern, especially if vague public-order, hate-speech or institutional policies are chilling Christian witness in public settings.
-
-## Marriage & Family (3)
-
-- **[Wedding gift registries are great – but divorce registries would be a lifesaver | Nick Dothée](https://www.theguardian.com/commentisfree/2026/jul/24/wedding-divorce-gift-registries)**
-  The Guardian (UK) · 24 Jul 14:00 UTC
-  The Guardian published an opinion piece by Nick Dothée arguing that, just as couples receive help setting up a home through wedding gift registries, people going through divorce should be able to use “divorce registries” to rebuild a household. The writer frames this through his own pending divorce and presents practical support after marital breakdown as an unmet social need.
-  **Our angle:** Christian Concern could respond that treating divorce as another life-stage to be normalised risks further weakening the lifelong nature of marriage. The better public message is to support marriage, reconciliation and stable families rather than making family breakdown easier to accept culturally.
-
-- **[Fifty women tell BBC they were pressured into having sex with strangers](https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss)**
-  BBC News (UK) · 24 Jul 05:01 UTC
-  BBC News reports that 50 women say their partners pressured or coerced them into having sex with strangers through swinging. The women described being pushed into sexual situations they did not freely want, presenting the issue as a pattern of coercion within intimate relationships.
-  **Our angle:** Christian Concern could argue that this exposes the harm caused when sex is detached from faithful marriage and treated as recreational or transactional. The story offers a family-and-sexual-ethics hook: women need protection from coercion, not a culture that normalises increasingly exploitative sexual arrangements.
-
-- **[The Guardian view on Europe’s demographic crisis: the young must not be left to deal with the consequences | Editorial](https://www.theguardian.com/commentisfree/2026/jul/23/the-guardian-view-on-europes-demographic-crisis-the-young-must-not-be-left-to-deal-with-the-consequences)**
-  The Guardian (UK) · 23 Jul 17:22 UTC
-  A Guardian editorial discusses a new Brussels study warning that Europe is ageing rapidly as birthrates fall and people live longer. It says the demographic consequences must be debated more openly so that younger generations are not left carrying the economic and social burden.
-  **Our angle:** This gives Christian Concern a hook to argue that demographic decline is linked to the weakening of marriage, family formation and a culture open to children. Policy should strengthen stable families and value both children and the elderly, rather than treating ageing primarily as a technocratic burden.
