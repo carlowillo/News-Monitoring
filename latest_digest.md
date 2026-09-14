@@ -1,131 +1,129 @@
-# Digest - Christian Legal Centre - 2026-09-11 12:50 UTC
-*Last 6 hours, AI-classified*
+# Digest - Christian Legal Centre - 2026-09-14 10:57 UTC
+*Last 48 hours, AI-classified*
+
+## ⭐ CHRISTIAN CONCERN IN THE NEWS (1)
+- [SPUC urges Scottish Government to respond to record abortion figures](https://news.google.com/rss/articles/CBMiqgFBVV95cUxONVhfamVuTVhERWlHbUVPOW5vSVppYWJwcVZGelhlV0w2ZE9Sc19SQnc0cUI3cThENEwwcDJEanVwTk1tcHg5YjczLXRBWWZya2F6TFdPeTRnd0E1cnpjaGFzSDhmR2JpUF9wWFNUNkJ5ekpFWTJYRU90enNUc3M5ajdFeW9Ed0xJbWs3UWFlTWFHcW9GX3Z6TnVQSUllNlZlQ2o5Z2Naam9hQQ?oc=5) — *The Catholic Herald*, Sun 08:12  ·  also touches Beginning of life, Politics & government
 
 ## LIFE
 
 ### Beginning of life (3)
-- [Scottish bishop tells Crux Now proposed change to Scotland’s abortion law could limit conscientious objection](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbVl5TEV3dXpwVDlnaXpWR0JZcFNvYkpxaXdrVEJDVlI0c09GT3FEVHdjcFgzbUo1VDEteGRyYjl3RU52VXQ5Tmk4MXVYSzhobGowNXV2Tm1xLVdWczhSdWFZMWVYM2NmSmtjLTYxankzX3BSZ0RZSXNuRXp1WWVpeThlaTZlUmtXQzhkRlNOdXRTY2dVc1ppOVl3SkVidllkbHJCZVctdlJZdmViRDFWSzFxTjNQVWJnM29QaUU0ZDhyWWxSYnozZ1ljc1ozMDZxWkMzcFVta3I3SFRDX0lLSGRrQnFya0hac3kzMTZ4LXROODg?oc=5) — *Crux | Taking the Catholic Pulse*, 10:23  ·  also touches Christian freedoms, Politics & government
-- [10,000 gather in London for March for Life 2026](https://news.google.com/rss/articles/CBMif0FVX3lxTFB4LTNSMkpWcndKU3dGZjg1dW9yYzAxZ3NlSVJvRXE3NjZDUkhwS0ZwRTBmcEo1M2hwSjRka25nOG15eHhMNExTaWNWZ3lRSXZKVG1JSGxwMHFkbktUTG9mdzhkU2JOaWhPYV94bmVRNEJ4TUQ0VEs4TXphUUR0NzA?oc=5) — *Christian Action Research and Education*, 07:46  ·  also touches Beginning of life
-- [Conservative Peer Hosts Far-Right Activists Alongside US-Funded Anti-Abortion Group](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGhvbUZqU21jYjF0VG5MOHpOdmlrdzdQTHY1bWo3UThvZllXZ2ZFOXVPUWdyaG83eDRvdy10NTE0blRxUnpCSFlWWWQ3eG9zUU1VRHh6U0hwT0NDa3dpbXU5dUliVG1vZmdiaFo0enZvR1RLR2dUNXpqaWhUTzBZaWpXTXNHYTBCYUZKT0ZIMTBwZzlaSFg1UDhUM3dkNWxuRFgwWGxsXzJLZkh6OGFTNTJjRWZBYV9jYTVF?oc=5) — *Byline Times*, 08:18  ·  also touches Politics & government
+- [Scottish government considers including single women in NHS IVF eligibility overhaul](https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHktR0hxZW9aREF2Q2FYaFlpTFh6b0FwZGlUT0JXRmt5MkhmT1F5cWlmTXRNc3RzSVpSVHpDZHoyWHVWak01Z29jckNMZExkd2tFLVpIcVZhUDhUYkFtQUV4RnVSa2wtSTVhc25hUm5jWHVDaVRNd0ppLVdwQWp6ZmJGNzV5OGwydFJpdjlUaEVCRGh3WndJN0tUWThFMmJqQmkxWGpyV1YtS3BZX0NBTkNja05KQWxYQlE?oc=5) — *Today's Family Lawyer*, 04:34  ·  also touches Marriage
+- [Forced destruction of embryos in the UK to protect sperm donor's autonomy](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNEtrd0NNNW9reG5IZDk0SDhZc0VMZ21RRkFFZUM4ZlFyRW5BNll1bjR1Y0xzYm5keWdKem5wTFhLT1ZONGtSNnBkeXdpVjZVcGZJMTFxTVhGN2YzeFh6alhRTnd6VTUyclUzc0J4QlFpZUh6T3IyNGl4cUUzU0pDYVB1dnJzdmZGTFIyUjVxM2s4Zw?oc=5) — *liveaction.org*, Sun 14:00
+- [Parenthood at birth, protection before pregnancy: A clinician's case for surrogacy reform](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXlxWXI3YjlfOUprMFFzZDVQaG82dkliWDFBLTR0RlFFN1pEN2pjbFZ6cXMzV2wxYXhKODMwNTFWVlY2SWdyTERrNU9xX004RG5nZWlYb0ZFY2V6alA0Tl9ubnRvRnliMXRDdG1QaldDOTVvdWZ6TXVkQXdOYlZBTVpoX0tnU2o1OGxEOE85SG9mRi1Xa0Z2QXFEYTdKSXRPMFN3T2tSUmc4V25UQVhKWkhMQ1JCcjFP?oc=5) — *Progress Educational Trust*, Sun 17:45  ·  comment
 
-### End of life (10)
-- [UK Poll: 82% Want Parliament to Reject Assisted Suicide, Support End of Life Care Instead](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUxzRVJTWE1qakVEbUpuaGtYT1diVW5Bb29mZXhHallTR0swS01vQWhRa25zVUhwb24yRS1CbUFZWVhLbkZDaFN4Z3VMNXFyR1ZaTmg3QU9PenhGOS1BYUlIVnQ0R3hiVjdqOTE2dGEyM1ViUkpIX3U2ZEZLRDBjR00tYzloTVBQd0pleDZmUHBBR1loTmdtNTA3S3g5SHpSUjJNVzd3d0xqc2EwZDk4eVhPbi1kN242dEVaNlg4eWU?oc=5) — *lifenews.com*, 12:24  ·  also touches Politics & government
-- [MP with terminal cancer makes impassioned plea against assisted dying bill](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmptU21uWFNmLXBydUtxUFgycE1VZG9rSTBuc3p0dUNuUTBaSm8weU12cTBYeE1IZFFScjliTThWZ1l4eDZVc0hDUW9tdHlkYlM2MEVYdVBwNDd6WnNBYTZUNnNmUENkOTdfTnRpaTlmTmNrc3FpZmJiNWFsazc5WklieXY2RUtKRWYtYVlTX2JUZFItSUJyRTVXU2FtMnBlOER6UGxB?oc=5) — *The Independent (also The Spectator, Politics.co.uk)*, 09:28  ·  also touches Politics & government
-- [Badenoch says she will vote against assisted dying bill](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGNQcFpWQ05Ga0ktaTRvcWFrQm1ON0tBYjM0OURUOHJGNU5VeFJVWDhHNXYzYjBzODduUGxrMEdmYkY1QzhuUFNNZUY5U2VYNXJzZEZ2OWRiZkFwMnhvN0tvNnZvTzgzV2NYRTFGa3NjQXI0aFU2bEpqSDZJV1YycFppTlNNN2pCejBOUQ?oc=5) — *ITN*, 09:12  ·  also touches Politics & government
-- [Press release - New poll shows 82% back Burnham on assisted suicide, as calls for MPs to prioritise fixing care and vote down assisted suicide Bill today](https://news.google.com/rss/articles/CBMijgJBVV95cUxNVlBaNnJ3UGp4dGNKakotckkwZ2RyamFhSWY4Mm1EWHRlX1dtajNUZlRHdkU4STByYTZDd2pOR0dqaWNMdkQyeWw2M0tBaVBvTThCZG1ZVzBHbWFhSWJxOVJoeTNUOHpWVEpaRDJ4b2R2VUhvTDZqQWdRWTVxME9sR3lidXdVS1J3cGtsRDJuWGRfNmc3Y01ncDBDOEoyXzNyUkNJMHVQcjZDRXgtSGktWnBKd1hhTlg3N3VMVVFXbE9zTGg3Q3J4UWNfQTNGWnlrWUE0UHBWX3dQRzgwbGF6VnUyWkpPQUpHaWxLaG5fRWFRMVozX3h6SFJLQlhrTXRaUHNCakFvTFJZZHp5UFE?oc=5) — *Right To Life UK*, 09:10  ·  also touches End of life, Politics & government
-- [Assisted dying bill for England and Wales faces new vote in Commons](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Yb0pNVkh3ZF9TR1VCSzFRNnQ3TlZYZk5VN0FGWUt4bmwzaE5tRzNJMTRGNmRONElzc0RMcmJyOFZoY3Z1Q2VEdUQ4Qm9taUxvelNoY3ZyLWU?oc=5) — *news.bbc.co.uk (also Yahoo News UK, Herald.co.zw, SSBCrack +20 more)*, 06:48  ·  also touches Politics & government
-- [Cancer survivor celebrates wedding after outliving terminal diagnosis by years](https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0Y2MjBLbkxfR0hMdFZwZmpZcVRhaEJ0NTNpMmdxamtSWjdKVE9QRlZUdE5sNWxaWFNPOVpmRXhSM2tSQWZVemItVlFVSUw5dTNWNExqNUdZMHdSREVrY0RVTXJqdmdJUmlQV2g5VHFNMzhPQXdQY0tSck11OHUxaGx3bFV4YUcwX1VFSjVRcDQ2dFlEUWJVSENuRk5vS3BIYjhKTExxTGlJWUpNSXRrTmMwNA?oc=5) — *The Christian Institute*, 11:29  ·  also touches End of life
-- [Don’t gamble disabled lives on an unfit 'Assisted Dying' Bill](https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWhPcnk0Yk9uZW9XNjdrTG1ZVVNlUlJTb3BjU0l6NWJmTHE0bWJNQW55Vk5kLU80T1lkWnYwNXVqY0hrSllVNk5FRnU1SkZoQlMyUjIwcmZ5SlQwbERBZTg0Z2FTbUFXbUFqNGpfUmF0NS1nMDFWdVhIWjM4QVF5ZEZBeE9TVFZvaHFhOVFnTVRvalQ2N2VvcElqVHk?oc=5) — *lbc.co.uk*, 09:59  ·  comment
-- [Former chief prosecutor urges parliament to ‘finish the job’ and legalise assisted dying](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0c0NzhOVUMtNXhsSFd0bVVKaHFrd1AxMzNYTFQzYXZsaTNOOHFaNjNRZEE5cndXWExTaXBOQ3ptdEhzTElORUFYZDVtZVVZXzJ0Ymw5UUM3Y1g4Njc1WnBjVDEwTDFWRVl4VTctSzVkYVN3VnRSaUd6eDlzVzVKQmR4V1JrZjNKNGx6N3JtQWx0NFFxOHpwZTlhdGktcHhUN21WYVRwSi15c3FhWUpIenJ3?oc=5) — *inkl (also The Independent)*, 08:30  ·  comment  ·  also touches Politics & government
-- [Disabled people will suffer if assisted dying becomes law](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWpxZlVZV1dNNUZGbG10M24ySUFiUWROX1hJTDFRS1RMWGY2aVI0cERyM1c0d3NBVU42OG9fQVFmeGhTQ3o4OThCRXA3dnRnUngtWU5lX054X0I5UG4yVFplcGdSdHdtVkliSFdMUUNvWXVnSWVQWTdrdXJHWGJkbUFacTA3VDhEOER0MUFKZlZsQQ?oc=5) — *The Spectator*, 06:57  ·  comment
-- [Esther Rantzen explains ahead of assisted dying vote why she can’t go to Dignitas](https://news.google.com/rss/articles/CBMiqgFBVV95cUxONU92TUNkUC1TRVEydWUwLXBNUHpESm1jNkxyTTlqVW91NjhQbldrcHRybC1tQlZ5cWt4Nkl2N2dJVzhkX29heEpxNlY0eG5jSklnUldJQjNhM2llc3ljZU1lSnNpSlo1OWVydnVqWHJoOFJzTk8xRnQ5VjMtRWJOc1ROMGR0MVlCVDVhcFJSeHRraHpJU2FoS1hEM0FRaUQydlFJWC1PT2tQQQ?oc=5) — *The Independent (also GB News, The Mirror)*, 07:12  ·  comment
+### End of life (4)
+- [The Commons help the Lords get its way on assisted dying](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX09ndnM4MTJSTGVmZHRKcURndnRpZUpHelVTWTFFQlAyOEJJNUJHcThSbjJtclJ1RnoxczRhbkhYWXQ3UFphS29XZURYRTdhdERnRXRCSFhFcnkwZXE0cENWYmZTa3JXY3VWX0VDM1ZMQzMxQjRndVhmMDBGWWNXVjg2TXBnS3hrN256NGNiSGRkNDN2MmtCTmpWSkhTUWVKSGV6ZFVvQXlPODQ?oc=5) — *The Observer*, 06:56  ·  also touches Politics & government
+- [Assisted dying campaigner plans ‘Swiss pop-up advice office’ in UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWMxRExxdEJ3VjRuVHo1emI0clItRjlHVGFDMURnM2tVclRNcnZveG5RWFRmd0t6Rjl4ZnBRS1Y0NWpkdll4TC1Rc0RiQlI5TUYxaWs4WFNTbHVtUDM0N1h2bmpTQUVWYkJOZkNweWJSQWZsSzUzWFhTY1NsZ25CWkUxQXFmTHEweHZoYlhONDExc1lEU1FkZENoMGN3b0E?oc=5) — *The Times*, Sun 18:40
+- [Assisted dying bill voted down by MPs](https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWpXYUdrU3pvV0VkNkpHeENnYmdlcC14b1JEN2hSRkVtYUNCV1V4bWtwSzRnNFRXVUloTnNqRndTMk5sUjhwWHhGVmVWMkpGanR3XzBaa3RXU01xaFZ5bFdBbk5RNTJsRVd0WGl3bVJKUHhMcG1QcWdwQV9IeXBoYmx6SEFwZC1RSmc?oc=5) — *communitycare.co.uk (also The Presbyterian Church in Ireland, CathNews, Oxford Mail +6 more)*, Sun 07:59  ·  also touches Politics & government
+- [I support assisted dying, but I’m not surprised this bill failed](https://news.google.com/rss/articles/CBMiogFBVV95cUxOY19zd1AtWnZySmhMUGV2YVUtQmx2R0h3OTVsTktDeS1IaEs3dHRfQ1VsbkxwMlRITzBabWFGaENsZ3ByYXVVc1F3OF9IUFJNcTdOQ3JLWXJoZjU3Z3k3NlN0b1J5TTVLMGM4S0JNX1NhbjRLWGlpaWYydlpfZ1pNdjhWak1kSHdQcXRRd3NYalkybGhjaFZHUzNzSU5kMVNTU0E?oc=5) — *The Telegraph*, Sun 10:52  ·  comment  ·  also touches Politics & government
 
 ## FAMILY
 
 ### Gender (2)
-- [Greens under fire for allowing man to be elected to female position](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnVtSjNCdFNKSHlvTFdwYTB3ZG5VSzJVODhmTkhaYmNSek5jZFFiamRCblFqU1pXZmN2T3daS1pSamlkY21leDV4R09rQlZBZE9hbGVpam1zOERhVUhNLUtVZVNNenNRbzBWZ3NNZ1IwYWRiRTROakZiMDM4RWxLeGVONHdJUFczNWdnOHBTc3Vhdm1KRkFXLUs4OGEwUVJUNXA5Ng?oc=5) — *The Christian Institute*, 12:17  ·  also touches Gender, Politics & government
-- [Doctor launches action against NHS trust over trans policy](https://news.google.com/rss/articles/CBMiekFVX3lxTE4wUFlvVTY0bmRncTVoNnR1T1pjMzBVSi00TGs3RWVkZW9FRzlUUF8tSUVFUFdSbFFySW0ySThDNWZ0MDd1RkZ6MjZHR1Nxa2tLMVVqeXhmcjdLS2ZpR2RBWkx1clJxeDB5WEd2V3Fhc3BkNW1GY1JrQ1Nn?oc=5) — *Personnel Today*, 08:40  ·  also touches Christian freedoms
+- [Fury as NSPCC say male teachers can supervise girls in changing rooms](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU1Z3UFJqYW80N3NhYjZVN29xdDRYQ0NzcU1kRVVOU1k4U09JcTdoNXZ2U3JCeXVDUFFUaEszV1NGU2Yxb2MxRlRUUU9sdlpIejhJVnJPRlM3Z1JsTTFHWkEtMzhYOEF2TGM0UmtaUDBvNUxtbmVmRFRzaXdiNE9CcjhuOWlycXBJa1Zhb1JCU2M2QXZXMkxSclBpRW5oM3h1TWhWVHBhdDdfa0dEdUJTVEln0gG3AUFVX3lxTE5MM0RDVWwxVmpJOGpvb25nRGQteUxJNjFJTk90LTh5WlRjZkwtTGZwa1c1TEdyZFFrQjhpT1poZjUwMGlUYnZzNnF1Q2RUejJvTTVqNHVaR0lSMXpETUNqMWJQR0hSZW1MTlhoUHJaT2xNd3FXYW95cVZiXy1aM3RaZW4tUVZsWUdBbE50dTlDTDJDRXR0NkJqRldMbnZvSE13dlpMc0duU3NsanFtbm9Lb082NXFYSQ?oc=5) — *Daily Mail (also GB News, Sex Matters)*, Sun 23:46  ·  also touches Education
+- [Council row breaks out over adoption of non-binary politician's 'crackers' gender-neutral titles](https://news.google.com/rss/articles/CBMibkFVX3lxTFBLR2FIek1rRzMwZFRZbFZUOGpsSF9uWkRHZlp1NVJiUm9Xa0x6R3V3bjNZX0pWS2M4TDZxNk9wTHVGdFJSQUF0YTJ3RGhVQlBNNGgyWnVhVTZYd24xbTVTeWNPTEIyaGItOHQxY2Zn?oc=5) — *GB News*, 08:02  ·  also touches Politics & government
+
+### Sexuality (2)
+- [US embassy child abuse images suspect flown from UK before police interview](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NcmdGU3FKQkNGNE1sTFNfYkVEV2J6S04waVVGR0hzMVZ0NTZWbGJYc2c3UURXSGQ4c2xQd1ZFRUhzV3ZaZDdRN2otemlmbTl1Tkx6ZmNfSlk2Zw?oc=5) — *BBC*, Sun 13:31  ·  also touches Politics & government
+- [Fresh questions over Staffordshire libraries after Pride row](https://news.google.com/rss/articles/CBMipwFBVV95cUxPY0o5Nm9XU2FIX0lvYkYyOXhna3pPZDRLdnVNXzJoWmNvZW9FN3NuVGhSOE15b3M1dVVoeEpXNHAwZnI5ZHY1dGFWd2plWDVXbktFcE8wbmVCOWtkRkw1LVpfNlpFdG82LWZyN3JhVTJ4ajVKX1lwc3dhd3FlWDk3cFJwd25LWEg4Q1g4cHZoZFFjWW9YQ0hGdHVGRkUxVlQ1LVlPWDVzMNIBrAFBVV95cUxQNDUwaTVVVjd1NFNjNXYzdVBaZmtSRmthc3NXY1RENzZXc3pnTzAyaHMtZklnNXRxS1FnRjBYOFlFblJIRGE4bXMtemd0MFkzQ2RiTWZHc3gza2gtczRmdGEwVl9VSkFhc0prWkFLOVVzWi11LUxTTWx4NThwbUs3S2tIOVhRTm9IWmhrcDh1TzcxeHAzWEZCOTZrTVV1MkhBcGtaanRONzlpMmlZ?oc=5) — *The Sentinel*, Sun 12:00  ·  also touches Freedom of speech
 
 ### Education (1)
-- [Teachers in Liverpool strike over plans to consolidate nearly 230 schools into Catholic multi academy trusts](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ2UtNUg5TEZFUWd0NE5hMUlmamV2UGtsQW5iWU42bkFoV0hRLXRBS3djdGMxMG03U3RxcXA5X0VfVmlvV2hhaTA5WjFLM2dBNXl4Q0F3NE8wSk10QjBuTUZrc1pCTVdWdURnVVdHdThUTDJObWZYTERtdGxab0U0VGJUUnR6bG9iako1bTFwckNXN2JjZXRNZUl4cW01RkR4UHpJUV94b01uTG1fWjlaZUVDZXViUmRaNXZjQjVucEtQdlljY2pSa1VSclh4VmZzZTY0MGlDdFo?oc=5) — *Humanists UK*, 10:04  ·  also touches Secularism, Christian society
+- [Keep Christian Nationalism out of our schools](https://news.google.com/rss/articles/CBMif0FVX3lxTFBIamVhbmdHX3ZiX29kc3F1QTQ1Vlc1c29hTkpJbVJZZVpJOWtEeW1yM0piYW43Q2ZEUi1UNjdJMjJoOFFXaHNOREYyTV9DNVpGZmF1bE5oa1NIUFJLSWdGajVoMFJtVjhQWUlCZ3JQY3A4S3BSM00xdHlDUUdlbWc?oc=5) — *Humanists UK*, 08:21  ·  comment  ·  also touches Secularism, Christian society
 
 ## FREEDOM
 
-### Christian freedoms (1)
-- [Evangelist, 72, Acquitted of Handing Out Bible Tract in ‘LGBT safe space’](https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3lJZ1hscm9QTFh4QjYyTHpQakpNOWlkMi1EX2dPbzJ6ei0yTW1hUWp4Z1hZQjg5WUlVRkdFbWs5c1N4VHBaNlBDSTNPT0RvQ1pheThGYkVpeTlpUXB6d3FKUnl2MWRfZmxoeDNEZ1dwcXFoTEpubWo3cjI1V1Rpc1dzc2ZGTEEzY3JjTDlISlBLX2V0QldDakNvYVdSLWh6UUE1VklR?oc=5) — *protestia.com*, 12:25  ·  also touches Freedom of speech, Sexuality
-
-### Freedom of speech (3)
-- [Ban masks at anti-migrant protests to stop far right, Home Sec tells cops - after 100s descended on Portsmouth & Dover](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZThNUjdZTDZMTWctRG9HeGd0a3h1ZGx1amF3bzhTR3dQUnRCVWRTZGp6X2ktNE1pc2xhOGVSUHlTVElSdU15aEJ0RHlyWXpIazFMTUNQdDh1ZVdxT3djaWVwTnFQY0lyVVplMV9CWnRXWmhtbkhZTGpOa0l1TUViN2o1MVFxWmc0NGdJbmNHNXhiSUEtb1E?oc=5) — *The Sun (also EasternEye)*, 07:48  ·  also touches Politics & government
-- [Why holding a placard is terrorism, disruption in a balaclava is not](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMl9TS1dWREljVEo0clBtblpRUzhpNXRqS2w1ZURzSFZtanQ4Q3RyLWtWdUdPZUVrYVhzUGJsc3JpZUlfQXdNcUx4Nmd4MlQxQXBoZVBaa21aRl9YVDdlS184dnpSOF9XcGxONkh4R09aN2xNZE9MWW5odVpzZElzcXRmb2F1YU1IeUR6bWhRb3V3RGJ2dkI2aGt6SC1mUzI3Z2I2c1ZVQVhnS1YwZ3RuUHRJU3B0Nk5VcnVmWU1UQW9SRDRaRklSdXE0RUtPdndvemQ1Tg?oc=5) — *Prospect Magazine*, 11:42  ·  comment  ·  also touches Politics & government
-- [Why did the British government label Charlie Kirk supporters ‘extremists’?](https://news.google.com/rss/articles/CBMiswFBVV95cUxQc1hHYUZjVjhFT2hqRWZMOFFFc1g1aWxjQWRTYWFwd3VGd2FyTmotYnlOMHdadklZcGs1SUQwbEJSSE9VOEhCVUYzU0xYb2ViNDNoVUp2QkVzcHN4cVp0N2piSTJIejhvU0lyQVdOb1VvVElVN3JZSjE3OWljWklvUG5meXU0WWFTMGtHWlpvRU1UMlpaclk5bVhQM0lKejJuYzdtWlkzam5CcExzSklCbkFJWQ?oc=5) — *The Spectator*, 09:56  ·  comment  ·  also touches Politics & government, Christian society
+### Freedom of speech (5)
+- [Man charged after wearing burkha to anti-migrant protest amid balaclava ban](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcVhkM3N1cTZfNnFtbFphb0g2YW1YSTdQdWZGUGtJazhhUk5jOG1BRUs5YkVIWExqQ2NjZzNuU1pmSFA5ZUpaQW1MRmw3YmwxbDdsNWxwLTYyWjM3UnJ1ZDdXcnV0cTVWOVRuWHhQVXNtWnFlQW5jRTJyZXhoVy1pUUUwbVRtSXZldVN2VzVfTVZ2cUFRa1hFNFBIeUNUWnh6S1d5OHJ3VkJmN19MTWtWSXdUWjBZQQ?oc=5) — *The Independent*, 08:34  ·  also touches Islam
+- [Free Speech Campaigner Andrew Doyle’s UK Hate Speech Laws Warning](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jMU16Z1Z4bnhsQmV4bVp3ZEJna1dDRGtHQ3Z3NzlmSVp0Ny1WZUh4aElzdkhfRkl3QUxGQU5zaDNVRkZhb0gtRnU5a1NCdlNqX2ow?oc=5) — *rova*, 08:00  ·  comment
+- [Britain Is Arresting People for Speech – I’m Heading There to Find Out Why](https://news.google.com/rss/articles/CBMizwFBVV95cUxPSG5UZVBtYVkwdWI1cDg3c0kyVlZYemduZnI3OURFd2ZwMkNNV2hLMnhvSGdPYThPQU94eV9ISWg1Ul9uREplNHp0RnpkY3RkYVFjN0dQSHVCVGVkQ2t2UGV0eTBWZmdfZ0pzbTJsX18yYnYxV3N5clJocGdEUVFIN2tlYVdLMUVKWEx4U2t3Y21BQjFFd0VfdVhaSnhnVTIxQ1pFbVNBeXpxT1hsWk5iNkNVZDVFdUhZODgwMU9sOVdKSGNzUlUxMkgtNkc2Y1E?oc=5) — *townhall.com*, 04:01  ·  comment
+- [Why is Labour blaming social media for everything?](https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWdnV1k2UlF5VDlEc1dVOEdtT19odHlSUzhfX2w1VzVkU2dkTm1kaXdBam1Ib1RoZ04wNEJqekFWZkVycmE1RXdXS0FXNVhKY3Fma3l2VldUanhTTTlyUlBWSmNGeXdHOGpJVW1iRUFSQ2pwQ0Y4OW82bEVrdm1HdzNTNzh2b256ZEVFYWQ0S3V4aXhDS0E?oc=5) — *spiked-online.com*, Sun 22:55  ·  comment  ·  also touches Politics & government
+- [Why are so many foreign activists barred from entering the UK?](https://news.google.com/rss/articles/CBMipgFBVV95cUxPR29nYzBVN20zNnUyajZIdWt6em54c3plQUd1QktaR2NDTDJoNFEySVlqV0xKanIyaTRYVWdvQzc2bHBQY25mcWZTQU1qeUIxTmJoWEFQS2x6WFRwTmNpLXpLdzhtVWlxdVBuRXIxVHdwZU95TlN2anZxUjhoNGZ3dG1mdUhRRXZYbndEOWNCN3U3WG1PbGFqeHFZNGp0aF8xcnZOQjFR?oc=5) — *spiked-online.com*, Sun 17:55  ·  comment  ·  also touches Politics & government
 
 ## FOUNDATIONS
 
-### Christian society (1)
-- [Study maps church-based social action in England](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVENPOENXS2c3LVZfN0pTNXVMX2lKOWR1Y1ZDOHdVS1ltWi0wX0oyLUlpLV9UR3hkZDFCU193OXRQOHRoS1VmcWY3Qm1lekw1MmZ4MmFHMGVPMTgyS2NRVEx2UE1NYzBWQ2REUkNIVkItRGFwRDk5MjEtSkVyN0htQnpkNjBpbTJoWDF4Qy1KVFVQR0E?oc=5) — *Civil Society Media*, 11:24  ·  also touches Church
+### Christian society (3)
+- [Gen Z convert boom also happening in Scotland](https://news.google.com/rss/articles/CBMigwFBVV95cUxObDRMdzNnajdKNUJSZEQxOHY0bjRqY3dRcWw3UFZ3bV9qVkZMSjJvQTkxYnBRT0VYSmtkcVpjdkdDU3BFa2JpdW5hWWdEYkdSQldzZXVldVl4YU5TWVFSZ05qRGdxNVh6dXlvcWZPVndDdkZCdjBITWlJa1V2R29rSE1aUQ?oc=5) — *aleteia.org*, 10:25  ·  also touches Church
+- [Evangelicals are now 2 in 3 practising Christians across the UK](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdlQydXc5bFhYUTJIeWNPOUVEMGtXZmxLUUdIV0xnRmo3NFduSVNsWjZnT00tUlhhMzJ6Qkx2Qm9WQmhTdDJiZ0dydHZrRkpTaFBpejBHRTRad1RLX1hTUTJjR20xbHhsVlpTZHE3VGVLN0hEQndKX2hseC1uNklENUVObEl1MWpGQkNuOG4tWXYxX0xTV1pISXEtVkkyQlhrSTRhTHJqbFZMVEJPVDljUA?oc=5) — *Evangelical Focus*, 07:42  ·  also touches Church
+- [Last vestige of anti-Catholic laws in Britain ending not a sign of Church revival](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdThuZmEyZTV2UFlrM0hWcXlmNHFGbDN6UHI2Uk0welUtcURLZEFDYV9lWWVwUXFGWndoaGI3TXB1ZXgwZi11eUdUT01rOXVuTUVLbVQ0Wjl0a0xRb2hqRm1IYzZyejl4ZXhXOVZhazV0SWtOTF9WUmszUWhkQlVoQ1NpNFpIdThORV9idzZocVFvZ0d5ZXlHUUo4M3ZoSEVpQklkem50aFFYdkFaSkpGODROcEduT1liWXV0RHV2VWdPUQ?oc=5) — *Crux | Taking the Catholic Pulse*, Sun 12:15  ·  comment  ·  also touches Church, Politics & government
 
-### Secularism (1)
-- [Britain’s archaic Church-state settlement could enable Reform’s Christian nationalism](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN0EyZDkycmZobjRKd2YxNEx0MkxRYzBsb28yQlg1V1pGdTIzRS0tMVVtVkR3Si1SQWl6b3owN3BlZjZRMWpQN3NPTlc1TTI2RENVUHJjTWlRVzlva1NmRm5HSXhLM3ltZWVicXpqSUhtYW5keTNJOVYtNFpwU1JFOXMwQ2dVOTRmTFZlU2R1YXFFaDJZejZfQ2JmSmNYbzhpNkc1dkJDc2hiS050SkRkRWVtOTAwS2tMUDJUamNFUUU3Nlg2eWRjMw?oc=5) — *National Secular Society*, 11:20  ·  comment  ·  also touches Secularism, Politics & government
+### Islam (4)
+- [British Muslims ‘must report grooming gangs or be complicit’](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHBMeGlWZndNNVQzVDRUQm8yVDJuWnFVcm5ILTV2WVZuTlZsbEloODBLTmoxX3VqNjJzQlFUT3JtOE1Sa1g3LVdXbHdsUXFhX25Va2w5azhjZTdyV2J3dmJlMFY5NVJPYmtOaGw1QkJiYVVTb0R1a0V4a2lqREZUN1g0MjgtU0xXYVBFUmloNlFhV1ZFNEUzWGlMaw?oc=5) — *The Telegraph (also GB News, Minute Mirror, Geo News)*, Sun 13:06  ·  also touches Sexuality
+- [New hate crime reporting hubs in mosques will 'remove barriers'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE55eFVDSDQzMDNBbEpwNW1tUWp4c1VlOXctc21JUm43MUpVdzA5TGVJSVZKQkNwZ1hNVEEwamZnQTFQYnRWd3B2WWFMMlZOYXQxTGNGSi1Pa1hXMXg0?oc=5) — *bbc.co.uk*, 05:29  ·  also touches Freedom of speech
+- [Bin Laden wanted to attack UK and Israel years before 9/11, secret dossier reveals](https://news.google.com/rss/articles/CBMisAFBVV95cUxOamdIbXRvLUdmTHFJT1l5Mnh3ODg1eDVwTXR3NUItamlGcC1maEZQeDA2cnE0M3dsMXQ4ZlJCV1VNRmJnVElQR2twVmQ4NjNJNDBFOENlZmpJUmdsMVgybFpDZzBnN1pCV2xMODhSN0ZsWXpDQ2ViRG05TTJ1dEhNblNDNFM1UnpHQmRPYU1TbUZRcVRpRUxTUTN6VlZjSmpOY0pVRF9IcnJGYWhnWWxvatIBtgFBVV95cUxPd2pMQkRqOUE5TVpxUnJJeDZFbDlZVFZQNjdBMG40Wm03Z2hWLUFQMFV3cE1pelYtN3RSNGF2RlcyMVp6VzdJUGZZOFBIeUdJeWxnQUpTaklER3ZmLUx6ZXU3UjZVeVhOQUx6d2hncklUT1BwbXU3XzVQalZ5RERkUmdVNW8xdWtUT3ZlSHpPNllsMHZvWFVWRmJOTVdyYlphcnF6MGk4Q2RqcTRua01HdkhGZFFfZw?oc=5) — *Jewish News*, Sun 09:32  ·  also touches Christian society
+- [Won’t someone please think of the Muslims?](https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEc1dGNlWDkyd0lkb1FINjNGMlA1OUEtVFo0VHdUVDJMR3dMYm5kNGlZZ2phbjRkdEZxQkJrWVl0YlhxcHFBSkt5eS1qZVhmc1o5UlNmZnhCMC1TRGlfd1hvWlpqUkh4MmNQSlI4d2ZuVXY3TmF0UEhnSGpMSEV5SXJkQ282TzlXdlE?oc=5) — *spiked-online.com*, Sun 20:19  ·  comment  ·  also touches Freedom of speech, Secularism
 
-### Islam (5)
-- [No anti-Muslim hostility tsar six months after government pledge](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcVQ2eThhUDZWaDFVVU1kNFNOYmt0QXhuWHUxd040cXp2TVY5c2hwU0pZTWthaE9ucmotSE4tTXF3NnBKV0pLWVRveUxXY0x0NjBOWU9haEk4dTgxeU94LWtINFJNZnZ3YUkxTnYyX3pEcm1nb2VRZ2FHeWdpZXZ3S0dkc2paU2Fjbmp5SmctUjl3YUdic0ZSS2xNc2ZrTl9pbjdISlp1REdxMW5DNlhR?oc=5) — *hyphenonline.com*, 09:07  ·  also touches Freedom of speech, Politics & government
-- [MI5 chief: Britain faces greater danger now than on 9/11](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGh0SG9PaVJkZ0VrOHRzRWczTXZXM0p1M1ZvUzd5c1RIM3NTRzA2bkw2MGNoUDJlRUczekU2eWEyRmE1YV9mQmNIcmVIYzN3TXY0ZTRFbTFUQl9peDdyZmZ1Z2hoOFJrbDlSSzY2bGphYW45a3Z2dWp2bVkwc29CM0xUbVh0dUFRcC1wejdDa0o3b2xhT3FlVXVXMUM0SC1Oa1Rv?oc=5) — *The Telegraph (also streamlinefeed.co.ke)*, 07:43  ·  also touches Politics & government
-- [‘Islamist extremism has continued to stain our world’, says Chief Rabbi at event to remember 9/11](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTBHSGF5TG1MQzdkQWJlT2RwZzYtcnV3UmFkYldfNy14TzVWT1hEeUJBM2Z0Zy1FMEJSMVdXeUFSZkxhYWxfckdsVWp4Q2pBelFadF9RUzVTb2ZmMTRGVVItM28tUkhHUDVpYVJ0RzBaQUlsSktGYWNZUWpVME01bGNtMU5CXzRDaFJxQkZORlpKVjNFZVlhSS1FdWJLU0NLYlFCc3ZIbmJPckJOZGZ0QllmWk5Oenh1TUplaGZKajhHcWt2bHNYeUdPb3BtUQ?oc=5) — *The Jewish Chronicle*, 12:43  ·  also touches Christian society
-- [I was a middle-class girl who fell victim to a London grooming gang](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLXpOb2tzRUNrUk1EaFJIZGJVWFgzaE5iem94NU1iUDJaU2N1ajdzOEl3SUU5UnllaHZkU05ubkU3VENLR1RfME9rMkRHRlg5anJZWnpyWEpTcUYxQ1c0WlpaRkwtV25BTDNBRVJKcTJGR0thS1ctRWFGWHpqQ0tJaGhLOEItV3Niamxr?oc=5) — *The Telegraph*, 10:48  ·  comment
-- [Britain stood with America against Islamic terrorism after 9/11. Now, it's scared to say the enemy’s name - Lee Cohen](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdDdiZ29tMlg3QTlTLUExR3M3azdMa3ZoWWFTMlU4b1hzT3BnT1VaZXh4eVRlRjFrXzBEamNiNEY2S0RxTzJkU1k3aWtSbXE5cEZEZkFkMTNENTdHbjNkM2I2V196OVN0aXE4NHVKYkJ1MWhVc0NjZXo5RU1SWmVDa01PeE83dkVoRTJOdU5JVVZzUQ?oc=5) — *GB News*, 08:58  ·  comment  ·  also touches Christian society, Politics & government
-
-### Church (2)
-- [Board questions church event for children by groups with members who support Palestine Action](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaDhNVWV2eWhiTkRQakZZYlNxT2dhMFUwZndWY1VnRnVwRjFsRWlQRHVTQ3NINzBlbHpmZmRrZGhsLTJBOUhkNkF0QlBSZXRLVnV5Skt2RzU0dmtMdnVZdnpQcnpDRHdsdmhlbFVLN1AyTjExbUFPYWZCTTVkQW44d0VFenNlT2ZuWTQtZG5Xck5IWkZ2M2N2ajlHVW9CamRfclFWdDlSUGEzMjNWQklONmRZWVhLMGd2SFFxQUxPTVPSAcYBQVVfeXFMTkZac1VEYXRDb0RQcGpXalJpS0FhZFVVUGptOTU0UHRGRnNIZDZEeU5MTXJLbjBjUmNlRGdJb2FQY1E4cFF5bWtodDNDMGlBeGxWYThIdWFmbFczMFpPbzdZMU5qSXFnX1ZWQkx4ZVZGMDlHcWZsUzFCZUJFd3NBblpXYUhjYzlGLXF4YWtZaE52aTBPR0NGVVd3TF9DblpIdVVZTHUxTnA5THpoVW9nNnp2XzdvTEppb1JoNTFaYXFQRVlSOXVn?oc=5) — *Jewish News*, 12:09  ·  also touches Education, Freedom of speech
-- [Would Sadiq Khan back a rave in a mosque?](https://news.google.com/rss/articles/CBMie0FVX3lxTE5EYjAyd01JTk9Ld1JPeDhzX3Z6U0RNUTEyYkgwdDZHQWhrbmc2RmJqU0hOalkxdUtVRlNLS0pEN3MzZkU3STJlNmJVVVY0WUM0emxteUlTZ2dMSHdHOWNnUmpwbUtGclZLZGI0N3FOS2Z0SWExS281aF9ETQ?oc=5) — *The Spectator*, 08:59  ·  comment  ·  also touches Freedom of speech, Secularism
+## POLITICS & GOVERNMENT (2)
+- [The Week Ahead: Catholics prepare for key votes in Britain and the US](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHQ3aGdGTEg2d1Q1Q3hQQkI1VXVCRDlNWnVSWGFhb21OVlNra3pQSGotQS1LNUZsRHhwZ1hURVk4WEhHclZIMHpoMFpDeTkxUldZUzVGak9xSE1jeTkySExfZzJ1Y2IxOTYwOTBtU213MXZlY3ZiNHExTkVQQ3BhSXh3Si10dkRPUGNiVXFCdFk1N1VWcDFNOE16c2tzaGFRQUJfbDRQa2g?oc=5) — *The Catholic Herald*, 06:00  ·  also touches End of life
+- [King appoints new president of Supreme Court](https://news.google.com/rss/articles/CBMihAFBVV95cUxQVEpXZ2E3Slc4bmo4VUNzOE14Uk5ES0w0ZklfWFBpb3dFbTZTRkNXNWF5M1ZabVpRODFwc0djWnpIVmVBRVFobXN3czdFLXB0aVdfanZ1bXBnMk1fVGRWSFJlZk82RTVlVk1CMlJhM2FhSHl3cjRuLWljdmZvU0NnX2lWU1Q?oc=5) — *Today's Family Lawyer*, 04:19
 
 ---
 
 # 🎯 Top 5 to comment on
 
-### 1. [Assisted dying bill for England and Wales faces new vote in Commons](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Yb0pNVkh3ZF9TR1VCSzFRNnQ3TlZYZk5VN0FGWUt4bmwzaE5tRzNJMTRGNmRONElzc0RMcmJyOFZoY3Z1Q2VEdUQ4Qm9taUxvelNoY3ZyLWU?oc=5)
-*End of life · news.bbc.co.uk*
+### 1. [Assisted dying bill voted down by MPs](https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWpXYUdrU3pvV0VkNkpHeENnYmdlcC14b1JEN2hSRkVtYUNCV1V4bWtwSzRnNFRXVUloTnNqRndTMk5sUjhwWHhGVmVWMkpGanR3XzBaa3RXU01xaFZ5bFdBbk5RNTJsRVd0WGl3bVJKUHhMcG1QcWdwQV9IeXBoYmx6SEFwZC1RSmc?oc=5)
+*End of life · communitycare.co.uk*
 
-MPs are facing another Commons vote on a Bill to legalise assisted suicide in England and Wales. The story is being carried widely, including by the BBC and The Guardian, so this is the live national conversation today.
+MPs have voted down a bill that would have legalised assisted dying. The defeat means the law has not changed, but campaigners for assisted suicide are already likely to regroup and try again.
 
-**Who this hits:** This affects elderly, disabled and seriously ill people who may already feel like a burden, and families trying to get proper palliative care for someone they love. It also affects doctors and nurses who could be drawn into ending life rather than only caring for it.
+**Who this hits:** This matters for elderly parents, disabled relatives, seriously ill patients and the doctors and nurses caring for them. For now, families should not face a new legal system where ending life becomes an option alongside care.
 
-**Angle:** Our line is that Parliament should fix end-of-life care, not introduce assisted suicide into a health system where many people cannot get the care they need now. Viewers should understand that this is not an abstract ethical debate: it could change what options are put in front of a frightened patient at their weakest moment. The immediate action is to contact your MP before the vote and ask them to vote against the Bill.
+**Angle:** We should thank MPs who resisted this bill and remind viewers that the danger has not gone away. The key question is not whether suffering people deserve compassion, but whether the law should allow vulnerable people to be offered death when what they need is protection, company and better palliative care. Viewers can check how their MP voted and write either to thank them or to urge them to oppose future bills.
 
-**Opening line:** "Could your doctor one day suggest death before better care is available?"
+**Opening line:** "Your grandmother is safer today because MPs said no to assisted suicide."
 
-**Title:** *Assisted suicide vote: why MPs must choose care, not killing*
+**Title:** *Assisted dying defeated: what Christians should do next*
 
-### 2. [Doctor launches action against NHS trust over trans policy](https://news.google.com/rss/articles/CBMiekFVX3lxTE4wUFlvVTY0bmRncTVoNnR1T1pjMzBVSi00TGs3RWVkZW9FRzlUUF8tSUVFUFdSbFFySW0ySThDNWZ0MDd1RkZ6MjZHR1Nxa2tLMVVqeXhmcjdLS2ZpR2RBWkx1clJxeDB5WEd2V3Fhc3BkNW1GY1JrQ1Nn?oc=5)
-*Gender · Personnel Today*
+### 2. [Fury as NSPCC say male teachers can supervise girls in changing rooms](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU1Z3UFJqYW80N3NhYjZVN29xdDRYQ0NzcU1kRVVOU1k4U09JcTdoNXZ2U3JCeXVDUFFUaEszV1NGU2Yxb2MxRlRUUU9sdlpIejhJVnJPRlM3Z1JsTTFHWkEtMzhYOEF2TGM0UmtaUDBvNUxtbmVmRFRzaXdiNE9CcjhuOWlycXBJa1Zhb1JCU2M2QXZXMkxSclBpRW5oM3h1TWhWVHBhdDdfa0dEdUJTVEln0gG3AUFVX3lxTE5MM0RDVWwxVmpJOGpvb25nRGQteUxJNjFJTk90LTh5WlRjZkwtTGZwa1c1TEdyZFFrQjhpT1poZjUwMGlUYnZzNnF1Q2RUejJvTTVqNHVaR0lSMXpETUNqMWJQR0hSZW1MTlhoUHJaT2xNd3FXYW95cVZiXy1aM3RaZW4tUVZsWUdBbE50dTlDTDJDRXR0NkJqRldMbnZvSE13dlpMc0duU3NsanFtbm9Lb082NXFYSQ?oc=5)
+*Gender · Daily Mail*
 
-A doctor has launched legal action against an NHS trust over its transgender policy, according to Personnel Today. The case appears to raise questions about what NHS staff can be required to say or accept at work after the Supreme Court judgment on biological sex.
+The Daily Mail reports anger over NSPCC guidance suggesting male teachers may supervise girls in changing rooms in some circumstances. The row has reignited concerns about schools, safeguarding and respect for single-sex privacy.
 
-**Who this hits:** This affects doctors, nurses and other NHS staff who may be asked to follow policies that conflict with their conscience or with biological reality. It also affects patients who expect privacy, dignity and single-sex care to mean what ordinary people understand those words to mean.
+**Who this hits:** This affects parents with daughters in PE lessons, swimming, school trips and overnight residentials. It also affects teachers who need clear, common-sense rules that protect children and do not leave staff exposed to complaints.
 
-**Angle:** Our line is that NHS trusts must bring policies into line with the law and must not punish staff for recognising that sex is real. Viewers will learn what to look for in workplace policies: do they define male and female clearly, protect single-sex spaces, and allow staff to speak truthfully and respectfully? Christians working in healthcare should know they are not alone if they are pressured to affirm something untrue.
+**Angle:** Our line is simple: children’s privacy and dignity must come before adult convenience or ideology. Parents should ask their school, in writing, whether girls are guaranteed female supervision when changing and what policy applies on trips. Viewers gain a practical question they can take to their child’s school this week.
 
-**Opening line:** "Could an NHS doctor be punished for saying sex is real?"
+**Opening line:** "Would you be happy with a male teacher in your daughter’s changing room?"
 
-**Title:** *NHS trans policies face a legal test after Supreme Court sex ruling*
+**Title:** *NSPCC changing-room row: what parents should ask schools now*
 
-### 3. [Why did the British government label Charlie Kirk supporters ‘extremists’?](https://news.google.com/rss/articles/CBMiswFBVV95cUxQc1hHYUZjVjhFT2hqRWZMOFFFc1g1aWxjQWRTYWFwd3VGd2FyTmotYnlOMHdadklZcGs1SUQwbEJSSE9VOEhCVUYzU0xYb2ViNDNoVUp2QkVzcHN4cVp0N2piSTJIejhvU0lyQVdOb1VvVElVN3JZSjE3OWljWklvUG5meXU0WWFTMGtHWlpvRU1UMlpaclk5bVhQM0lKejJuYzdtWlkzam5CcExzSklCbkFJWQ?oc=5)
-*Freedom of speech · The Spectator*
+### 3. [Assisted dying campaigner plans ‘Swiss pop-up advice office’ in UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWMxRExxdEJ3VjRuVHo1emI0clItRjlHVGFDMURnM2tVclRNcnZveG5RWFRmd0t6Rjl4ZnBRS1Y0NWpkdll4TC1Rc0RiQlI5TUYxaWs4WFNTbHVtUDM0N1h2bmpTQUVWYkJOZkNweWJSQWZsSzUzWFhTY1NsZ25CWkUxQXFmTHEweHZoYlhONDExc1lEU1FkZENoMGN3b0E?oc=5)
+*End of life · The Times*
 
-The Spectator is questioning why supporters of Charlie Kirk were reportedly labelled ‘extremists’ by the British government. The story raises wider concerns about how current officials define extremism and whether ordinary political or religious views are being treated as suspect.
+The Times reports that an assisted dying campaigner plans to set up a temporary UK advice office about travelling to Switzerland for assisted suicide. This comes while assisted suicide remains illegal in the UK.
 
-**Who this hits:** This affects students, church members, campaigners and parents who share conservative Christian views online or attend public meetings. If broad labels like ‘extremist’ are used carelessly, people may self-censor because they fear being reported, monitored or excluded.
+**Who this hits:** This affects families caring for someone who is terminally ill, disabled, depressed or frightened about becoming a burden. It also affects churches and carers who may suddenly find a loved one being pointed towards suicide abroad.
 
-**Angle:** Our line is that genuine extremism must be confronted, but peaceful Christian and conservative speech must not be smeared by the state. Viewers will understand why definitions matter: a vague label can move from a government document into schools, workplaces and policing. The practical question to ask MPs is simple: what views are being classed as extremist, by whom, and with what consequences?
+**Angle:** We should say plainly that Parliament has not legalised assisted suicide, and campaigners should not be allowed to normalise it through back-door advice services. Viewers need to know that a person asking about assisted suicide often needs urgent care, pain relief, mental health support and loving presence, not a sales desk for death abroad. Families should seek medical, pastoral and legal advice immediately if they are worried about pressure on a vulnerable relative.
 
-**Opening line:** "When does disagreeing with progressive politics become ‘extremism’?"
+**Opening line:** "If assisted suicide is illegal here, why are activists setting up an advice office?"
 
-**Title:** *Are ordinary conservative Christians being rebranded as extremists?*
+**Title:** *Swiss assisted-suicide office plan: a back door around UK law?*
 
-### 4. [I was a middle-class girl who fell victim to a London grooming gang](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLXpOb2tzRUNrUk1EaFJIZGJVWFgzaE5iem94NU1iUDJaU2N1ajdzOEl3SUU5UnllaHZkU05ubkU3VENLR1RfME9rMkRHRlg5anJZWnpyWEpTcUYxQ1c0WlpaRkwtV25BTDNBRVJKcTJGR0thS1ctRWFGWHpqQ0tJaGhLOEItV3Niamxr?oc=5)
+### 4. [British Muslims ‘must report grooming gangs or be complicit’](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHBMeGlWZndNNVQzVDRUQm8yVDJuWnFVcm5ILTV2WVZuTlZsbEloODBLTmoxX3VqNjJzQlFUT3JtOE1Sa1g3LVdXbHdsUXFhX25Va2w5azhjZTdyV2J3dmJlMFY5NVJPYmtOaGw1QkJiYVVTb0R1a0V4a2lqREZUN1g0MjgtU0xXYVBFUmloNlFhV1ZFNEUzWGlMaw?oc=5)
 *Islam · The Telegraph*
 
-The Telegraph has published a first-person account from a woman who says she was exploited by a London grooming gang despite coming from a middle-class background. Her story challenges assumptions about which girls are at risk and how easily abuse can be missed.
+The Telegraph reports a warning that British Muslims who know about grooming gangs must report them or risk being complicit. The story has also been picked up by other outlets, keeping the grooming gangs scandal in the public conversation.
 
-**Who this hits:** This affects parents of teenage girls, teachers, youth leaders and church safeguarding teams. Grooming can happen to girls from any background, and adults may miss it if they are looking only for one kind of victim.
+**Who this hits:** This affects girls who are being exploited now, survivors who were ignored, and families who fear authorities will avoid hard truths. It also affects decent people in every community who know that protecting children must come before protecting reputations.
 
-**Angle:** Our line is that victims must come before institutional embarrassment, political correctness or fear of naming patterns where they exist. Viewers will gain a clearer understanding that grooming is not just a problem ‘somewhere else’ or for ‘other families’. Churches and parents should ask whether schools, police and local authorities are naming risks honestly and teaching children how grooming works.
+**Angle:** We should support the principle that silence in the face of child abuse is unacceptable, while avoiding any claim that all Muslims are responsible. The issue is whether police, councils, faith leaders and neighbours will tell the truth, report abuse and protect children even when it is socially or politically uncomfortable. Viewers should understand that safeguarding cannot work if fear of causing offence is allowed to outrank the safety of girls.
 
-**Opening line:** "Would your daughter’s school know the signs of organised grooming?"
+**Opening line:** "How many girls were left unprotected because adults were afraid to speak?"
 
-**Title:** *Grooming gangs: why no family can afford complacency*
+**Title:** *Grooming gangs: child protection must come before community reputation*
 
-### 5. [Evangelist, 72, Acquitted of Handing Out Bible Tract in ‘LGBT safe space’](https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3lJZ1hscm9QTFh4QjYyTHpQakpNOWlkMi1EX2dPbzJ6ei0yTW1hUWp4Z1hZQjg5WUlVRkdFbWs5c1N4VHBaNlBDSTNPT0RvQ1pheThGYkVpeTlpUXB6d3FKUnl2MWRfZmxoeDNEZ1dwcXFoTEpubWo3cjI1V1Rpc1dzc2ZGTEEzY3JjTDlISlBLX2V0QldDakNvYVdSLWh6UUE1VklR?oc=5)
-*Christian freedoms · protestia.com*
+### 5. [SPUC urges Scottish Government to respond to record abortion figures](https://news.google.com/rss/articles/CBMiqgFBVV95cUxONVhfamVuTVhERWlHbUVPOW5vSVppYWJwcVZGelhlV0w2ZE9Sc19SQnc0cUI3cThENEwwcDJEanVwTk1tcHg5YjczLXRBWWZya2F6TFdPeTRnd0E1cnpjaGFzSDhmR2JpUF9wWFNUNkJ5ekpFWTJYRU90enNUc3M5ajdFeW9Ed0xJbWs3UWFlTWFHcW9GX3Z6TnVQSUllNlZlQ2o5Z2Naam9hQQ?oc=5)
+*Christian Concern in the news · The Catholic Herald*
 
-A 72-year-old evangelist has reportedly been acquitted after a case involving the handing out of a Bible tract in an area described as an ‘LGBT safe space’. The story is a concrete example of evangelism being treated as a public order problem.
+SPUC has urged the Scottish Government to respond after record abortion figures in Scotland. The story highlights growing concern that abortion is becoming ever more normalised rather than treated as a tragedy for both mother and child.
 
-**Who this hits:** This affects street preachers, church outreach teams, Christian students and anyone who offers a leaflet or starts a respectful conversation about faith in public. It also affects ordinary Christians who wonder whether sharing the gospel is now legally risky.
+**Who this hits:** This affects unborn children, women facing crisis pregnancies, and families who may feel abortion is the only realistic option. It also matters for churches and pregnancy support groups in Scotland asking how they can offer practical help.
 
-**Angle:** Our line is that Christian speech is not harassment simply because someone finds it unwelcome. Viewers will learn the distinction between respectful evangelism, which should be protected, and genuinely threatening behaviour, which is already covered by law. The practical takeaway is to remain peaceful, know your rights, record interactions where appropriate, and seek legal help if officials try to silence lawful Christian witness.
+**Angle:** Our response should be that record abortion numbers are not a sign of progress; they are a warning that women are not getting the support they need to choose life. Viewers should be encouraged to back local pregnancy help, speak compassionately about abortion, and ask MSPs for policies that support mothers before and after birth. The Christian answer is not condemnation, but truth, mercy and real alternatives.
 
-**Opening line:** "Can handing someone a Bible tract be treated as a crime?"
+**Opening line:** "Record abortions are not progress if women feel they have no other choice."
 
-**Title:** *Evangelist acquitted: sharing the gospel is not a crime*
+**Title:** *Scotland’s record abortion figures: where is the support for mothers?*
 
 ---
-*Nothing significant today: Marriage, Sexuality*
+*Nothing significant today: Marriage, Christian freedoms, Secularism, Church*
