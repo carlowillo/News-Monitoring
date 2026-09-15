@@ -217,13 +217,184 @@ OUR_PEOPLE = [
 # name gets its own search, and any article mentioning one goes straight to
 # the top section regardless of which outlet ran it or which country it is
 # in. Add new clients here as cases begin.
+# Christian Legal Centre clients and cases, taken from
+# christianconcern.com/cases. Each name is searched every run, and any
+# article mentioning one goes straight to the top section.
 OUR_CASES = [
-    "Bernard Randall", "Kristie Higgs", "Jennifer Melle",
-    "Darlington Nurses", "Felix Ngole", "Aaron Edwards",
-    "Matthew Grech", "Victoria Culf", "Luke Salmons",
-    "Bread of Life Community Church", "Steve Maile",
-    "Bethany Hutchison", "Trent College chaplain",
+    "Bernard Randall", "Victoria Culf", "Luke Salmons",
+    "Bread of Life Community Church", "Matthew Grech",
+    "Felix Ngole", "Aaron Edwards", "Jennifer Melle",
+    "Darlington Nurses", "Stephen Green", "Shaun O'Sullivan",
+    "John Steele", "Simon Pearson", "Blessing Olubanjo",
+    "Rashid Abbasi", "Kristie Higgs", "Gozen Soydag",
+    "Sudiksha Thirumalesh", "Joshua Sutcliffe", "Izzy Montague",
+    "King Lawal", "Indi Gregory", "Livia Tossici-Bolt",
+    "Anthony Stevens", "Glawdys Leger", "Calvin Robinson",
+    "Core Issues Trust", "Paul Song", "'Sarah'",
 ]
+
+# What each case is ABOUT, and what news it should be matched to. This is
+# the most important list in the file for the Top 5: it is how the AI spots
+# that a story is one we can attach a live case to. "We represent someone
+# this happened to" is worth far more than commentary.
+#
+# Descriptions are taken from christianconcern.com/cases. When a new case
+# starts, add a line here in the same style - the MATCHES part does the work.
+CASE_NOTES = {
+    "Bernard Randall":
+        "School chaplain dismissed and reported to Prevent, the government's "
+        "terrorism watchdog, over a sermon on identity politics telling "
+        "pupils they need not accept LGBT ideology. MATCHES: schools, "
+        "chaplains, gender ideology in education, Prevent referrals, "
+        "extremism definitions used against Christians.",
+    "Victoria Culf":
+        "Cancelled and reported to the police for saying it is harmful for "
+        "children to try to change their sex. MATCHES: gender ideology, "
+        "child safeguarding, non-crime hate incidents, police recording "
+        "speech, people cancelled for gender-critical views.",
+    "Luke Salmons":
+        "Police community support officer suspended and forced to resign for "
+        "questioning Islam during mandatory diversity training. MATCHES: "
+        "Islam in the police and public bodies, EDI and diversity training, "
+        "questioning Islam treated as misconduct, free speech at work.",
+    "Bread of Life Community Church":
+        "Issued with a Community Protection Notice seeking to control the "
+        "content of its street evangelism. MATCHES: street preaching, "
+        "public space protection orders, councils restricting evangelism, "
+        "police and public order powers used against Christians.",
+    "Matthew Grech":
+        "Prosecuted in Malta for sharing his testimony of finding faith and "
+        "leaving a homosexual lifestyle. MATCHES: conversion therapy and "
+        "conversion practices bans, testimony criminalised, prayer bans, "
+        "similar laws proposed in the UK.",
+    "Felix Ngole":
+        "Expelled from a social work course over Facebook posts on biblical "
+        "marriage; won at the Court of Appeal but then missed out on a job "
+        "for the same views. MATCHES: universities, students disciplined for "
+        "belief, professional bodies and registration, social media posts "
+        "costing people work.",
+    "Aaron Edwards":
+        "Sacked as a theology lecturer at a Bible college and threatened "
+        "with a counter-terrorism referral over a tweet on human sexuality. "
+        "MATCHES: academia and theological colleges, dismissal over social "
+        "media, counter-terrorism referrals for Christian belief.",
+    "Jennifer Melle":
+        "Christian nurse facing disciplinary action for referring to a "
+        "male trans-identifying patient as 'Mister', having herself been "
+        "racially abused by that patient. MATCHES: NHS, nurses and doctors, "
+        "pronouns and compelled speech, the NMC and professional regulators, "
+        "single-sex care.",
+    "Darlington Nurses":
+        "Nurses told to 'broaden their mindset' after objecting to sharing a "
+        "changing room with a biological male identifying as a woman. "
+        "MATCHES: single-sex spaces, the Supreme Court judgment on the "
+        "meaning of sex, NHS trusts, EHRC guidance, employers ignoring the "
+        "law on sex.",
+    "Stephen Green":
+        "Christian preacher prosecuted for holding a sign with a Bible verse "
+        "inside an abortion clinic buffer zone. MATCHES: abortion buffer "
+        "zones, silent prayer arrests, free speech near clinics, public "
+        "space protection orders.",
+    "Shaun O'Sullivan":
+        "Street preacher arrested in Swindon after explaining that Christians "
+        "worship a different God to Muslims. MATCHES: street preaching, "
+        "arrests for criticising Islam, blasphemy by the back door, police "
+        "handling of public preaching.",
+    "John Steele":
+        "Arrested and prosecuted for asking about the Qur'an's teaching on "
+        "domestic violence. MATCHES: questioning Islam, blasphemy codes, "
+        "police arresting people for questions about religion, free speech.",
+    "Simon Pearson":
+        "Teacher who lost his job over Facebook posts unfairly branded "
+        "'Islamophobic'. MATCHES: definitions of Islamophobia and anti-Muslim "
+        "hostility, teachers sacked over social media, schools, employment "
+        "tribunals.",
+    "Blessing Olubanjo":
+        "Standing against Camden Council's trans-coloured road crossings "
+        "celebrating the discredited Tavistock clinic. MATCHES: councils "
+        "promoting gender ideology, public money spent on activism, the "
+        "Tavistock and youth gender medicine, the Cass Review.",
+    "Rashid Abbasi":
+        "Doctor arrested for refusing to leave the bedside of his critically "
+        "ill daughter after doctors announced life-saving treatment would be "
+        "withdrawn without the family's consent. MATCHES: withdrawal of "
+        "treatment, best-interests rulings, parents overruled by hospitals, "
+        "end-of-life decisions, medical conscience.",
+    "Kristie Higgs":
+        "School pastoral assistant sacked over a private Facebook post about "
+        "relationships and sex education; won at the Court of Appeal. "
+        "MATCHES: RSE and school curriculum, parental objections, sacked "
+        "over social media, landmark employment rulings on belief.",
+    "Gozen Soydag":
+        "School pastoral manager in North London sacked for supporting "
+        "biblical marriage on her social media account. MATCHES: schools, "
+        "dismissal over social media, marriage, employment tribunals.",
+    "Sudiksha Thirumalesh":
+        "Nineteen-year-old who fought for her life and for the freedom to "
+        "seek alternative treatment overseas. MATCHES: withdrawal of "
+        "treatment, best-interests rulings, patients overruled by hospitals, "
+        "the right to seek treatment abroad, end-of-life decisions.",
+    "Joshua Sutcliffe":
+        "Maths teacher disciplined for allegedly misgendering a pupil and "
+        "for critiquing Islam on his YouTube channel. MATCHES: teachers and "
+        "pronouns, gender ideology in schools, criticising Islam, teaching "
+        "regulators.",
+    "Izzy Montague":
+        "Parent who raised concerns about her son's primary school promoting "
+        "LGBT issues to children as young as five, with no right to opt out. "
+        "MATCHES: primary schools, parental rights and opt-outs, LGBT "
+        "teaching to young children, RSE.",
+    "King Lawal":
+        "Councillor cancelled by several organisations after tweeting a "
+        "biblical view on Pride and LGBT issues. MATCHES: politicians and "
+        "councillors cancelled for belief, Pride, social media posts, free "
+        "speech in public life.",
+    "Indi Gregory":
+        "Baby whose life support the courts ordered removed despite an offer "
+        "of further treatment in Italy. MATCHES: withdrawal of treatment, "
+        "best-interests rulings against parents, sanctity of life, "
+        "end-of-life decisions for children.",
+    "Livia Tossici-Bolt":
+        "Challenging a Public Space Protection Order outside a Bournemouth "
+        "abortion clinic that censors speech and makes prayer illegal. "
+        "MATCHES: abortion buffer zones, silent prayer arrests, free speech, "
+        "public space protection orders, international reaction to UK "
+        "prayer arrests.",
+    "Anthony Stevens":
+        "Councillor arrested in front of his family over a handful of tweets "
+        "defending free speech. MATCHES: arrests for social media posts, "
+        "non-crime hate incidents, policing of speech, politicians targeted "
+        "for their views.",
+    "Glawdys Leger":
+        "Teacher facing the loss of her career for refusing to teach LGBTQI "
+        "lessons in a Church of England school. MATCHES: teachers and "
+        "conscience, LGBT teaching in church schools, the Church of England "
+        "compromising, teaching regulators.",
+    "Calvin Robinson":
+        "Won a settlement after being cancelled by the Royal Academy of "
+        "Dance for opposing Drag Queen Story Hour. MATCHES: drag events for "
+        "children, cancellation of public figures, arts and cultural "
+        "institutions, free speech.",
+    "Core Issues Trust":
+        "Christian ministry whose bank accounts were closed after a campaign "
+        "of harassment. MATCHES: debanking, financial exclusion of Christian "
+        "organisations, charity regulation, conversion therapy debates, "
+        "payment processors and banks policing belief.",
+    "Paul Song":
+        "Volunteer prison chaplain of nineteen years at HMP Brixton, "
+        "restricted and then banned from ministering after a Muslim imam "
+        "became Senior Chaplain. MATCHES: Islam in prisons and public "
+        "institutions, prison chaplaincy, Christians squeezed out by Islamic "
+        "leadership, conversion to Islam in prisons.",
+    "'Sarah'":
+        "Survivor of an Islamic sex-grooming gang, kidnapped at 15 and "
+        "subjected to repeated rape, three forced sharia marriages, forced "
+        "conversion to Islam and eight forced abortions; her children were "
+        "then removed by social services. MATCHES: grooming gangs, forced "
+        "conversion to Islam, sharia marriage, rape gang inquiries, police "
+        "and social services failures, Islamophobia labels silencing "
+        "victims.",
+}
 
 ALLIED_ORGS = [
     "Christian Institute", "CARE", "Evangelical Alliance",
@@ -1502,26 +1673,48 @@ def recommend_top5(api_key, by_section):
         + (f"\n   {a['summary'][:200]}" if a.get("summary") else "")
         for i, (sec, a) in enumerate(pool))
 
+    case_brief = "\n".join(f"- {name}: {note}"
+                           for name, note in CASE_NOTES.items()
+                           if "TO CONFIRM" not in note)
+
     prompt = f"""You are advising Christian Concern's communications team.
 
 {CC_PERSPECTIVE}
 
-Below are today's stories. Choose the FIVE best for Christian Concern to
-comment on publicly, ranked 1-5 (1 = highest priority).
+OUR LIVE CASES - read these first
+The Christian Legal Centre represents real people. When a news story touches
+what one of our clients actually went through, we can say "we represent
+someone this happened to" - which is worth far more than commentary, because
+it gives us standing, a human story, and something no other organisation can
+say.
 
-Weigh:
-- REACH: how big is the story, how many outlets are carrying it?
-- TIMELINESS: is there a narrow window to be part of the conversation?
-- DISTINCTIVENESS: can we say something others are not saying?
-- PICKUP: how likely are journalists, MPs or sympathetic accounts to quote,
-  share or cite us on this?
-- STRATEGIC FIT: does it advance a campaign we are running, or connect to a
-  Christian Legal Centre case?
-- SUPPORTERS: would our audience share it, act on it, or donate?
+{case_brief}
 
-Spread the picks across different issues where the quality is comparable -
-five stories on the same topic is less useful than a balanced set. Favour
-"high" relevance items.
+HOW TO CHOOSE THE FIVE
+
+1. CAN WE ATTACH A CASE? This is the single most important test and it
+   outranks everything below. Go through the case list above against every
+   story. A story about grooming gangs and forced conversion connects to
+   'Sarah'. A story about Islam in the police or in EDI training connects to
+   Luke Salmons. A story about single-sex changing rooms connects to the
+   Darlington Nurses. The connection does not have to be exact - it has to
+   be one an ordinary viewer would find fair and illuminating.
+   If a story lets us do this, rank it above a bigger story that does not.
+
+2. IS IT A STORY, OR AN UPDATE? People remember narratives, not procedure.
+   Prefer something that happened to someone, or that reveals a pattern, over
+   "the bill reached committee stage". Include a procedural update ONLY when
+   it is genuinely major - a vote that decides whether assisted suicide
+   becomes law, a Supreme Court judgment, a national policy reversed.
+
+3. DOES IT SHOW SOMETHING WRONG? Stories exposing an injustice, a double
+   standard, or an institution behaving badly give us something to say. A
+   story where we can only agree with everyone else does not.
+
+4. Then, and only then: reach, timeliness, and whether journalists or MPs
+   are likely to quote us.
+
+Spread the picks across different issues where quality is comparable.
 
 Stories:
 {listing}
@@ -1555,6 +1748,10 @@ Reply with ONLY a JSON array, ranked best first, no other text:
    "title": "copy the headline exactly as shown, so we can verify the match",
    "rank": 1,
    "what": "1-2 sentences on what actually happened, with specifics.",
+   "case_link": "If one of our cases connects, name the client and say in one
+                 sentence how - e.g. \"'Sarah' was subjected to exactly this:
+                 forced sharia marriage after being groomed\". Empty string
+                 if no case genuinely connects - do NOT invent a link.",
    "affects": "1-2 sentences naming who this concretely affects and how -
                the everyday situation a viewer would recognise.",
    "angle": "2-3 sentences: the line we take, AND what the viewer gets from
@@ -1597,6 +1794,7 @@ Reply with ONLY a JSON array, ranked best first, no other text:
         picks.append({"article": article, "section": section,
                       "rank": r.get("rank", len(picks) + 1),
                       "what": str(r.get("what", "")).strip(),
+                      "case_link": str(r.get("case_link", "")).strip(),
                       "affects": str(r.get("affects", "")).strip(),
                       "angle": str(r.get("angle", "")).strip(),
                       "hook": str(r.get("hook", "")).strip(),
@@ -1734,6 +1932,9 @@ def build_digest(by_section, urgent, used_ai, top5=None, label=""):
             lines.append("")
             if p.get("what"):
                 lines.append(p["what"])
+                lines.append("")
+            if p.get("case_link"):
+                lines.append(f"**⚖️ OUR CASE:** {p['case_link']}")
                 lines.append("")
             if p.get("affects"):
                 lines.append(f"**Who this hits:** {p['affects']}")
