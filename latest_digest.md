@@ -1,129 +1,113 @@
-# Digest - Christian Legal Centre - 2026-09-18 07:55 UTC
-*Last 24 hours, AI-classified*
+# Digest - Christian Legal Centre - 2026-09-18 12:58 UTC
+*Last 6 hours, AI-classified*
 
 ## ⭐ CHRISTIAN CONCERN IN THE NEWS (2)
-- [Event hosted in parliament hears speaker who argued 'influence of Islam' should be 'resisted'](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbl9uY3FuWGJ5NTZBd2hCbjhYU1lkTndwNFdnOG9XNk1jM3hSQTRiZ3NoejBMaFRENm9rZUNPUExibjkwdGticF93WEFwR3dYTXBvX25RaWFxV1duS24zT2U4RDBaaXRzNkU5OXhmeHEtSUUzdVNPZmcwRGhsSTVqUTJabWNEdDFlb1oteHYtZ05BZEdQS0htcy16Q2dTYTdmWE9nMW9rUmRYbDZpTzJTTF9Oa3FGVC1XRlNVTTFma29ZZTBUa0F4UA?oc=5) — *Middle East Eye*, Thu 14:51  ·  also touches Islam, Freedom of speech, Politics & government
-- [Obedience is better than celebrity](https://news.google.com/rss/articles/CBMifEFVX3lxTE9yTnBoY1c3bE1BMlotbC1JaHcyQ1Z1MGVvRURIdVZkNDgwdDNDWWNTbVNtTlNIQ05uN0JmU3VlekFRZXNhRFVaQ0hVWkFiMnM5TXVzZEZPM2FKNlA5X3FzLWliYzlFcTBUSXJwOUt0WXdJbjV6cmhWc0IxeGY?oc=5) — *Christian Concern*, Thu 16:09  ·  comment
+- [Civil service under pressure to ‘break the law’ on single-sex spaces](https://news.google.com/rss/articles/CBMiowFBVV95cUxPY0lqZ1NndmxYNHY4R2g0Y21wMl85QjBvYnVrdHI1dzRDTnc0dnB2Z0ZIZlRQRDIzTk04NG1nX3JqVi1LSFVIcVlUUy1TNEVIb0M0QmJ2SElObURkT1BOMUVseW9UQnpVLTZGbHFubHl0RWZsa2tXbG1DMnhUZXVZTnozOTRBaXRCSmk1Z0NIeUNZU2hHY3lNSmdHSHRvNWRpUklR?oc=5) — *The Christian Institute*, 12:08  ·  also touches Gender, Politics & government
+- [Obedience, not worldly recognition](https://news.google.com/rss/articles/CBMie0FVX3lxTE5wdnRTYTFiWTRReVl6YjF6NUc0OTJoQV9ySFRPeFZLVXN4OFgzN2N0N2V1NTd2ZjdHdzVWLWFVVXhzTG1sYWdTTEEwSTY3elRfMXBvR3BPV3RrWTExWm9OZ0kzRFhFS2tDUWN1ZERwbHpPUXZvV2k4ZFdVVQ?oc=5) — *Christian Concern*, 08:22  ·  comment  ·  also touches Church, Christian society
 
 ## LIFE
 
-### Beginning of life (1)
-- [Lawsuit over Belfast City Hall abortion lights: Move could see council dragged through courts to judicial review](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaW9yOWhtckpSUnhUaGh4Z2lCZm11T3RqRDZlV3V4dzdqOW0tWHFDc2tfcElSN2xIU3V0cElBRWlpMUlEQjgybUxyNDFuOHBNdXRYUk9CRkFkTmFVMmduMTJQZDN6NlRZV2Jya1lRNm9LNjJ3VEcyYW9adEs2RDgwRUI3Nkx3RjByNzNUZ3owaEdqMlQ3OXpFYUZFZGg1bFAyaGdyR3Ixc3JZa1gySUlLX1JGZFdMLTNGV0JqMHFnN0VETjd6NXAxMXRuaWN3SEtqOUlwdXVLekFmT1c1dWw3M0xPcnExRzkzLUlzWWtFNE1fbENh?oc=5) — *Belfast News Letter*, Thu 15:45  ·  also touches Freedom of speech, Politics & government
+### End of life (2)
+- [Millions of people are unable to find the support they need for end-of-life care](https://news.google.com/rss/articles/CBMie0FVX3lxTE9sbGYwdEVhejg4TS1pVWlFN3g4OUlUTWpnNTNoWVVneElrMUJvSDIwdzIyS0RKZ1dZeW9Zc0pBQ0prcERneDlnaHdSRUt3ZExkZFUzV0FuX1dzOUdmZTlzLUc3NGR0VFRqNDlNSk1icVVXbmw3bWhNZEpBQQ?oc=5) — *Home Care Insight*, 11:03
+- [Government launches search for England’s first Dementia Tsar](https://news.google.com/rss/articles/CBMinAFBVV95cUxONWJJaVFrVHZEdVFOQ1gtSk5fTG1DdEs2TW1VV2wtdDNaTW1UNmlIQTFxX21iVDMya0JYcUo1SERnb3NiMTY1bkl6MXV0ZGNtUFFmQVR6RXBYbF8tUzFBX1kzZzlqcVZHbVFCT0NLbDFLTXp3QzM2YkZBMWczTUNadmM0SEN6V3c4YnZyN0p4RGI2NkZzODNxanlwM00?oc=5) — *Social Care Today (also Open Access Government)*, 10:41  ·  also touches Politics & government
 
-### End of life (7)
-- [Find out how your MP voted on assisted suicide and send them a follow-up email](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUtRcUdKUnk0YzY1T0hkTXhnMW1XUW14QXNHc1JFT2V2aXVaOFpwZkpnVk9xVFNHRE9BeDZhUEdnRDV5NXdENzU3ZmlMRWRJMHludGJacUpqMk9IbzhXX1p2Uk1nQ083bHJSY2hFN0ZDTFBSRzRNR2ZoeWJzbTd2Q3pud2dNbEt4clg2NkJHYUY3WjlmcmFRU2pFU2g5WTJMUmV4R0dwRmVjc0l2cVFR?oc=5) — *Right To Life UK*, Thu 19:17  ·  also touches End of life, Politics & government
-- [MPs call for better palliative care safeguards before assisted suicide bill returns](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmo0Q1VIdGxxNzRQdElUU0gtMURSa0xlWGVWanpud0xYaDgwdnlzX1c2YXU3SmZXQXRmZjRCSzAtNXBCQVRVa0JsZEtnQ1JYWWFzWE4wZkxiSWNSWkdxc0RFcHRRS0h4UmhNdmktRXZURjRROTlyREptTHJFUWNTYng1MTJaVl9jaXhwTVdQMzBPRWFUbzl2bVNmUQ?oc=5) — *South Wales Argus*, Thu 18:20  ·  also touches Politics & government
-- [Relief and tears after MPs reject assisted dying bill, as attention turns to palliative and social care](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSXN1Ri1sVEtrRUZuMDVGSmZRbDdRdEVKV0M3TVBEeVM4ZnJnM3k0YWswSVpiZGhaREJRSjNiQ29NQW5VcFhkUWFTTVhzaVhNd01SUE5KNi1sUl9kSXp2ZFlQTC1NWlhzQjk2YzVWOVhZUXJSaE9BVU40VWptT3N0cTU1THVnQ25kRUJ4TmU1eWV4QlRGb0lzcmdGUjFBcktab0hJRE1JcjZQMjhnRGY0QWs5TVIyS0dZRDlfR0xMcGtGcUpYX0k3ZkNhU3lJZkZhVVBfNzBHTG0?oc=5) — *Disability News Service*, Thu 16:23  ·  also touches Politics & government
-- [Disabled MPs voted against assisted dying bill by two to one, records show](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUFUM0k2OEdXLXNjcW4zU1ZSZWctQkUxMjE2SWxpS2J3N1lYVHFJMUswQlBYd3hIN250Vkx6NkNXcDhfX1A5ZTUzTkFkS211STdTY1ozckZTU0dqTDY0aGdWMmtiQXFzMzJxVkdJM2ZndkFNQWlvbXZxZUdoVTZCTENNZnhQczdCS2Z4M0RGNHNiY0I3a1NmaG9hY2dYMXN4WFBMemdLYV9DeTdRMFhtb3NR?oc=5) — *Disability News Service*, Thu 16:19  ·  also touches Politics & government
-- [Hospice UK and Hospices Cymru call for £30m to safeguard palliative care services in Wales](https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2JEWWRyV2VuNE5oQU1JVVRNMDVScTMxQl9LajhWcjA0SUxVdFY4SmdxWmxJWlF3d1lNaExobGItN2duYnBNaThvSDRtV1BSLWxVWV9tNmFJUnMtUV96czVWWTFSS3dVWjNPNjFaWThxLU5KUl9zY2NaZk5VT3N0aWVCTGNCTUw0aWI0ZGNtemd0N3FXVHJpWnhMbE5LWmFzWFlVMW9NOUhoaUgtZWRjMUdLOTA3ejh6QlFMT0pOVHZzc1FBX3FZa0lDRWtSZHc?oc=5) — *aberdareonline.co.uk*, Thu 15:38
-- [The demand for choice on assisted dying is not going away - Daxa Patel](https://news.google.com/rss/articles/CBMizgFBVV95cUxOTURyYnMtb1pUSHY5R2tya1hwZVBXdWgyam1seWJwMjBXdG9wSmVMbWt4QjJrOGs2T2RmNE1fWkIwTHJGa3FmMXpJeTlVNHhtaThrU1d0VTlWbXhmWlZnd0JUMnloM2RKUWdrRV9kUnNFNXM5bm5ra3hhUmRpQTNUZThzU1NsOW1PNzlqNDFEa1c2MkFqUE9YWTUxOTk5OEtpOWlXMkNqRUM1YTRRVDBOVUszS0FkekVmQ0U3N1Vha2MwSEtWWE9ycFVMbXloQQ?oc=5) — *Yorkshire Post*, 05:00  ·  comment
-- [Viewpoint with Andrew Brown: Assisted-dying Bill failed to answer a key question](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPLVFxSDN4d2x4YUwwYkhHbVVqOHZyTjhaeFFGRi1HMnBtbUhqSldsR2FHeEZzM0FrcHJwLVJmZV8ycHpyal9OY0JJRGQ1SzBPWnhEaUo2LWt6MmpuQTBHeHVZNS1wQXA5Qk1MS3luUmx1WlFZX1VWOXJDZHNnNTJrZ2lLbGhBUlBmY2xPX0dRdnFSejZSNlZFWTVzR2drc2k1b2tXSEozY2xyVEhvTjVyMlFxU0NuRWl4ZnhYVkxkanRCOFNtSXdST1owZGlfOUtUdm9kMEFsLVpyeHN6QXJYSFN1RnNiTFdiVWc4?oc=5) — *The Church Times*, Thu 23:25  ·  comment  ·  also touches Politics & government
+## FAMILY
 
-## FREEDOM
-
-### Freedom of speech (5)
-- [UK Lords Bill Would Require Social Media Platforms To Get Licenses From Speech Regulator](https://news.google.com/rss/articles/CBMif0FVX3lxTFBWYWNwYmFJMHA3NjEzb1RMYW5iWGZvVWxVZXBVYnV5MXByUXU0T0JCMjFiWEJSS1JLOTRHYWhPWFRtMk0tT0xhTUJhcHg4b0xqcE5NSnNGNFF3TnJkNnRFRjNuNWVZYjBEejF3VWhwcEdQVUF3SDFpVldIMWNCd00?oc=5) — *reclaimthenet.org*, Thu 23:02  ·  also touches Politics & government
-- [Musk's X 'disgusting' for shunning meeting, says minister - as she vows more laws governing internet](https://news.sky.com/story/musks-x-disgusting-for-shunning-meeting-says-minister-as-she-vows-more-laws-governing-internet-13588995) — *Sky News (UK)*, Thu 13:11  ·  also touches Politics & government
-- [Labour peer demands Patriot Platform is outlawed as terror group after Dover and Portsmouth protests](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWJIRlZpeUxFeFY1UjMyMUtIVE5qbHFzcExyY1l2RmUxMEJ6V3U5WS1zWnp0VFUwaWFDZm0tTW1YVElmTXVLLXdoTWk4a0RLcWRYMlI5NFZDdEctS2NnQXdRZWt2SGkwb1huTS15ak9lZlpaOEdWMXZ1ZHFHNDRDTHZmM184aUxnYzBPc3hIMWJGTVdxWkFJLTIzaw?oc=5) — *GB News*, Thu 16:55  ·  also touches Politics & government
-- [‘Britain is a dangerous place for anyone who thinks independently’](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnp3ZE9obXlYQk12SEJtbDVwalltOUkxLWxscDlQdi1YMVpBWERoMVhPWTZtMUpSZkYtOFVKWC1DQ3N6SmZZWGViTFY1WVpJMkhMbWhzcl94VUNVbnQyTW51MUxaZWFWZmJPUU01LXhYcHo5d3l2V1ZoX1lZRUpGWHZnMHY0WG82S214ckNuN1cySnZBSUdJcU9ULXR1THl6c3Z4LWg1THhrdw?oc=5) — *spiked-online.com*, 05:55  ·  comment
-- [Policing Tweets, Not the Streets: The Alarming Collapse of Free Speech in Britain](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWxUZHhXT002dl9VQVo4OFJmVDgyRS1pTjlxVEVMcEZ1RnpRR1pEWEhOeEI3a3NZQlZCT3ZNaDZ4d3hSVGpEZ1BPTUZCemZwQjRsZ1dBLUNGR3V2blpleFFOY1ItU2ZsbFVaSlZfak1rV1F6U0N1eEdJLTJIRFpkdlppNXZHdUZVa09yN0RKSkFlRlpXMVE5ejNQQlZfQU1SeGRDRzA5SjE?oc=5) — *cpac.org*, Thu 19:05  ·  comment  ·  also touches Politics & government
+### Gender (1)
+- [An alliance of charities is undermining safeguarding in schools](https://news.google.com/rss/articles/CBMipAFBVV95cUxObS1RU051U25rVGJmREtJMWJtSkdycV9rc1dzdTVmUHpja1BES1R6OGxFR1E2MlNXcEpWNFlQa3ZheU9LVW1FU2NQdms4ZlV3TUMwRWRxa0ZkRC1sb2xsNFFldzl1bGpXanhkSEsyQzN5cmJzZjdpRU5ET3VZTXhGZUF5ajlPSzliQjJXYU1wUlV3TlRvY0hWLUd0cjM5aGt0R0JWLQ?oc=5) — *Sex Matters*, 10:51  ·  comment  ·  also touches Education
 
 ## FOUNDATIONS
 
-### Christian society (1)
-- [Book review: The Strange Death of Christian England, and Its Glorious Resurrection: Why faith was nearly lost, and how it is being regained by Andrew Hayward](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNUXVYS0Z3UEZDTzFjSE9fekNsa2o0aTBPOTNWMG13ZmR1b2xUQ3FwVTl1Rk56cGU0ZW52UVBLelRIeWRuOVFFbU1LSHBYSjBLVHZWN25yMXY4MHBZUzdYR0p5OEg5Mmk0V2t0S2NxM3VfdjRPQXMzdk9aWVVBb0dXV2RMZmdlSU9zYmJrS2xMelpaX1AzcmVCa1g1T3ZmbURyendMMEZRS3NNZ0J3S25CQnpnUFAzYnNnQVhHMTB0ZUZaanlwOWZ4REdqekpEUjZzQ2dHMkNiUzBsaDQ3R09zN2x6V3lfMk04SkhMWWsxeDhyQW1yblRkM3hOU284czJ0T3J0RWd1X2c0a3c3eUJaZl8tRHRBSkhlN1hYcS1MN2lhOTJyWXU1YTdxSFVYQjMwanM0UTBmQ0hkME16Z0N6RER2Y2c2bmhMUGszODlIQWc3b3Jm?oc=5) — *The Church Times*, Thu 23:30  ·  comment  ·  also touches Church
+### Secularism (2)
+- [Wales Humanists urges Senedd to end compulsory school worship](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWm5WNDJZc3JRcmNlcVlYeGgzdGM4WlVzQkZsbTVVd3lqOC1HTXRjcl9UWVhOdUgtUUtqYktGQ0RCd01IUVhUZi1ISk14NWdtOVVVWVhqNDFQVWszNVlOVDA0dm5DaWpHVGs1Xy1CcWN6aDJsc2dhb29IZTRlZXEtNmRnYnRKZWhiXzFnUHNzX1VrVmZHOGZlT0R3?oc=5) — *Humanists UK*, 09:28  ·  also touches Secularism, Christian society, Politics & government
+- [The NI law that (maybe) declares all beliefs equal](https://news.google.com/rss/articles/CBMiqAFBVV95cUxObU1GQkZtbkpMeW1GOFktODVHRE9SeW9IRDFUV0o3cUttZkhBaFFQSDFPZVo3OGVEc2lER1Z0R0FpUXh2VEN5LWUwcW5POXY5X1dpbklIRnBlZXlNVUxVSldzYk5HVGJTRmNfVVdJUGlQeE5wYllvRE5sZmxRZGJpckNaZGhFVUhEWWF3V1VTYjIzdmtQem1PdEhDdEdoZlRocjlwTTBGN1k?oc=5) — *Evangelical Focus*, 10:24  ·  comment  ·  also touches Christian freedoms, Freedom of speech
 
 ### Islam (1)
-- [Senedd rejects calls for a Wales-specific grooming gangs inquiry](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcENYLTI5NmlRZ0dkSzNoSmpkWXdwaW1tcnN5dEt2eXBja1BnWlJ3RDFhalNFOXZLSUFiZWx3UUhoMW4xTGdSVWJ4OVJ1M0ZGb1dBYnFXVE95QzBsQUNidHpUSnFoZllYcVdjRUVXMDdNemp4MFBuNHdGUDJNRndWeWFOTUJDTW5tUGdVXzExMVU5MTRVdHc?oc=5) — *Nation.Cymru (also aberdareonline.co.uk)*, Thu 16:23  ·  also touches Politics & government
+- [Teenager jailed over Islamic terrorism offences](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDJqR1U1V0xBOUJHRlh3M3BodG5XTDZSQnNqdWhxS2owV09fUzVkelAxLVBwOUNWaWgxaEprTTZfT0taR1VweTc0alduVEZYRm1sM2NPcWthTnlyTGRGUHJoa3pHNHhGdEFmNnJyQ3hORTZIOVpFTDFwRVVHOVNoZlVfcjJWOUk?oc=5) — *UK Defence Journal*, 09:05
 
-### Church (7)
-- [Survivors lose faith in Redress Scheme](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdktIWV9jOHB0LXUtcmNadmhtY3RBMVZPMEtkQ0otdm5FQ1Ftb0lpTFQ2Qk9ydFZDUnZaQVFha0hKTXV5dmZoWFRCNUN5Z3p6VnJ6cXhIVWNqOGo0SFU0MF9MQlBaRm16UEQ2M28td0EyRUVuN2ktUVZYZXUwZXpMajRWakFlOURoLW90X2Y3U1paMDR1ekFXTXdIMWpGdElQWV9fOE5n?oc=5) — *The Church Times*, Thu 23:28
-- [Archbishop retracts cleric’s award over Osama Bin Laden comments](https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUVpNTdVQ2FTMmllOWRfd0d2QUd3R1d0OG9PdlRYSlZWNUJVY2JnTU9mSzNLWmdvQTBmaEhQbnhkLWstQW9lMVJYeFhFbWpzU3hPYzRNcHp0VEw0Q2l3dHpJTXJ1U2FyaTAtaWppUHIwU2kxcHM4cW9sQUJsY2xOYzRjOEVNTGFiV3NtVW5RVHRQMWl3dmNzX0l4SQ?oc=5) — *The Times (also The Independent, Belfast Telegraph, Metro.co.uk +24 more)*, Thu 16:34  ·  also touches Islam, Christian society
+### Church (2)
+- [Archbishop of Canterbury withdraws award given to Muslim cleric who praised Osama Bin Laden](https://news.google.com/rss/articles/CBMioAFBVV95cUxNSGsySWlhWE81bExxMGZwZHBWeUtxcmVrcHZjUXVNdUoxTzdFRWRleUdYU3ZtZFc0SUhrd1FUSmV2dkhyYWJ3a0xiNWdnY1Z6YW5mNkM1OG53LTNqVXJ6dEZJcl82NW1Xb0c4NDVHRVdzTzBrN21qemhYSHRnZ3lSZ3l6by1vWGJRZWZWRk9mcGpFcTAzX2pka3BFWGZlMGxr?oc=5) — *Premier Christian News (also The Times of India, The Church Times, GB News +9 more)*, 06:59  ·  also touches Islam
 - [Most practising Christians are evangelical, study finds](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVJWNkNXendpYjFnMDFVcjZWc0xFN0ZzZWtLb3RSV1JaaHpKXzJaSnNXM2FPWlVfOHMtZnU0Q1EtZzVNbVl2dFBxTHNaeG1aWGFTbGZGY0pYT0dzc2RiWDc3c2V4SzQweEFKS1k5ek1aZ1ZRcmFUZnVpaW94Q2VJRGZwMjlfTFU5V1ZzWnV5VjJZcUND?oc=5) — *www.christiantoday.com*, 06:59  ·  also touches Christian society
-- [Church in Wales Governing Body: Detailed paper outlines future funding issues](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUFNOVklSSGRha25LT3g1UTlyWTFnMzA5QVpPMWtWaU44VnBnUGdDMk1Sb0sxRERVMWxNUGFkcjNsYUxET29iTjFXZFpWRVJxLXNtQ00yakJHbGt6bHlBQWp4dEs0b2VoTEJmdjVXMERuaHJoS3F5NGhCSnNGdVJmMl9PT09xaVF6Y1I4OExxNVJUYWtOaHYzZ1UtVWZFcFpodVFoY0p6b0pWRjFLQ2JWQ0xHVE9QTGs0b2dTUlZycjA1NDltTTN5bnZNdnJ4SHl6cHpqSG5zOWg?oc=5) — *The Church Times*, Thu 23:46
-- ['Cult' priest forced young newlyweds to sell house to fund church before sexually assaulting bride, court told](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdHIzUGQ2R2ZwTlZXSTlqdXhXUnFqcTRDRnhGODRoOEZyYW5sOW90NWJEeU52eF9EXzN6MnI5eVkzSXVSSXVQOXd5NWU1ZEFFdHdvUTlaWlJnS0hfWkg3Y1NzeEJ6WUR5WG45UzIybnZ5RVFEaklhNTdtdUVKY1RXWmZlZS1YYmVnTVFwN3A4RjZrdlY1SFNGb2xlTjJzWXphVlFkQ0RwVFNHbEtEUGtiaTA4cTEwYTBXY0V2dF9LYndjeGxqWUVZM1BPcDJudjlzMlVWUlpmaWhMdl9uQnRiedIB5gFBVV95cUxNQmljN3o3aW8tTGxpTjFoa01BcUFReTlTczdxdW5OZVZKSEEtVkIwWmlJV1ZuMmdlQlgySjdRb0s3clBBS2o0VGczZHM5M2lrWGk1TDg0R2IyZGRUUndrT28xeVV4Y0FYR0o1QmY5YXVCa1pDbWJyZDMxZTJ1RTlmR0Z1dkxwNjJMZEVUTTBZNG9waGZzTElWT192OVYxZ3VVNmVPb2RzRUVEaENGYVZaNVpqTzJnSnJRSDJlTDBWWHhWN3JKbzVXVlJkaktSYzlMTmxUaHEtcGptaWNBWXgtWk9hTFE5dw?oc=5) — *Daily Mail*, Thu 13:56
-- [Evangelicals in the UK are growing](https://news.google.com/rss/articles/CBMickFVX3lxTE96NGR0WUwzUGttdDdHVkxZdEF4TGZsMEdaRE10NW5uRGFzTlo2cE44dzBOejEyeVlaWldRM1dxU1N4ZWRROVNURHkyZ25VNEluOUFqd05oT1VjbUtOUTFGOGN4ak5FMWtxZ2V3RWhjeUp6dw?oc=5) — *The Other Cheek*, Thu 13:28  ·  also touches Christian society
-- [The image that exposes Sarah Mullally’s terrifying naivety](https://news.google.com/rss/articles/CBMipAFBVV95cUxQeTBKREg1UzgxcVNVbkNjNW82SVVjVEc4X2VlUER5aVF1VHM4RkttaFQ4TlVnQS0taURPX3NDRU1LYWQ4VFZvM1pQTVFnak5RVUs2UVRDQVpCdlhNT01kLTl4T2l5LUdLazNyLUNDZmVKOTJjQWVfMGdoV25WcFVtc2JhYV9HZnlQSG8wWld6T0s3a2F1V2VQcXg2SWhCNDIyY2JoYg?oc=5) — *The Telegraph (also Daily Express, AOL.co.uk, Evangelical Times +1 more)*, Thu 15:02  ·  comment  ·  also touches Islam
 
-## 🌍 INTERNATIONAL (1)
-- [Feedback sought on assisted dying standards in Jersey](https://news.google.com/rss/articles/CBMiXkFVX3lxTE15NnlINGlXWkhEdm5CcGRHOXdMUjZJcVNSUno2aEQ4Y0owX2pkTWdDMUlBZW00OVhZTUFKeE9DYVVOWEpUQ19kcE1PcFNTd3V5T3ZSWmhqUnJaWEhLTWc?oc=5) — *BBC*, Thu 13:37  ·  End of life  ·  also touches Politics & government
+## POLITICS & GOVERNMENT (1)
+- [UK bill proposes to lift historic restrictions on Catholic and Jewish prime ministers](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbTBEcFBZU2lkdE1hVEd5bzBiOEdQM3AxSk9UWWJGdVJ0c2IyR2R2VHkyOFMwNlkzblhoZ1dVZWpGUlpCM1VpdjJUd0FlZ3JKcTVvUy0wNm9VaWd5OU1BYVlBNGJ3aFg3SUVoOGpzdVVnSGdNS1U0cFRmQnRhRGIxa1RHX1pKZmRIcTJfNFZ2RlNxX1ZCVVlFMmRyWlY1TkY3TGZPS0FZU1VaTi1XRWZMNURlQQ?oc=5) — *EWTN Great Britain*, 11:43  ·  also touches Politics & government, Secularism
 
 ---
 
 # 🎯 Top 5 to comment on
 
-### 1. [Senedd rejects calls for a Wales-specific grooming gangs inquiry](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcENYLTI5NmlRZ0dkSzNoSmpkWXdwaW1tcnN5dEt2eXBja1BnWlJ3RDFhalNFOXZLSUFiZWx3UUhoMW4xTGdSVWJ4OVJ1M0ZGb1dBYnFXVE95QzBsQUNidHpUSnFoZllYcVdjRUVXMDdNemp4MFBuNHdGUDJNRndWeWFOTUJDTW5tUGdVXzExMVU5MTRVdHc?oc=5)
-*Islam · Nation.Cymru*
+### 1. [Civil service under pressure to ‘break the law’ on single-sex spaces](https://news.google.com/rss/articles/CBMiowFBVV95cUxPY0lqZ1NndmxYNHY4R2g0Y21wMl85QjBvYnVrdHI1dzRDTnc0dnB2Z0ZIZlRQRDIzTk04NG1nX3JqVi1LSFVIcVlUUy1TNEVIb0M0QmJ2SElObURkT1BOMUVseW9UQnpVLTZGbHFubHl0RWZsa2tXbG1DMnhUZXVZTnozOTRBaXRCSmk1Z0NIeUNZU2hHY3lNSmdHSHRvNWRpUklR?oc=5)
+*Christian Concern in the news · The Christian Institute*
 
-The Senedd has rejected calls for a Wales-specific inquiry into grooming gangs. That means victims and families in Wales may still be left without a focused public investigation into what police, councils and social services knew and failed to stop.
+The Christian Institute reports that civil servants are being pressured over policies on single-sex spaces despite the Supreme Court’s ruling on the legal meaning of sex. The concern is that departments may still be treating gender identity as if it overrides biological sex in practice.
 
-**⚖️ OUR CASE:** 'Sarah' was subjected to exactly the kind of horror such inquiries must confront: grooming, repeated rape, forced sharia marriages, forced conversion to Islam, forced abortions and then failures by authorities.
+**⚖️ OUR CASE:** The Darlington Nurses were told to ‘broaden their mindset’ after objecting to sharing a changing room with a biological male identifying as a woman; this is the same conflict between paper rights and real single-sex protection.
 
-**Who this hits:** This affects survivors of grooming gangs in Wales, families still asking why warnings were missed, and girls currently at risk if institutions remain frightened of naming patterns of abuse. It also affects ordinary parents who want to know whether local authorities will protect children without political embarrassment.
+**Who this hits:** This affects women working in public services who expect toilets, changing rooms and staff facilities to be genuinely single-sex. It also affects managers and employees who may be told to follow workplace guidance that conflicts with the law.
 
-**Angle:** Our line is that refusing an inquiry protects institutions, not victims. Viewers will understand why labels such as 'Islamophobia' can silence legitimate questions about grooming, sharia, forced conversion and police failure — and why Christians should insist that truth-telling is part of justice.
+**Angle:** Our line is that public bodies cannot pick and choose which parts of the law to obey because gender ideology is fashionable. Viewers will understand why the Supreme Court judgment matters in ordinary workplaces, and why they should ask whether their employer’s policies have actually been updated.
 
-**Opening line:** "Why did Welsh politicians say no to a grooming gangs inquiry?"
+**Opening line:** "What happens when your workplace policy contradicts the law on single-sex spaces?"
 
-**Title:** *Wales rejects grooming gangs inquiry: what are they afraid to uncover?*
+**Title:** *Are civil servants being pushed to ignore the law on single-sex spaces?*
 
-### 2. [Disabled MPs voted against assisted dying bill by two to one, records show](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUFUM0k2OEdXLXNjcW4zU1ZSZWctQkUxMjE2SWxpS2J3N1lYVHFJMUswQlBYd3hIN250Vkx6NkNXcDhfX1A5ZTUzTkFkS211STdTY1ozckZTU0dqTDY0aGdWMmtiQXFzMzJxVkdJM2ZndkFNQWlvbXZxZUdoVTZCTENNZnhQczdCS2Z4M0RGNHNiY0I3a1NmaG9hY2dYMXN4WFBMemdLYV9DeTdRMFhtb3NR?oc=5)
-*End of life · Disability News Service*
+### 2. [An alliance of charities is undermining safeguarding in schools](https://news.google.com/rss/articles/CBMipAFBVV95cUxObS1RU051U25rVGJmREtJMWJtSkdycV9rc1dzdTVmUHpja1BES1R6OGxFR1E2MlNXcEpWNFlQa3ZheU9LVW1FU2NQdms4ZlV3TUMwRWRxa0ZkRC1sb2xsNFFldzl1bGpXanhkSEsyQzN5cmJzZjdpRU5ET3VZTXhGZUF5ajlPSzliQjJXYU1wUlV3TlRvY0hWLUd0cjM5aGt0R0JWLQ?oc=5)
+*Gender · Sex Matters*
 
-Records show that disabled MPs voted against the assisted dying bill by a two-to-one margin. That is significant because disabled people are often the very people campaigners claim assisted suicide laws would protect.
+Sex Matters says an alliance of charities is promoting guidance and resources that undermine safeguarding in schools by prioritising gender identity over biological sex. The concerns include how schools handle toilets, changing rooms, pronouns, parents and children who say they are transgender.
 
-**⚖️ OUR CASE:** Indi Gregory, Sudiksha Thirumalesh and Rashid Abbasi were not assisted-suicide cases, but they show what happens when seriously ill and disabled lives are judged through a system that can overrule families and patients.
+**⚖️ OUR CASE:** Bernard Randall was dismissed and reported to Prevent after telling pupils they did not have to accept LGBT ideology; Kristie Higgs was sacked after raising concerns about relationships and sex education on Facebook.
 
-**Who this hits:** This affects disabled people, elderly relatives, and families caring for someone who fears becoming a burden. It also matters for churchgoers whose MPs may soon face further pressure to back assisted suicide in another form.
+**Who this hits:** This affects parents whose children are in schools using outside charities for sex, gender and safeguarding advice. It also affects teachers who may be expected to affirm ideology they believe is untrue or unsafe.
 
-**Angle:** Our line is that Parliament should listen carefully when disabled MPs are warning against this law. Viewers will see that opposition to assisted suicide is not just a 'religious' concern; it is a safeguarding concern about pressure, fear, poor care and the need for proper palliative support.
+**Angle:** Our line is that safeguarding must start with reality: boys are boys, girls are girls, and parents must not be cut out. Viewers will learn the questions to ask their child’s school: which charities are advising you, what policies do they promote, and are parents told when a child socially transitions?
 
-**Opening line:** "Disabled MPs just exposed the assisted suicide debate’s hidden fault line."
+**Opening line:** "Do you know which charities are shaping your child’s school gender policy?"
 
-**Title:** *Disabled MPs voted against assisted suicide — we should listen*
+**Title:** *Are gender charities undermining safeguarding in schools?*
 
-### 3. [Musk's X 'disgusting' for shunning meeting, says minister - as she vows more laws governing internet](https://news.sky.com/story/musks-x-disgusting-for-shunning-meeting-says-minister-as-she-vows-more-laws-governing-internet-13588995)
-*Freedom of speech · Sky News (UK)*
+### 3. [Archbishop of Canterbury withdraws award given to Muslim cleric who praised Osama Bin Laden](https://news.google.com/rss/articles/CBMioAFBVV95cUxNSGsySWlhWE81bExxMGZwZHBWeUtxcmVrcHZjUXVNdUoxTzdFRWRleUdYU3ZtZFc0SUhrd1FUSmV2dkhyYWJ3a0xiNWdnY1Z6YW5mNkM1OG53LTNqVXJ6dEZJcl82NW1Xb0c4NDVHRVdzTzBrN21qemhYSHRnZ3lSZ3l6by1vWGJRZWZWRk9mcGpFcTAzX2pka3BFWGZlMGxr?oc=5)
+*Church · Premier Christian News*
 
-A government minister criticised X for not attending a meeting about online attacks on the UK's lifeboat charity and said more internet laws would be introduced. The practical question is whether future regulation targets genuinely criminal abuse or expands pressure against lawful unpopular speech.
+The Archbishop of Canterbury has withdrawn an award given to a Muslim cleric after reports that the cleric had praised Osama Bin Laden. The story has been covered by Christian and national outlets, raising questions about judgment, interfaith engagement and due diligence.
 
-**⚖️ OUR CASE:** Anthony Stevens was arrested in front of his family over tweets defending free speech, while Kristie Higgs lost her school job over a private Facebook post about relationships and sex education.
+**Who this hits:** This affects ordinary Anglicans who want church leaders to show moral clarity, especially when honouring public religious figures. It also matters to Christians who are told to be cautious and sensitive when speaking about Islam, while serious concerns are sometimes missed by institutions.
 
-**Who this hits:** This affects Christians who post biblical views online, parents sharing concerns about schools, and workers whose employers monitor social media. It may not change anything tomorrow, but it signals more political appetite to regulate what happens online.
+**Angle:** Our line is that Christian leaders should be generous to neighbours of other faiths, but not naive about Islamist extremism or anti-Western hatred. Viewers will understand why interfaith respect must never mean ignoring dangerous teaching or rewarding the wrong people.
 
-**Angle:** Our line is that abuse and threats should be dealt with, but lawful speech must not be dragged into a state-backed censorship regime. Viewers will understand the difference between policing crime and policing opinion — and why they should ask MPs to protect lawful speech in any new internet legislation.
+**Opening line:** "How did a cleric who praised Bin Laden receive a Christian award?"
 
-**Opening line:** "Could new internet laws make lawful Christian posts harder to say?"
+**Title:** *Archbishop withdraws award to Muslim cleric after Bin Laden praise*
 
-**Title:** *More internet laws? Why Christians should be concerned*
+### 4. [Wales Humanists urges Senedd to end compulsory school worship](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWm5WNDJZc3JRcmNlcVlYeGgzdGM4WlVzQkZsbTVVd3lqOC1HTXRjcl9UWVhOdUgtUUtqYktGQ0RCd01IUVhUZi1ISk14NWdtOVVVWVhqNDFQVWszNVlOVDA0dm5DaWpHVGs1Xy1CcWN6aDJsc2dhb29IZTRlZXEtNmRnYnRKZWhiXzFnUHNzX1VrVmZHOGZlT0R3?oc=5)
+*Secularism · Humanists UK*
 
-### 4. [Event hosted in parliament hears speaker who argued 'influence of Islam' should be 'resisted'](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbl9uY3FuWGJ5NTZBd2hCbjhYU1lkTndwNFdnOG9XNk1jM3hSQTRiZ3NoejBMaFRENm9rZUNPUExibjkwdGticF93WEFwR3dYTXBvX25RaWFxV1duS24zT2U4RDBaaXRzNkU5OXhmeHEtSUUzdVNPZmcwRGhsSTVqUTJabWNEdDFlb1oteHYtZ05BZEdQS0htcy16Q2dTYTdmWE9nMW9rUmRYbDZpTzJTTF9Oa3FGVC1XRlNVTTFma29ZZTBUa0F4UA?oc=5)
-*Christian Concern in the news · Middle East Eye*
+Humanists UK is urging the Senedd to end the legal requirement for compulsory collective worship in Welsh schools. The campaign forms part of a wider push to remove Christian worship and distinctively Christian inheritance from state education.
 
-Middle East Eye reports that a parliamentary event heard from a speaker who had argued that the influence of Islam should be resisted. The article presents that as controversial, raising the wider question of whether criticism of Islam is being treated as unacceptable in public life.
+**⚖️ OUR CASE:** Izzy Montague challenged her son’s primary school over LGBT teaching to very young children with no meaningful parental opt-out; this is another example of who gets to shape a child’s moral and spiritual formation.
 
-**⚖️ OUR CASE:** Luke Salmons was forced out of the police after questioning Islam in mandatory diversity training; Shaun O'Sullivan and John Steele were arrested after public comments or questions about Islam.
+**Who this hits:** This affects parents in Wales whose children attend state schools, especially families who still value prayer, Bible reading and Christian assemblies. It also affects governors and teachers who may soon face pressure to make school life more secular.
 
-**Who this hits:** This affects Christians, teachers, councillors and public-sector workers who want to speak honestly about Islam, sharia, grooming gangs or religious freedom. If Parliament cannot host difficult discussion, ordinary people will get the message that they must stay silent.
+**Angle:** Our line is that removing Christian worship is not neutrality; it is replacing one moral framework with another. Viewers will see that this is not an obscure legal detail but part of the same question parents face everywhere: who is forming our children, the family and church, or the secular state?
 
-**Angle:** Our line is that criticising ideas, doctrines or religious influence is not hatred against people. Viewers will understand why vague 'anti-Muslim hostility' standards are dangerous, and why Parliament must remain a place where uncomfortable truths can be examined without blasphemy codes by the back door.
+**Opening line:** "Should Welsh children lose the last daily reminder of Britain’s Christian faith?"
 
-**Opening line:** "When criticism of Islam reaches Parliament, why is that treated as scandal?"
+**Title:** *Humanists push Wales to end compulsory school worship*
 
-**Title:** *Criticising Islam in Parliament is not a hate crime*
+### 5. [Millions of people are unable to find the support they need for end-of-life care](https://news.google.com/rss/articles/CBMie0FVX3lxTE9sbGYwdEVhejg4TS1pVWlFN3g4OUlUTWpnNTNoWVVneElrMUJvSDIwdzIyS0RKZ1dZeW9Zc0pBQ0prcERneDlnaHdSRUt3ZExkZFUzV0FuX1dzOUdmZTlzLUc3NGR0VFRqNDlNSk1icVVXbmw3bWhNZEpBQQ?oc=5)
+*End of life · Home Care Insight*
 
-### 5. [Lawsuit over Belfast City Hall abortion lights: Move could see council dragged through courts to judicial review](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaW9yOWhtckpSUnhUaGh4Z2lCZm11T3RqRDZlV3V4dzdqOW0tWHFDc2tfcElSN2xIU3V0cElBRWlpMUlEQjgybUxyNDFuOHBNdXRYUk9CRkFkTmFVMmduMTJQZDN6NlRZV2Jya1lRNm9LNjJ3VEcyYW9adEs2RDgwRUI3Nkx3RjByNzNUZ3owaEdqMlQ3OXpFYUZFZGg1bFAyaGdyR3Ixc3JZa1gySUlLX1JGZFdMLTNGV0JqMHFnN0VETjd6NXAxMXRuaWN3SEtqOUlwdXVLekFmT1c1dWw3M0xPcnExRzkzLUlzWWtFNE1fbENh?oc=5)
-*Beginning of life · Belfast News Letter*
+Home Care Insight reports that millions of people are unable to access the support they need at the end of life. The story highlights a serious gap in care for elderly, disabled and seriously ill people who need practical help, pain relief and support for families.
 
-A legal challenge over Belfast City Hall being lit in connection with abortion could take the council to judicial review. The case raises whether a public civic building should be used to promote one side of a deeply contested moral issue.
+**⚖️ OUR CASE:** Rashid Abbasi, Sudiksha Thirumalesh and Indi Gregory all show how vulnerable patients and families can face life-and-death decisions in a system where care, consent and the will to preserve life are under pressure.
 
-**Who this hits:** This affects pro-life residents in Belfast whose rates fund the council, and Christians across the UK watching local authorities use public buildings to make ideological statements. It also gives pro-life citizens a practical example of challenging councils through lawful routes.
+**Who this hits:** This affects families trying to care for a dying parent, spouse or child at home, often while exhausted and unsure where to turn. It also affects anyone worried that assisted suicide could be offered while basic palliative and social care remain hard to get.
 
-**Angle:** Our line is that public authorities should not celebrate abortion as though unborn life does not matter. Viewers will understand that council decisions are not neutral just because they are wrapped in lights and symbols — and they can ask their own councillors what policy governs political or moral displays on public buildings.
+**Angle:** Our line is that Parliament and policymakers should fix end-of-life care before entertaining assisted suicide. Viewers will understand the concrete danger: if good care is unavailable, vulnerable people may feel they are a burden rather than being helped to live their final days with dignity.
 
-**Opening line:** "Should a city hall be lit up to celebrate abortion?"
+**Opening line:** "What if assisted suicide arrives before proper end-of-life care does?"
 
-**Title:** *Belfast abortion lights lawsuit: can councils promote abortion?*
+**Title:** *Millions lack end-of-life care as assisted suicide pressure grows*
 
 ---
-*Nothing significant today: Marriage, Gender, Sexuality, Education, Christian freedoms, Secularism*
+*Nothing significant today: Beginning of life, Marriage, Sexuality, Education, Christian freedoms, Freedom of speech, Christian society*
