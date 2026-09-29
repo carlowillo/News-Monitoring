@@ -1,145 +1,125 @@
-# Digest - Christian Legal Centre - 2026-09-29 07:55 UTC
-*Last 24 hours, AI-classified*
-
-## ⭐ CHRISTIAN CONCERN IN THE NEWS (1)
-- [Christian 'discriminated' against in job retraction over LGBT views, court hears](https://news.google.com/rss/articles/CBMiXkFVX3lxTE43VUNtR21VTHJoaExWSURhb0pPM1FWb0loazJtRDc0cGlYLTZzSlFVdC1NNGxrZTVVSFVvNU5KUHJhSmhkOHNpdFVUX0Y4LVlSTmtzdGtaa0ZvRklBTVE?oc=5) — *BBC (also wng.org, law360.com)*, Mon 15:49  ·  also touches Christian freedoms, Sexuality, Freedom of speech
+# Digest - Christian Legal Centre - 2026-09-29 13:26 UTC
+*Last 6 hours, AI-classified*
 
 ## LIFE
 
 ### Beginning of life (1)
-- [UK to offer bereavement leave after failed IVF transfers](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZGI2M0FEY3QtcTFINDgyai03bGlXZ3dsQmxwMEFOcGc2b3pCcGp2VWs1ejFLS1RCT09Va0c1V0I2cXdvYUVyVkoyaGJ4SkxDcjZ1LXBZSFVWMFF5RXRSQkVvS21jVGJTMWZMTGVLSFp6TjV2dEVyQlZYLV85YWVFVVhkcDA2cFNkZlhzLTNR?oc=5) — *Progress Educational Trust (also HR Brew)*, Mon 15:54  ·  also touches Politics & government
-
-### End of life (2)
-- [PCs 'lost control' with amputee, 92, in care home](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RYlhtMlItV3g2RTJ2QWdfN2lCeUZGbWtuUElaUUs5OG0tU0NzSGcybW9haXpDdGFFZGFzY2pIc096bTYxYlVlVFlyZGtoZmx4ZU91YVFMLVZuZ3k2MkE?oc=5) — *BBC*, Mon 16:48
-- [Assisted suicide defeated. What comes next?](https://news.google.com/rss/articles/CBMifkFVX3lxTE1jU2hxMkJMcWphQkU2M1F4d1YtSzQ4SldCNS1zeTZsamFjTy13YU8xZkdTeTVkbFlILWJCQktMWFhQSmZUS0Q4R3dLX1JFUDhaSldrLWlGVEw1WURneVpZbEhQTG11VUhqemN0VFRNX2EteURtZXRkSVNlWG15Zw?oc=5) — *righttolife.org.uk*, Mon 19:08  ·  comment  ·  also touches End of life
+- [Plans to light up Belfast City Hall for 'International Safe Abortion Day' halted](https://news.google.com/rss/articles/CBMitAFBVV95cUxPMEk0dnhFcWZpTUlqNDltY0htcWcyenM0WXNEaUhUU0x5TF9ZVzFkaXFMR2dhT1pGVDIxVUlLWmF6aU1oWXpMeXpQX21WNHd2eENWVTFIc24zU0pqb2k2bUpSX21pdnBpUXZpRW5KQkxMdzRCRTdYeVNHem5OZ3RYdFZ1NUFDWDVXYTBlWTRDamtIQkRiVWdfYzJmNUxxTHFoSjE2VWhhNEhjWEhRYlhvV0FZVEQ?oc=5) — *christiantoday.com*, 08:25  ·  also touches Christian society
 
 ## FAMILY
 
-### Gender (3)
-- [Trans row nurse tells Sandie Peggie employment tribunal that union 'failed to help me when I needed them most'](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM0hVSnd0TmxoMjQ2RkFfRUVSQlNab201dV9LR3ptdlhIQzdlRUN3RmtxZU9WU1o3Y1dhSThzeEtKNW15OW1uMGNMVXdwR2poWjlWZEdId1Jfb25GeDNiTjBidjNjcWp1a3NRZDBiUTluYWtLNTd6N2lVa0ZSRlVWc0I0bUI4dUxZYVUzWWN1Qm9lX3NlUmFoY3NZV2thYWY3VHpPQ2ZLa1I4UE5xeVItRE5jTjBwNXIyQUpQOEtjbFFEcWhycmljUlVRUHg3SzRBcXU3TmxyS2lGVzRf?oc=5) — *Sky News (also Daily Mail)*, Mon 17:51  ·  also touches Christian freedoms, Freedom of speech
-- [NSPCC fixes some flaws in latest schools guidance](https://news.google.com/rss/articles/CBMikgFBVV95cUxOR3JYYnNVY3F0TFNRMVI5NzM2VklOemFqeVJzYVFNOU50M2lvOUxUNmtMTkQzbW9PNHBDWFllWXRWenBGVGxWQXFDemFEQmEyNGdFX3hvWERqWGlYVEVjZTV6Ym1TS3dCMHJ3d2F4d0g2N1daZTQ4SUtrdnR5YWk4Z2tUVWhLMnpWSXVlOVlGYzZOdw?oc=5) — *Sex Matters*, Mon 15:47  ·  also touches Education
-- [Trade unions must stop pandering to trans fanatics](https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVRRYnlaTHRxWFlLeUVBSk9kRk1HSXpKMnFOclYybnp2YUlzTmVGU0xsWmhzVnEteEphQUxPRVhWTU10UWdNOVB5V21ZeVc0SzRSNFpDUnh1LXNLN0pJVjN5eGc3UEtpbHhFcVlkYXlUT1hFZ2lURUpscFhwNUUyTHFlQllnUWFMVVZxRklGZVc4VFpGY3Yw?oc=5) — *spiked-online.com*, Mon 17:55  ·  comment  ·  also touches Freedom of speech
+### Marriage (1)
+- [Couples staying together longer before they split, statistics suggests](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSFJFOE9MaU55Q1hoZmlVbWpSOVpiLWVpd1FKV192c3lKNC1sSDRNX2NvUHlVZjhrSHBCTDdkYXhXT2xoSW41UURRdThGZFpUNkpTbnVaLXJGVGU5OGRMSHlIZXN2cTVNanEtVGdpeHZCX1hsalNIeWVTcVV1eHM2WlFMdFpNLWZpM3d6dkphNk03MU95UFZ2TnFEN09yRHNXd2cwMG1nTDcwWXVNS3l2ZjB1M19GWk5QdVZRQlVFdUEwa2FtOU5uYTlUYw?oc=5) — *The Church Times*, 11:02
 
-### Sexuality (2)
-- [Victory! Northern Ireland Conversion Practices Ban Bill passes key vote](https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDlFQlJsNTZKRlRpNUlBSGlueDJ1d1VnM1FYRlppQmtyVXEwa21KdDZsN2R3andSQ3htTFlpNHdYSW5TLUhTX1dCb2FmWFJKZ3ZPRC1yTEtPQU5PRHRJdFZHQlducVZrNC14ci1JZ00tSDZ4aGlEaVh2N2hWWTFrejBuRFlRdllDZjFoMDFEUGdwSFAxV0lsaGpvRVZ6WWd3MThSTmJB?oc=5) — *Humanists UK*, Mon 20:50  ·  also touches Freedom of speech, Christian freedoms, Politics & government
-- [Schoolgirls’ campaign to ban uniforms from pornography reaches 5,000 supporters](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRnprM2J6bXVxVEhqVzVTYUZpcDNCUHFVMXpkVnFHMGFnYUt3VTlmY2NtZThGa1k4Y1l2LUJDdnRSUlRxRDQyTEtoTi1aUXpVNzdVaHd5dmdYLXdQYXVEcVRDWTFJMUJ3ZEh0R0o2VXUxYTltY1VvNklUZUFlaTJnNGFxLXROQkQ1Zld4aFJ4bDhfbG11?oc=5) — *lbc.co.uk*, 07:50  ·  also touches Education
+### Gender (1)
+- [Sandie Peggie suspended ‘because of conduct not beliefs’, tribunal told](https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3Y1cWRIZjdmSDgxdnhtbEFrSlFQUFBZU1l3ck55bjhnX3VUUGxwMkl3TWk4OXFrYm1MbTctc05LTVNiV1AxWmZ4T1RVdnRZbERtOVdsaUtFTEprTXY4OGlPZjR0cllMbE5qTG90YnpMc0pmZkV1aXZ5b25LUGhVc2JhOThrUHBpRTRTUldvSWgwa2lxVkFzV2NUMlMtdGMzbGwzWmNXWWRXX20wc256UTBlTWI5VTBKRDhTRW5Wa0s3U3FNcWlF?oc=5) — *Belfast Telegraph (also uk.news.yahoo.com, gazetteandherald.co.uk)*, 11:52  ·  also touches Christian freedoms, Freedom of speech
+
+### Sexuality (1)
+- [Northern Ireland MLAs back 'conversion therapy' bill despite concerns over prayer and parenting](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR2NyM2lMRmZ3UnE0TWlDNEdLNlpWSzhmdFExOGUwWWVlZW13SkZ3cmF4WnF3a2NtSVVueGc0U3ZaTlJpSVlmMFIwVGo1SS00YW1SUVg4RUxTY2xUZ0RxaWNWX1U3eW9KcUc4cEJDSGVBOEtacnFWRG9wTVloVG93eXRDZDFaejVQaFVNUU5sTkZnaV93anVXNWVCU1REbHpTR0U3TkpNanBUanExQ3FlV0Fjd3IxeUoxLTkya29zNE80MDdJdzZSd3NsNG1KVGFPM0FqWUVZRUlCVUVH?oc=5) — *Belfast News Letter*, 12:40  ·  also touches Christian freedoms, Freedom of speech, Politics & government
 
 ### Education (2)
-- [Communities face 'shock' from private school closures - top head](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNVk4ZXVyUzVTUnJBZjh6NlJuVzhwaFF3V2x2UDBxRGY1TW9IQ1NZb2xzY29SX29uWmRIajNjRkpZYkNfNnoweWVpWHJxSkxUc3pXV2x4emV5QmZ4OEZ5cFdjNVktalZ4YW5KZDJjMmtNSTEzeFM2TWtzSnBDdTdLYi1RY1JJeDBURGZDQ3pjVGpQQlFmcjhVbHlvZTJDekdDdHdXdzdWYTBGdW9lbS1YUmlDNTZyRm5PNmFRRU0tMA?oc=5) — *Daily Mail*, Mon 16:28  ·  also touches Politics & government
-- [Traction gained in efforts to ban school attendance prosecutions](https://news.google.com/rss/articles/CBMingFBVV95cUxQYXU2LWtpdVRzQmoxT0pjbVBJMnY1QnBsc1JYMmxsR0tTNk82cFU0U3JOekM5ZXNrUzVXMW9tY2FhZF9jbTJJQWNXWHEwQXFkcVFLcVFvdmtQU3ZBR1pUZDZ0TUxHTjBqMDZCQ21WbDBLcjZoTlVNaDZxeWppZC1qajZmRWhQdzFQQUw3LXc1ejluanRtM0xUY0xKVFFCUQ?oc=5) — *localgov.co.uk*, Mon 15:57  ·  also touches Politics & government
+- [UK Private School VAT Triggers Pupil Exodus and Financial Strain One Year On](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlpTMi1vcVgzeVBxRFQ5V1JTYnpoc0NtS2R2a3hYNUJOc3RVdm01MDU5bE1kLTdxN0l6VGY1RkcyQzRyZ3hGZk1LTmU0OTlrZU1KV3FJZmJlMEVSc0I0c3huUGg2NGlSV3JQdEpGcUtiMWRqdlVfNHA5dFJucnlXSkU0RHppVzF4NmRzUXNuY2YzZVU0NVlPY2UyV0lfazNRUVZZMzJtR2ZLbDYwY1Nv?oc=5) — *streamlinefeed.co.ke*, 11:00  ·  also touches Politics & government
+- [Deschooling: How to deschool your child (and you) when starting home education](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DYTFwN3g3enlTbmdqZGdsbGJ5b2JmMFp0a3ZVT3VtRHJwcHJ2R05QUWdDa3VnSlN0Y3V1dTZXdXBiOEpadERlMDA2VDYxeHVRN0lxdDB5UXlTOU0?oc=5) — *BBC*, 12:42  ·  comment
 
 ## FREEDOM
 
-### Christian freedoms (1)
-- [Charges dropped against some Crewe religious group members](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtZzMtSVJtX2lOaHlqNTZkS2VyaThuWTB3QnB3cUhheDQ1M3B3UUtNLVhOdTd6QWRSQTl3ZTdDZXdyYmFzTUR0ejNneEUyTHpzMC1GeXY0aVJHeEU4WXc?oc=5) — *BBC*, Mon 18:37  ·  also touches Freedom of speech
-
-### Freedom of speech (6)
-- [Labour MP compares Epping migrant hotel protesters to proscribed terror group Palestine Action](https://news.google.com/rss/articles/CBMiowFBVV95cUxQN1lacHdoMURmYlo3dTZTTlRUa3NEOGV4S2xXNzNGS3h3ekx1N1A0Tm9ibWpGY1dBczZyTkJQcDg2UFpZR2p1eVd6SUhsSW1GdFRnRG1KTzVRQXYxUEpVZk83cDQydnNqczd0YmFCZkRxams5ekZTeHJUM0h1TFZCS3R6eGhWYW9keE1HOVpJTi02U2FCUzZjQkluOHlRVE5qTGUw?oc=5) — *GB News*, 07:05  ·  also touches Politics & government
-- [‘Intimidatory’ far-right marches should not be allowed, says Angela Rayner](https://www.theguardian.com/uk-news/2026/sep/29/intimidatory-far-right-marches-should-not-be-allowed-says-angela-rayner) — *The Guardian (UK)*, 04:00  ·  also touches Politics & government, Christian society
-- [Labour confirms when 12 million Britons will be banned from using social media](https://news.google.com/rss/articles/CBMigAFBVV95cUxObjRDeVBKNEU0dTAzZWtWNXBPai1pTEdqbkt0RUZpeDhDcm5fTXU3VlJycUl1TEFCb2VfZnF5SEtJWEs4TDRUbkNXLW5KeW5tSDhqT2xaNDdqSnZOQUVKcWpmbnFoSVp6VWVrZzJ6MzVDU2loVFl5aDFTdlYxUVFUaw?oc=5) — *GB News*, Mon 22:10  ·  also touches Education, Politics & government
-- [Mass arrests of 150 Palestine Action protesters at UK Labour Party conference, as total nears 4,000](https://news.google.com/rss/articles/CBMiaEFVX3lxTE84WUk5M2dCZ085SHNoUjJkTE9ZQzFZTUM2YWFORU1Cc3pRbm93bjNlNmwzLS1GZWdUNHkyekNtNDgxUER2ZzZRZ0RhcjBxRENCWk5JNmprNmNucTFvZG5SOU5Bc3Q1S0Fl?oc=5) — *World Socialist Web Site (also Tehran Times)*, Mon 17:25
-- [Are Universities actors in debates or the forum for debates? - Enlighten](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlQ1dzhDQVNMdmlBdlJIX3VfNlk4TjhGUmZTcDFoSnB0czZ5SllkbUM2b25nOFp5OTNIdlN5NlpFY2F2RUVoZVhRT1l6Vk16b2xieklabTNkeUdJQTFwQjVpOW1VXzBRSUVZRFNpOWxVN1NwZnZHcGloOWM0ckw2dlBremtMV201VnBqQVFaWnA?oc=5) — *Scotland's Independent Think Tank*, 01:35  ·  comment  ·  also touches Education
-- [Is Ofcom picking a fight with America? FSU's Max Thompson writes in The Critic](https://news.google.com/rss/articles/CBMiekFVX3lxTE9Bd0dEMDA2OGxlX1FOY0ctckJBaXBxd3JyR1NQV3llR2xBQlBoc212TVZFeTFXMVE3blZrTk5VZU9SWXhNNklhVE5kaGlGS1g5TTZpVHJaOGZpMVlWYmZJOG8zVmhpRWxIVGRnNEo5dnMzdFVIR3VlRTlB?oc=5) — *Free Speech Union*, Mon 20:19  ·  comment  ·  also touches Freedom of speech
+### Freedom of speech (3)
+- [New polling shows most Britons believe Government only protects free speech it agrees with](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkFaWnlBV1d4ZTNlSlI4RlBRNldHX0xGeTd5VGJ2QUJrbXVqa1hLU1A3eTZYQ2FPbjRfajltc1RmVlZFQXFXRzFJSTRXSXJkWG5sZEEzNUp3X1pERnFZRFk4UTFSUC1kNDZsX1g5Z0NnS2tlblN5MENtVlpvckt2WWJhbUlkVVdjUFcyZ3BmbS1FSkZPaGZ5MmR0U0xsQjRFLVdOaWxDbUh0Zw?oc=5) — *Free Speech Union*, 11:54
+- [Labour MP compares Epping migrant hotel protesters to proscribed terror group Palestine Action](https://news.google.com/rss/articles/CBMiowFBVV95cUxQN1lacHdoMURmYlo3dTZTTlRUa3NEOGV4S2xXNzNGS3h3ekx1N1A0Tm9ibWpGY1dBczZyTkJQcDg2UFpZR2p1eVd6SUhsSW1GdFRnRG1KTzVRQXYxUEpVZk83cDQydnNqczd0YmFCZkRxams5ekZTeHJUM0h1TFZCS3R6eGhWYW9keE1HOVpJTi02U2FCUzZjQkluOHlRVE5qTGUw?oc=5) — *GB News*, 10:07  ·  also touches Islam, Politics & government
+- [Miliband ‘looking at’ whether Palestine Action ban was sensible and argues mass arrests were unintended](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR2lJOG5YMjZJZ0JBamhlSmFpdWl5NHlkM2lvZmFMV2RsRTFkTlQxNDd5MTFTWXhJbmNfbUwxSnZ3SFY2VGFBdEZyYkwteEc5TFMwUE5rY21jVWwzTmRLcGhFd2pzN1VZMXE3b1JoLWNUMzdHRnprZ1ZKUXo0c3NaMERYaUhtLTZvQ2RPTm5ZSGk3VU5LUG9xZ1FGYVNKRUJQVVNselFSRkVPMkozV05TU1Q0S1pjOUJjSG1vcjFoWXRqUDQ?oc=5) — *Middle East Eye*, 09:55  ·  also touches Politics & government
 
 ## FOUNDATIONS
 
-### Christian society (1)
-- [Orange Order parade dispute continues after main players hold talks](https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss) — *BBC News (UK) (also The Guardian (UK), newsletter.co.uk, Reuters)*, Mon 15:11  ·  also touches Freedom of speech
+### Islam (3)
+- [Taxpayer-funded police training likened Nigel Farage and GB News to Islamophobia](https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2tpTHo0ZmtvdVBDWEpPcVJhTkQ3RzFBRVFzY0ZDbGtkRTRDV0pPT3ZCWmpXRDBXbTZlSEI2eXNuMWtzQU1pS3EwUE80UTc5LVpKazZlSnJZRlcwQXlIREJ0TG9jd21aR09pa2ptb1Q0S2xERTktLTY3Sy1OczF6UjJQZHpObi15SXpOeDRacmFleWV0cW5DOA?oc=5) — *GB News*, 10:00  ·  also touches Freedom of speech, Politics & government
+- [Bradford grooming gang survivor forced to flee with her five kids and live in Airbnb after sickening abuse](https://news.google.com/rss/articles/CBMiogFBVV95cUxORWJpQXZCRHlsNnNYeEM5ZW1WTkNIbzJBSy1vVUdYcUlQcHBhRm1qanA5OWJUaFZGUlAxX0RqOXU2VkZKOTE3UTlfeXJuc2VEZ2pQX0U0bDFrdWxTLVhQS0FoR3VORDE2dERnVUJMM2lDT29MN2VFd3pxYVB6NkhwVWFqa19SWlo5T0ZXRHpvUzRjYUJ1Q1g0TzJtTnl4eXBlRGfSAacBQVVfeXFMTkw1RmtKUExFZElkcUNpc2ZnSjFYRTd3Tm1PdVBoMGRuNVN6TGtfeXJHdF84Z29tQ2paeTFzNnVfTWh5V09iM2JlRUt4UDhTT1JIOUM4cHhJQXdTUUVRT2NSajUzVHZQVXpyQTJnbkNacTJoR2J4UFZiYXl4TDgtWXpYVmNmcTU3RDNtS2FxR1luQVpadGwxRE1icklmRDFJaFZHY0E4QjA?oc=5) — *Manchester Evening News*, 08:47
+- [Why did Britain give a Hamas chief’s bodyguard a passport?](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXNSbW5DMkFuU1plNGNhbUNoSXROOThDZVRremg0RWt1dFVrZlJOLWNKUEROczIzUmdTbDVMUW0xNHpMVi1yV3NabFFVYkJZbnZHWUZPRVBVb0FnTUNTckZEbklJeEhsQ3dleWVTdHRtc0dtSVFSX2pud05iVXZCZENfWGU3cFo3UmlNNjFicmZNWWZjWTlnX0ZR?oc=5) — *The Spectator Australia*, 11:46  ·  comment  ·  also touches Politics & government
 
-### Islam (6)
-- [Shabana Mahmood declines to say whether she thinks UK is Islamophobic](https://news.google.com/rss/articles/CBMifEFVX3lxTE1xa2V4MzNCU2J4MTB1R3JyTnFnWjllOElpeEV4OGkzUHU0WFVxMU5GWmx2TmdrWFJxMTVFalZnSDhkVi1haF9DSEFwampXcl9IMi1UTC1xNjJjQzZSVXRBbGg5SEtjaEtQU1JEOGlqMGNJX1VVNGl5SVFBR2E?oc=5) — *GB News*, 06:55  ·  also touches Politics & government
-- [Police were lectured about Farage in Islamophobia talk](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUWdPaElnSkdIaHlXM254dVFKanF1ZVFQQWs3NERPaHB1OEdzWFMyN1VTZU40T29lYlBTQnhKTld2dkZBeU9pNTNZc056Z3dTek01THlVRXZNOERCekZlNlJFaFpleEhmWlEzLTJfYndzWDBfQlRQbXl5ZW5KM0VVSXFvNnp0aTdERnFiMFhmMkNYbjZQSXZDdzlkeFhvUUgw?oc=5) — *The Telegraph*, 05:00  ·  also touches Freedom of speech
-- [Primark security guard jailed for posting Islamic State propaganda videos](https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1N4QXZpNnVuZmdvb1FReVdic3hjVC1tendWMENSZVFiTVd4ZXEzWXVfUE9teGd6RHBDdTNBb2lqZ19menktNGYzMmZMYXJYTHBjRmFBUTM4MnRrTnoyX1otWTQxQjBKN19XRWR2YlBWcmxwZkEzdkV5TW5Ja2t5ZTlXcHBmS0tFWGRuR2x1YjJtZnNRUXZEVzNhV1lFUC12a2NQaHVxd3ZxMFpZMnFzSG5valBJZ9IBuwFBVV95cUxNX0QwRG82aGZKcUY0eWMwVXEtZnhIR0dFRi1ZSmxqMFU1cDJ3c0dUZHhEUDZmOXR2RW9rMVhtNWc1Q05TeUNLSld2T3RTVG00eUx2cWVsXzRGUzh6dlp5SFVBMExxU1RnTko3XzlJSm9HVFdDNFRXOHh6NDFqTEVNQ2pneUN0ZTlnOGpjV2YwbUhYb3NDVEM5cGZjYWxVMmFPaUhTRmRudG1Lekt1cVVfM1ZBLW9ZZks4NXBz?oc=5) — *Manchester Evening News*, Mon 17:34
-- [Data Confirms Surge in Anti-Muslim Hate in UK](https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3NpbVAzd2ZRVndrckNCOEZvRmtlUUU4Nmp0X050bk1RX191ZHhOcFdFMXVNWlJDNWZsbnRkUjZFWDdySVZDbXdyd3Q0U3JnTElwZy1DWXU5bTFKRmFkS3lyeEN3NUtsb0VuLTdJcWZUOHQyVDNLQnpGdHBiX1N5bmUwWQ?oc=5) — *خبرگزاری بین المللی قرآن*, 06:48
-- [When will we stop making it easy for Islamists?](https://news.google.com/rss/articles/CBMilwFBVV95cUxOSF9HOURnc3hjaTNZRFIyNE1XcjBTRmhLa3BTS3BRWkFsMDBvQmtCS09qRmYtNExVTFlBSVduTnJvRDdxeWhIbVJQcFo4SFlmaExlRGVKNWk5N0NWN2N0ZlNEQXR0YllRZDJrZURjckQ2UzhiNGdGMnJtRDJjNWY0RGJtV3Y2bVNxRGRZejlJVUlwdUxhbzNV?oc=5) — *The Times*, Mon 18:35  ·  comment  ·  also touches Freedom of speech, Politics & government
-- [How Britain became a haven for Islamists](https://news.google.com/rss/articles/CBMigwFBVV95cUxNeDhJMl9yQ1UzQnJhZ3E0STV3cDN1WnB4OTB6azdaMDBNZ3dXTXZwdHdBdGYwVFJjZ0VPd0QxTGJhRnJIYldEMzFOalZlZ2JVdFAtZ0QxcDJ0Ujh5TGVSQlNWM2cyeENvRzE3LUtnS09IV1pCVVBsa2RQQ0JiUUo1akIzVQ?oc=5) — *spiked-online.com*, Mon 16:27  ·  comment  ·  also touches Christian society, Freedom of speech
+### Church (2)
+- [Church in Wales pauses plans to allow gay marriage](https://news.google.com/rss/articles/CBMijwFBVV95cUxObTduOEp5RjcxU3RXTEtXNTNxYjRWX1hDUWZLSHl6Q3RHMmdoS2JaUGZKYjNZVmpDM0NsalFOOEI2YmNDdlk4bW1aZHBJSnhzSjRDQzJmd1Z5NHJDb2FXalZKYmsxMGFDRWVmZWY3U0RSWEdzQXBPOXZwd05UQlY3dVZiUW1KeTVESERPU0RCdw?oc=5) — *christiantoday.com*, 10:55  ·  also touches Marriage, Sexuality
+- [Southwark bishops denounce 'Christian nationalism'](https://news.google.com/rss/articles/CBMijAFBVV95cUxNYXJnbzdBQjBXekpkU2JBcXRnNV95UDlpS3YxNHJKNjZMS2FueFNCUHBKOGhzS1NoX1RpdmFmSjFmYjBRM3ViRG5PTmh6dWRYdnc1c2NqMTYybk9rdGlyaUdQMElGaDB3NzZrel96dzJhcE1qczBBX1o0Y0JwVGhPWTNiWVhBTEtTRFcydQ?oc=5) — *christiantoday.com*, 09:04  ·  also touches Christian society
 
-### Church (1)
-- [Impasse over episcopal oversight for St Helen’s Bishopsgate](https://news.google.com/rss/articles/CBMilgFBVV95cUxORGZKVVF2WWltbHd4UUhrWVRacVAxTTdtYjhUTWpFNDhTRXU0TTBQcWZxX3lCRWE0WFJOTzVkUzBsNlk5Y3hwRmROcGxJT0ZRQkRiaHNodWg0bDdyQWdJc3VKZ1hjOVVGM2M0TlE5XzhKYWFVQ2ZaLTlmU3VXWTVGX21JT015WFlYdmEwUlktemEtcHFIQ2c?oc=5) — *Anglican Ink*, Mon 22:07
-
-## 🌍 INTERNATIONAL (3)
-- [“Islamize or Perish”: Over 100 Christian Women and Children Still Held After 132 Days in Boko Haram Captivity](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMTdBU1VLOFg5bUxqZHdoR0lSSEFaQlJzc1lidnQ3ZlBuYmdTRXY4Wl9GTEJ5bjVXR0VqQXQxM2R1RnpreVNSb2pLalBUZno5YWdMMGxBY3I2cFJQNUU0N05YbmtHQWh3VEw0RGpzbGx4RmFjSlAtdVpYQ3NfRElkbEhFTUp4Zy1EOGNjV3lydEpLZ2N4UlVNWS1XMHAxblRjNVJDcnZ3Q0FSTUVPU2xzQjRiaUJvbmZpMWV1cl9xUHJ0TXhjMHhDYVpESVJBVjJEM0FQNVU3Zw?oc=5) — *truthnigeria.com*, Mon 20:45  ·  Islam  ·  also touches Islam
-- [One-year-old euthanised in the Netherlands](https://news.google.com/rss/articles/CBMimAFBVV95cUxQSjBBeFhkUnFZTm10dnlkSFhHSmh4UVhQQ3lGbTczaFRmOEFBMlp1S2EwaTQzekkxcjd5a3NuSHNGbHQ3M0o2NG1mX3I1YUdZRDhTeGp1aXdNZTRCUEhnangtRGNXWWRRWWdJN0ZOOGNzczRnby02ZGhwSlh0TWRhc1N3Y0tnbHZSVWhadWV0bS1kRG9ZQmMtMA?oc=5) — *The Telegraph (also Yahoo News Singapore, Yahoo News Australia, streamlinefeed.co.ke +1 more)*, Mon 17:14  ·  End of life
-- [Shamima Begum recruiter found ALIVE after being linked to Berlin Pride Attack](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUU5mZllhY2Q0SkRXMGw4VUJtZVZ4clBuOVVtLUZPY0d2eFV0eVpnLS1FZVRhSUNXYkdOXzlfRVpjRTNJem9lTUdLNy1zVGlHMGxfbk01MWMtOG50UFNwd1laTGVjSWRBNTNZam5aVGpIcE1LeDFUOVBpUTJ4NjNDS2NmSQ?oc=5) — *GB News*, Mon 19:35  ·  Islam  ·  also touches Politics & government
+## POLITICS & GOVERNMENT (1)
+- [Britain will stay in ECHR, says minister](https://news.google.com/rss/articles/CBMiowFBVV95cUxQN2hJX3huQ1IxTzJuU1RURkxKN1BQZnRYd2ltZGxDRW55SnFpUmRWZEZBOHZaTlowQVhtZUdnUVJXM2F5X3kwb3NBTkQycmRWeS1DMlVNQUtuVlk1YVVXS2F3QVgzYWl0blN3ZHFLTG8xVVBYSTFXT3pBWENFQVBONlJQdzVsMnlTSDI1WUt4ekhZQU5nMHZxWTdxd0tHMnNYOEdj?oc=5) — *lawsociety.ie*, 09:21  ·  also touches Secularism
 
 ---
 
 # 🎯 Top 5 to comment on
 
-### 1. [Christian 'discriminated' against in job retraction over LGBT views, court hears](https://news.google.com/rss/articles/CBMiXkFVX3lxTE43VUNtR21VTHJoaExWSURhb0pPM1FWb0loazJtRDc0cGlYLTZzSlFVdC1NNGxrZTVVSFVvNU5KUHJhSmhkOHNpdFVUX0Y4LVlSTmtzdGtaa0ZvRklBTVE?oc=5)
-*Christian Concern in the news · BBC*
+### 1. [Bradford grooming gang survivor forced to flee with her five kids and live in Airbnb after sickening abuse](https://news.google.com/rss/articles/CBMiogFBVV95cUxORWJpQXZCRHlsNnNYeEM5ZW1WTkNIbzJBSy1vVUdYcUlQcHBhRm1qanA5OWJUaFZGUlAxX0RqOXU2VkZKOTE3UTlfeXJuc2VEZ2pQX0U0bDFrdWxTLVhQS0FoR3VORDE2dERnVUJMM2lDT29MN2VFd3pxYVB6NkhwVWFqa19SWlo5T0ZXRHpvUzRjYUJ1Q1g0TzJtTnl4eXBlRGfSAacBQVVfeXFMTkw1RmtKUExFZElkcUNpc2ZnSjFYRTd3Tm1PdVBoMGRuNVN6TGtfeXJHdF84Z29tQ2paeTFzNnVfTWh5V09iM2JlRUt4UDhTT1JIOUM4cHhJQXdTUUVRT2NSajUzVHZQVXpyQTJnbkNacTJoR2J4UFZiYXl4TDgtWXpYVmNmcTU3RDNtS2FxR1luQVpadGwxRE1icklmRDFJaFZHY0E4QjA?oc=5)
+*Islam · Manchester Evening News*
 
-The BBC reports that a court has heard a Christian was discriminated against when a job offer was withdrawn over his views on LGBT issues. The case concerns whether an employer can treat orthodox Christian beliefs on marriage and sexuality as a professional risk.
+A Bradford grooming gang survivor has reportedly been forced to flee her home with her five children and live in an Airbnb after continuing abuse and intimidation. The story raises fresh questions about whether authorities are protecting victims after exploitation has supposedly ended.
 
-**⚖️ OUR CASE:** This is our client Felix Ngole: he was expelled from a social work course over biblical marriage posts, won at the Court of Appeal, and then missed out on a job for the same beliefs.
+**⚖️ OUR CASE:** 'Sarah' was groomed, raped, forced into sharia marriages, forced to convert to Islam and then failed by authorities; this story echoes the same pattern of victims being left to carry the cost.
 
-**Who this hits:** This affects Christians applying for jobs in social work, counselling, education, healthcare or charities who are asked whether their beliefs make them unsafe. It also affects anyone whose old social media posts could be used to block them from work.
+**Who this hits:** This affects grooming gang survivors, their children, and families in towns where victims still fear reprisals while perpetrators and networks remain nearby. It also affects parents who want to know whether police, councils and social services will protect children rather than manage reputational risk.
 
-**Angle:** Our line is simple: Christians must not be treated as unemployable because they hold biblical beliefs about marriage and sexuality. Viewers will understand why Felix’s case matters beyond one job offer — and why they should not assume an employer is allowed to punish lawful Christian belief.
+**Angle:** We should say plainly that victims must not be the ones forced into hiding. Viewers will understand why labels like 'Islamophobia' must never be used to silence questions about grooming gangs, forced conversion, sharia marriage or institutional failure. They can also ask their MP and council what support is in place for survivors after convictions or investigations end.
 
-**Opening line:** "Can a Christian be blocked from a job for believing in biblical marriage?"
+**Opening line:** "Why is a grooming gang survivor the one forced to flee?"
 
-**Title:** *Christian job offer withdrawn over LGBT beliefs: Felix Ngole in court*
+**Title:** *Grooming Gang Survivor Forced to Flee: Why Are Victims Still Not Safe?*
 
-### 2. [Trans row nurse tells Sandie Peggie employment tribunal that union 'failed to help me when I needed them most'](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM0hVSnd0TmxoMjQ2RkFfRUVSQlNab201dV9LR3ptdlhIQzdlRUN3RmtxZU9WU1o3Y1dhSThzeEtKNW15OW1uMGNMVXdwR2poWjlWZEdId1Jfb25GeDNiTjBidjNjcWp1a3NRZDBiUTluYWtLNTd6N2lVa0ZSRlVWc0I0bUI4dUxZYVUzWWN1Qm9lX3NlUmFoY3NZV2thYWY3VHpPQ2ZLa1I4UE5xeVItRE5jTjBwNXIyQUpQOEtjbFFEcWhycmljUlVRUHg3SzRBcXU3TmxyS2lGVzRf?oc=5)
-*Gender · Sky News*
+### 2. [Sandie Peggie suspended ‘because of conduct not beliefs’, tribunal told](https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3Y1cWRIZjdmSDgxdnhtbEFrSlFQUFBZU1l3ck55bjhnX3VUUGxwMkl3TWk4OXFrYm1MbTctc05LTVNiV1AxWmZ4T1RVdnRZbERtOVdsaUtFTEprTXY4OGlPZjR0cllMbE5qTG90YnpMc0pmZkV1aXZ5b25LUGhVc2JhOThrUHBpRTRTUldvSWgwa2lxVkFzV2NUMlMtdGMzbGwzWmNXWWRXX20wc256UTBlTWI5VTBKRDhTRW5Wa0s3U3FNcWlF?oc=5)
+*Gender · Belfast Telegraph*
 
-Sky News reports that nurse Sandie Peggie told her employment tribunal her union failed to help her when she objected to sharing a changing room with a biological male who identifies as a woman. The case is being watched closely after the Supreme Court clarified the meaning of sex in equality law.
+A tribunal has heard that nurse Sandie Peggie was suspended because of her conduct, not her beliefs, after objecting to sharing a changing room with a biological male who identifies as a woman. The case goes to the heart of how NHS employers treat women who raise single-sex safeguarding concerns.
 
-**⚖️ OUR CASE:** The Darlington Nurses faced the same issue: they objected to sharing a changing room with a biological male identifying as a woman and were told to 'broaden their mindset'.
+**⚖️ OUR CASE:** The Darlington Nurses were told to 'broaden their mindset' after objecting to sharing a changing room with a biological male identifying as a woman; Sandie Peggie's case raises the same single-sex workplace issue.
 
-**Who this hits:** This affects nurses, carers and other women at work who need private changing spaces and do not know whether management or unions will back them. It also affects patients who expect sex-based privacy and dignity in healthcare.
+**Who this hits:** This affects nurses, doctors and other staff who use changing rooms, toilets or wards at work and are unsure whether they can object without risking discipline. It also affects female patients who expect intimate care and private spaces to recognise biological sex.
 
-**Angle:** We should say this is not a fringe dispute about language, but a practical question: can women say no to undressing beside a man at work? Viewers will understand what the Supreme Court judgment should mean on the ground, and why employees should ask their workplace and union what policy they are actually applying.
+**Angle:** Our line is that calling this 'conduct' must not become a way to punish women for stating biological reality. Viewers will see why the Supreme Court judgment on sex matters in ordinary workplaces, not just in courtrooms. They can ask their employer whether policies protect lawful single-sex spaces and whether staff may raise concerns without retaliation.
 
-**Opening line:** "What happens when a nurse says no to sharing a changing room with a man?"
+**Opening line:** "Can a nurse be punished for objecting to a man in the changing room?"
 
-**Title:** *Sandie Peggie tribunal: are women’s changing rooms still single-sex?*
+**Title:** *Sandie Peggie Tribunal: Are Women Allowed to Defend Single-Sex Spaces?*
 
-### 3. [Victory! Northern Ireland Conversion Practices Ban Bill passes key vote](https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDlFQlJsNTZKRlRpNUlBSGlueDJ1d1VnM1FYRlppQmtyVXEwa21KdDZsN2R3andSQ3htTFlpNHdYSW5TLUhTX1dCb2FmWFJKZ3ZPRC1yTEtPQU5PRHRJdFZHQlducVZrNC14ci1JZ00tSDZ4aGlEaVh2N2hWWTFrejBuRFlRdllDZjFoMDFEUGdwSFAxV0lsaGpvRVZ6WWd3MThSTmJB?oc=5)
-*Sexuality · Humanists UK*
+### 3. [Northern Ireland MLAs back 'conversion therapy' bill despite concerns over prayer and parenting](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR2NyM2lMRmZ3UnE0TWlDNEdLNlpWSzhmdFExOGUwWWVlZW13SkZ3cmF4WnF3a2NtSVVueGc0U3ZaTlJpSVlmMFIwVGo1SS00YW1SUVg4RUxTY2xUZ0RxaWNWX1U3eW9KcUc4cEJDSGVBOEtacnFWRG9wTVloVG93eXRDZDFaejVQaFVNUU5sTkZnaV93anVXNWVCU1REbHpTR0U3TkpNanBUanExQ3FlV0Fjd3IxeUoxLTkya29zNE80MDdJdzZSd3NsNG1KVGFPM0FqWUVZRUlCVUVH?oc=5)
+*Sexuality · Belfast News Letter*
 
-Humanists UK is celebrating after a proposed Conversion Practices Ban Bill in Northern Ireland passed a key vote. The Bill is not law yet, but it has moved forward and could affect prayer, pastoral care, counselling and personal testimony if drafted broadly.
+Northern Ireland MLAs have backed a proposed 'conversion therapy' bill despite concerns that it could catch prayer, pastoral conversations and parents guiding their children. The story is a live warning about how broad conversion practices bans can reach far beyond coercion or abuse.
 
-**⚖️ OUR CASE:** Matthew Grech was prosecuted in Malta for sharing his testimony of finding faith and leaving a homosexual lifestyle — the kind of speech broad conversion practice laws can criminalise.
+**⚖️ OUR CASE:** Matthew Grech was prosecuted in Malta for sharing his testimony of finding faith and leaving a homosexual lifestyle; this is the kind of speech and prayer that broad conversion therapy laws can criminalise.
 
-**Who this hits:** This affects parents, pastors, youth leaders and Christian counsellors in Northern Ireland first, but it will be used as a model elsewhere in the UK. It also affects anyone who wants freedom to seek prayer or support in line with Christian teaching.
+**Who this hits:** This affects pastors, youth leaders, Christian parents and anyone who might pray with a person who wants to live according to biblical teaching on sexuality. It also affects teenagers and adults who actively want Christian support but may find churches frightened into silence.
 
-**Angle:** Our line is that abuse and coercion are already wrong, but vague conversion bans can criminalise ordinary Christian conversation and prayer. Viewers will understand why the wording matters, why 'consent' must not be ignored, and why now is the time for people in Northern Ireland to contact their MLAs.
+**Angle:** We should make clear that coercion and abuse are already wrong, but consensual prayer and pastoral care must not be treated as crimes. Viewers will understand the difference between banning abuse and banning Christian discipleship. They can contact representatives and ask for explicit protections for prayer, preaching, parenting and voluntary conversations.
 
-**Opening line:** "Could prayer about sexuality become a legal risk in Northern Ireland?"
+**Opening line:** "Could praying with someone become a criminal offence in Northern Ireland?"
 
-**Title:** *Northern Ireland conversion ban moves forward: why Christians should be concerned*
+**Title:** *Northern Ireland Conversion Therapy Bill: Prayer and Parenting at Risk?*
 
-### 4. [Police were lectured about Farage in Islamophobia talk](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUWdPaElnSkdIaHlXM254dVFKanF1ZVFQQWs3NERPaHB1OEdzWFMyN1VTZU40T29lYlBTQnhKTld2dkZBeU9pNTNZc056Z3dTek01THlVRXZNOERCekZlNlJFaFpleEhmWlEzLTJfYndzWDBfQlRQbXl5ZW5KM0VVSXFvNnp0aTdERnFiMFhmMkNYbjZQSXZDdzlkeFhvUUgw?oc=5)
-*Islam · The Telegraph*
+### 4. [Taxpayer-funded police training likened Nigel Farage and GB News to Islamophobia](https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2tpTHo0ZmtvdVBDWEpPcVJhTkQ3RzFBRVFzY0ZDbGtkRTRDV0pPT3ZCWmpXRDBXbTZlSEI2eXNuMWtzQU1pS3EwUE80UTc5LVpKazZlSnJZRlcwQXlIREJ0TG9jd21aR09pa2ptb1Q0S2xERTktLTY3Sy1OczF6UjJQZHpObi15SXpOeDRacmFleWV0cW5DOA?oc=5)
+*Islam · GB News*
 
-The Telegraph reports that police were given an Islamophobia talk which included material about Nigel Farage. The concern is that politically loaded definitions of anti-Muslim hostility are being embedded inside police training.
+A report says taxpayer-funded police training materials linked Nigel Farage and GB News with Islamophobia. The concern is that police and public bodies are being trained to treat mainstream political or religious criticism of Islam as a form of hostility.
 
-**⚖️ OUR CASE:** Luke Salmons was a police community support officer suspended and forced to resign after questioning Islam during mandatory diversity training.
+**⚖️ OUR CASE:** Luke Salmons was suspended and forced to resign as a police community support officer after questioning Islam during mandatory diversity training; this story shows the same danger inside policing culture.
 
-**Who this hits:** This affects police officers and public-sector workers who may be afraid to ask honest questions about Islam, grooming gangs, extremism or free speech. It also affects ordinary citizens if police start treating lawful criticism as evidence of hatred.
+**Who this hits:** This affects police officers, council staff, teachers and public-sector workers who may be told in training that ordinary criticism of Islam is misconduct. It also affects Christians who evangelise or discuss Islamic teaching in public and need police to protect lawful speech, not police it.
 
-**Angle:** We should argue that police training must protect equal treatment under the law, not train officers into a political view of Islamophobia. Viewers will see how this connects to real cases where questioning Islam was treated as misconduct, and they can ask their local police force what definitions and training materials are being used.
+**Angle:** Our line is that genuine anti-Muslim hatred must be opposed, but criticism of Islam, politicians or media outlets is not the same thing. Viewers will understand how vague 'Islamophobia' training can chill lawful speech before anyone is arrested. They can ask local police and councils what definitions they use and whether training protects freedom of religion and expression.
 
-**Opening line:** "Are police being trained to treat criticism of Islam as extremism?"
+**Opening line:** "Are police being trained to treat criticism of Islam as hate?"
 
-**Title:** *Police Islamophobia training: when diversity courses become political*
+**Title:** *Taxpayer-Funded Police Training and the New Blasphemy Code*
 
-### 5. [One-year-old euthanised in the Netherlands](https://news.google.com/rss/articles/CBMimAFBVV95cUxQSjBBeFhkUnFZTm10dnlkSFhHSmh4UVhQQ3lGbTczaFRmOEFBMlp1S2EwaTQzekkxcjd5a3NuSHNGbHQ3M0o2NG1mX3I1YUdZRDhTeGp1aXdNZTRCUEhnangtRGNXWWRRWWdJN0ZOOGNzczRnby02ZGhwSlh0TWRhc1N3Y0tnbHZSVWhadWV0bS1kRG9ZQmMtMA?oc=5)
-*End of life · The Telegraph*
+### 5. [Labour MP compares Epping migrant hotel protesters to proscribed terror group Palestine Action](https://news.google.com/rss/articles/CBMiowFBVV95cUxQN1lacHdoMURmYlo3dTZTTlRUa3NEOGV4S2xXNzNGS3h3ekx1N1A0Tm9ibWpGY1dBczZyTkJQcDg2UFpZR2p1eVd6SUhsSW1GdFRnRG1KTzVRQXYxUEpVZk83cDQydnNqczd0YmFCZkRxams5ekZTeHJUM0h1TFZCS3R6eGhWYW9keE1HOVpJTi02U2FCUzZjQkluOHlRVE5qTGUw?oc=5)
+*Freedom of speech · GB News*
 
-The Telegraph reports that a one-year-old child has been euthanised in the Netherlands. The case shows how countries that legalise assisted dying can move into decisions about ending the lives of the very young and most vulnerable.
+A Labour MP has compared Epping migrant hotel protesters to Palestine Action, a proscribed terror group. Whatever one thinks of the protest, the story raises the serious issue of politicians using terrorism language about lawful public dissent.
 
-**⚖️ OUR CASE:** Indi Gregory was not euthanised, but her case exposed the same end-of-life fault line: parents fought for further treatment while courts and doctors decided life support should be removed.
+**⚖️ OUR CASE:** Bernard Randall was reported to Prevent, the government's terrorism watchdog, over a school sermon on identity politics; his case shows how extremism language can be stretched to target lawful belief and speech.
 
-**Who this hits:** This affects parents of seriously ill or disabled children, and families caring for elderly or vulnerable relatives. It also matters for UK viewers because assisted suicide debates here often begin with narrow safeguards but raise much wider questions about whose lives are judged worth continuing.
+**Who this hits:** This affects local residents who want to protest controversial decisions without being branded extremists or terror-adjacent. It also affects Christians and others who speak publicly on unpopular issues and fear that one inflammatory label could bring police, employers or safeguarding officers to their door.
 
-**Angle:** Our line is that once the law accepts intentional life-ending as healthcare, safeguards come under pressure and the vulnerable lose protection. Viewers will understand why Christian opposition to assisted suicide is not abstract — it is about whether a doctor may ever decide that a dependent child’s life should be ended.
+**Angle:** We should not defend abuse or disorder, but we should insist that terror labels are not political insults. Viewers will understand why loose extremism language eventually threatens ordinary people, including Christians. They can ask MPs and local police to distinguish clearly between criminal behaviour and peaceful protest.
 
-**Opening line:** "If a one-year-old can be euthanised, where do safeguards really end?"
+**Opening line:** "When did lawful protest become something to compare with terrorism?"
 
-**Title:** *One-year-old euthanised in the Netherlands: a warning for the UK*
+**Title:** *Epping Protests: Why Terror Labels Must Not Be Used Against Dissent*
 
 ---
-*Nothing significant today: Marriage, Secularism*
+*Nothing significant today: End of life, Christian freedoms, Christian society, Secularism*
