@@ -1,114 +1,153 @@
-# Digest - Christian Legal Centre - 2026-10-15 12:39 UTC
-*Last 6 hours, AI-classified*
+# Digest - Christian Legal Centre - 2026-10-16 07:55 UTC
+*Last 24 hours, AI-classified*
+
+## ⭐ CHRISTIAN CONCERN IN THE NEWS (1)
+- [‘Forced out because my faith was found out’ - Felix Ngole case heard in the Court of Appeal](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWE5QNjNVRnZkQV95SmdWX2NaRmFiRElHNHVsYVJ1ZjI3NDhFSDBlelhCd1hJLWp3S3VvNzJoUnhjR2Y5dHA4Z2pXV2VsaTFER0F6cEFXdE1oVEh1VlpqajRWMjJobGtueHhIOEt3cS1ZbnRwVFpHZUNJV01WQUdST0JuN1dZOEhIeWVSeE81MUJ5bXZjcWVQdkJ2UzkyRlBORHBoSEZPUXpyS1N6QUtmVWNiNGZ3LWM3QjZ2NmJyVQ?oc=5) — *Evangelical Times*, Thu 16:02  ·  also touches Christian freedoms, Education
 
 ## LIFE
 
 ### Beginning of life (2)
-- [Women’s voices silenced in abortion 3 day wait debate](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVllNVkVxNU5uR21OSkVpR1F0dnlBSE9SSnlZcXUwX3V4dFh0NjlOQzhLNTNlSUtyYkFSMU1BeFZ1UjJCTWtCUUdrb1hLak9RY0dtandYbDN0Q2VSbnd3dXVnN290UUpiYU1GQjd6N0JRNGlqQTJxeWFZQVJwV1lCSm5qMUJYYlBHa256TDhQM0Y?oc=5) — *The Christian Institute*, 09:59  ·  also touches Beginning of life
-- [Prayers urged ahead of pastor's abortion zone appeal](https://news.google.com/rss/articles/CBMikgFBVV95cUxQaF9XTjU3MGdlVjcwUTN4Q3Vnc3BGOW84N3lVaFBxeHRWTjk3WFBKRWJlbWFTT3VPMlNQRTZCNkdwOFRVb3RVVzYtdVpEbzNESVBIRWNLN2JHNEpxRDIwQmFqejR1TzNXSEd5c2pPdHNSVVJIUEFRTHg2UWtCZ2dSdG1XM1BWZlNpakFUVW82NUYtZw?oc=5) — *www.christiantoday.com*, 08:00  ·  also touches Freedom of speech, Christian freedoms
+- [Bishop of Paisley attacks SNP for revoking anti-abortion group's fringe slot](https://news.google.com/rss/articles/CBMimwFBVV95cUxQUG9WMnZlUEE4QUxhQ2Vzb09zdWlKVExhUllyMDNIWlpFbnI5VjhTaWY4QVpZUGc1TnJNYUZ2RnFBVFYyQmMtRXlOeGFtbGtoOGpreDF4QjA0alVZVGVZM01Ka3hCXzVTQ2lwb1FwV2ljTnZKUkdrQ1lvN0lSQmFXNnMzUUxhMG5qLW9tSUx4UF9wSHNXOG9KMEJDSQ?oc=5) — *The Herald*, 04:04  ·  also touches Freedom of speech, Politics & government, Church
+- [Prayers urged ahead of pastor's abortion zone appeal](https://news.google.com/rss/articles/CBMikgFBVV95cUxQaF9XTjU3MGdlVjcwUTN4Q3Vnc3BGOW84N3lVaFBxeHRWTjk3WFBKRWJlbWFTT3VPMlNQRTZCNkdwOFRVb3RVVzYtdVpEbzNESVBIRWNLN2JHNEpxRDIwQmFqejR1TzNXSEd5c2pPdHNSVVJIUEFRTHg2UWtCZ2dSdG1XM1BWZlNpakFUVW82NUYtZw?oc=5) — *www.christiantoday.com*, Thu 13:59  ·  also touches Freedom of speech, Christian freedoms
+
+### End of life (2)
+- [Senedd Unanimously Supports the Urgent Need for Sustainable Hospice Funding in Wales](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTTF4anVySmpZNEdzM2J5YTM5TVVsczg5RDBweW9KZlVHZVMwellyQUk4bm9mZTFpN194MXJHXzJDRWtTdi1ZTXJOc2RYNmEtdFNyQjVGVzRhcmJrN0otOTkwT2FrcHZXeVpVd3k5REhYbUFVS3dyQUVZc0h4YTNCdFAza2NZRTdTaDV1TjRvY25PSlNDbVJvRjVwQmdMUDlqNU1sUGdISTUxa3B2UldMajlZU3lmaXBSUWR2MXB0eHNzMThBbFM3Xw?oc=5) — *AberdareOnline*, Thu 16:32  ·  also touches Politics & government
+- [How suicide became a lobbying tool](https://news.google.com/rss/articles/CBMihgFBVV95cUxOeXQ2ckwzTVRrekdXZi1VQ2tfbDJfOUFmT2s2ZzRXZGxWYzBZUXF4aDRndURyQW00VVBEOHZ1MEFHaXdOejZUWkFFRFRhN0M4WVYtaURYejdOWUdhY0dzLUNkQ0VZamIxcmpqS0dWVmFHSkZ6ZlNodmdRNERNV3dfbjFTVFc1Zw?oc=5) — *The Economist*, Thu 12:50  ·  comment
 
 ## FAMILY
 
-### Gender (1)
-- [Did NHS Chief Medical Officer suppress puberty blocker information? – GenderBlog](https://news.google.com/rss/articles/CBMiO0FVX3lxTE9ZZkRGazZ6dEtSMUxmR2Jxb1ZkWUZFZjNDdk9BU3lNMHdNTHl0eFNLc3VfN2VuZ29PeWxR?oc=5) — *Howl.link*, 08:18  ·  also touches Politics & government
+### Gender (3)
+- [Welsh Conservatives call for single-sex ward changes after NHS England guidance](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSDFZc2hjOUJVUE9PazlabGlMUktPaW9ZRlNEZDdFZ0tTNUxEbmg5bWRmdlBFSy1kSUVSUkRNUm9QemJQVG8ycVJoQmhHWmN2UU5aYWJnbF9sSU5pWW5lQkdpdHRRZko4WmozN0JNOU5VZlUwdm1jUGpUNVZ3djBEc1E5cnFRV2tKY3kxTThKd1dHdm5vRGtneHhNWVVtUld0cWMtZ3FRUm1IbEtpT1pBQTlySTQwdERmUDRBSA?oc=5) — *The Pembrokeshire Herald*, 03:05  ·  also touches Politics & government
+- [Darlington nurses and Christian Concern welcome new NHS guidance](https://news.google.com/rss/articles/CBMikgFBVV95cUxOTVZrREY3T2hpZnFGS2h2b2FRV0Voc09PT3EzY1NGOTVRaFNkeHVvRWRoeGhJOThrM1YzVVRDcEZSdXBPbjdkb0JURlozSFcxS2Znajh4MHNkbjd5WVE3YTh1a3RwRVlHLTk5Tmh4UVBCTXZta2Vna3JmOGtxLW02Q29rVUFwX2k0cnM5TEN3NU9hUQ?oc=5) — *Christian Concern (also Christian Legal Centre)*, Thu 14:36  ·  also touches Gender, Christian freedoms
+- [Trans people should use hospital spaces according to biological sex, NHS England says](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKbnYwZzJ0UFpNNGRvUEx0eGxwYkRQekk4MmtRYUJFWno2RkxJNFd5YnlZR0RxYzRtR3JlMHFlX0xwTFdETzF6akJmTTF1U2pyY2R0NTZZbWNjQjNaVXc?oc=5) — *BBC (also BBC News (UK), The Times, The Telegraph +22 more)*, Thu 13:00
+
+### Sexuality (4)
+- [Porn showing choking or incest to be banned from early November, government says](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DMW9MekZxM1N3YVVoVFNsUlJhOHlPd1ppZGlqNEUwN292Z1U3YmlodFg1N29QZkFwV2daQzVUeFFRMzZRQTBobDAzRjdTY19mYm1qQ0tyTjlzV3pOSWc?oc=5) — *BBC (also BBC News (Politics), The Guardian, The Guardian (UK) +8 more)*, Thu 14:45  ·  also touches Politics & government
+- [SNP back calls to ban anti-LGBT conversion practices](https://news.google.com/rss/articles/CBMickFVX3lxTE90WG1Id0NhU3hweHV0Y0NMMVpnMEE2dXpGQ0M3THV5SXV2SVBOdFdKeGhNVGRvXzkyZS1zcUdtQjJlLUlvTWotUnJZWFoxYVJmb0pvcEwxWEh2amxuSTMwM1dqWTQ0c3lXZEgtaGtZbVJ6Zw?oc=5) — *Yahoo News UK (also The National Scot, Scottish Greens)*, Thu 14:42  ·  also touches Politics & government, Freedom of speech, Christian freedoms
+- [UK law could deny Fayed accusers recognition as victims of human trafficking](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUTZMdW5rcjZ5T2QyOFhVZjhuX25jNW5HbnI1Skg1T2FrQVRmUlJWWU93RkNGM09zN0pQRzNyR3dzN29sQ1ozVEd6X2k2bXJwY1hQeEFyUndHWm9ZV0hsdW9sTkg1QU1lS0Y3OGZ2d0tQV0RJcDNDbWs1YmVsX2g1bmtuVWJHWEtzclFhUE5iSkN3ckJsejhCbHJfNUFnLUNpbVFPOExLek11SF9uNXVZOTFObDhiNGJzUzMwWkZnMGdET3BzRXRHbk5uTi0?oc=5) — *The Guardian (also The Guardian (UK))*, 07:00  ·  also touches Politics & government
+- [Met needs to move away from criminalising sex workers, officers say after Levy failings](https://www.bbc.co.uk/news/articles/c2l8jpzwv9jo?at_medium=RSS&at_campaign=rss) — *BBC News (UK)*, 05:05  ·  also touches Freedom of speech
+
+### Education (4)
+- [New RSHE curriculum introduced without promised training grants](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEd6RG1CWERTd0ZJOUVHRHNBVW84aldwLW5QSUdDblFfdzktc2VqMmhpSGpXZmx1T1R0NnZONENxbXJ6YWhRZWNTNG01NDAzZnFXYjh6MldETzBHc3dFRDVlT1M5OEp5ZDE2b090NnZmX0ltRE4xdHZPWFkyS21RMnlNd1ZhWHJ3NjN1ZmhJVkNmTXBU?oc=5) — *Schools Week*, Thu 22:00  ·  also touches Sexuality, Politics & government
+- [National curriculum consultation delayed until ‘later this year’](https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlUyMVkzckVDNkpMREtjZkV3M3puZDFfM2M5UEdoZWVQeWVpV2NRTXp2SDZkaXVyNGtlZUphRGQ3d3FYZ1I2cHdvQjBIRTlCdE1qb0xfdjdFV0ZnX2F2bG5XOXF0eE1remg5dW9hT05ja3V5TnI1YzNtM0dVOEdqcVlHOFFkTnA2alRzOWM3LVR4cjBhQU43amJsQjJYeW1m?oc=5) — *Tes*, 04:00  ·  also touches Politics & government
+- [School 'severe absences' at highest rate since Covid-19 pandemic](https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWdkVVdZTVNDZFZNTllRa0pZNzNDSXdpeXdNeHBqWEU1Mnk3WnlUdm1ENTY0WjlwaFlJOGJ5bmFiRDI0TGdkQ1BhYThrZWJVYUJPV3h0OWZQc3AwQ3dBdEVQZ3FDblRCbkoxT25kZHFtbC1fOXVHTkxZVm9YdlVERFhMZ1BfNFRHRUVFNm5ROHAtNVhTWTZseFlCMmMyWjJJU285OXFIZmQyVnp4Z21nSGdFZExhN3M?oc=5) — *The Independent*, Thu 15:18
+- [Is the rise in home schooling down to mental health?](https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1B5ZEh5RWkwRnRfWHVjYUIwTm5HUGVLTldTSkhxT240UnIwaUJVckJiN3gtcy1rQ09TVTRqVEZuNWZHdUsyRDFHbm9DOXFTM1JLWmNQOE8xdGlGOXJ1UzVKcDZydVJWNzczUXA4V3J4Tml1VW9kUnNyUkR5QjRZVENwNzJ3UnpmTVlPbnBXUGpUdE9lWm1RTzBR?oc=5) — *LSE Blogs*, Thu 17:59  ·  comment
 
 ## FREEDOM
 
-### Freedom of speech (5)
-- [Child Psychotherapist Forced to Close Practice After Holding Sign at Peaceful Protest](https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDNRN2RNeGwwcVVZSG0zRDdaUVRMX3gzNmlmaWt1aElsNGMzakdJNXhJbDE4NzhCcGhaZ1BaSDA1U29SVXY3U3AyUTZ3Y3g3Y2VnbHd3S25FZTBVNmFuYWVHZGlib3hObFhWVm1jUUFfT2JjZ3FadkdUblFBX3JHcU16UENXUGkxaEdKUmFaanRRUEZqRm5hNW1tbi02aHpRa01pLW8teWFVZDlLQ1Uxeks3d2tJT0VwbDNjdU93?oc=5) — *Novara Media*, 09:02
-- [Met Police ordered to reinvestigate arrest complaint from Father Ted co-creator](https://news.sky.com/story/police-watchdog-orders-met-to-reinvestigate-graham-linehan-discrimination-complaint-13599474) — *Sky News (UK) (also Sky News, https://streamlinefeed.co.ke/)*, 07:33
-- [Education minister defends block on sale of Sally Rooney's books over Palestine Action support](https://news.google.com/rss/articles/CBMikAFBVV95cUxNYVRFaThZLTM3MUJFM3RVaFMtNkxpMnVXRmRfSnVHX3R6bjRfZ09ERDBrZEdpdkVRc0tOdTlpdVktM0E0OThPay1mVmJiZ01TSjF2czhOZTZ6Z04wcGR0ckVVQmFfZ09vcFhXOGVaaDMzenI0V1B0RTVZQUxLZUtrRTAwUHZ1Mmh0eXlzRTl4bC3SAZABQVVfeXFMTWFURWk4WS0zNzFCRTN0VWhTLTZMaTJ1V0ZkX0p1R190em40X2dPREQwa2RHaXZFUXNLTnU5aXVZLTNBNDk4T2stZlZiYmdNU0oxdnM4TmU2emdOMHBkdHJFVUJhX2dPb3BYVzhlWmgzM3pyNFdQdEU1WUFMS2VLa0UwMFB2dTJodHl5c0U5eGwt?oc=5) — *Daily Mirror (also News24, NME, Yahoo News UK +4 more)*, 07:07  ·  also touches Politics & government
-- [Poet says being dropped from Senedd royal visit over poem is 'concerning'](https://www.bbc.co.uk/news/articles/cw99z17yz4p5o?at_medium=RSS&at_campaign=rss) — *BBC News (UK)*, 10:44  ·  also touches Gender, Politics & government
-- [We were arrested under the Terrorism Act for doing our jobs](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUVg2b0F5RklnTEt3TTlGNEpmUTg0czVfZnIwMk9kV053VDVyUU1sS05EdTNHVW5DSzNiT0ZvVEhUcWwtcnZsdEV2LXBxSFhBVVRVeUdSYmwtWnRneE1FSFB6VUZob0VraldTbkthV09hUzBsc3NEMUw4MUcxN3hxYWVFT2ZMVHhTSFF0Q2NIN2c?oc=5) — *Leicester Gazette*, 10:04  ·  comment
+### Christian freedoms (1)
+- [Church takes on council over street preaching ban](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFFzM1h4VEpzV09aeDVDTHhXQUtKOTRmbFdTM0E5NC1ZQUJsU1JLX05sTWM3QkpUMjg0Mmo5UkxIZWM3bmh6cXdpNldFM1E5dEdIRGRNZng2YTlOZHJwbHJQLXVMUm15VDNTV3RIZnRfdE1kallqRTdCM0lPX3U3STZ1WjdSSW1M?oc=5) — *The Telegraph (also Christian Concern)*, Thu 16:27  ·  also touches Freedom of speech
+
+### Freedom of speech (13)
+- [Britain's Online Speech Crackdown: Arrested Over Memes That Cause "Anxiety"](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYW8ybUVpTzVNWUZEODhOZEpiVExDcGFZV3ZrUjhUVVdVY3hxMnRybHpzU2RtVFdzb1RUR3dGckdDa1dVSlFkd0VjT3RybTZDVFVRb1A4QWR5M3NaUWxBZXF1U3BSbXpjTnhkUXdheU9tdFFlOWhTRkVqek1ISnNMVHYycFA3dERpVmFVSXVjUUxGZTBiUW1mSkYzdm9mWHRMZVU0V2FCdTJHY2VVUGxqYktwVUxkb3NSZFNHaHlCeVJhdw?oc=5) — *Real Clear Politics*, Thu 23:39
+- [Prevent referral for student’s X post sparks free speech row](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0drUHEzd2RRcUxWVW5MbnFMWEhpLVMzMEczM2NNdTFRUmI4RUtSeFBSVDJ6WlY2RVltR09EeFVDRlBkZG5McXZ1elpsVXVmOS1pdUtCNXQzTERJd2g3ZHhWSWtCREtJVTRwXzdQUVZIY2swUEVRV1VyY3B1VVZsTHJXbUdRNFFwRlVEOG90YWh2ZXFtX3JEUTVHUDhyQQ?oc=5) — *Times Higher Education*, Thu 23:01  ·  also touches Education, Islam
+- [A UK teen mocked a local politician. Then the police showed up.](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUDR5TUhlQ1VLcWZnQ2d0dmo3TmRZeS1GLU5FZ1ZwazFHUkhBS0I1NkFUdzlDbkwwMmdKZ082X1hybWQxSjdnVWpocHBNUWpLVWdCb2h3Um1LUU9fZEdhX2ExQ0lZMnFYZzhIX2pkX1YwNkNtY0doRHRYLTN2V3d4QWF3ZXVjVEVpd1IzNWREUnVzdzlXYkFWcTMzdVVBSlFuZmlWRGlB?oc=5) — *FIRE | Foundation for Individual Rights and Expression*, Thu 16:46
+- [Police watchdog finds that Met Police could have unfairly arrested Graham Linehan](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTFBzU0ZRLTAyQ1FGSDg4eTRQeDk3ZjE1bTItbjY1d2tFRy1DZEljY2FWb3hqUGNUSENxU2JUanpoa0wzYXFIR2REaDZZcU1BYy1JWFF0ZkxhVnFUM2hSTlVUMGVXSkVNZjBUdlF4Z2JxN05XM1FtN2Q0S3kzd3hQWDNTdUlldlpEV1drV2ZFMzBkVXlMUVJGVUhMeUFyaWtO?oc=5) — *Free Speech Union*, Thu 15:50  ·  also touches Gender
+- [Retired pastor fights conviction over preaching in abortion buffer zone in Court of Appeal](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOenRhUV9KNmdiWFJUNjBNcjdhSXJ1bFp2Szl2Tm1rTFlyZ0NRZ1VIWU9wVnZBT3VrS1Ewc1pPWmtvX1M0VThLRlRzRVdzcDlpWWxkYXBXUTBaZzBBYWstUnJXN2ZMek5tM2pUN05HQy00V1VreDhkaTN1blFRMWdWaDFJdVM0elVjcDVHNkZfVTQ2aUE5YXI5azRWTkNkRzBFSTVtb19rTjg3ai1mOW13Q0VZUHYtQXF4MmNTMmd2bE4xRkg2QkZJcXM5eTlzMldnUGU3cDdldlpNb25RLU1QYkhzYXFWdlZuTEE?oc=5) — *Belfast Telegraph (also Belfast Live, The Christian Institute)*, Thu 15:21  ·  also touches Beginning of life, Christian freedoms
+- [UK ‘an outlier in Europe’ for letting Farage and other politicians present TV shows](https://www.theguardian.com/media/2026/oct/16/uk-outlier-europe-farage-politicians-present-tv-shows-gb-news) — *The Guardian (UK)*, 06:00  ·  also touches Politics & government
+- [UK bookstores scramble as Sally Rooney's novels are pulled over Palestine Action support](https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3ZFeFVUWlBpZGdybGxUajM4WVJLMnd5aWVYVWQzRFBIMmwxcVZ2OWpGdkZwdmpyVG1NVmNzS0ZtZWRVRWRMRjZEZlFhX1JpSkg4WWhjVEJsTmVGZS1EVDJOTnVaRFByVUVPMS13eDdyLTNkMWdPZjN0RndpZmNWZGpTS202aW5BbE5qN2ZhdDA4dWIxOHBpUk1mSkZVaXhIbXJjV2JBcHFoMGctcl9YbHY0UTc2ZEdFOWd0UkNUMEx5ZmQ0?oc=5) — *France 24 (also Breaking News, Latest News and Videos, Jezebel)*, Thu 18:50
+- [Equality watchdog writes to Greens over 'Zionism is racism' motion](https://www.bbc.co.uk/news/articles/cmly0np1gldvo?at_medium=RSS&at_campaign=rss) — *BBC News (Politics) (also The Irish News, Shropshire Star, Bishop's Stortford Independent)*, Thu 14:42  ·  also touches Secularism, Politics & government
+- [Caius admits ‘mandatory’ inclusivity training was not mandatory after CAF intervention](https://news.google.com/rss/articles/CBMikAFBVV95cUxPMl9RN1Vxd2lSdDd3T01PUkZLZEZXWUMyZXZJZVBjazRnakN6c29HS05zdk16MlRybGF2Y3lialpidFJDMkFLbDZ4WDBONHJ4MlVXdnNZMUdPc1hsNjhva2pMUWRnU1d3b2J3SXhlME1PdUh4VUItVzFCOFlCdWxnMFlSOW9xbEd4aDF3NTRZVC0?oc=5) — *Committee For Academic Freedom*, Thu 14:24  ·  also touches Education, Secularism
+- [UK MP John McDonnell raises 'alarm' about arrest of journalists at Palestine Action protest](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFFOY1k3TWhSOGdRakJmUThkem52SXVMdkM5QXhWLWlXdGhsTExraFdlWUo1Y05rNTE2blNvejd2aGF5b2k5ZnQ2dzJaTXN5cW92NWZ5R3hvV2Z3QzFMa0QxSlFKcV9kMUhyUFZZa1lxb1NVS3ZycWdWcjBOSm5Zcnc0Nmh3cU9tX0l5cU9sZ1VKd2p0dnFJQlhLWERPVG81Smg5WC1nYmdERnhzYzNCTUczdE8xSG1WbGNFNV80MVo0TTdDcVE?oc=5) — *Middle East Eye*, Thu 14:15  ·  also touches Politics & government
+- [Welsh parliament drops poet from opening ceremony after Gaza reference in poem](https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUZFN2UyYXBkSGRTS01OUU80Y3hfZUljaUtIaklySjZiaXJmLTY1M3ZkSGtKLWxaTndrZFEtT2RXbVp1US14OUZMZlpGUUZyRk9vbkpxNWRQVk1wTEhhUUc5SHBxZWExTGFJTG9iYy01WEkxYmdVZVNTSW0yT1NMc0dfQVlibGE4R05sN0xRdzVsMDNRdDFEM0t5SkQ2YlNUc2w2RFNDN1NjNjBTMDY5YWN1UnY0NEhIN0sxb0pfbw?oc=5) — *Middle East Eye*, Thu 12:56  ·  also touches Politics & government
+- [Sock it to us: How ‘Big Sister’ will watch everything you say now](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlpxWExkQ0RNT0FqdUVVUkhrQTVnQW1Pa3R1emVBX2VvejBtMW9HdGd5aXBJTDNSdUFHWUZhRE94c0Y1SWFzTDZfbWtrbTlVcmdQUDY5dUZCaEx6eWJVYjk5eVptbDljdEEzb1FlR2VBNXhjd1YxdHNwLVZjRXROdHloOUZuai1HYUEtU2ZKUm4tX25zQkVIUDNYQkh5N0pkWS03bkt4aGM3eXZjc2lySFZDWE5COGV6LVdaU2xrb2R6bENCaFIzNk1TNEptZmdXU1JqU3dvYjJKUTJrdFlPWV9GenFPOUd2U05KWTRCRXFKSm1xdFdJcEthbXd4cGtBR01wRzh6UWRzMUE?oc=5) — *The Daily Telegraph*, 05:54  ·  comment
+- [Prevent is becoming a complaints desk for the offended](https://news.google.com/rss/articles/CBMihgFBVV95cUxNck9lSi1kaTI3M2xNaHFzSjVnNkJoeU1KMFBnUnpDSzZDdEdtbkliMU5WQ1NOYTRYNGNQMFFRSzJ5Wjd3NTV2eVdzQzJxTVBLaFNPYkFXVlF3ZHVFVWdIbGs3WmpjckFUZ0l1cmc4ODU1cDdta0hvOWkwdlczc3hwcXhYcElOZw?oc=5) — *The Critic*, 01:00  ·  comment  ·  also touches Islam, Secularism
 
 ## FOUNDATIONS
 
 ### Christian society (2)
-- [All the historic UK buildings set to receive £41m in government funding for restoration](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWFfeXRYR3RUN2JMWmdRZXJJZ3IyNVo0R0Z1bVR3cUdqdnQ0cjZUdUZSY2VkREpoUTJvQzJGaHAwX01OUzVaNDJEU2lKanBrNEVLT0FQTnhtRXptRXNfT1E2VTk3VG04MVZENy1YVWd1NTE3ZXh3QzFPd1B6czF6R29jWmhSY1EzbjFOUURDbl9pMl9uSXdZRGRvbGVuUTk5Vzl2Z1RfN2IxS2R1bGpfQ0JlYw?oc=5) — *The Independent (also Punch Newspapers)*, 06:55  ·  also touches Politics & government
-- [Why Christian nationalism isn’t as Christian as you might think](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmp2bTZ4T25MLVNITHFUTHVlaWRjMkcwX3V1U1hQbUI3QWw2UHBIajcwNWtrRFNkcUF3TE9nZzcwd0RNM3pwLXFJc3ptX0k2aUlwT21zTFVsTTJIN1JsUkIxX3hBcmFnR3Vxa3JaOHptZ0FtN1dWQ2NfT1FuR3FhZ0g1ZHpZUlFSQUlfcGdIbFhJSUhEaVVIVWcyOG5YUW53aExlQ3V4clNjZDRZWW56OGZVTlBnM0ZrandBcg?oc=5) — *Premier Christianity Magazine*, 11:34  ·  comment
+- [Prayers and blessings for work of Welsh Senedd ahead of ceremonial opening](https://news.google.com/rss/articles/CBMivAFBVV95cUxPclV1MFBXQmFUX3NqM1pmOVBCdDM3eDAyUVFBZ3c5Y29qQjRIS3JoLTZHM2doOEdBbF9GLTFyczdsVzZncXB4V0xTVE9lWHFrNU8tUUlpMlg3ZUtIQTdTMTZLWnFNSWI4bTNKbmhkVTdtTFNscEVfdmRZLUJnWWJQMDNWS1JEaGc1QU1lWTMwdjN0QlY2N2gyb2Rta2N6VjU4RUNpbmNvc1lWOWw1Wlp4VTJyZF85QS01VGxvQQ?oc=5) — *Premier Christian News*, 01:18  ·  also touches Politics & government, Church
+- [Analysis: What is Christian nationalism?](https://news.google.com/rss/articles/CBMirwFBVV95cUxQNFUtUkJwcW9DNTRVemJMXzFEeVZ4c3NhUnZScVdJaEVLeDNKeV9va2hTMzZsZ2R0Y2NlNzU2ZmZBTUNHN1BhdDRZZ3B2cm4tajVKdng4VXlaV0tiNVlIcm01UGVWbnRheEtIRVJWbF9WUy05T3FndnpPSlBJMFZCeWpZdGg1dGpXbHFMR2M3Sm8wVU9RNnl6cnczNFlkWU5wZXo4TEczWjFsbzY4YjdZ?oc=5) — *The Church Times*, Thu 23:32  ·  comment  ·  also touches Politics & government
 
-### Islam (1)
-- [British Army soldier who hated Muslims jailed for terrorism offences](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTjR4Q1dYNmtpakVud2RCSVNVZ0lZZFNLckFpZTlRVmxqYVFwQXpkeG5kUjZDNXpGMklmUm10cWpsODlJZkxqNGVjWnZGTS13YTlXdDZOdUFpTk1VQVlwdHVwOTNQVU9jbDlFRXlaNndqZlo4MHZuNVRVbG5WdTNXaVZUQTM4VTlYeTB1bFZ6T090cFZWa1h4UHNpZ0JaclptRnNHckRn?oc=5) — *5Pillars*, 09:34
+### Islam (2)
+- [UK charity trustee belonged to sanctioned Iranian morality council](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXVOeGI2emp4M0RWZ1lral9yVktkZ1FLVTZnRHhLWGJVcElRMFlnT25CbE8tc2hzc0hsSnFRbmc3Mm1GcEFJSzZiQ2NrQ0s0SzJTWmh5bzdFQ3RydzVuZGtCbUhhY2NsS3psdUNxMHJycUpEMGFDa3hBRzA2Z2t3Ty1nWXVnSHJXT0p4Wk9CS0xLeE5FZWFPSk4zaHRTUWRxd3pZQXRRb25odGdVWGVHSldOQ2pKWV8xMFE?oc=5) — *The National*, Thu 18:23  ·  also touches Secularism
+- [Angela Tilby: Islam and Christianity: two views of worldly power](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOEpKQWhERlNYYnZWTkM1UXdlQi13RXB4RWJZU3dkTW8wR19fOWlFeWxpTlVBaVF6QjJFTXVRS0FYVjhyaFVVVkFPOThwYWhyT2p4TExGZ2VrRm41OXR0eU1SNDY5TXBST0tDS3MyMVVuZ2JyYW9udXdVTjRyMmtzaGd4QXYtTWFDSnRrMnhHbkt6ZzVmYTZ6N1o4aHA1cFh1ODFpcTFRVncyamp3dlB1ZkRiRTJKSHFPbzRJb2ZCdnllY3NwYUYtNWRqU1FMVXM3UVE?oc=5) — *The Church Times*, Thu 23:32  ·  comment  ·  also touches Christian society
 
-### Church (1)
-- [Church warden and rector lead legal challenge against Church of England's Project Spire](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmZZWnFnQXRQaDJwdFgxaXd2ZGVoeEEyR295Q3FyNHJraG9OUjktV051OHd6UEdRNFU0SXBnWVZjSGVURGJYZzdNRXJOdEpOTjU3X2syRnB0UVNneFhsYkdManVMVW5IME9DRFNTZDJiWE1WQVdueXFzT3N3NFBzRHA2VnhtYVVKTmxhSUwyQkhreHlWa0Jhem1JbWhtSF9DR21salRTUUtzWGhsdF8xdl8zaW1hLTM3X0I4bDJheWg?oc=5) — *www.christiantoday.com*, 10:05
+## POLITICS & GOVERNMENT (1)
+- [Bishop tables religious-building images clause to Representation of the People Bill](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUk9mX3hEd2NQSEVkdGwwSS0xeWc1aHQ5THYxTVJ6di1HSVVoWEVFMkI2bm8za1dHVG1tbFNGV2Z5TU5uNWZvc3pqcS14VGw1QzRORzNhRndrZ1djR1lHaFVTOXBtSncweTdkZldMdjFvOEpNYmd1N0NHbjBFM1RhYnJKdE5sN240bElXTk8xWEx6c0RKVi00c0Q4TGx3RnViQWxUTjlXTVRGZ2pROFBiRU9MeDFQVmpmUUJvamNvVVJaMkxIXzBLN3BQQm5YMUY0Ri1UU0FiN2FiczJaZkJv?oc=5) — *The Church Times*, Thu 23:35  ·  also touches Christian society, Church
+
+## 🌍 INTERNATIONAL (2)
+- [16 Christians Are Killed Every Day in Nigeria, New Report Says](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmdWWnl6Z1VBRklKQkJ4bTFSVFhJYkhBNGViMUdWVEFnQTdKSWUwYXZ1Qkl3eXNGTUdydHhBcUNhc3VDZU1NODAwNmwtMVkyN1N2U1pVNVM3TzF3WFJBX0hXdU1lUUdSVnVLbm9OcWk3VmZFN1lDdnNTS2xXR25IZDJpWlM0OWR1OEVQa0RrMzFXYldLUFVGQUZ2ZkFsRG5O?oc=5) — *RELEVANT Magazine*, 02:40  ·  Church  ·  also touches Islam
+- [Saudi Arabia Sentences Sri Lankan Worker To Death Over Facebook Comment](https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2czVTA3ZUpUdk9UdVNBRnVHQXNNd0d1UjlDcmNKLThUX2tOMG5RUXhSWkdDMkxpY05JZEw1aVBXSEJWZnRBZ3BQOHBLVklLVFRJT3hIUEN0LVkzNXBkS0N1eUU1STd1Z0RLbGFIdjNLb0RBMmljYklKbWl1S25vbVk2RmgyQjUzMXM5b0FUbFZiQWRQREFzcDB3?oc=5) — *LEADERSHIP Newspapers*, Thu 21:24  ·  Freedom of speech  ·  also touches Islam
 
 ---
 
 # 🎯 Top 5 to comment on
 
-### 1. [Prayers urged ahead of pastor's abortion zone appeal](https://news.google.com/rss/articles/CBMikgFBVV95cUxQaF9XTjU3MGdlVjcwUTN4Q3Vnc3BGOW84N3lVaFBxeHRWTjk3WFBKRWJlbWFTT3VPMlNQRTZCNkdwOFRVb3RVVzYtdVpEbzNESVBIRWNLN2JHNEpxRDIwQmFqejR1TzNXSEd5c2pPdHNSVVJIUEFRTHg2UWtCZ2dSdG1XM1BWZlNpakFUVW82NUYtZw?oc=5)
-*Beginning of life · www.christiantoday.com*
+### 1. [Church takes on council over street preaching ban](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFFzM1h4VEpzV09aeDVDTHhXQUtKOTRmbFdTM0E5NC1ZQUJsU1JLX05sTWM3QkpUMjg0Mmo5UkxIZWM3bmh6cXdpNldFM1E5dEdIRGRNZng2YTlOZHJwbHJQLXVMUm15VDNTV3RIZnRfdE1kallqRTdCM0lPX3U3STZ1WjdSSW1M?oc=5)
+*Christian freedoms · The Telegraph*
 
-Christian Today reports that prayer is being urged ahead of a pastor’s appeal in an abortion buffer-zone case. The case concerns whether peaceful Christian witness, including prayer and Scripture, can be criminalised near an abortion clinic.
+A church is challenging a council after being served with a notice seeking to restrict what its evangelists can say in public. The dispute goes to the heart of whether councils can police the content of Christian preaching on the streets.
 
-**⚖️ OUR CASE:** Stephen Green was prosecuted for holding a sign with a Bible verse inside an abortion clinic buffer zone; this story goes directly to the same issue of whether public Christian witness near clinics is now treated as a crime.
+**⚖️ OUR CASE:** Bread of Life Community Church is our case: the church was issued with a Community Protection Notice seeking to control the content of its street evangelism.
 
-**Who this hits:** This affects anyone who might pray, offer help, or quietly hold a sign near an abortion clinic. It also affects churches and pro-life volunteers who need to know whether ordinary Christian compassion is still lawful in public.
+**Who this hits:** This affects street preachers, church outreach teams and ordinary Christians who hand out leaflets or speak about the gospel in town centres. If councils can dictate the content of preaching, public evangelism becomes permission-based.
 
-**Angle:** Our line is that the state should not make prayer, Scripture, or peaceful offers of help illegal simply because they happen near an abortion clinic. Viewers will understand why buffer zones are not just about harassment, but about whether the law now censors even silent or peaceful Christian witness.
+**Angle:** We should say this is not about noise or obstruction, but about whether a council can decide which parts of Christianity may be spoken aloud. Viewers will understand that public preaching still has legal protection, and that churches should not quietly accept vague orders telling them to change their message.
 
-**Opening line:** "Could holding a Bible verse near an abortion clinic become a criminal offence?"
+**Opening line:** "Can a council tell a church which parts of the gospel it may preach?"
 
-**Title:** *Pastor’s abortion buffer-zone appeal: is prayer now a crime?*
+**Title:** *Church challenges council over street preaching restrictions*
 
-### 2. [Met Police ordered to reinvestigate arrest complaint from Father Ted co-creator](https://news.sky.com/story/police-watchdog-orders-met-to-reinvestigate-graham-linehan-discrimination-complaint-13599474)
-*Freedom of speech · Sky News (UK)*
+### 2. [Trans people should use hospital spaces according to biological sex, NHS England says](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKbnYwZzJ0UFpNNGRvUEx0eGxwYkRQekk4MmtRYUJFWno2RkxJNFd5YnlZR0RxYzRtR3JlMHFlX0xwTFdETzF6akJmTTF1U2pyY2R0NTZZbWNjQjNaVXc?oc=5)
+*Gender · BBC*
 
-Sky News reports that the Metropolitan Police has been ordered to reinvestigate a complaint over the arrest of Father Ted co-creator Graham Linehan. The police watchdog found failings in how the force handled the complaint.
+NHS England has issued guidance saying trans-identifying patients should use hospital spaces according to biological sex. The guidance follows the Supreme Court judgment on the meaning of sex and has major implications for single-sex wards, changing areas and intimate care.
 
-**⚖️ OUR CASE:** Anthony Stevens was arrested in front of his family over tweets defending free speech; this story shows the same danger of police treating lawful speech as a matter for arrest.
+**⚖️ OUR CASE:** The Darlington Nurses connect directly: they objected to sharing a changing room with a biological male identifying as a woman and were told to 'broaden their mindset'.
 
-**Who this hits:** This affects anyone who posts or shares strong views online, especially on sex, gender, religion or politics. It also affects parents, teachers, councillors and church members who fear that one social media post could bring police to the door.
+**Who this hits:** This affects women patients on hospital wards, elderly or vulnerable people receiving intimate care, and nurses expected to use shared changing rooms at work. It also affects NHS managers who now need to bring local policies into line with the law.
 
-**Angle:** Our line is that police must investigate real crime, not police opinions. Viewers will see why complaint-handling matters: if wrongful arrests are not properly scrutinised, the chilling effect spreads far beyond one public figure.
+**Angle:** We should welcome this as a long-overdue recognition that biological sex matters in healthcare. Viewers will learn that they can ask their local hospital or NHS trust how it is applying the guidance, especially on single-sex wards, changing rooms and same-sex intimate care.
 
-**Opening line:** "If a comedian can be arrested over speech, who is safe online?"
+**Opening line:** "If your hospital ward is single-sex, what does that now legally mean?"
 
-**Title:** *Met told to reinvestigate Graham Linehan arrest complaint*
+**Title:** *NHS England tells hospitals to recognise biological sex in single-sex spaces*
 
-### 3. [Did NHS Chief Medical Officer suppress puberty blocker information? – GenderBlog](https://news.google.com/rss/articles/CBMiO0FVX3lxTE9ZZkRGazZ6dEtSMUxmR2Jxb1ZkWUZFZjNDdk9BU3lNMHdNTHl0eFNLc3VfN2VuZ29PeWxR?oc=5)
-*Gender · Howl.link*
+### 3. [‘Forced out because my faith was found out’ - Felix Ngole case heard in the Court of Appeal](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWE5QNjNVRnZkQV95SmdWX2NaRmFiRElHNHVsYVJ1ZjI3NDhFSDBlelhCd1hJLWp3S3VvNzJoUnhjR2Y5dHA4Z2pXV2VsaTFER0F6cEFXdE1oVEh1VlpqajRWMjJobGtueHhIOEt3cS1ZbnRwVFpHZUNJV01WQUdST0JuN1dZOEhIeWVSeE81MUJ5bXZjcWVQdkJ2UzkyRlBORHBoSEZPUXpyS1N6QUtmVWNiNGZ3LWM3QjZ2NmJyVQ?oc=5)
+*Christian Concern in the news · Evangelical Times*
 
-GenderBlog raises questions about whether important information on puberty blockers was suppressed or withheld by senior NHS leadership. The allegation matters because puberty blockers were given to vulnerable children while the evidence base was already under serious challenge.
+Felix Ngole’s case has been heard in the Court of Appeal after he lost a job opportunity because of his Christian beliefs about marriage and sexuality. He had previously won a landmark Court of Appeal ruling after being expelled from a social work course over Facebook posts.
 
-**⚖️ OUR CASE:** Blessing Olubanjo challenged Camden Council’s public celebration of the Tavistock clinic; this story goes to the same question of what officials knew about youth gender medicine and what families were told.
+**⚖️ OUR CASE:** Felix Ngole is our client: he was expelled from a social work course over biblical marriage posts, won at the Court of Appeal, and then missed out on a job for the same beliefs.
 
-**Who this hits:** This affects parents whose children are distressed about their sex and looking for medical advice. It also affects young people who may have been put on a medical pathway without their families being given the full facts.
+**Who this hits:** This affects Christian students, trainees and professionals in social work, teaching, healthcare and counselling. It is about whether holding orthodox Christian beliefs privately or online can still cost someone their career.
 
-**Angle:** Our line is that children must never be used in an ideological experiment, and officials must be fully transparent about risks and evidence. Viewers will understand what to ask schools, GPs and NHS services: what evidence are you relying on, and are you telling parents the whole truth?
+**Angle:** Our line should be that no one should be treated as unemployable because colleagues discover their Christian convictions. Viewers will understand why this case matters beyond Felix: professional bodies and employers must not impose an ideological test for entry into public-facing work.
 
-**Opening line:** "Were parents kept in the dark about puberty blockers?"
+**Opening line:** "Can you lose your career because your Christian beliefs are found out?"
 
-**Title:** *Puberty blockers: did NHS leaders withhold the full picture?*
+**Title:** *Felix Ngole Court of Appeal case asks if Christians can be excluded from work*
 
-### 4. [We were arrested under the Terrorism Act for doing our jobs](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUVg2b0F5RklnTEt3TTlGNEpmUTg0czVfZnIwMk9kV053VDVyUU1sS05EdTNHVW5DSzNiT0ZvVEhUcWwtcnZsdEV2LXBxSFhBVVRVeUdSYmwtWnRneE1FSFB6VUZob0VraldTbkthV09hUzBsc3NEMUw4MUcxN3hxYWVFT2ZMVHhTSFF0Q2NIN2c?oc=5)
-*Freedom of speech · Leicester Gazette*
+### 4. [Retired pastor fights conviction over preaching in abortion buffer zone in Court of Appeal](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOenRhUV9KNmdiWFJUNjBNcjdhSXJ1bFp2Szl2Tm1rTFlyZ0NRZ1VIWU9wVnZBT3VrS1Ewc1pPWmtvX1M0VThLRlRzRVdzcDlpWWxkYXBXUTBaZzBBYWstUnJXN2ZMek5tM2pUN05HQy00V1VreDhkaTN1blFRMWdWaDFJdVM0elVjcDVHNkZfVTQ2aUE5YXI5azRWTkNkRzBFSTVtb19rTjg3ai1mOW13Q0VZUHYtQXF4MmNTMmd2bE4xRkg2QkZJcXM5eTlzMldnUGU3cDdldlpNb25RLU1QYkhzYXFWdlZuTEE?oc=5)
+*Freedom of speech · Belfast Telegraph*
 
-The Leicester Gazette carries a first-person account from people who say they were arrested under the Terrorism Act while doing their jobs. The story raises serious questions about how far anti-terror powers are being stretched into ordinary public life.
+A retired pastor is fighting his conviction after preaching in an abortion clinic buffer zone. The case raises whether peaceful Christian witness, Bible verses or prayer near abortion clinics can be treated as a criminal offence.
 
-**⚖️ OUR CASE:** Bernard Randall was reported to Prevent over a school sermon, and Aaron Edwards was threatened with a counter-terrorism referral over a tweet; this story reflects the same wider problem of extremism powers being used against lawful expression.
+**⚖️ OUR CASE:** Stephen Green connects directly: he was prosecuted for holding a sign with a Bible verse inside an abortion clinic buffer zone.
 
-**Who this hits:** This affects journalists, teachers, chaplains and ordinary workers who may find that controversial speech is treated as a security issue. Christians should care because powers designed for terrorism can quickly be turned on sermons, questions and social media posts.
+**Who this hits:** This affects anyone who prays, preaches, offers help or holds a sign near an abortion clinic. It also affects churches who may assume buffer zones only target harassment, when in practice peaceful Christian speech can be caught.
 
-**Angle:** Our line is clear: the police must act against genuine terrorism, but anti-terror powers must not become a shortcut for silencing lawful speech or scrutiny. Viewers will understand why Christians should defend due process even for people whose politics they may not share.
+**Angle:** We should argue that protecting women from harassment must not become a way of criminalising prayer and Scripture. Viewers will understand the real-world meaning of buffer zones, and why Christians should ask MPs and councils whether peaceful offers of help and silent prayer are being protected.
 
-**Opening line:** "What happens when anti-terror powers are used on people doing their jobs?"
+**Opening line:** "Could holding a Bible verse near an abortion clinic make you a criminal?"
 
-**Title:** *Terrorism powers and free speech: where is the line?*
+**Title:** *Pastor appeals conviction over preaching in abortion buffer zone*
 
-### 5. [Church warden and rector lead legal challenge against Church of England's Project Spire](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmZZWnFnQXRQaDJwdFgxaXd2ZGVoeEEyR295Q3FyNHJraG9OUjktV051OHd6UEdRNFU0SXBnWVZjSGVURGJYZzdNRXJOdEpOTjU3X2syRnB0UVNneFhsYkdManVMVW5IME9DRFNTZDJiWE1WQVdueXFzT3N3NFBzRHA2VnhtYVVKTmxhSUwyQkhreHlWa0Jhem1JbWhtSF9DR21salRTUUtzWGhsdF8xdl8zaW1hLTM3X0I4bDJheWg?oc=5)
-*Church · www.christiantoday.com*
+### 5. [Prevent referral for student’s X post sparks free speech row](https://news.google.com/rss/articles/CBMingFBVV95cUxNM0drUHEzd2RRcUxWVW5MbnFMWEhpLVMzMEczM2NNdTFRUmI4RUtSeFBSVDJ6WlY2RVltR09EeFVDRlBkZG5McXZ1elpsVXVmOS1pdUtCNXQzTERJd2g3ZHhWSWtCREtJVTRwXzdQUVZIY2swUEVRV1VyY3B1VVZsTHJXbUdRNFFwRlVEOG90YWh2ZXFtX3JEUTVHUDhyQQ?oc=5)
+*Freedom of speech · Times Higher Education*
 
-Christian Today reports that a churchwarden and a rector are leading a legal challenge against the Church of England’s Project Spire. The challenge puts internal Church accountability and decision-making under public scrutiny.
+A student’s post on X reportedly led to a Prevent referral, sparking a row over free speech in higher education. The story adds to concerns that counter-terrorism systems are being used against controversial or unpopular speech.
 
-**Who this hits:** This affects ordinary Anglicans who give, serve and worship in local parishes but often feel decisions are made far above their heads. It also matters for clergy and church officers who may be expected to carry out national policies without confidence that proper accountability is in place.
+**⚖️ OUR CASE:** Bernard Randall connects strongly: he was dismissed and reported to Prevent over a school sermon telling pupils they did not have to accept LGBT ideology.
 
-**Angle:** Our line is that the Church of England needs truth, transparency and courage, not managed decline or opaque bureaucracy. Viewers will understand why internal church disputes are not just ‘church politics’ — they shape what happens in their parish, their children’s church, and the public witness of the national Church.
+**Who this hits:** This affects students, chaplains, teachers and lecturers who express unfashionable views online or in class. A single post or sermon can become a safeguarding or extremism issue, even when no violence or terrorism is involved.
 
-**Opening line:** "Who is really accountable when the Church of England makes major decisions?"
+**Angle:** We should say Prevent must not become a complaints desk for the offended. Viewers will understand why they should ask for allegations in writing, seek advice early, and challenge any attempt to brand lawful Christian or political speech as extremism.
 
-**Title:** *Church of England Project Spire faces legal challenge*
+**Opening line:** "When did a student’s social media post become a counter-terrorism matter?"
+
+**Title:** *Student Prevent referral shows free speech is being treated as extremism*
 
 ---
-*Nothing significant today: End of life, Marriage, Sexuality, Education, Christian freedoms, Secularism*
+*Nothing significant today: Marriage, Secularism*
