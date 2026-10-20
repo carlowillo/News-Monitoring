@@ -1,148 +1,116 @@
-# Digest - Christian Legal Centre - 2026-10-20 07:55 UTC
-*Last 24 hours, AI-classified*
+# Digest - Christian Legal Centre - 2026-10-20 12:43 UTC
+*Last 6 hours, AI-classified*
 
 ## ⭐ CHRISTIAN CONCERN IN THE NEWS (2)
-- [Christian teacher sues school over dismissal for expressing pro-life view](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHFCYWFBYjJPS0k4X1V5X0ZYbjg4eEdZZXNMU3Z2MGxCVmNZMnYwbFZFNXNSaEpXOE5icU5LLWJobk5zeUN6OFdZY2RBTU9iQnRBSG9CRXpJcng2LXVyTVowTlJoQ2RLSU9YRF81Yk9BN0lIaURlWHN4Y3pnWnhPTXdzM0k4TTB3Zjc3b2ZSQUhHc0JSa0xwVTNqV2l6RjNVRUV0NzVZQ2VkOTJHd0dYWkdGc2JvTzg5VWFr?oc=5) — *Premier Christian News*, 02:22  ·  also touches Christian freedoms, Beginning of life, Freedom of speech, Education
-- [‘The Gospel belongs on the streets’: UK church challenges council’s preaching ban](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmZFRXkweWF2MjV5UDhwMFVMR2hVX0FsLTVzWkJPTW5ic2ZfWXVlenhWaTNONmU3ZWpfamplblBPRkpUSXJhN1BkdDZxanBRZkQ0M0hzNmdKQW5fZEZCbER0ZkpHakE2b0ZScGRtcVFJNzBJWVhLcUdjNDhvemZvZHR6czh6MURpVV9CZkdIYy1RRmtuNUpoTzRmOERRSjBmX0x2M0JVZl8?oc=5) — *Christian Post*, Mon 15:59  ·  also touches Christian freedoms, Freedom of speech
+- [Sandie Peggie urges NHS Scot to enforce single-sex spaces](https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0djU2t1NDhqMjB4T0RVcVdWc0NsZ2VoV3cwVzd1dE1tQndjWnJ0SWRUWGk4WEZtN1hpTTBkbGxNODExRHZtWVdIckRPbzJLWlFVaDVMWE13QVpYN3BjeEpKUHFvdnE0dWV3UTU3eF94YmxPSHdJS19XQnJqTlg2cnVMdEg3dDB2N0g0VW1tTzhsRHZ3dE9v?oc=5) — *The Christian Institute*, 12:27  ·  also touches Gender, Politics & government
+- [Councillor fights disciplinary action for objecting to ‘explicit’ LGBT event](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbktUd2lrMzVtWlJCNzJHQ3F0ODR6NE82Qk0wcEpoZ3VlS3RjYzFKajFjWWIxazI0THFXdE1DakxhODV4emt4eHNjdURQOVc5b2ppQk4zWEFndEMxcjhJLVBLcWlSaVRoaGppdE9tbmNWcFg3X0dRdjBfMnBGZWlFcmVMeGE3Q2hkUW5pUEpPdUR5UkJVV3JwLWVreU5QODVNYmdBSE81QS1SWVZfblE?oc=5) — *The Christian Institute*, 12:04  ·  also touches Freedom of speech, Sexuality
 
 ## LIFE
 
-### Beginning of life (2)
-- ['99% of cycles carried out without incident' says HFEA](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUtXLUVETFNLWlJTNDJDbzN0TXF2Q21XQzFiMHlSTEQ4S3hZMDBTa3R3M1hlUm43RHVOSk1LRjZwc0t2R0R2TTJuSnZHT09BNTZtd1plWF9LbmZfRWxRUHg2MkhySFd3Q2oyQW92SlJ4VDF4VDJkaVBpM3FGODJDSUZKU1FSQXY1X1BFZWpua20tYnZOZUhPbGg3YnVWWjVkbUJSNVJQU3lkUQ?oc=5) — *Progress Educational Trust*, Mon 16:56
-- [Population studies are key to safe newborn genome screening](https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1BqQnpFWnpDaFIyMmczd0UtZjhZRzlLdGJvcnY5clM2bzB3REREa24wYU5yQ29vTVdxdHNOVU40R2t3RmQtVEI4RlZLVDMyQWFWdlF2VldOVHN2Y29oNGxhMHZDM2RtRWJsdlg0NVJOYUttcFF1VmdPMUUtNTZTWExHcExjNUVFMTloN2JpQmQ5UQ?oc=5) — *Progress Educational Trust*, Mon 17:27  ·  comment
-
-### End of life (5)
-- [Wife died in assisted suicide pact before husband went missing](https://news.google.com/rss/articles/CBMikgFBVV95cUxNREdlRXNQdjhLNGdPaEl1d2Nyc05NRllkVTNIUXpzWlYzMTFwUXBYY1I5TUdIdlZfRzZ4b3JxLTZrN29vc2FocFV0Y2docTdQRFFXdXppTE1nV3BoRFJ0eXRyUmgzMngxcGRFNW1TM3RVdkhfWHZUVUVsOGJ6VE5UOF9fQ0Rla3FfeVEzQVA2RmNCUdIBlwFBVV95cUxNMUlQQkpaNlBFQnhHMk9kUjBQeWUwdWd0cnlnMDFsWTQ0RExEdGZqMEFqRDBYSzliM2lZTEdUdHRXaWtkT0IyV1V0dUdRVU8xdFR3VjZ2cHpsY1hUTzhxYzBRRi1HalBGcWNGUlV4TmpQbFRyZkxsb1FKd1l2eXNyZ1ZpWHZQRC1Ca0V2dDN4V2c0MkM4YlNn?oc=5) — *Cornwall Live*, 05:03
-- ['We want fair government funding for hospices'](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlUXBEaVBZcFJTOFJJWVJFWmwzMEhjbEpUYnpfMnltZVY2RmlnZGp0dkFoSWFGVXNXbmpzaDQ0R0E0dGRaVTI5eFFTYkxRVWlEb1R0VlhNREd4cE0?oc=5) — *BBC*, 05:05  ·  also touches Politics & government
-- [Covid report ‘must establish responsibility for decisions’ in care home deaths](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnZxZUNzVzN4cF85TDlyZUNUUFNNRGVtakpWbG9MUUxuMm16OFhreUlaLUNubm9WNDVVbzdLZ210c19QU2pQME04YU8tTDYxYzh1YzRIeklLMlU4RXBYVEZZODl5Vl9QVzYtMmNCZmJvQ2R3dWFWSm9RRWlfajRlSkJQSGJBN2swUm5pak9YTnRPaUFDVHVmcWRTa3NJcUFVRWpRZTJCcjdoa1N2Vmc?oc=5) — *Morning Star | The People’s Daily*, 05:01  ·  also touches Politics & government
-- [Esther Rantzen felt deprived of choice over her death](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcEpjYXFQaldZcFA1bDIzTUNfeHdBRW9TQnRpMXR6M3BaS2llT3JVdUg5R1pyT05ueWFRN3haUGo2NUVMYV9oX0p4Nk13MTVjSjNUYUI5YmdKZDZfWkNsR3JGdUVTVmdXUTdON1IxZm9iMGp5Q2k3WTVVaWYzcjNRNENiN28wUWpu?oc=5) — *The Telegraph (also BBC, BBC News (UK), Sky News +7 more)*, Mon 23:01  ·  comment
-- [End of life care is a measure of a compassionate society - Sarah Holmes](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUhoNy1MSjFBc0V0MXVMYmlNeGhMVWVHQnk4TkViRGVJX050U1ktSXdCLVh1MEZmc0NGYmJsY282TklucTNoOXFJVlRDcVRmQ3cwUTVPUlJxaHhmR0FkSHBVTGFWQ3drQ3EtSm8tLUlrM0dUckU2NXVOb01Mc0gxUzZ5RGcwbFIxWlNvUXM0RmRmdmg2NmdTbUcwbFBYZWc0ZnRoTUpjd3RmZ2FwMHlpVjZaRmFidU1wUU9zUHhSdXg2U3RXYlJUT0NSWll3dw?oc=5) — *Yorkshire Post*, 05:00  ·  comment
+### End of life (2)
+- [Covid failings in care homes: What the inquiry says](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FOTZYY094enFNdklxSlV1aDd2aDZzd1RtYnNnWXVUclJrYXNuTDhqNWxiMVVhVlJXVFJDNXI0SE5LRDhNVEVqMzMzTHVwVXc1cktyZlhiMU1iU0NZZkE?oc=5) — *BBC (also BBC News (UK), STV News, The Western Telegraph +20 more)*, 11:00  ·  also touches Politics & government
+- [‘I was deprived of any choice over my own death’: Dame Esther Rantzen’s heartbreaking final message revealed](https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXBkWUVWT1RvZGdJMjUyUkFzWmpmYThjejBZX3hJYjVQSmhTclg5cFFiZnNhYTd0R3ZyV3I5dEtPXzlQQUNDNmJzME1pTHppWmJEMzZWWlM5akZPYV9jaUctY3huWGYtTzJlaHZWUmVCdTdlbzZXOGNla0JPVEVKMVlEeHVaT1dvRkNjSzV1eTNpeFAtcW1Yem9EOWlkS0k?oc=5) — *LBC (also Nwemail.co.uk, Around Prague, Entertainment Daily)*, 08:12  ·  comment
 
 ## FAMILY
 
-### Marriage (2)
-- [MPs forced to vote on banning men with multiple wives from claiming extra benefits](https://news.google.com/rss/articles/CBMilAFBVV95cUxObmM0TDhzVmQza1RPQlVuTnVBbWZRNml0NmcxamF2QWF6S2FWWkVhS1ZyUWZMVzNiOTVQNkNwWjJmTzFxSXFBVkl3X2NGS2VRblNkMWVxWEhvRXZlaXlkTXhycWFMQlBQNzUyRUVGRVUwZFF4c3pwTHJoLUZDZGdEUUMxR3dTRUw1M1VKNzdKaHlNRjZl0gGUAUFVX3lxTE5uYzRMOHNWZDNrVE9CVW5OdUFtZlE2aXQ2ZzFqYXZBYXpLYVZaRWFLVnJRZkxXM2I5NVA2Q3BaMmZPMXFJcUFWSXdfY0ZLZVFuU2QxZXFYSG9FdmVpeWRNeHJxYUxCUFA3NTJFRUZFVTBkUXhzenBMcmgtRkNkZ0RRQzFHd1NFTDUzVUo3N0poeU1GNmU?oc=5) — *Daily Express*, Mon 21:00  ·  also touches Islam, Politics & government
-- [Data reveals 1 in 4 divorces now end marriages of 20+ years](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQVhBRnd3ODJOa0xLeHljT1pPVGdGbDc5VDZidGtvNDdiMENhVmc1SnRVcGMtdndXUTBTb0NnN2I0LXRRdnNRd0tIRC1QUzJiY002Wi03elJ5ajVoZDg4VE5XdjZnQndvVmwtTHZYdVFkaWRHRlRzcG9aZERFNW5uRXdxRkttR1JYcGRORV8yRnZhbFB3STE0?oc=5) — *Today's Family Lawyer*, 04:02
+### Marriage (1)
+- [Britain's welfare loophole for polygamous households exposes the fundamental failure of multiculturalism](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGQ0Szhsdkt1cjYzamJMYWpDZEMxZllmRkNHRF9sc2szYXJnbmpwOTVsM1JySFVXR0ZIbUtJYU8wcDhkeFJvX0ZBTVg4NHFOME1OYnFrNU00M0IwWnBpWlhrUmRaT1dfVEZKUUxGR3VMVnZBWjV2cVVnSy00NEQtaWxnOEEtVXFpQmVYbkpMNVdYUW1UOVNlQ3FXTHdQbFdub0RFLVVnUk1NZw?oc=5) — *GB News*, 09:15  ·  comment  ·  also touches Marriage, Islam, Politics & government
 
-### Gender (1)
-- [Royal Devon trust reviews new NHS guidance on privacy and dignity](https://news.google.com/rss/articles/CBMirwFBVV95cUxQOFFEd25NS18xOGYtenhDX1RiY2VhdGw4WnZ6bXNKalJsQ0doOUFhOW5LVi1nc2pDUl9GR3dnaVN4QmY0OGxSRnVvcHZ3aVdDVDBXdWRjQm9JTGs1a2xSaW1fcngyVnkzY0dFTlUzSzhRbWNfeTl3Z1A4RWVSTkdIR0FPN25OSURnaHJ0NFphVGlxTzdhTHNBQm53b0wtY2lESFZlWTlZYllGNlJDSEZz?oc=5) — *Exeter Today (also North Devon Gazette)*, Mon 18:00
-
-### Sexuality (3)
-- [England and Wales outlaw strangulation porn from 6 November](https://news.google.com/rss/articles/CBMijgFBVV95cUxNY2w0VmJSR1VjNzZ6NkFGaFJNY09ZR0VCTFZqZ01hblhtZjljOHVxSzc5SHdpVVN1TlRKWTRRSFNudXE5Vi1ieUdDUVRJTzBxQU1vQzUtUmxBbVlMUkNIRGtmSTZvSi1zcTFQdUNsVzlnYnFzZ2Fqdk9wcnJVTlBESnc2bzcxb2JtY2l1QWZR?oc=5) — *News Ghana*, Mon 15:57  ·  also touches Politics & government
-- [Human trafficking 'hidden in plain sight' online](https://www.bbc.co.uk/news/articles/cw8rzvdj8n7no?at_medium=RSS&at_campaign=rss) — *BBC News (UK)*, Mon 23:05
-- [Britain’s Porn Ban Exposes the Lie of Sexual Liberation](https://news.google.com/rss/articles/CBMihgFBVV95cUxQWDlYT3g5MVNpdTZRd3BvSTlrRGxmWTcta1d4VWJMOXJ3QXk2b3NQeXg5VkN6alF0R3lMR1lkWVJScUxXc20yVW8tMFJVS0I3M05GYkFMQVZJZWpvYWM4X3NiNldxd3pDaThjanRROEhGbmpHaXNyNXBHaS1MenNFRzZERlA0UQ?oc=5) — *First Things*, Mon 15:40  ·  comment  ·  also touches Freedom of speech, Politics & government
+### Sexuality (1)
+- ['Pimping website' inquiry finds human trafficking 'hidden in plain sight' online](https://www.bbc.co.uk/news/articles/cw8rzvdj8n7no?at_medium=RSS&at_campaign=rss) — *BBC News (UK)*, 08:51  ·  also touches Freedom of speech
 
 ### Education (1)
-- [How schools are indoctrinating your kids](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOXUxSV9fSWJrMGlDMDJDbkZqQmVWVW8talJtVWhYbHB2ZTcySlJHQ3JQSGtob05Tal9JVDVwX0YyYTFzck9KNU5tVFRqeE84LWFlSE9OWHBsTTk5dTA1UHhnOEt2bmFkWjE1Z2wteVJpUHJqSklSQXN0eFA1RzhYelNIMWptT3l2OGc?oc=5) — *Spiked*, 04:55  ·  comment  ·  also touches Secularism
+- [Predatory teacher who sexually abused 12 schoolboys while 'hiding in plain sight' jailed](https://news.sky.com/story/predatory-paisley-teacher-who-sexually-abused-12-pupils-jailed-for-four-years-13600903) — *Sky News (UK)*, 08:00  ·  also touches Sexuality
 
 ## FREEDOM
 
-### Christian freedoms (1)
-- [More than 27,000 sign petition supporting church in Colchester preaching row](https://news.google.com/rss/articles/CBMiowFBVV95cUxPWXQ3VDZMdTJ1SmZMT08xWVBFa0NOcmpIMk1WZ0d4M1VuWmtldWFFUkVVN3ppWkVBODBjRTRyYUdMOVN6VHFxRHBCbGY0VUVJMVFQaTJNUm1MUzFQcVRaazRsWmRyQjNua2NtUGhNMFhNNmswUXdIbTc4QnFqRWNDTjJCRjNHV2w3bFkwTHpuR1FldEFiLTVLdW1zRll2Y18xQVc4?oc=5) — *Clacton Gazette (also Colchester Gazette, www.christiandaily.com)*, Mon 17:25  ·  also touches Freedom of speech, Church
+### Freedom of speech (3)
+- [UK National Security Adviser’s wife Sarah Helm calls for Palestine Action ban to be lifted](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOUFyWmdOcFZrOG1FMU9kNENEUkFUUzVkSE1fczZMSjFhOGRjV0czVGQzRjFPS1MzRG93Y3pyRTEweUNpZEpCSHRnRldmbUhZTUpSV0VoYXpySWZMblc5Tkl1aGp6UDk1dEtIMlh4Q0NWYXVTQWdCMHR6cEtuVUJlTTVYdVFaWTVtb0d1N000N2NCbzBrYXYzX0ZGZmJqRGtzVkdyalI5UER4Q3JLRTljQks0Z29od1NOUG9vY01GRVBadk9sSlNMNWtWZG9LZURJY2QwZk5kRFI?oc=5) — *The National (also Novara Media)*, 09:02  ·  also touches Politics & government
+- [Students and academics sanctioned over emojis as part of Palestine protests crackdown](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbEJoeEhPY0pLNzFCQThwWS16TkNuVDdhTjVvNHBjUHRlSk52NDZfNFB2aVN5azlWZGRIbzdmUzk4QVVlVVVWM3J2X1drR2NDc2dqQTNuWm1JSlVyWU5RUHhQTm40OHhuR0dBQjUzNlFTUlJEV2htSGRLRnl4VVBRUVNmdzlyb1Z5NEt3SzAxRzVzMmV5RnpSWHA0YTNIRUJNS25MY0Q3RFg4ZzF0aWtTNGpvX0RBUklwc2s2WUNwNEo2SW81YWlURHlpaWZhYmh2c0xKbUFyd3k3MTd4cUxmZ09UV0pZajA?oc=5) — *The Independent (also Amnesty International UK, The New Arab, 5Pillars)*, 08:37  ·  also touches Education
+- [Students plot to exclude Zionists from university societies](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXlhZ3lrVmJGM09fVFhUZDBPNFlESjJJQU1IVngzcXYwcDNuNlJIeEZJOWI3R0didnJsblIxMUdFbjMzY0FtLWVuSGg5bUpqdGJnMXNWd0QzQ1k2ZHFjTEppSG5OSW1FRGRhTE55U1ZlUzk5Sm9HcjZRbkNMSlJUbGZIUzF3Y0pCaHRsNUFZODhZRWFpa1pucXc3TC1rLW9iZC1MZnpR?oc=5) — *The Telegraph*, 08:09  ·  also touches Education
 
-### Freedom of speech (6)
-- [Why terrorism laws stopped Sally Rooney selling books in the UK – podcast](https://www.theguardian.com/news/audio/2026/oct/20/why-terrorism-laws-stopped-sally-rooney-selling-books-in-the-uk-podcast) — *The Guardian (UK)*, 02:00  ·  also touches Politics & government
-- [Universities ‘worked together’ to repress Gaza protests – Amnesty](https://news.google.com/rss/articles/CBMiogFBVV95cUxNUVY2Q1lSZTV5M0RNX2Z0RFhxN2sxOWczQTA2c1pDRHN2UzNOc0pBdWY4dHVkNXZqS0tiZ1FTdUQ1dG1ON3h0VGc4d3hOdTJWb3JENG5POFBuakZVRWc1dHZMOUxrVmwtUzJ2ZzdnMUNxSzNRZUtzYzY2RkZuOEZ5WEFXNHFOdldnT28xdFRfMGdkSHg0bHhCdmIxTThrZTJwc1E?oc=5) — *Times Higher Education*, Mon 23:00  ·  also touches Education
-- [Pro-Palestine activists call for France-style protests](https://news.google.com/rss/articles/CBMioAFBVV95cUxNZHZlMmdmZ29NX2FhbHVPeWU3eE5sZVFJcG5BdnltalJGeWYyTEVjaWZvakc4OHBvS1k1cXc4Z0IwelJjMlkwaVFxaFpRX092MF9wWjQ4N2Jvd3JZM3pnN0syVFJGM3hKU3p3U0doN2hNVnh2SzJIUXRHT1pWVDY0UEJHeW0za19nOUJFZ2o3dEFyVjd2WHhNbVNhZ3M4Qmpl?oc=5) — *The Telegraph*, Mon 20:30  ·  also touches Islam
-- [UK terror watchdog: free speech absolutism undermines democracy](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRm9RcTFzRWRxQnUzd29oYVR5UGdkQXhqcjhXdU9wNjg3QnlxU2ZEd3NtLW1haDhrOTZ5R0xDX3Z1VnBDSjR2SmhtN0J2YVVzeFpzWVpnZTRlZVlDWUF4eF96eVRFWXZNZGw0WlNnel9UX2NmdWxrZ0Nwc1plOHFrRHNJTzl1alUxWlM1V1U0My15MHhicXc?oc=5) — *UnHerd*, Mon 14:46  ·  comment  ·  also touches Islam, Politics & government
-- [UK Terror laws, Palestine Action and lessons from Turkey](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQkdvWU1QUmE1dGxaRHY1bUlwN1k0ZmJuU1VJN3hidXU2WktoSjlEdF9ySl91d3YyQ0tKaEZaTjRkdVRxSHpPMFFHd3U2ajk1Wl9wblBhcmVyd3d3QVFEY0NIOHpMQU1CLXBwSFk1MEl2OWxkdnNxeDJMTWR2Vm5LUFMzR1VEVmVUMjFGLUN5QVBRRHJ1WXFXSFpBaEZNRmswaVBzaFQ0Q0p0dWFPZzR5Mk41eWRVRThGY3RtbjJOaElieVho?oc=5) — *The Justice Gap*, 06:10  ·  comment  ·  also touches Politics & government
-- [Why Are British Police Questioning Women Who Travel to Israel?](https://news.google.com/rss/articles/CBMirwFBVV95cUxPU0hpZUNiTVZNMVNibElsZnBhQkFiSXVkOENHbGhKa082VnJUWmlwUGI0ZmdCeG5oSHZwVmtNSkpMQ1ZhVVNuNEpRNlZHOHcyWnZpeXdwczFsVlFVbERRM1hERUdiUTd1MkZyYXBJSHVxODFaVzRvMVhxeXVMM0FoVHoxNFNPTHg2NmlJZ1JNTTY0UmE1eXJUQ1VMVTJoNzNYQlVrWXV3dkpaazV2WFBn?oc=5) — *Townhall*, Mon 17:15  ·  comment  ·  also touches Politics & government
-
-## FOUNDATIONS
-
-### Christian society (2)
-- [UK police chiefs warned ‘stringent and assertive’ measures required as antisemitic attacks escalate](https://news.google.com/rss/articles/CBMiywFBVV95cUxOaC1qbWtIQkNtTTJ2V19adUcxRWgyY0pVOWtZUk4zb0huZDJ0OVpzektqQzY1VWdGNnZVbFhUY1J3cUhPOVRIMnhHVGZnMTJ1Qjh2ZS0xa0dESVgxRng0RTNMcTczeWR1MFpiNWE2WVN1WnBzNWVlcTFNLXJqRWJxU05ZRUdKNDBWT1ZZT09tbnlfeDYyU25QUElzTkNQSnBtaGtBMHh3ZVBvdWtfRFNIb0htakg4bU92b2NROHp0TC1hUVl4c1pWRWpuVdIBywFBVV95cUxOaC1qbWtIQkNtTTJ2V19adUcxRWgyY0pVOWtZUk4zb0huZDJ0OVpzektqQzY1VWdGNnZVbFhUY1J3cUhPOVRIMnhHVGZnMTJ1Qjh2ZS0xa0dESVgxRng0RTNMcTczeWR1MFpiNWE2WVN1WnBzNWVlcTFNLXJqRWJxU05ZRUdKNDBWT1ZZT09tbnlfeDYyU25QUElzTkNQSnBtaGtBMHh3ZVBvdWtfRFNIb0htakg4bU92b2NROHp0TC1hUVl4c1pWRWpuVQ?oc=5) — *Jewish News*, Mon 14:56  ·  also touches Politics & government
-- [Revealed: Police Chiefs document sets out five key recommendations to tackle Jew-hate](https://news.google.com/rss/articles/CBMixgFBVV95cUxPMUxjQnlsRkxUekQ5UmxqalowQkFkaXJlQlYwZnRuZjBsTFVWMnFOeEt1czdYNEFuMS1qRzFKdExwUkI5cE84cUZ5TU1TWHNocHhMN1huamZoLXNPN01tSmsySXhBMENKV1lXM2JMZ3BGUlh4X0toa3NpT2tZT2V2TXNOUDV2djhoekNzclE2TFdjS2dKMjhTZFhPV3lDdmdmMGw3NmZEN3poUEJYYlNhQWxYaEVJal83V3h4ODJQbFBpenVaV2fSAcsBQVVfeXFMTmgtam1rSEJDbU0ydldfWnVHMUVoMmNKVTlrWVJOM29IbmQydDlac3pLakM2NVVnRjZ2VWxYVGNSd3FITzlUSDJ4R1RmZzEydUI4dmUtMWtHRElYMUZ4NEUzTHE3M3lkdTBaYjVhNllTdVpwczVlZXExTS1yakVicVNOWUVHSjQwVk9WWU9PbW55X3g2MlNuUFBJc05DUEpwbWhrQTB4d2VQb3VrX0RTSG9IbWpIOG1Pdm9jUTh6dEwtYVFZeHNaVkVqblU?oc=5) — *Jewish News*, Mon 14:18  ·  also touches Freedom of speech, Politics & government
-
-### Secularism (1)
-- [Church appointments reform should be just the beginning](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVB5SWFLNk9kdFM4VFRtQ3QwWDdfaG4wWjRTaG0yRmQzUnIwU29GVTVacWRpaGJCOEtSTUFHV3d5VUFhMmtzZjRYbXRIT3hydmpxRFdXdWg1cnpCWjB5RFJoSmVYMTQ2WC1wOHhXRm15NXRyejFDWmV0dWxYbHEzRWhra2NUenFzSUZqcVFjWGRhbmdqYmRELXRnMmZaXzVRX0ZKaENrbEJZWjFsRkRRbnpB?oc=5) — *National Secular Society*, Mon 15:07  ·  comment  ·  also touches Church, Christian society
-
-### Islam (3)
-- [More than 300 calls to police after hoax bomb threats at schools](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5taGdZamREOTJjalNyWms1MGJJSkZydENPczlid3VaVnFMVGhMaGxZUUp1TUdJdWJ3dXNyWmE4Xzdva291NU5HSTkyZTZPdW11R1l5aDJWUllCbGc?oc=5) — *BBC (also Belfast News Letter)*, Mon 17:24  ·  also touches Education
-- [Bristol extremist who attempted to become IS martyr jailed](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ybmVTeDl6bDdBLTF1SjZzb0dhSG9Xd0t3cWlLVGNyR3hjUDI3M1EzTUluVWUtVjlNc2F4dnJxcUh2VjRsSnJfT0ZrazNhX0xibDNldG9XOGlSOWRtclE?oc=5) — *BBC (also Metro.co.uk)*, Mon 15:30
-- [Reform accused of exposing its true agenda ahead of Senedd face covering debate](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZW1xNDdZelFZMTd2VFNKQVN4VFdfenI1NGh0RzFVWVpJUUdaU1g0YTFnUHROYW1YNWt3eXlrcGpMM1JaZWlWSjg1N0t0enlZMlNuV0ZHeUNhRDA1VnZwd0N4R0czM21HT183bzlyQVY1MktNRGtibFZRRlFHaWF1bDJlOHpoRHJ2UVVvM0hXc2JGX3RPVzZ0MVpOMmNyWjRTd1BRZVlTQW9nQQ?oc=5) — *Nation.Cymru (also News from Wales)*, Mon 15:00  ·  also touches Politics & government, Freedom of speech
-
-## 🌍 INTERNATIONAL (1)
-- [Canada Indefinitely Suspends Plans to Expand MAID to Individuals Whose Sole Condition is Mental Illness](https://news.google.com/rss/articles/CBMifEFVX3lxTE1aVUx4SWo3UWQ1eXlsY3hKMk5HV25rZzFQSjlCTkpBdHRNX0ZBUmo3WG5XeDZpWVhqZTBFUVY2X0FibTJWWGhFdW9rSXd1bS1BWmhSbDZkVVhLNUNVQ2txREh5aWw0LVE5Qm1LTDkyRnU4TjNaUnNMMHp6TEw?oc=5) — *IR Insider*, Mon 22:08  ·  End of life
+## 🌍 INTERNATIONAL (2)
+- [Campaign group claims Assisted Dying Bill breaches human rights treaty](https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1RqNW1qVnoxQ0dHNVNoQ2pPU3FWcnFjMklDS01xaktiU1hpNGhiTlJveTZZUTA2Ykx2TU11cVA4UkVQNEVteGtsWU55alM3QjlhNXR5R0dVbGRrSnRJNlFDUTVtRE9uRmsyWnFNa20wNnBadmtyTi1KT1NJeTFQbWtnLV90cjQtUC1TWThFRlBlNzBRLWJva3RjQ1VOU19tOGlJMFdrSWMwS04xdHc?oc=5) — *Isle of Man Today*, 10:12  ·  End of life  ·  also touches Politics & government
+- [Isle of Man Assisted Dying Bill given Royal Assent](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3UjRXTFpXNnA3RlZGQmg5ZDZRRmNTdmJkdHVlZXBDLVJSaUFheFhfc092cjZ4ZUtjYVJ4c18yWHBVLWpQbWh0ZlNEV2JnY25tcEFWeU9hMnhwT2pqeGc?oc=5) — *BBC (also Isle of Man Today, BBC News (UK), Dignity in Dying +4 more)*, 09:29  ·  End of life  ·  also touches Politics & government
 
 ---
 
 # 🎯 Top 5 to comment on
 
-### 1. [‘The Gospel belongs on the streets’: UK church challenges council’s preaching ban](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmZFRXkweWF2MjV5UDhwMFVMR2hVX0FsLTVzWkJPTW5ic2ZfWXVlenhWaTNONmU3ZWpfamplblBPRkpUSXJhN1BkdDZxanBRZkQ0M0hzNmdKQW5fZEZCbER0ZkpHakE2b0ZScGRtcVFJNzBJWVhLcUdjNDhvemZvZHR6czh6MURpVV9CZkdIYy1RRmtuNUpoTzRmOERRSjBmX0x2M0JVZl8?oc=5)
-*Christian Concern in the news · Christian Post*
+### 1. [Sandie Peggie urges NHS Scot to enforce single-sex spaces](https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0djU2t1NDhqMjB4T0RVcVdWc0NsZ2VoV3cwVzd1dE1tQndjWnJ0SWRUWGk4WEZtN1hpTTBkbGxNODExRHZtWVdIckRPbzJLWlFVaDVMWE13QVpYN3BjeEpKUHFvdnE0dWV3UTU3eF94YmxPSHdJS19XQnJqTlg2cnVMdEg3dDB2N0g0VW1tTzhsRHZ3dE9v?oc=5)
+*Christian Concern in the news · The Christian Institute*
 
-The Christian Post reports on a UK church challenging a council action that restricts its street preaching. The dispute is about whether a local authority can control the content of Christian evangelism in a public place.
+Sandie Peggie has urged NHS Scotland to enforce single-sex spaces. The story lands in the wake of the Supreme Court judgment on the meaning of sex, with public bodies under pressure to show whether they are actually complying.
 
-**⚖️ OUR CASE:** Bread of Life Community Church was issued with a Community Protection Notice seeking to control the content of its street evangelism; this is exactly the kind of council restriction the case challenges.
+**⚖️ OUR CASE:** The Darlington Nurses were told to ‘broaden their mindset’ after objecting to sharing a changing room with a biological male identifying as a woman; this is the same real-world question of whether nurses’ single-sex spaces are being protected.
 
-**Who this hits:** This affects churches, street preachers and ordinary Christians who share their faith in town centres. It also matters to anyone who assumes the gospel can still be spoken publicly without a council deciding which parts are acceptable.
+**Who this hits:** This affects nurses, healthcare assistants and patients who need intimate care, changing facilities or wards to be genuinely single-sex. It also affects NHS managers who may now have to choose between activist policies and the law.
 
-**Angle:** Our line is simple: public authorities should not use anti-social behaviour powers to edit Christian preaching. Viewers will understand how ordinary evangelism can be reframed as a public-order problem, and why churches should know their rights before agreeing to council restrictions.
+**Angle:** Our line is that single-sex spaces are not a culture-war luxury; they are basic privacy, dignity and safeguarding. Viewers will understand that the Supreme Court judgment is not just a headline — it should change what happens in hospitals, changing rooms and HR policies. They can ask their local NHS trust what it is doing to comply.
 
-**Opening line:** "Can a council decide which parts of the gospel may be preached outdoors?"
+**Opening line:** "If the law says sex means sex, why are nurses still having to fight?"
 
-**Title:** *Council preaching ban: can the gospel still be spoken in public?*
+**Title:** *NHS single-sex spaces: will hospitals obey the law?*
 
-### 2. [Christian teacher sues school over dismissal for expressing pro-life view](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHFCYWFBYjJPS0k4X1V5X0ZYbjg4eEdZZXNMU3Z2MGxCVmNZMnYwbFZFNXNSaEpXOE5icU5LLWJobk5zeUN6OFdZY2RBTU9iQnRBSG9CRXpJcng2LXVyTVowTlJoQ2RLSU9YRF81Yk9BN0lIaURlWHN4Y3pnWnhPTXdzM0k4TTB3Zjc3b2ZSQUhHc0JSa0xwVTNqV2l6RjNVRUV0NzVZQ2VkOTJHd0dYWkdGc2JvTzg5VWFr?oc=5)
-*Christian Concern in the news · Premier Christian News*
+### 2. [Councillor fights disciplinary action for objecting to ‘explicit’ LGBT event](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbktUd2lrMzVtWlJCNzJHQ3F0ODR6NE82Qk0wcEpoZ3VlS3RjYzFKajFjWWIxazI0THFXdE1DakxhODV4emt4eHNjdURQOVc5b2ppQk4zWEFndEMxcjhJLVBLcWlSaVRoaGppdE9tbmNWcFg3X0dRdjBfMnBGZWlFcmVMeGE3Q2hkUW5pUEpPdUR5UkJVV3JwLWVreU5QODVNYmdBSE81QS1SWVZfblE?oc=5)
+*Christian Concern in the news · The Christian Institute*
 
-Premier Christian News reports that a Christian teacher is suing a school after being dismissed for expressing a pro-life view. The case puts the spotlight on whether school staff can be punished for saying unborn life matters.
+A councillor is fighting disciplinary action after objecting to an ‘explicit’ LGBT event. The report raises the question of whether elected representatives can raise safeguarding and moral concerns without being punished.
 
-**⚖️ OUR CASE:** Kristie Higgs was sacked by a school over a private Facebook post about relationships and sex education; this is the same pattern of school staff losing work for expressing Christian moral beliefs.
+**⚖️ OUR CASE:** King Lawal was cancelled by several organisations after tweeting a biblical view on Pride and LGBT issues; this is another example of a councillor facing consequences for dissenting from LGBT orthodoxy.
 
-**Who this hits:** This affects Christian teachers, teaching assistants and school staff who wonder whether they can speak honestly about abortion, family or sexuality. It also affects parents who want schools to tolerate Christian convictions, not treat them as professional misconduct.
+**Who this hits:** This affects local councillors, school governors, parents and church members who want to question sexualised events or LGBT materials in public life. The practical fear is simple: speak up, and you may face an investigation instead of an answer.
 
-**Angle:** We should say that a pro-life conviction is not extremism or hatred; it is a core Christian belief about human dignity. Viewers will gain a clear warning about workplace speech in schools, and a practical reason to document concerns, seek advice early and resist unlawful viewpoint discrimination.
+**Angle:** Our line is that elected representatives must be free to raise concerns about explicit material, especially where children or public venues are involved. Viewers will see how ‘inclusion’ can become a one-way rule: everyone must affirm, and no one may object. They can also learn to ask calm, specific questions locally rather than be intimidated into silence.
 
-**Opening line:** "Could a teacher lose her job for saying unborn children matter?"
+**Opening line:** "Can a councillor question an explicit LGBT event without being punished?"
 
-**Title:** *Christian teacher takes school to court over pro-life dismissal*
+**Title:** *Councillor disciplined after objecting to explicit LGBT event*
 
-### 3. [Royal Devon trust reviews new NHS guidance on privacy and dignity](https://news.google.com/rss/articles/CBMirwFBVV95cUxQOFFEd25NS18xOGYtenhDX1RiY2VhdGw4WnZ6bXNKalJsQ0doOUFhOW5LVi1nc2pDUl9GR3dnaVN4QmY0OGxSRnVvcHZ3aVdDVDBXdWRjQm9JTGs1a2xSaW1fcngyVnkzY0dFTlUzSzhRbWNfeTl3Z1A4RWVSTkdIR0FPN25OSURnaHJ0NFphVGlxTzdhTHNBQm53b0wtY2lESFZlWTlZYllGNlJDSEZz?oc=5)
-*Gender · Exeter Today*
+### 3. ['Pimping website' inquiry finds human trafficking 'hidden in plain sight' online](https://www.bbc.co.uk/news/articles/cw8rzvdj8n7no?at_medium=RSS&at_campaign=rss)
+*Sexuality · BBC News (UK)*
 
-Royal Devon NHS trust is reviewing new NHS guidance on privacy and dignity. The issue comes amid national scrutiny of how hospitals protect single-sex spaces and biological-sex privacy.
+A report has found that women forced into prostitution as teenagers were advertised online, drugged and moved through cities. The BBC describes human trafficking as being ‘hidden in plain sight’ online.
 
-**⚖️ OUR CASE:** The Darlington Nurses were told to ‘broaden their mindset’ after objecting to sharing a changing room with a biological male identifying as a woman; this story raises the same question for NHS trusts.
+**⚖️ OUR CASE:** 'Sarah' was kidnapped at 15 and subjected to repeated rape, forced sharia marriages, forced conversion to Islam and forced abortions; her case shows the human reality behind sexual exploitation that institutions too often miss or minimise.
 
-**Who this hits:** This affects nurses, patients and hospital visitors who need intimate care, changing facilities or wards where sex matters. Women in particular need to know whether their local NHS trust will protect privacy in practice, not just on paper.
+**Who this hits:** This affects teenage girls being targeted by exploiters, parents trying to spot danger, and communities where abuse can be happening openly while authorities fail to connect the dots. It also affects survivors who need the truth told plainly, not hidden behind polite language.
 
-**Angle:** Our line is that NHS trusts must apply the law honestly after the Supreme Court judgment on sex, not hide behind vague dignity language. Viewers will understand what to ask their hospital or employer: are single-sex spaces based on biological sex, and what happens when staff object?
+**Angle:** Our line is that sexual exploitation is not an abstract ‘online safety’ issue — it is girls being bought, sold, raped and moved around the country. Viewers will understand why grooming and trafficking scandals require moral clarity, not euphemisms. They will also see why police, councils and social services must be challenged when warning signs are ignored.
 
-**Opening line:** "Will your hospital changing room follow biology, or ideology?"
+**Opening line:** "Teenage girls were advertised online while trafficking was ‘hidden in plain sight’."
 
-**Title:** *NHS trust reviews privacy rules after sex-based rights row*
+**Title:** *Trafficking ‘hidden in plain sight’: why girls are still being failed*
 
-### 4. [UK terror watchdog: free speech absolutism undermines democracy](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRm9RcTFzRWRxQnUzd29oYVR5UGdkQXhqcjhXdU9wNjg3QnlxU2ZEd3NtLW1haDhrOTZ5R0xDX3Z1VnBDSjR2SmhtN0J2YVVzeFpzWVpnZTRlZVlDWUF4eF96eVRFWXZNZGw0WlNnel9UX2NmdWxrZ0Nwc1plOHFrRHNJTzl1alUxWlM1V1U0My15MHhicXc?oc=5)
-*Freedom of speech · UnHerd*
+### 4. [Isle of Man Assisted Dying Bill given Royal Assent](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3UjRXTFpXNnA3RlZGQmg5ZDZRRmNTdmJkdHVlZXBDLVJSaUFheFhfc092cjZ4ZUtjYVJ4c18yWHBVLWpQbWh0ZlNEV2JnY25tcEFWeU9hMnhwT2pqeGc?oc=5)
+*End of life · BBC*
 
-UnHerd reports that the UK terror watchdog has warned that ‘free speech absolutism’ can undermine democracy. The comment matters because terrorism and extremism language is increasingly being used in debates about lawful speech.
+The Isle of Man Assisted Dying Bill has been given Royal Assent. That means the island has taken a major formal step towards legal assisted suicide, though practical implementation and safeguards still matter.
 
-**⚖️ OUR CASE:** Bernard Randall was dismissed and reported to Prevent over a school sermon telling pupils they did not have to accept LGBT ideology; Aaron Edwards was threatened with a counter-terrorism referral over a tweet on human sexuality.
+**⚖️ OUR CASE:** Indi Gregory, Sudiksha Thirumalesh and Rashid Abbasi were not assisted-suicide cases, but they show how vulnerable patients and families can be overruled by medical and legal systems at the end of life.
 
-**Who this hits:** This affects chaplains, teachers, lecturers and employees who hold orthodox Christian views and fear being labelled dangerous for saying so. It also affects parents whose children are in schools where disagreement can be treated as a safeguarding or extremism issue.
+**Who this hits:** This most immediately affects seriously ill people, disabled people, elderly residents and families on the Isle of Man. For viewers elsewhere in the UK, it matters because campaigners will present this as a precedent for Parliament, doctors and the NHS to follow.
 
-**Angle:** We should warn that democracy is not protected by treating peaceful Christian speech as a security risk. Viewers will see why vague extremism definitions matter in everyday life, and why MPs and schools must be challenged when Prevent-style language is used against lawful belief.
+**Angle:** Our line is that the answer to suffering is better care, not making death a medical service. Viewers will understand why ‘choice’ can quickly become pressure when someone feels costly, lonely or burdensome. They can use this story to ask their representatives what protections, palliative care and conscience safeguards they will insist on before any similar law is considered.
 
-**Opening line:** "When did a school sermon become a terror concern?"
+**Opening line:** "Assisted suicide has just cleared a major hurdle on the Isle of Man."
 
-**Title:** *Terror watchdog warning raises free speech fears for Christians*
+**Title:** *Isle of Man assisted dying law: a warning for the rest of the UK*
 
-### 5. [How schools are indoctrinating your kids](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOXUxSV9fSWJrMGlDMDJDbkZqQmVWVW8talJtVWhYbHB2ZTcySlJHQ3JQSGtob05Tal9JVDVwX0YyYTFzck9KNU5tVFRqeE84LWFlSE9OWHBsTTk5dTA1UHhnOEt2bmFkWjE1Z2wteVJpUHJqSklSQXN0eFA1RzhYelNIMWptT3l2OGc?oc=5)
-*Education · Spiked*
+### 5. [Students and academics sanctioned over emojis as part of Palestine protests crackdown](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbEJoeEhPY0pLNzFCQThwWS16TkNuVDdhTjVvNHBjUHRlSk52NDZfNFB2aVN5azlWZGRIbzdmUzk4QVVlVVVWM3J2X1drR2NDc2dqQTNuWm1JSlVyWU5RUHhQTm40OHhuR0dBQjUzNlFTUlJEV2htSGRLRnl4VVBRUVNmdzlyb1Z5NEt3SzAxRzVzMmV5RnpSWHA0YTNIRUJNS25MY0Q3RFg4ZzF0aWtTNGpvX0RBUklwc2s2WUNwNEo2SW81YWlURHlpaWZhYmh2c0xKbUFyd3k3MTd4cUxmZ09UV0pZajA?oc=5)
+*Freedom of speech · The Independent*
 
-Spiked has published a high-profile piece arguing that schools are indoctrinating children rather than simply educating them. The story focuses attention on what pupils are being taught about identity, sexuality and ideology.
+Students and academics have reportedly been sanctioned over emojis as part of a crackdown connected to Palestine protests. The story raises concerns about vague speech rules being used to punish expression on campus.
 
-**⚖️ OUR CASE:** Izzy Montague challenged LGBT teaching to primary-aged children with no meaningful opt-out; Kristie Higgs lost her school job after raising concerns about RSE on Facebook; Bernard Randall was punished after a sermon on identity politics.
+**⚖️ OUR CASE:** Felix Ngole was expelled from a social work course over Facebook posts on biblical marriage, and Aaron Edwards was sacked as a theology lecturer over a tweet; both cases show how universities and academic bodies can punish contested speech.
 
-**Who this hits:** This affects parents choosing schools, parents with children in RSE lessons, and Christian pupils being taught that biblical beliefs are harmful or outdated. It is especially relevant to families who only discover lesson content after their child comes home upset or confused.
+**Who this hits:** This affects students, lecturers and parents sending young adults to university who assume campuses are places for debate. If an emoji can trigger discipline, ordinary students may self-censor long before they understand what rule they are supposed to have broken.
 
-**Angle:** Our line is that parents, not the state, have primary responsibility for children’s moral formation. Viewers will get practical next steps: ask for RSE materials, check the school’s equality and trans policies, and object early when ideology is presented as fact.
+**Angle:** Our line is that free speech must be defended consistently, including for people whose politics we may not share. Viewers will understand that vague campus speech codes used against one group today can be used against Christians tomorrow. They can ask universities for clear rules, due process and viewpoint neutrality before discipline is imposed.
 
-**Opening line:** "Do you know what your child’s school is teaching about sex and identity?"
+**Opening line:** "If an emoji can get you sanctioned, what speech is safe on campus?"
 
-**Title:** *Are schools educating children, or pushing ideology?*
+**Title:** *Students sanctioned over emojis: campus speech rules are out of control*
 
 ---
-*Nothing significant today: Church*
+*Nothing significant today: Beginning of life, Gender, Christian freedoms, Christian society, Secularism, Islam, Church*
