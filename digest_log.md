@@ -1,3 +1,145 @@
+# Digest - Christian Legal Centre - 2026-11-05 08:55 UTC
+*Last 24 hours, AI-classified*
+
+## LIFE
+
+### End of life (1)
+- [Palliative care expert calls for Government to create transformation fund](https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1ZsdnMzYi1TQkxnclFlcm01YlFidlBIQnpqYWtYbnJxd1dSQmFXQUFBMWlwUU5iUjFLSjcwY05tWkJveGN2TEVOT3JTOHpMdDhBcEExVjk5VWRrSFIzc1ZjbGVHWFIxZDd0NGxWTDZwWl9EaE1mdGRxbGNaTDBmekh4WS1DbDZhTmJ3OXQ0c281ZjRicmRFM3BTSVpSbHpfOTc1UGZnRnhESURrZjJYckpzTFMyMk5MM2pPWUFiTlhEcnhsdHhn?oc=5) — *Care Appointments*, Wed 15:51  ·  also touches Politics & government
+
+## FAMILY
+
+### Gender (3)
+- [City of London defends Hampstead ponds trans policy in court](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWRNRDZUS2ZUdl9RTGNBU2duYTljWGptTFJnOHFnRHFXNU5qVXpSSVFqRVdoLXdBZlNoNzloS292cFJVQldBTV9FVElHN0xWLXV3RjJ1NUw3NnFwU05fRUlIRDBwMFhMQW9zcUpNZndRMEM4N1lPaWx4RUJhQ0J0cTNwMjd6YkJKQlNTVA?oc=5) — *City AM (also Gayety)*, Wed 13:42  ·  also touches Freedom of speech
+- [Trans row nurse Sandie Peggie appeals tribunal ruling on discrimination case](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlQyZDdSUTBXR2s2dzdNSk9MMFR5S3NHUE5CdVgybnlWN2s0ckQxRHlWVW5EdVhHemlXUkFpRDFVVFlMekpGd2tFVWlkakZOcldhYjJwS2t0LWZGSF9mQlpuSUJ2VU8zWVJKUkZ2aGdYMllabG8xNWFwaXV6eTJPYnFJUU50YW9hODBJOEVkU0oyN0JMVk1pN0YtSEczWU4zeVp2TlA5cnd5VTR0UnFpR3NR?oc=5) — *Sky News (also GB News, YOUR EX)*, Wed 13:40  ·  also touches Christian freedoms
+- [Labour’s trans law is a disaster for young girls](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb25NNUVUYUkzX2pGVDl2N25OQ0toV3NlWmQ1MjZYSFFiVWtNaXNGcE1CWHZFaXFKQlZ5cEYyRFlvOEU3dU1rT1FtWks0U1A0eF9zOGpLbGpxVnJhclk4dWRTSU03V0VubVpReTRfVExJNlFPTkZuOFZPTmdOc3JiVUlfalNieURYOWJv?oc=5) — *The Telegraph (also Daily Mail, The Weekly Times, News24 +5 more)*, Wed 15:01  ·  comment  ·  also touches Politics & government
+
+### Sexuality (2)
+- [List: All the types of pornography that will be banned from Friday](https://news.google.com/rss/articles/CBMingFBVV95cUxQS1VQdEg1MW1SSFZocWVQZHZ3SkNySkZjV3FqbUlQeEl4R2pCOV9GMG5ZY2JHV0drWWJ2V2QzR1lHMUtrTGtiMm5MTlljVFlLSHRCNlA4UVh2c1I0VGd2VkdGOUpxZUJYSDlKUU1TaHk1QWl6dlhHdVY5clNTNF9hekNBMGV5Zk1zaWtjRFMyOG9haUZxc0dOYkU2QXFFUQ?oc=5) — *The Independent (also WIRED)*, 07:00  ·  also touches Politics & government
+- [Govt’s Conversion Practices Bill will ‘clamp down on prayer, preaching and conversation’](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZUJBYmltd2NVRU94NTFBYjJIZlBidGlqanQxMzRkdzJkVm5zVnRyNnpBVTZlaXF4LVdxTTdubzBmN2k2RmROWXozYkx0Q0NjMk1IVU5VY0R5VEktOE8tOHg1YjZOd1hPTXJLWEdQVkZOdU1Ed0JtX0tVOU5ZZVI4Z0Q1aTd4OXBVYmhuT3d5NUQ5TThwcXZIQ01hdzRzRjhyZ3ZiZ09uRm5zY1NzWmNZZG5rRzZLUG1VSHY3Nm9IVWc?oc=5) — *The Christian Institute*, Wed 14:23  ·  also touches Sexuality, Freedom of speech, Christian freedoms, Politics & government
+
+### Education (4)
+- [New report finds schools in Wales failing to meet legal obligation to teach religious education](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWk5Id2tVMnMyRVpodTItMXpDOWdvbUplQkNXQ0I1UGUycmpuTVpBYnUyR1kybTR4QzhNRFlzTDJmc0xZR1BWSDZTaGd4bURxVmwtMzhneExQYWlwVkdQQldueDk5UkllYkdlWXpOTzJrTTJiSXkwS1NaTkwwR1BRNlprc2lobkZLczZtOHZoWkpremEyNFpTM2xackxRVXFrN0dNQnh5SlhfazFUSHlQeWxaeWF3WWpFM2NqX3ZQOA?oc=5) — *Nation.Cymru*, Wed 16:34  ·  also touches Christian society, Secularism
+- [Do not refer all anti-Semitic children to Prevent, teachers told](https://news.google.com/rss/articles/CBMipgFBVV95cUxQWC1PNGRYZFZlbHhfa1hVemlUdURlZWFtbDZNOWRFNklxOEgyUThkUHdrWnAtYUlWZlNrNHF3MGxHRDZJOEcxN1NsUWhwQnZBb2NTNGxZTUo3dkI1SThRQVg1S1FJTV9uN0NweFpnWHNIZ1VrNHdFczk1TUhRaTNFbUdabER2RzVtSTE2d09EVVRKOTRJRnNQbldvZDhEZnM4V01rYWF3?oc=5) — *The Telegraph*, Wed 15:44  ·  also touches Freedom of speech, Islam
+- [The three-way squeeze on Christian education](https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1oxQjdzMzY0N2Zxck1CMUFEdXl6ZGdVLVpRS0pVMTNlNENQd3NONzh6M2VrelFCeDR2NTdtdWlvZjRUUjBNNnBsdjZ2Q1FtME9NcnFTemx6S3BNbk5MaGVWOHE4dkE1VlNHdDFNNmk3MHFXczVzVW5xdTZqV3k2a0Rva2JjQlk?oc=5) — *www.christiantoday.com*, 08:09  ·  comment  ·  also touches Christian society, Secularism
+- [Early 2027 for Education and SEND Bill but how far will the Government row back on rights plans? Parental trust and confidence depend on it](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1V1UmpBNXFVSG8yNFBBbmFFWVBUc1d2M1EwTzNfTjd4R2RPWXFHLTNodEhyNGp5SUlRZHdzWEhKUkg1dmllR1Y5X21nOXo3RUxIaFFJd2xMcnBiTzMtUEo1cU1UWnY5U2hXQWFVUGNPQVZwaHc1UEhjR0lDNjF4LTdJelY0aGV0MjY1ajJwbWQwMzJ4SGhud2JpOFJwUGlZLTQxY3VzRm53N3VTUV9CUnl1TGplaVBER0kwN3NscWl3Zw?oc=5) — *Special Needs Jungle*, 05:00  ·  comment  ·  also touches Politics & government
+
+## FREEDOM
+
+### Freedom of speech (9)
+- [Britain’s Online Censorship Law Now Comes With a Crisis Plan for Your Posts](https://news.google.com/rss/articles/CBMiogFBVV95cUxQb2pWdTBuQzlGT2lXOGdfYVF3T1VxUEhENDVNUzQxeWZScDNXdGcyNTc2dnNick5OUTJzRUhqU2dWd29qZ0F4ZzlocEF4T3dRbzExek5ESS13YVBsNng1TE5fOEY4RnJ1clFTbkcxNUhBN1JpMEFSMnZNNkpHMF82TDBJTUJhMGlRYVZOd3o3WDl3TmJ3Qk1qb3BkRjBQbTg3QUE?oc=5) — *Reclaim The Net*, Wed 17:59  ·  also touches Politics & government
+- [Palestine Action ban undermined confidence in anti-terror laws, Supreme Court told](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzTHZaY2RxSUw0R3dnV21wZUVyYzlRM1VpdkZZNU5FcXoyNmVwRWNRN2lmbURuQXFUMDAwckNNUUxxelZMQ2Qtby14UDZiU2M0NGxMWjZSOVRDTjNYWEE?oc=5) — *BBC (also BBC News (UK), The Guardian, İlke Haber Ajansı +8 more)*, Wed 17:12  ·  also touches Politics & government
+- [UK: Police Charge Kellie-Jay Keen Over X Posts](https://news.google.com/rss/articles/CBMie0FVX3lxTE1vMkprVEZaVGJwT0hkcTNZSzgyZkkwR2FsXzN3QzVLcGdRV09vQW9pbEt5WGVYMzE1NUYxczNCM25xc0oxMWt2MmlJU1dxd1E2TkkxeDhlXzlGc0RreFJrOXA1M0hWUlhHLU9pY3BGMHhmS0ZJNGluaVhjbw?oc=5) — *Reclaim The Net*, Wed 17:00  ·  also touches Gender
+- [UK government facing legal challenge over IHRA antisemitism definition in schools](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjd4TE02WHVnVnRUeEtRazV6RWF4OGN3a3hTTjFUQlBnTkE2YS1FZUFwY0dKRlBnd1dPbWhrVnk2Q1VMTU9PZmV5WWdBdXUwbnEyRjBXNEwyVzB5TVo5ZUFQNTlhbGcya1FjYTVBdVJNZDZ0elg1NVdoMXktQlFnTnJhM3JRNy16b2F1dzNPRFZWUnBVdWZjOUptTm9zcnR1NGItME83UG0yb1Nzck10d0U0OA?oc=5) — *Middle East Eye*, Wed 15:56  ·  also touches Education, Politics & government
+- [OfS looking at ways to test if free speech changes are working](https://news.google.com/rss/articles/CBMinwFBVV95cUxORDdyM3A0bnoxa3JRaW5pQzEzSTgycHQ3QllnN1laQnlRVGtWSjJlcXJVaUU4YUQ2UzNRdFpJMTI1RkxvcGpJa1dNR0VqaE12Y19fM2FvWFNRQkJVZGFBSHNxWmV6Y0Jha3JDQTBBVjZkWmYyNnVzUzNBRDJHdFFkSF9Yci1jM2Y5WXRJa1BwLWIzYW9tTHNmNzloMmgzanM?oc=5) — *Times Higher Education*, Wed 14:01  ·  also touches Education, Politics & government
+- [UK’s top court mulls appeal against terrorism label for Palestine Action group](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUEZza1hkQUROd3dib3RYRmtSZWE2VG81MG1kaURhTmFyZVZSYWFzamxMYjdlTFdKb2djZnBoT1R2b2FSV01iQlY1emwtdmVQYXJISWtjdjhqSS13a0VWb0NlTDJxbU5oYmxEX3FsX1VLYXhsZkE2VnFlMW5HLUlPZW1NQXFtR0Z2RjJwcGQ5RmVSYnp3SHNmVk5aZ21ObnQyR1BsZmV30gGrAUFVX3lxTFAwemNHSHpXYmxXVkJOZUt3Q3pLNDlXc0RJOFQxNGstV3JTRlVUV3RxeVIwSG9kcmIxQUJ3b3Q3c3BVWWJWYXloR000MURKY1JmaHBZeGhxU1pKUWlWVWdrX1Rra1JBSjhERlVLXzNZN3dRb1ZtMllDcHZNQTFNcExBM2JGbUtVVWdjdXdkaURMMDBBYlE0YVV0MmtjejAyQzVSR0xrYWZPS0JSdw?oc=5) — *The Times of Israel (also Sky News, Middle East Eye, Anadolu Ajansı +5 more)*, Wed 13:15  ·  also touches Politics & government
+- [Ofcom Admits ‘Highly Effective’ Age Checks At 16 Really Mean ‘ID Scans For Teens’](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTFBSVRta2ZZWlkyWFFnTzFWYVB0NDEzZWttdHFhWm5tVnlVVVBmMWVwcVpGYWRVQWc3bEV4dkRDSHJPaUFfZl9SUWRKSEVHLV9JTENCVGx3V0ZCeWd5OW55alZwVXNxYm9IUDQzRGJsdGI0TzJ5SmFDV1ZyZFRMX3QzUWpqd011LXkzZFE1Uml4NjBKVmZpbVJoSUhkMEtIdDhvRy1vbm1pNXZlV2pOVDd3Rk8?oc=5) — *Techdirt.*, Wed 17:31  ·  also touches Sexuality, Politics & government
+- [Anti-Zionism as ‘Protected Belief’: The Case of David Miller (Britian)](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOFNHVHYwMDl1QkJOVEZKbDhPTGxXazFqcERqeWl2N2ExX3F0amVOWVV4cU9mQlVYS0dxdW5HWVV3aUVBbTZVc3U1MW9GQW5xMTVxUmhIay0zUDFQb0ZXdjFzOTFNbUJLRHhFXzhKQXVJNURORU9rZkxKUFhOY1RVeUZLNGx5dXJkd3Y4N1poMWNRMFQ0ZlhSaWhOZlFEeDNnUmtrdA?oc=5) — *Race, Racism and the Law*, Wed 13:56  ·  also touches Education, Secularism
+- [Culture Sec halts £1.6b Sky & ITV deal as watchdog to probe 'free speech' fears](https://news.google.com/rss/articles/CBMifkFVX3lxTFBLNldkVWlqLXNUeWk4TjN3MkxkLUo0ay01Z3ZfTS15N3NiWWo5ejZBdG1vVGlWX3FnRUZhX2hQQVlLSXlYTXZwTU93alU2dEQxTEdRZWp6RmduVkxkaGxIV1JxeG5UdXgweENvNEJtQ1dwbXRva1RPVEJDV1NOUQ?oc=5) — *The Sun*, Wed 13:33  ·  also touches Politics & government
+
+## FOUNDATIONS
+
+### Christian society (2)
+- [UK commits to ‘good faith’ talks over slave trade harms](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVFsUUp0aXFPZlVqSHgwZ05hM2YtWXdsZElTVzNrbHMwdHJ2OTNib0l2M0Y2UlVHaXdRZEdqaVQwbkhBX3NON1VPRFc2bG9qVFhfbXBWVVA4S1dKeHEyRjJ6N0o3RTQyQzZ1NzJhRVZ6OHdTVnVFT2d6X2lMRENwOUlObE0wWnIweUt1N3luU2dyY3hsT3pOdEJzNmZTaFk?oc=5) — *The Telegraph (also The Independent, The Guardian (UK), Sky News +3 more)*, Wed 23:22  ·  also touches Politics & government
+- [One of our greatest cathedrals may have to close – thanks to Labour](https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3M4bFdNcU9qOE85X2dsUFZhal90ZkNUMWlBZklTR1FXV2VvVjZEVG9FZ2xvTFJleG5wTG5nOUVDZV93Wk5ibGpXUHJnWU8tXzJ0cWZ6U2pwbldfT0M5YkpDYVpWMXRDUVg2R0hFN3g3MmJQUEszNXoydS1qSUxfZzlKcHdVR1ptcEVGMHZhaFFXc0lWeks1OXR5RDQ?oc=5) — *The Spectator*, 00:35  ·  comment  ·  also touches Church, Education, Politics & government
+
+### Secularism (1)
+- [Why humanists are right to ban Jesus from Scottish schools](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGJzclY5MVdqckxfSWFBZzhCTkplQ1dQY1kxVFZLZjFIczVrbFZQZkFULWtlY2dGaGtzODJxWm5oQWpldkNQVFR4dlZKOGpLR0dWZ2F5aEctTkR4eFhaX0lncS1LSGI5WEN5ZVBSOENIdXA4MjFOWnFNdzdQb2RlV0JCU2pfdFQ3a05oa0ljNHc3M05RZzlyeHhCVUZRNDAwTXRkTA?oc=5) — *The Herald*, 07:05  ·  comment  ·  also touches Education, Christian society
+
+### Islam (2)
+- [Scottish Parliament votes against Reform push for burka ban](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWUwV1lIampnV2RFQkpSRDItcV92dWtIOVRyR192Q2FtRkZnc294T0lTd3dxRDVJN0JtTng5M1NueE5uWVdVeWlNUm1KSVVxNEVVLXFncnE3RDBJR0JsNjhJQ2IwVG1JNXMwUzlvckVjZlRJZnc1d2hJVE91X21FSzYwMFA1ZUxTUHFLbVc1WkxvclhTWXp4MGxXcnQ3Y0J6SE5jNQ?oc=5) — *Glasgow Times*, Wed 18:52  ·  also touches Politics & government
+- [Consumers have a right to know if their meat is halal or kosher... Labour must act, writes Esther McVey](https://news.google.com/rss/articles/CBMidEFVX3lxTE1FcEdUSEw5ajZjRkFFRy1zTDJOTXFJeXdWVlNzRlpKV2JkaG1RMC0yNi0zU1l2UElZdm8tT1NDQkh4a0w3TXJxVGVoczQySk5NRng5c2wxRzBfR3RyZkFVbXBaMUgwLVFISHRYT1B5NUwyczVw?oc=5) — *GB News (also AOL.co.uk)*, Wed 16:10  ·  comment  ·  also touches Politics & government, Freedom of speech
+
+### Church (2)
+- [Cornwall church minister's alleged sexual touching 'disguised'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE12RmJ1WERLYzFnTDdXU1kyajZSZXFmZXpsbTlnQkJZeWI2eS16V1BNMDBBLVVuLV82NmphWFBESTIyTG90OF8xaGJnWnd0bDh2TFdLY2F1UHJLQzdJVXc?oc=5) — *BBC (also Voice (Cornwall))*, Wed 14:51
+- [Justin Welby: Paying slavery reparations would be a 'moral evil'](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMG1ybEdLZjB6OVNtakhoUGxmWWNFZjVpS2J6X0UxbTFlM09MTTBDa0ZhNjNXZ05ISHpaQWk4WHB5cjF1MjVkN29zQ094dEw1dnpoX3NCbDBfcjUzYjlPaEdSRno2YTNrZDM3MVZRaGNQcVJaaEtIX0xVblZDVFVIRFdYV3A2aVNYY3Q2UkVldW5UZXRucmFQTV9jS0FaZXVjMVpHTy14RTdWUmc?oc=5) — *Premier Christian News (also The Church Times)*, Wed 14:30  ·  comment  ·  also touches Christian society, Politics & government
+
+## 🌍 INTERNATIONAL (1)
+- [Christian Hong Kong activist Joshua Wong gets 10 years in jail on national security charge](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTWNlVjJteVBxcXlvV0JQSlhhSDFSLXdvRnVISHpMVnpzWTVDYlZtT2tZSm55TzBsekZ2bEdySW9xUkRZdmt3UUhJWnV5M1E4cEZMNWQ4VWVqNWh5dzRkSzVYZEhmQl9wbVJ3cjQ4T1Q4TWsyM0tRcjZHOXIyNzhyd0xRTC15MjRhdUU1TVc0ekVxOGhiMS1LZ0k4bHFQZ012OXlGaDl6cE96UjdLVUZVTWo4dk5fWkt6YkRpMi1WOGZMZXJkeFV2T19DRl9YS0RIM0E?oc=5) — *Premier Christian News*, 07:15  ·  Christian freedoms  ·  also touches Freedom of speech
+
+---
+
+# 🎯 Top 5 to comment on
+
+### 1. [Trans row nurse Sandie Peggie appeals tribunal ruling on discrimination case](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlQyZDdSUTBXR2s2dzdNSk9MMFR5S3NHUE5CdVgybnlWN2s0ckQxRHlWVW5EdVhHemlXUkFpRDFVVFlMekpGd2tFVWlkakZOcldhYjJwS2t0LWZGSF9mQlpuSUJ2VU8zWVJKUkZ2aGdYMllabG8xNWFwaXV6eTJPYnFJUU50YW9hODBJOEVkU0oyN0JMVk1pN0YtSEczWU4zeVp2TlA5cnd5VTR0UnFpR3NR?oc=5)
+*Gender · Sky News*
+
+Nurse Sandie Peggie is appealing a tribunal ruling in her discrimination case after objecting to sharing a changing room with a biologically male colleague who identifies as a woman. The case keeps the pressure on NHS employers over whether female staff can rely on single-sex privacy at work.
+
+**⚖️ OUR CASE:** The Darlington Nurses were told to 'broaden their mindset' after objecting to sharing a changing room with a biological male identifying as a woman; Jennifer Melle also faces disciplinary action in the NHS over compelled gender language.
+
+**Who this hits:** This affects nurses, midwives, carers and hospital patients who expect female-only spaces for changing, washing and intimate care. It also affects any woman at work who worries that raising a safeguarding or privacy concern could be treated as discrimination.
+
+**Angle:** Our line is that biological sex matters in the NHS because dignity, privacy and safety are not optional extras. Viewers will understand why these cases are not isolated rows about words, but a test of whether employers will obey the law after the Supreme Court judgment and protect women who speak up.
+
+**Opening line:** "Can a nurse still object to a man in her changing room?"
+
+**Title:** *Nurse appeals after trans changing-room ruling*
+
+### 2. [Govt’s Conversion Practices Bill will ‘clamp down on prayer, preaching and conversation’](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZUJBYmltd2NVRU94NTFBYjJIZlBidGlqanQxMzRkdzJkVm5zVnRyNnpBVTZlaXF4LVdxTTdubzBmN2k2RmROWXozYkx0Q0NjMk1IVU5VY0R5VEktOE8tOHg1YjZOd1hPTXJLWEdQVkZOdU1Ed0JtX0tVOU5ZZVI4Z0Q1aTd4OXBVYmhuT3d5NUQ5TThwcXZIQ01hdzRzRjhyZ3ZiZ09uRm5zY1NzWmNZZG5rRzZLUG1VSHY3Nm9IVWc?oc=5)
+*Sexuality · The Christian Institute*
+
+The Christian Institute warns that the Government’s proposed Conversion Practices Bill could restrict prayer, preaching and ordinary conversations about sexuality and gender. The concern is that consensual pastoral care could be treated as unlawful 'conversion' activity.
+
+**⚖️ OUR CASE:** Matthew Grech was prosecuted in Malta for sharing his Christian testimony of leaving a homosexual lifestyle, showing how conversion-practices laws can criminalise testimony, prayer and conversation.
+
+**Who this hits:** This affects pastors, youth leaders, parents and Christian friends who are asked for prayer or advice by someone struggling with sexuality or gender. It could also affect people who want Christian help but may find churches too afraid to offer it.
+
+**Angle:** Our line is that abuse and coercion are already wrong, but criminalising consensual prayer and pastoral care is an attack on Christian freedom. Viewers will see what to ask their MP: will the bill protect voluntary prayer, preaching, parenting and private conversation in clear words?
+
+**Opening line:** "Could praying with someone soon be treated as conversion therapy?"
+
+**Title:** *Conversion Practices Bill threatens prayer and pastoral care*
+
+### 3. [UK: Police Charge Kellie-Jay Keen Over X Posts](https://news.google.com/rss/articles/CBMie0FVX3lxTE1vMkprVEZaVGJwT0hkcTNZSzgyZkkwR2FsXzN3QzVLcGdRV09vQW9pbEt5WGVYMzE1NUYxczNCM25xc0oxMWt2MmlJU1dxd1E2TkkxeDhlXzlGc0RreFJrOXA1M0hWUlhHLU9pY3BGMHhmS0ZJNGluaVhjbw?oc=5)
+*Freedom of speech · Reclaim The Net*
+
+Police have charged gender-critical campaigner Kellie-Jay Keen in relation to posts on X. The story raises fresh concerns about police action over lawful speech online, especially on sex and gender.
+
+**⚖️ OUR CASE:** Anthony Stevens was arrested in front of his family over tweets defending free speech, and Victoria Culf was reported to police for saying it is harmful for children to try to change sex.
+
+**Who this hits:** This affects ordinary people who post, share or like comments about gender, women’s spaces or children’s safeguarding. It also affects parents and professionals who may now self-censor because they fear a knock on the door.
+
+**Angle:** Our line is that police should be dealing with crime, not turning contested social-media opinions into criminal matters. Viewers will understand the practical risk: even mainstream gender-critical views can trigger police attention, so they need to know their rights and keep records if contacted.
+
+**Opening line:** "Are police now charging people for gender-critical posts?"
+
+**Title:** *Kellie-Jay Keen charged over X posts*
+
+### 4. [City of London defends Hampstead ponds trans policy in court](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWRNRDZUS2ZUdl9RTGNBU2duYTljWGptTFJnOHFnRHFXNU5qVXpSSVFqRVdoLXdBZlNoNzloS292cFJVQldBTV9FVElHN0xWLXV3RjJ1NUw3NnFwU05fRUlIRDBwMFhMQW9zcUpNZndRMEM4N1lPaWx4RUJhQ0J0cTNwMjd6YkJKQlNTVA?oc=5)
+*Gender · City AM*
+
+The City of London is defending its Hampstead ponds trans policy in court. The case concerns how sex-based facilities are run when a person’s gender identity conflicts with biological sex.
+
+**⚖️ OUR CASE:** The Darlington Nurses’ case shows the same issue inside the NHS: women being told to accept a biological male in a space they understood to be female-only.
+
+**Who this hits:** This affects women and girls using swimming ponds, leisure centres, changing rooms and other intimate public facilities. It also affects councils and public bodies deciding whether their policies now comply with the legal meaning of sex.
+
+**Angle:** Our line is that public bodies must stop treating women’s single-sex spaces as optional after the Supreme Court clarified that sex means biological sex. Viewers will learn the question to ask their council, school or leisure centre: does your policy protect women and girls on the basis of sex, not self-identification?
+
+**Opening line:** "Who gets to use women-only swimming spaces after the Supreme Court ruling?"
+
+**Title:** *Hampstead ponds trans policy tested in court*
+
+### 5. [Do not refer all anti-Semitic children to Prevent, teachers told](https://news.google.com/rss/articles/CBMipgFBVV95cUxQWC1PNGRYZFZlbHhfa1hVemlUdURlZWFtbDZNOWRFNklxOEgyUThkUHdrWnAtYUlWZlNrNHF3MGxHRDZJOEcxN1NsUWhwQnZBb2NTNGxZTUo3dkI1SThRQVg1S1FJTV9uN0NweFpnWHNIZ1VrNHdFczk1TUhRaTNFbUdabER2RzVtSTE2d09EVVRKOTRJRnNQbldvZDhEZnM4V01rYWF3?oc=5)
+*Education · The Telegraph*
+
+Teachers have reportedly been told that not every anti-Semitic incident involving a child should automatically be referred to Prevent. The story highlights how schools decide when speech or behaviour crosses into extremism reporting.
+
+**⚖️ OUR CASE:** Bernard Randall was dismissed and reported to Prevent, the Government’s terrorism watchdog, after a school sermon telling pupils they need not accept LGBT ideology.
+
+**Who this hits:** This affects school pupils, parents, chaplains and teachers who may be reported to counter-terror authorities over what they say in school. It also affects families who need confidence that Prevent is used for genuine safeguarding, not ideological policing.
+
+**Angle:** Our line is that Prevent must be proportionate and consistent: serious extremism should be dealt with, but Christian belief must not be treated as a terrorism risk. Viewers will understand why parents should ask schools how Prevent referrals are made, recorded and challenged.
+
+**Opening line:** "Why was a Christian chaplain sent to Prevent for a sermon?"
+
+**Title:** *Prevent guidance exposes double standards in schools*
+
+---
+*Nothing significant today: Beginning of life, Marriage*
+
+---
+
 # Digest - Christian Legal Centre - 2026-11-04 14:56 UTC
 *Last 6 hours, AI-classified*
 
@@ -9902,117 +10044,3 @@ Premier Christian News reports that a former Church of England priest described 
 
 ---
 *Nothing significant today: Marriage, Sexuality, Christian freedoms*
-
----
-
-# Digest - Christian Legal Centre - 2026-09-04 12:46 UTC
-*Last 6 hours, AI-classified*
-
-## LIFE
-
-### End of life (2)
-- [Calls for Home Secretary to block 'Dr Death' visit to demonstrate 'suicide collar' ahead of Assisted Dying Bill vote](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Ccmx1cHpLSnhnV1hMb0FNLXhJSUFPQlFWOUwxV0NDc25OREpzdTA0UmxRUWI3SmNGNlFTZzlGU29WMUFLa1pkMk9zNWF1UVZQdGVoRg?oc=5) — *Independent Catholic News (also LADbible)*, 10:24  ·  also touches Politics & government
-- [Assisted dying Bill MP ‘confident’ Commons will vote yes despite PM abstaining](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGxqb2lPT1plRTZnMjQwUjNxOVdybXJZMjlPMWNzSDZaaURxMVFacThOMnRSYUFZV1BXWEhqZ254OWVqZHVGbmNnSjNlaDQtQUQxRno4eXoxVmFCSXRCRnMzdkJBYXBvT0NLZENJaXc2Wm9zMFRfTkt0V3JWNlBtQmM5N0lIdjVaMlk1UzNVLV9iekVNLXlzdzZsUWRKWGkzbnl0dGpR?oc=5) — *Nation.Cymru (also Border Telegraph, kentonline.co.uk)*, 07:00  ·  also touches Politics & government
-
-## FAMILY
-
-### Marriage (2)
-- [Minister urged to move quickly on cohabitation reform](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmFnb1M2UmN0Yi1XYUNrWXFhSm40c2lWWkN0dGtYdTVPVDNEbVFxTE5sYWRsMkhrT3BtNzg4cVBLQlBGYWZJUjAtRDNBYVZRcVE2S0JLRWNMbEhzby14dTdhZEM2XzlrcWtjYlNCQkJCUlRSVnVRUE5idThpd3hwMVNhNGQ4YVltNHlocmFqN1g2cDltMER5ZkZISTF0THRvTUxkdmtn?oc=5) — *The Law Society Gazette*, 09:49  ·  also touches Politics & government
-- [Stop wordless, commitment-less weddings reforms](https://christianconcern.com/action/stop-wordless-commitment-less-wedding-reforms/) — *Christian Concern*, 11:11  ·  comment  ·  also touches Marriage, Politics & government
-
-### Gender (3)
-- [Health minister calls meeting on Wales transgender surgery pause](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSckYyZ2RfWkV1NjhJdDJPVVprUjEtWEhKcmVRazZzWjdZRkJtTWMxSHBjM20wTm1mUGhDMVo0WWFtSl9mU09KTE1JaHh2Yi1Wc0tfb3U4cmJmalJJ?oc=5) — *BBC (also Christian Concern)*, 11:54  ·  also touches Politics & government
-- [Police Scotland faces court over letting men request a strip search from women](https://news.google.com/rss/articles/CBMinAFBVV95cUxOeUZTUHBoRGtpbGdnaUJNYzdtdEc4LWdRd1BIVWk0LWFzNnRILU9IQUtZREs5QVNsWTRiMEF2MkZNa3hPdkh2NVpKZGFqWFpLYTB3ZFZJbHdLT1NnUmx2WVFEX2c3dDFsZGE2NXp2cGU5ZDBNZEUxY2tSbXpsaGpnRmkteWowZUlZMXpfTWx3aC1wWkJrV2ZBRFVfMXXSAaIBQVVfeXFMUHhxb2hEWVZPVXN1YjduNm9SWDVBT1J0NmhJdTkwVDBzNFhEMXFrMTFYSDJoemVGakJ1Q0dUX0JaQXo2SHFyQlpQWUxjcVZPaWhZUnAxaHIxR0UzZnRPNW1OQkNaeFhMazFoOU9UUTVhOWZYczlNOWVkNjdpNl9SVzhobTBZX3pwTy1oTHJCNFRxemJEOUd0MVQtRlEyV3QtamZB?oc=5) — *Scottish Daily Express*, 11:11  ·  also touches Freedom of speech
-- [Trans Green Party activist elected to women’s role](https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0YzV1VHRWpuOC1od3Qtc09NOHdnTUIwSDh5eWtFeThzUTAtMzB6RjBlc3N3NVVPVGYtVkQ2NEVFa0xNbWJQeTVyMkFJZ2ZTek9lbnhGT0QtdDNBNURrNjYxdzNmNzJlQ3MwVjlkbml0YlptQ1Q1cDJnV052WlEwVVFGZHN1VkFZbVBxWnNUMThVRDBPUzNXemVUM1V5QUhKQ0FZ?oc=5) — *The Telegraph*, 09:19  ·  also touches Politics & government
-
-### Sexuality (1)
-- [File-sharing site agrees CSAM safeguards to avoid UK probe; porn platform fined](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaUN5dGt2UEdBSE9NdDRKQWpLeXVDUlluNnZGX2dSbUV3YlpmeDRqUjlCQ2JnTjJlcWJXX0R6ZnVJUFZFQWg3dGNzMk1rOVByMG82SHJTaGUzNVF6RHRuRHozWjQxREY4TlcxdllqM3l3WXd6RllEV3RPeGdJbVpNTy1Fd3V5YnM1aGxYT0JsR05peU1BV3luNWhrUnRHS29NS1ZER3NnbW8tdVJiMlEzZ1FXTnVIUGtmRTc1aS1PWmpUdG9HWXJUM21xS0JueGQ3ekxpNi1vbjVpQkXSAVpBVV95cUxNY0lKdy1Lbk5yTUd6MFFzMExHNDFLcXVlRGY5bmw2TWhtOFJVeVEzRGlOc1d2TWVJd2g3ZDc4VkdLeUdoTmhjR2k1NktNb2lPSFpsR0JDb3RHY0E?oc=5) — *MLex*, 11:57
-
-### Education (2)
-- [MPs claim UK school 'forcing female pupils to wear hijabs' in letter to council](https://news.google.com/rss/articles/CBMijgFBVV95cUxQODJBQ2NYeFVWUUFwb2paYlJ3OEVta1A5akQxREVZX2lpTDExM0E0blZESUV1Wl9rNlk5bS12YjV1MS1kMjlKYVJ2VkVSa1locmtrejdhUEhoUU9sbkgxOGtYUmJERXBkMFNRU0VxTGt5RzBvc1JHMndZcU4tOUpNcTZ0REpJdVdvSVJPbExB0gGTAUFVX3lxTFBuZGZQZlRxaWVET2d1ZnpEM1lzbGlPQkhXbXh5bG1DaVlGZnhUY2g2MG9uTmhCMS16ajdDVldBeWtENU9hUUpnR0I0SGd4X1lCT2ZobEU4MnZvZDFtYkxoZXZJOWgyU3F4THhZVTlxMEhLdW1JVk0tN3RtVi12aXlUQlVUMHJZdlh5TktTcFBqSENBbw?oc=5) — *Daily Record (also Daily Star, Yorkshire Live)*, 07:38  ·  also touches Islam, Politics & government
-- [MSPs urged to hold an inquiry on impact of VAT on private school fees](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaG1VbzZacXpjNWhFS25GU05HeHBrY1dMRUQ4QldrOWVrSl9NN3NmOXR3QnFtVDZjT3RfTEJ5Z3R3UjVQUGlZb1Rjc0JFTHVNRzQtT2MtZ0VXQXhtRDVWOFl3YTNFcTFscjJRa2tSVU9kMzN0eklQZ1gyUFRtamR4aDE5T25KMm9pcFhfTk5fUTNJeWZrTm5hSVhvOVlERUxydFFwYnFCaw?oc=5) — *Helensburgh Advertiser*, 11:30  ·  also touches Politics & government
-
-## FREEDOM
-
-### Christian freedoms (1)
-- [Tempers flare at Belfast City Hall during debate over persecution of Christians](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZG91VFZYaUoyVTlhM3p1bnY3eU0zbUpfT3hJZ0ozVTI4UXMtelhYbE54c3BsVlRzTXg2U2RlS21xVUlIQjdiMUR5c2J0dHlNSXhQZTRUQWFkQVFZTkctRkZ1U3ZBZG5IZkdCMHQzT0tqeTlHb19rOGN1TGNtWnJoLUNGRlJhcWpEYWpVMG14UHllQnlpM2ZiUXQ2RkZra1RpdE9XYUV1MXozUUF0alZkQ1lBcmtNeE9OaUtVQXU4elhNb09TelVLelpnaFc3SC1fM1JORg?oc=5) — *The Irish News (also loveballymena.online, Belfast News Letter)*, 07:13  ·  also touches Politics & government
-
-### Freedom of speech (1)
-- [OfS ‘regrets’ mistakes in Sussex free speech case](https://news.google.com/rss/articles/CBMivAFBVV95cUxONWNka3VPZlNUS2pjN01MR0szWXAwNmRPa3QxaUg3Yi03MG9qbnJVOENxLTdtVmFiZXNxTUJaZG9paWxSS0lBWG9tZEE4WkNQdzF4YndTLV9FVl9Sb2tNdE1xeS1UeEJjRjRKYTdNQ0pSTGxlUjdJZXBRdDU4QmhlMGdmRkVCYW1DZ2VWRGdzSkVPX1NMRFMzSHM1VUcwS2hBaFB6anRvd3JIV2NOcVlncTZGSWpPZDdZU1l6OQ?oc=5) — *Research Professional News (also Times Higher Education)*, 09:44  ·  also touches Education
-
-## FOUNDATIONS
-
-### Church (1)
-- [Church leaders warn vicars becoming an 'endangered species'](https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXBmMmZrZF9iOXp5OTMwU2txdUl3MVgzc0EyLVJWcmgxOG5QRVBJSXktdW5kYlFqTWhnRVBzZ1pyb2lKek90d1hmaHcya0FOeDBkRjQzVnZiVVB0VGRFQms3V2ZnTlEzeWlLbi1OenNMMGRrZ25sZUF0UlEta1JHTWgyQVpucnE4QWlmemJpNlJFRHJuY1FuTnJsWWNHTlFKRjdhaw?oc=5) — *Premier Christian News*, 10:24
-
----
-
-# 🎯 Top 5 to comment on
-
-### 1. [Assisted dying Bill MP ‘confident’ Commons will vote yes despite PM abstaining](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGxqb2lPT1plRTZnMjQwUjNxOVdybXJZMjlPMWNzSDZaaURxMVFacThOMnRSYUFZV1BXWEhqZ254OWVqZHVGbmNnSjNlaDQtQUQxRno4eXoxVmFCSXRCRnMzdkJBYXBvT0NLZENJaXc2Wm9zMFRfTkt0V3JWNlBtQmM5N0lIdjVaMlk1UzNVLV9iekVNLXlzdzZsUWRKWGkzbnl0dGpR?oc=5)
-*End of life · Nation.Cymru*
-
-An MP behind the assisted dying Bill says they are confident the Commons will vote for it, even with the Prime Minister reportedly abstaining. The story lands just as MPs are being pressed to decide whether the state should license doctors to help end patients’ lives.
-
-**Who this hits:** This affects elderly parents, disabled relatives, seriously ill patients and the families trying to protect them in hospital or care settings. If the law changes, the question of assisted suicide could move from campaign debate to real conversations in consulting rooms.
-
-**Angle:** We should say clearly that vulnerable people need better care, pain relief and presence — not a law that makes death a medical option. Viewers need to understand that this is not an abstract conscience vote: they can contact their MP now and ask them to oppose assisted suicide and back palliative care instead.
-
-**Opening line:** "Could your MP help make assisted suicide a normal NHS conversation?"
-
-**Title:** *Assisted dying vote: why Christians must contact MPs now*
-
-### 2. [Police Scotland faces court over letting men request a strip search from women](https://news.google.com/rss/articles/CBMinAFBVV95cUxOeUZTUHBoRGtpbGdnaUJNYzdtdEc4LWdRd1BIVWk0LWFzNnRILU9IQUtZREs5QVNsWTRiMEF2MkZNa3hPdkh2NVpKZGFqWFpLYTB3ZFZJbHdLT1NnUmx2WVFEX2c3dDFsZGE2NXp2cGU5ZDBNZEUxY2tSbXpsaGpnRmkteWowZUlZMXpfTWx3aC1wWkJrV2ZBRFVfMXXSAaIBQVVfeXFMUHhxb2hEWVZPVXN1YjduNm9SWDVBT1J0NmhJdTkwVDBzNFhEMXFrMTFYSDJoemVGakJ1Q0dUX0JaQXo2SHFyQlpQWUxjcVZPaWhZUnAxaHIxR0UzZnRPNW1OQkNaeFhMazFoOU9UUTVhOWZYczlNOWVkNjdpNl9SVzhobTBZX3pwTy1oTHJCNFRxemJEOUd0MVQtRlEyV3QtamZB?oc=5)
-*Gender · Scottish Daily Express*
-
-Police Scotland is reportedly facing a court challenge over guidance allowing male-born detainees who identify as women to request that female officers carry out strip searches. The case raises direct questions about single-sex protections after the Supreme Court’s ruling on the meaning of sex.
-
-**Who this hits:** This affects female police officers who may be asked to carry out intimate searches of male-bodied detainees. It also matters to women in custody who need confidence that intimate procedures are governed by biological sex, not self-identification.
-
-**Angle:** Our line should be that the Supreme Court has made the law clearer: public bodies must stop pretending sex is merely a matter of identity. Viewers will understand why policies hidden in HR or policing guidance can have immediate consequences for women’s dignity, safety and conscience at work.
-
-**Opening line:** "Should a female officer be ordered to strip-search a male-bodied detainee?"
-
-**Title:** *Police Scotland in court over sex, strip searches and women’s rights*
-
-### 3. [MPs claim UK school 'forcing female pupils to wear hijabs' in letter to council](https://news.google.com/rss/articles/CBMijgFBVV95cUxQODJBQ2NYeFVWUUFwb2paYlJ3OEVta1A5akQxREVZX2lpTDExM0E0blZESUV1Wl9rNlk5bS12YjV1MS1kMjlKYVJ2VkVSa1locmtrejdhUEhoUU9sbkgxOGtYUmJERXBkMFNRU0VxTGt5RzBvc1JHMndZcU4tOUpNcTZ0REpJdVdvSVJPbExB0gGTAUFVX3lxTFBuZGZQZlRxaWVET2d1ZnpEM1lzbGlPQkhXbXh5bG1DaVlGZnhUY2g2MG9uTmhCMS16ajdDVldBeWtENU9hUUpnR0I0SGd4X1lCT2ZobEU4MnZvZDFtYkxoZXZJOWgyU3F4THhZVTlxMEhLdW1JVk0tN3RtVi12aXlUQlVUMHJZdlh5TktTcFBqSENBbw?oc=5)
-*Education · Daily Record*
-
-MPs have written to a council claiming that a UK school is forcing female pupils to wear hijabs. The allegation is being reported across several outlets and needs urgent clarification from the school and local authority.
-
-**Who this hits:** This affects girls at the school and parents choosing or challenging school policies. A uniform rule can become a daily pressure on a child if religious dress is treated as compulsory rather than voluntary.
-
-**Angle:** We should defend religious freedom in both directions: no child should be mocked for wearing religious dress, and no girl should be compelled by a school to wear it. Viewers will gain practical questions to ask their own school: is any religious clothing compulsory, can parents opt out, and where is the written policy?
-
-**Opening line:** "Can a school make your daughter wear religious clothing?"
-
-**Title:** *MPs question school over claims girls are being forced to wear hijabs*
-
-### 4. [Trans Green Party activist elected to women’s role](https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0YzV1VHRWpuOC1od3Qtc09NOHdnTUIwSDh5eWtFeThzUTAtMzB6RjBlc3N3NVVPVGYtVkQ2NEVFa0xNbWJQeTVyMkFJZ2ZTek9lbnhGT0QtdDNBNURrNjYxdzNmNzJlQ3MwVjlkbml0YlptQ1Q1cDJnV052WlEwVVFGZHN1VkFZbVBxWnNUMThVRDBPUzNXemVUM1V5QUhKQ0FZ?oc=5)
-*Gender · The Telegraph*
-
-The Telegraph reports that a trans Green Party activist has been elected to a women’s role. The story comes in the wider context of political parties and public bodies reassessing sex-based roles after the Supreme Court judgment.
-
-**Who this hits:** This affects women who join political parties expecting women’s roles to represent female members. It also affects ordinary voters who want to know whether parties will apply the law on biological sex consistently.
-
-**Angle:** Our line should be that women’s roles lose their purpose if they can be held by males who identify as women. Viewers will understand why the Supreme Court ruling is not just about toilets or prisons, but about every institution that claims to protect female representation.
-
-**Opening line:** "What is a women’s role for if men can hold it?"
-
-**Title:** *Green Party women’s role row shows why biological sex matters*
-
-### 5. [OfS ‘regrets’ mistakes in Sussex free speech case](https://news.google.com/rss/articles/CBMivAFBVV95cUxONWNka3VPZlNUS2pjN01MR0szWXAwNmRPa3QxaUg3Yi03MG9qbnJVOENxLTdtVmFiZXNxTUJaZG9paWxSS0lBWG9tZEE4WkNQdzF4YndTLV9FVl9Sb2tNdE1xeS1UeEJjRjRKYTdNQ0pSTGxlUjdJZXBRdDU4QmhlMGdmRkVCYW1DZ2VWRGdzSkVPX1NMRFMzSHM1VUcwS2hBaFB6anRvd3JIV2NOcVlncTZGSWpPZDdZU1l6OQ?oc=5)
-*Freedom of speech · Research Professional News*
-
-The Office for Students has said it regrets mistakes in the University of Sussex free speech case, according to higher education outlets. The case concerns how universities and regulators handle contested speech, including speech on sex and gender.
-
-**Who this hits:** This affects Christian students, academics, visiting speakers and societies who fear complaints or disciplinary action for stating orthodox beliefs. It also matters to parents sending teenagers into universities where lawful views can be treated as unsafe.
-
-**Angle:** We should say that free speech protection must be fair, serious and enforceable — not another bureaucratic process that collapses when challenged. Viewers will learn that students and staff do have rights, but those rights need to be asserted early, in writing, and with support when institutions overreach.
-
-**Opening line:** "If universities get free speech wrong, who protects Christian students?"
-
-**Title:** *OfS admits mistakes in Sussex free speech case*
-
----
-*Nothing significant today: Beginning of life, Christian society, Secularism, Islam*
